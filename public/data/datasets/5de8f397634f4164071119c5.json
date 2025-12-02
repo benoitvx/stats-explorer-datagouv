@@ -1,0 +1,224 @@
+{
+  "id": "5de8f397634f4164071119c5",
+  "title": "Fichier des personnes décédées",
+  "slug": "fichier-des-personnes-decedees",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "organizationId": "534fff81a3a7292c64a77e5c",
+  "url": "https://www.data.gouv.fr/datasets/fichier-des-personnes-decedees/",
+  "totalVisits": 3077816,
+  "totalDownloads": 1158101,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 31824,
+      "downloads": 15209
+    },
+    {
+      "month": "2022-08",
+      "visits": 61341,
+      "downloads": 23539
+    },
+    {
+      "month": "2022-09",
+      "visits": 58874,
+      "downloads": 22355
+    },
+    {
+      "month": "2022-10",
+      "visits": 59971,
+      "downloads": 24146
+    },
+    {
+      "month": "2022-11",
+      "visits": 61667,
+      "downloads": 27008
+    },
+    {
+      "month": "2022-12",
+      "visits": 69482,
+      "downloads": 23745
+    },
+    {
+      "month": "2023-01",
+      "visits": 84467,
+      "downloads": 31946
+    },
+    {
+      "month": "2023-02",
+      "visits": 68402,
+      "downloads": 23617
+    },
+    {
+      "month": "2023-03",
+      "visits": 66508,
+      "downloads": 27818
+    },
+    {
+      "month": "2023-04",
+      "visits": 56870,
+      "downloads": 22579
+    },
+    {
+      "month": "2023-05",
+      "visits": 54428,
+      "downloads": 20298
+    },
+    {
+      "month": "2023-06",
+      "visits": 48429,
+      "downloads": 20794
+    },
+    {
+      "month": "2023-07",
+      "visits": 52032,
+      "downloads": 21809
+    },
+    {
+      "month": "2023-08",
+      "visits": 55583,
+      "downloads": 21689
+    },
+    {
+      "month": "2023-09",
+      "visits": 52847,
+      "downloads": 21307
+    },
+    {
+      "month": "2023-10",
+      "visits": 68015,
+      "downloads": 26159
+    },
+    {
+      "month": "2023-11",
+      "visits": 84637,
+      "downloads": 56206
+    },
+    {
+      "month": "2023-12",
+      "visits": 71066,
+      "downloads": 24590
+    },
+    {
+      "month": "2024-01",
+      "visits": 89408,
+      "downloads": 32957
+    },
+    {
+      "month": "2024-02",
+      "visits": 80286,
+      "downloads": 26249
+    },
+    {
+      "month": "2024-03",
+      "visits": 87907,
+      "downloads": 38887
+    },
+    {
+      "month": "2024-04",
+      "visits": 70136,
+      "downloads": 28109
+    },
+    {
+      "month": "2024-05",
+      "visits": 73274,
+      "downloads": 23104
+    },
+    {
+      "month": "2024-06",
+      "visits": 76632,
+      "downloads": 23093
+    },
+    {
+      "month": "2024-07",
+      "visits": 83441,
+      "downloads": 22901
+    },
+    {
+      "month": "2024-08",
+      "visits": 95332,
+      "downloads": 30521
+    },
+    {
+      "month": "2024-09",
+      "visits": 93475,
+      "downloads": 61885
+    },
+    {
+      "month": "2024-10",
+      "visits": 116054,
+      "downloads": 32786
+    },
+    {
+      "month": "2024-11",
+      "visits": 110184,
+      "downloads": 30494
+    },
+    {
+      "month": "2024-12",
+      "visits": 68682,
+      "downloads": 23375
+    },
+    {
+      "month": "2025-01",
+      "visits": 13039,
+      "downloads": 22136
+    },
+    {
+      "month": "2025-02",
+      "visits": 95034,
+      "downloads": 30222
+    },
+    {
+      "month": "2025-03",
+      "visits": 113861,
+      "downloads": 34631
+    },
+    {
+      "month": "2025-04",
+      "visits": 101469,
+      "downloads": 28533
+    },
+    {
+      "month": "2025-05",
+      "visits": 99206,
+      "downloads": 27404
+    },
+    {
+      "month": "2025-06",
+      "visits": 84780,
+      "downloads": 24866
+    },
+    {
+      "month": "2025-07",
+      "visits": 78283,
+      "downloads": 25463
+    },
+    {
+      "month": "2025-08",
+      "visits": 90347,
+      "downloads": 34582
+    },
+    {
+      "month": "2025-09",
+      "visits": 81020,
+      "downloads": 33637
+    },
+    {
+      "month": "2025-10",
+      "visits": 85663,
+      "downloads": 33962
+    },
+    {
+      "month": "2025-11",
+      "visits": 81159,
+      "downloads": 32599
+    },
+    {
+      "month": "2025-12",
+      "visits": 2701,
+      "downloads": 891
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

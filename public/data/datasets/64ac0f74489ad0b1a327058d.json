@@ -1,0 +1,159 @@
+{
+  "id": "64ac0f74489ad0b1a327058d",
+  "title": "Ecodef 228",
+  "slug": "ecodef-228",
+  "organization": "S2E - Statistique publique de la défense",
+  "organizationId": "6410717f3dea983146a8f552",
+  "url": "https://www.data.gouv.fr/datasets/ecodef-228/",
+  "totalVisits": 2128,
+  "totalDownloads": 112,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 440,
+      "downloads": 10
+    },
+    {
+      "month": "2023-08",
+      "visits": 40,
+      "downloads": 4
+    },
+    {
+      "month": "2023-09",
+      "visits": 62,
+      "downloads": 3
+    },
+    {
+      "month": "2023-10",
+      "visits": 37,
+      "downloads": 3
+    },
+    {
+      "month": "2023-11",
+      "visits": 32,
+      "downloads": 2
+    },
+    {
+      "month": "2023-12",
+      "visits": 62,
+      "downloads": 2
+    },
+    {
+      "month": "2024-01",
+      "visits": 57,
+      "downloads": 2
+    },
+    {
+      "month": "2024-02",
+      "visits": 65,
+      "downloads": 1
+    },
+    {
+      "month": "2024-03",
+      "visits": 50,
+      "downloads": 5
+    },
+    {
+      "month": "2024-04",
+      "visits": 50,
+      "downloads": 4
+    },
+    {
+      "month": "2024-05",
+      "visits": 56,
+      "downloads": 1
+    },
+    {
+      "month": "2024-06",
+      "visits": 66,
+      "downloads": 5
+    },
+    {
+      "month": "2024-07",
+      "visits": 74,
+      "downloads": 3
+    },
+    {
+      "month": "2024-08",
+      "visits": 51,
+      "downloads": 1
+    },
+    {
+      "month": "2024-09",
+      "visits": 36,
+      "downloads": 0
+    },
+    {
+      "month": "2024-10",
+      "visits": 31,
+      "downloads": 5
+    },
+    {
+      "month": "2024-11",
+      "visits": 67,
+      "downloads": 2
+    },
+    {
+      "month": "2024-12",
+      "visits": 68,
+      "downloads": 3
+    },
+    {
+      "month": "2025-01",
+      "visits": 58,
+      "downloads": 1
+    },
+    {
+      "month": "2025-02",
+      "visits": 81,
+      "downloads": 3
+    },
+    {
+      "month": "2025-03",
+      "visits": 83,
+      "downloads": 9
+    },
+    {
+      "month": "2025-04",
+      "visits": 159,
+      "downloads": 4
+    },
+    {
+      "month": "2025-05",
+      "visits": 72,
+      "downloads": 2
+    },
+    {
+      "month": "2025-06",
+      "visits": 109,
+      "downloads": 2
+    },
+    {
+      "month": "2025-07",
+      "visits": 58,
+      "downloads": 3
+    },
+    {
+      "month": "2025-08",
+      "visits": 53,
+      "downloads": 28
+    },
+    {
+      "month": "2025-09",
+      "visits": 35,
+      "downloads": 0
+    },
+    {
+      "month": "2025-10",
+      "visits": 41,
+      "downloads": 1
+    },
+    {
+      "month": "2025-11",
+      "visits": 35,
+      "downloads": 3
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-11"
+}

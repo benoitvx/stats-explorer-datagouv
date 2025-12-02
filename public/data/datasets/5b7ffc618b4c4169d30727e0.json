@@ -1,0 +1,224 @@
+{
+  "id": "5b7ffc618b4c4169d30727e0",
+  "title": "Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)",
+  "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "organizationId": "534fff81a3a7292c64a77e5c",
+  "url": "https://www.data.gouv.fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
+  "totalVisits": 1286133,
+  "totalDownloads": 1962483,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 26942,
+      "downloads": 2896
+    },
+    {
+      "month": "2022-08",
+      "visits": 48123,
+      "downloads": 4950
+    },
+    {
+      "month": "2022-09",
+      "visits": 55554,
+      "downloads": 11524
+    },
+    {
+      "month": "2022-10",
+      "visits": 45684,
+      "downloads": 8384
+    },
+    {
+      "month": "2022-11",
+      "visits": 46722,
+      "downloads": 7706
+    },
+    {
+      "month": "2022-12",
+      "visits": 50945,
+      "downloads": 6487
+    },
+    {
+      "month": "2023-01",
+      "visits": 44965,
+      "downloads": 7826
+    },
+    {
+      "month": "2023-02",
+      "visits": 39561,
+      "downloads": 6401
+    },
+    {
+      "month": "2023-03",
+      "visits": 45429,
+      "downloads": 8071
+    },
+    {
+      "month": "2023-04",
+      "visits": 32638,
+      "downloads": 7438
+    },
+    {
+      "month": "2023-05",
+      "visits": 28204,
+      "downloads": 7865
+    },
+    {
+      "month": "2023-06",
+      "visits": 56989,
+      "downloads": 8830
+    },
+    {
+      "month": "2023-07",
+      "visits": 35203,
+      "downloads": 7746
+    },
+    {
+      "month": "2023-08",
+      "visits": 29508,
+      "downloads": 7747
+    },
+    {
+      "month": "2023-09",
+      "visits": 34718,
+      "downloads": 7338
+    },
+    {
+      "month": "2023-10",
+      "visits": 26304,
+      "downloads": 8474
+    },
+    {
+      "month": "2023-11",
+      "visits": 21680,
+      "downloads": 8303
+    },
+    {
+      "month": "2023-12",
+      "visits": 19233,
+      "downloads": 8131
+    },
+    {
+      "month": "2024-01",
+      "visits": 26412,
+      "downloads": 764246
+    },
+    {
+      "month": "2024-02",
+      "visits": 23986,
+      "downloads": 14280
+    },
+    {
+      "month": "2024-03",
+      "visits": 25205,
+      "downloads": 14027
+    },
+    {
+      "month": "2024-04",
+      "visits": 25357,
+      "downloads": 10801
+    },
+    {
+      "month": "2024-05",
+      "visits": 22472,
+      "downloads": 9446
+    },
+    {
+      "month": "2024-06",
+      "visits": 28447,
+      "downloads": 11351
+    },
+    {
+      "month": "2024-07",
+      "visits": 24483,
+      "downloads": 10978
+    },
+    {
+      "month": "2024-08",
+      "visits": 18264,
+      "downloads": 8110
+    },
+    {
+      "month": "2024-09",
+      "visits": 25100,
+      "downloads": 79557
+    },
+    {
+      "month": "2024-10",
+      "visits": 29296,
+      "downloads": 10744
+    },
+    {
+      "month": "2024-11",
+      "visits": 26356,
+      "downloads": 8391
+    },
+    {
+      "month": "2024-12",
+      "visits": 14739,
+      "downloads": 5755
+    },
+    {
+      "month": "2025-01",
+      "visits": 4010,
+      "downloads": 3251
+    },
+    {
+      "month": "2025-02",
+      "visits": 23749,
+      "downloads": 10470
+    },
+    {
+      "month": "2025-03",
+      "visits": 29393,
+      "downloads": 9208
+    },
+    {
+      "month": "2025-04",
+      "visits": 34232,
+      "downloads": 11469
+    },
+    {
+      "month": "2025-05",
+      "visits": 30441,
+      "downloads": 9258
+    },
+    {
+      "month": "2025-06",
+      "visits": 30134,
+      "downloads": 8888
+    },
+    {
+      "month": "2025-07",
+      "visits": 26464,
+      "downloads": 61020
+    },
+    {
+      "month": "2025-08",
+      "visits": 23309,
+      "downloads": 139596
+    },
+    {
+      "month": "2025-09",
+      "visits": 31534,
+      "downloads": 74225
+    },
+    {
+      "month": "2025-10",
+      "visits": 38764,
+      "downloads": 281191
+    },
+    {
+      "month": "2025-11",
+      "visits": 34981,
+      "downloads": 269642
+    },
+    {
+      "month": "2025-12",
+      "visits": 603,
+      "downloads": 462
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

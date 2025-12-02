@@ -1,0 +1,214 @@
+{
+  "id": "53698f4ca3a729239d2036df",
+  "title": "Bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2024",
+  "slug": "bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024/",
+  "totalVisits": 199357,
+  "totalDownloads": 548037,
+  "monthlyStats": [
+    {
+      "month": "2022-08",
+      "visits": 205,
+      "downloads": 990
+    },
+    {
+      "month": "2022-10",
+      "visits": 2241,
+      "downloads": 3082
+    },
+    {
+      "month": "2022-11",
+      "visits": 7089,
+      "downloads": 32752
+    },
+    {
+      "month": "2022-12",
+      "visits": 5165,
+      "downloads": 10408
+    },
+    {
+      "month": "2023-01",
+      "visits": 8639,
+      "downloads": 66099
+    },
+    {
+      "month": "2023-02",
+      "visits": 5477,
+      "downloads": 38443
+    },
+    {
+      "month": "2023-03",
+      "visits": 5498,
+      "downloads": 46592
+    },
+    {
+      "month": "2023-04",
+      "visits": 4683,
+      "downloads": 9617
+    },
+    {
+      "month": "2023-05",
+      "visits": 5519,
+      "downloads": 22575
+    },
+    {
+      "month": "2023-06",
+      "visits": 4265,
+      "downloads": 15611
+    },
+    {
+      "month": "2023-07",
+      "visits": 3483,
+      "downloads": 2751
+    },
+    {
+      "month": "2023-08",
+      "visits": 2773,
+      "downloads": 2387
+    },
+    {
+      "month": "2023-09",
+      "visits": 4229,
+      "downloads": 5280
+    },
+    {
+      "month": "2023-10",
+      "visits": 6906,
+      "downloads": 14752
+    },
+    {
+      "month": "2023-11",
+      "visits": 6362,
+      "downloads": 9187
+    },
+    {
+      "month": "2023-12",
+      "visits": 5622,
+      "downloads": 14680
+    },
+    {
+      "month": "2024-01",
+      "visits": 5672,
+      "downloads": 6961
+    },
+    {
+      "month": "2024-02",
+      "visits": 5024,
+      "downloads": 7130
+    },
+    {
+      "month": "2024-03",
+      "visits": 7325,
+      "downloads": 20236
+    },
+    {
+      "month": "2024-04",
+      "visits": 5170,
+      "downloads": 9156
+    },
+    {
+      "month": "2024-05",
+      "visits": 4406,
+      "downloads": 18771
+    },
+    {
+      "month": "2024-06",
+      "visits": 3825,
+      "downloads": 6243
+    },
+    {
+      "month": "2024-07",
+      "visits": 3205,
+      "downloads": 4470
+    },
+    {
+      "month": "2024-08",
+      "visits": 2340,
+      "downloads": 2207
+    },
+    {
+      "month": "2024-09",
+      "visits": 4058,
+      "downloads": 3959
+    },
+    {
+      "month": "2024-10",
+      "visits": 6216,
+      "downloads": 10434
+    },
+    {
+      "month": "2024-11",
+      "visits": 6976,
+      "downloads": 13166
+    },
+    {
+      "month": "2024-12",
+      "visits": 4938,
+      "downloads": 14899
+    },
+    {
+      "month": "2025-01",
+      "visits": 1325,
+      "downloads": 8402
+    },
+    {
+      "month": "2025-02",
+      "visits": 5855,
+      "downloads": 13608
+    },
+    {
+      "month": "2025-03",
+      "visits": 7924,
+      "downloads": 15235
+    },
+    {
+      "month": "2025-04",
+      "visits": 8539,
+      "downloads": 16856
+    },
+    {
+      "month": "2025-05",
+      "visits": 7917,
+      "downloads": 11100
+    },
+    {
+      "month": "2025-06",
+      "visits": 5643,
+      "downloads": 19230
+    },
+    {
+      "month": "2025-07",
+      "visits": 2945,
+      "downloads": 11150
+    },
+    {
+      "month": "2025-08",
+      "visits": 2974,
+      "downloads": 4060
+    },
+    {
+      "month": "2025-09",
+      "visits": 3913,
+      "downloads": 11460
+    },
+    {
+      "month": "2025-10",
+      "visits": 8680,
+      "downloads": 14294
+    },
+    {
+      "month": "2025-11",
+      "visits": 6164,
+      "downloads": 9556
+    },
+    {
+      "month": "2025-12",
+      "visits": 167,
+      "downloads": 248
+    }
+  ],
+  "firstMonth": "2022-08",
+  "lastMonth": "2025-12"
+}

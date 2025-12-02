@@ -1,0 +1,59 @@
+name: Sync Stats data.gouv.fr
+
+on:
+  schedule:
+    # Tous les jours à 6h UTC (7h ou 8h Paris selon heure d'été)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Permet le déclenchement manuel
+    inputs:
+      test_mode:
+        description: 'Mode test (50 datasets max)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run sync script
+        run: |
+          if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
+            npm run sync-stats -- --test --verbose
+          else
+            npm run sync-stats -- --verbose
+          fi
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code public/data/ || echo "changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/
+          git commit -m "📊 Mise à jour des stats data.gouv.fr - $(date +'%Y-%m-%d')"
+          git push
+      
+      - name: No changes detected
+        if: steps.git-check.outputs.changes != 'true'
+        run: echo "Aucun changement détecté dans les données"

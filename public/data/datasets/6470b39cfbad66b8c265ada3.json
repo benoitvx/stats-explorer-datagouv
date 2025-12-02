@@ -1,0 +1,174 @@
+{
+  "id": "6470b39cfbad66b8c265ada3",
+  "title": "Donnée Sécheresse - Propluvia",
+  "slug": "donnee-secheresse-propluvia",
+  "organization": "Ministère de la Transition écologique",
+  "organizationId": "534fff8da3a7292c64a77eee",
+  "url": "https://www.data.gouv.fr/datasets/donnee-secheresse-propluvia/",
+  "totalVisits": 39643,
+  "totalDownloads": 82612,
+  "monthlyStats": [
+    {
+      "month": "2023-05",
+      "visits": 6,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 1762,
+      "downloads": 7976
+    },
+    {
+      "month": "2023-07",
+      "visits": 7885,
+      "downloads": 9039
+    },
+    {
+      "month": "2023-08",
+      "visits": 4616,
+      "downloads": 8897
+    },
+    {
+      "month": "2023-09",
+      "visits": 1570,
+      "downloads": 4158
+    },
+    {
+      "month": "2023-10",
+      "visits": 1120,
+      "downloads": 4665
+    },
+    {
+      "month": "2023-11",
+      "visits": 1014,
+      "downloads": 5145
+    },
+    {
+      "month": "2023-12",
+      "visits": 1194,
+      "downloads": 3853
+    },
+    {
+      "month": "2024-01",
+      "visits": 1719,
+      "downloads": 4420
+    },
+    {
+      "month": "2024-02",
+      "visits": 1401,
+      "downloads": 4205
+    },
+    {
+      "month": "2024-03",
+      "visits": 1806,
+      "downloads": 5475
+    },
+    {
+      "month": "2024-04",
+      "visits": 1534,
+      "downloads": 3567
+    },
+    {
+      "month": "2024-05",
+      "visits": 1424,
+      "downloads": 1694
+    },
+    {
+      "month": "2024-06",
+      "visits": 1164,
+      "downloads": 1721
+    },
+    {
+      "month": "2024-07",
+      "visits": 1248,
+      "downloads": 1695
+    },
+    {
+      "month": "2024-08",
+      "visits": 1173,
+      "downloads": 1497
+    },
+    {
+      "month": "2024-09",
+      "visits": 623,
+      "downloads": 1438
+    },
+    {
+      "month": "2024-10",
+      "visits": 546,
+      "downloads": 1680
+    },
+    {
+      "month": "2024-11",
+      "visits": 519,
+      "downloads": 1328
+    },
+    {
+      "month": "2024-12",
+      "visits": 378,
+      "downloads": 937
+    },
+    {
+      "month": "2025-01",
+      "visits": 258,
+      "downloads": 986
+    },
+    {
+      "month": "2025-02",
+      "visits": 592,
+      "downloads": 1084
+    },
+    {
+      "month": "2025-03",
+      "visits": 629,
+      "downloads": 1106
+    },
+    {
+      "month": "2025-04",
+      "visits": 772,
+      "downloads": 1143
+    },
+    {
+      "month": "2025-05",
+      "visits": 703,
+      "downloads": 1052
+    },
+    {
+      "month": "2025-06",
+      "visits": 728,
+      "downloads": 774
+    },
+    {
+      "month": "2025-07",
+      "visits": 738,
+      "downloads": 1032
+    },
+    {
+      "month": "2025-08",
+      "visits": 680,
+      "downloads": 653
+    },
+    {
+      "month": "2025-09",
+      "visits": 644,
+      "downloads": 450
+    },
+    {
+      "month": "2025-10",
+      "visits": 578,
+      "downloads": 434
+    },
+    {
+      "month": "2025-11",
+      "visits": 606,
+      "downloads": 496
+    },
+    {
+      "month": "2025-12",
+      "visits": 13,
+      "downloads": 12
+    }
+  ],
+  "firstMonth": "2023-05",
+  "lastMonth": "2025-12"
+}

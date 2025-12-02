@@ -1,0 +1,224 @@
+{
+  "id": "598892dcc751df3eae8bd6ec",
+  "title": "Trafic moyen journalier annuel sur le réseau routier national",
+  "slug": "trafic-moyen-journalier-annuel-sur-le-reseau-routier-national",
+  "organization": "Ministère de la Transition écologique",
+  "organizationId": "534fff8da3a7292c64a77eee",
+  "url": "https://www.data.gouv.fr/datasets/trafic-moyen-journalier-annuel-sur-le-reseau-routier-national/",
+  "totalVisits": 173921,
+  "totalDownloads": 49589,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2161,
+      "downloads": 971
+    },
+    {
+      "month": "2022-08",
+      "visits": 3862,
+      "downloads": 930
+    },
+    {
+      "month": "2022-09",
+      "visits": 3750,
+      "downloads": 1347
+    },
+    {
+      "month": "2022-10",
+      "visits": 4438,
+      "downloads": 1523
+    },
+    {
+      "month": "2022-11",
+      "visits": 4642,
+      "downloads": 1826
+    },
+    {
+      "month": "2022-12",
+      "visits": 3516,
+      "downloads": 2104
+    },
+    {
+      "month": "2023-01",
+      "visits": 4712,
+      "downloads": 1739
+    },
+    {
+      "month": "2023-02",
+      "visits": 4375,
+      "downloads": 1501
+    },
+    {
+      "month": "2023-03",
+      "visits": 4938,
+      "downloads": 1600
+    },
+    {
+      "month": "2023-04",
+      "visits": 4153,
+      "downloads": 1333
+    },
+    {
+      "month": "2023-05",
+      "visits": 4257,
+      "downloads": 1211
+    },
+    {
+      "month": "2023-06",
+      "visits": 4398,
+      "downloads": 1199
+    },
+    {
+      "month": "2023-07",
+      "visits": 3894,
+      "downloads": 1223
+    },
+    {
+      "month": "2023-08",
+      "visits": 3305,
+      "downloads": 1030
+    },
+    {
+      "month": "2023-09",
+      "visits": 3994,
+      "downloads": 1329
+    },
+    {
+      "month": "2023-10",
+      "visits": 4796,
+      "downloads": 1445
+    },
+    {
+      "month": "2023-11",
+      "visits": 4700,
+      "downloads": 1415
+    },
+    {
+      "month": "2023-12",
+      "visits": 3742,
+      "downloads": 1103
+    },
+    {
+      "month": "2024-01",
+      "visits": 5188,
+      "downloads": 1341
+    },
+    {
+      "month": "2024-02",
+      "visits": 5458,
+      "downloads": 1751
+    },
+    {
+      "month": "2024-03",
+      "visits": 4567,
+      "downloads": 1683
+    },
+    {
+      "month": "2024-04",
+      "visits": 3970,
+      "downloads": 1157
+    },
+    {
+      "month": "2024-05",
+      "visits": 4024,
+      "downloads": 1068
+    },
+    {
+      "month": "2024-06",
+      "visits": 3833,
+      "downloads": 1077
+    },
+    {
+      "month": "2024-07",
+      "visits": 4367,
+      "downloads": 1064
+    },
+    {
+      "month": "2024-08",
+      "visits": 3366,
+      "downloads": 828
+    },
+    {
+      "month": "2024-09",
+      "visits": 4141,
+      "downloads": 990
+    },
+    {
+      "month": "2024-10",
+      "visits": 5087,
+      "downloads": 1064
+    },
+    {
+      "month": "2024-11",
+      "visits": 4901,
+      "downloads": 1094
+    },
+    {
+      "month": "2024-12",
+      "visits": 3085,
+      "downloads": 799
+    },
+    {
+      "month": "2025-01",
+      "visits": 497,
+      "downloads": 227
+    },
+    {
+      "month": "2025-02",
+      "visits": 4776,
+      "downloads": 963
+    },
+    {
+      "month": "2025-03",
+      "visits": 5567,
+      "downloads": 998
+    },
+    {
+      "month": "2025-04",
+      "visits": 5142,
+      "downloads": 1254
+    },
+    {
+      "month": "2025-05",
+      "visits": 5243,
+      "downloads": 691
+    },
+    {
+      "month": "2025-06",
+      "visits": 5068,
+      "downloads": 718
+    },
+    {
+      "month": "2025-07",
+      "visits": 3995,
+      "downloads": 888
+    },
+    {
+      "month": "2025-08",
+      "visits": 3784,
+      "downloads": 788
+    },
+    {
+      "month": "2025-09",
+      "visits": 4681,
+      "downloads": 1959
+    },
+    {
+      "month": "2025-10",
+      "visits": 4999,
+      "downloads": 1196
+    },
+    {
+      "month": "2025-11",
+      "visits": 4442,
+      "downloads": 1144
+    },
+    {
+      "month": "2025-12",
+      "visits": 107,
+      "downloads": 18
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

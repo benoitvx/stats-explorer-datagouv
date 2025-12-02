@@ -1,0 +1,164 @@
+{
+  "id": "64ad71f729f42ae8d1e8ec11",
+  "title": "test jeu de données",
+  "slug": "test-jeu-de-donnees-2",
+  "organization": "INITIATIVE ESSONNE",
+  "organizationId": "64ad71045ce5e480c277da24",
+  "url": "https://www.data.gouv.fr/datasets/test-jeu-de-donnees-2/",
+  "totalVisits": 1906,
+  "totalDownloads": 28,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 435,
+      "downloads": 5
+    },
+    {
+      "month": "2023-08",
+      "visits": 46,
+      "downloads": 0
+    },
+    {
+      "month": "2023-09",
+      "visits": 77,
+      "downloads": 0
+    },
+    {
+      "month": "2023-10",
+      "visits": 30,
+      "downloads": 0
+    },
+    {
+      "month": "2023-11",
+      "visits": 39,
+      "downloads": 0
+    },
+    {
+      "month": "2023-12",
+      "visits": 77,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 60,
+      "downloads": 0
+    },
+    {
+      "month": "2024-02",
+      "visits": 46,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 33,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 44,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 40,
+      "downloads": 0
+    },
+    {
+      "month": "2024-06",
+      "visits": 43,
+      "downloads": 0
+    },
+    {
+      "month": "2024-07",
+      "visits": 58,
+      "downloads": 0
+    },
+    {
+      "month": "2024-08",
+      "visits": 36,
+      "downloads": 0
+    },
+    {
+      "month": "2024-09",
+      "visits": 18,
+      "downloads": 0
+    },
+    {
+      "month": "2024-10",
+      "visits": 17,
+      "downloads": 2
+    },
+    {
+      "month": "2024-11",
+      "visits": 47,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 34,
+      "downloads": 1
+    },
+    {
+      "month": "2025-01",
+      "visits": 71,
+      "downloads": 4
+    },
+    {
+      "month": "2025-02",
+      "visits": 59,
+      "downloads": 3
+    },
+    {
+      "month": "2025-03",
+      "visits": 82,
+      "downloads": 4
+    },
+    {
+      "month": "2025-04",
+      "visits": 111,
+      "downloads": 4
+    },
+    {
+      "month": "2025-05",
+      "visits": 53,
+      "downloads": 1
+    },
+    {
+      "month": "2025-06",
+      "visits": 101,
+      "downloads": 1
+    },
+    {
+      "month": "2025-07",
+      "visits": 77,
+      "downloads": 1
+    },
+    {
+      "month": "2025-08",
+      "visits": 76,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 27,
+      "downloads": 0
+    },
+    {
+      "month": "2025-10",
+      "visits": 38,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 29,
+      "downloads": 2
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

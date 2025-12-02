@@ -1,0 +1,224 @@
+{
+  "id": "5a5f4f6c88ee387da4d252a3",
+  "title": "Base des permis de construire et autres autorisations d'urbanisme (Sitadel)",
+  "slug": "base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel",
+  "organization": "Service des données et études statistiques (SDES)",
+  "organizationId": "681a1272bfa84b075f9531e1",
+  "url": "https://www.data.gouv.fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
+  "totalVisits": 459334,
+  "totalDownloads": 167315,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 4634,
+      "downloads": 1986
+    },
+    {
+      "month": "2022-08",
+      "visits": 7945,
+      "downloads": 3363
+    },
+    {
+      "month": "2022-09",
+      "visits": 9766,
+      "downloads": 4632
+    },
+    {
+      "month": "2022-10",
+      "visits": 10283,
+      "downloads": 4096
+    },
+    {
+      "month": "2022-11",
+      "visits": 11284,
+      "downloads": 5255
+    },
+    {
+      "month": "2022-12",
+      "visits": 7904,
+      "downloads": 4580
+    },
+    {
+      "month": "2023-01",
+      "visits": 11268,
+      "downloads": 4278
+    },
+    {
+      "month": "2023-02",
+      "visits": 10445,
+      "downloads": 3833
+    },
+    {
+      "month": "2023-03",
+      "visits": 11518,
+      "downloads": 5370
+    },
+    {
+      "month": "2023-04",
+      "visits": 9400,
+      "downloads": 4193
+    },
+    {
+      "month": "2023-05",
+      "visits": 13256,
+      "downloads": 4846
+    },
+    {
+      "month": "2023-06",
+      "visits": 12400,
+      "downloads": 4713
+    },
+    {
+      "month": "2023-07",
+      "visits": 10228,
+      "downloads": 4336
+    },
+    {
+      "month": "2023-08",
+      "visits": 8174,
+      "downloads": 3811
+    },
+    {
+      "month": "2023-09",
+      "visits": 10466,
+      "downloads": 4853
+    },
+    {
+      "month": "2023-10",
+      "visits": 11398,
+      "downloads": 5094
+    },
+    {
+      "month": "2023-11",
+      "visits": 10369,
+      "downloads": 5352
+    },
+    {
+      "month": "2023-12",
+      "visits": 9308,
+      "downloads": 3492
+    },
+    {
+      "month": "2024-01",
+      "visits": 13952,
+      "downloads": 4375
+    },
+    {
+      "month": "2024-02",
+      "visits": 12374,
+      "downloads": 4689
+    },
+    {
+      "month": "2024-03",
+      "visits": 13335,
+      "downloads": 5879
+    },
+    {
+      "month": "2024-04",
+      "visits": 12644,
+      "downloads": 4566
+    },
+    {
+      "month": "2024-05",
+      "visits": 12274,
+      "downloads": 4165
+    },
+    {
+      "month": "2024-06",
+      "visits": 11759,
+      "downloads": 4203
+    },
+    {
+      "month": "2024-07",
+      "visits": 13892,
+      "downloads": 4636
+    },
+    {
+      "month": "2024-08",
+      "visits": 10094,
+      "downloads": 3336
+    },
+    {
+      "month": "2024-09",
+      "visits": 14174,
+      "downloads": 4739
+    },
+    {
+      "month": "2024-10",
+      "visits": 15579,
+      "downloads": 4609
+    },
+    {
+      "month": "2024-11",
+      "visits": 13694,
+      "downloads": 3980
+    },
+    {
+      "month": "2024-12",
+      "visits": 8068,
+      "downloads": 2416
+    },
+    {
+      "month": "2025-01",
+      "visits": 1235,
+      "downloads": 360
+    },
+    {
+      "month": "2025-02",
+      "visits": 12912,
+      "downloads": 3820
+    },
+    {
+      "month": "2025-03",
+      "visits": 16744,
+      "downloads": 4814
+    },
+    {
+      "month": "2025-04",
+      "visits": 16954,
+      "downloads": 4696
+    },
+    {
+      "month": "2025-05",
+      "visits": 17183,
+      "downloads": 4814
+    },
+    {
+      "month": "2025-06",
+      "visits": 15161,
+      "downloads": 4563
+    },
+    {
+      "month": "2025-07",
+      "visits": 12597,
+      "downloads": 4783
+    },
+    {
+      "month": "2025-08",
+      "visits": 9754,
+      "downloads": 4096
+    },
+    {
+      "month": "2025-09",
+      "visits": 13351,
+      "downloads": 3147
+    },
+    {
+      "month": "2025-10",
+      "visits": 8930,
+      "downloads": 1867
+    },
+    {
+      "month": "2025-11",
+      "visits": 2593,
+      "downloads": 674
+    },
+    {
+      "month": "2025-12",
+      "visits": 35,
+      "downloads": 5
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

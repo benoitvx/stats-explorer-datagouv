@@ -1,0 +1,164 @@
+{
+  "id": "64ad2445fedc8385c9a62bdb",
+  "title": "Reconstruction automatique de la géométrie des bureaux de vote depuis INSEE REU et OpenStreetMap",
+  "slug": "reconstruction-automatique-de-la-geometrie-des-bureaux-de-vote-depuis-insee-reu-et-openstreetmap",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/reconstruction-automatique-de-la-geometrie-des-bureaux-de-vote-depuis-insee-reu-et-openstreetmap/",
+  "totalVisits": 5786,
+  "totalDownloads": 764,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 1041,
+      "downloads": 106
+    },
+    {
+      "month": "2023-08",
+      "visits": 278,
+      "downloads": 24
+    },
+    {
+      "month": "2023-09",
+      "visits": 170,
+      "downloads": 12
+    },
+    {
+      "month": "2023-10",
+      "visits": 107,
+      "downloads": 7
+    },
+    {
+      "month": "2023-11",
+      "visits": 214,
+      "downloads": 63
+    },
+    {
+      "month": "2023-12",
+      "visits": 140,
+      "downloads": 17
+    },
+    {
+      "month": "2024-01",
+      "visits": 152,
+      "downloads": 11
+    },
+    {
+      "month": "2024-02",
+      "visits": 194,
+      "downloads": 23
+    },
+    {
+      "month": "2024-03",
+      "visits": 196,
+      "downloads": 22
+    },
+    {
+      "month": "2024-04",
+      "visits": 168,
+      "downloads": 19
+    },
+    {
+      "month": "2024-05",
+      "visits": 155,
+      "downloads": 19
+    },
+    {
+      "month": "2024-06",
+      "visits": 435,
+      "downloads": 107
+    },
+    {
+      "month": "2024-07",
+      "visits": 273,
+      "downloads": 46
+    },
+    {
+      "month": "2024-08",
+      "visits": 142,
+      "downloads": 11
+    },
+    {
+      "month": "2024-09",
+      "visits": 116,
+      "downloads": 11
+    },
+    {
+      "month": "2024-10",
+      "visits": 139,
+      "downloads": 17
+    },
+    {
+      "month": "2024-11",
+      "visits": 150,
+      "downloads": 30
+    },
+    {
+      "month": "2024-12",
+      "visits": 100,
+      "downloads": 13
+    },
+    {
+      "month": "2025-01",
+      "visits": 80,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 134,
+      "downloads": 28
+    },
+    {
+      "month": "2025-03",
+      "visits": 173,
+      "downloads": 17
+    },
+    {
+      "month": "2025-04",
+      "visits": 167,
+      "downloads": 22
+    },
+    {
+      "month": "2025-05",
+      "visits": 244,
+      "downloads": 22
+    },
+    {
+      "month": "2025-06",
+      "visits": 158,
+      "downloads": 12
+    },
+    {
+      "month": "2025-07",
+      "visits": 176,
+      "downloads": 20
+    },
+    {
+      "month": "2025-08",
+      "visits": 124,
+      "downloads": 20
+    },
+    {
+      "month": "2025-09",
+      "visits": 102,
+      "downloads": 15
+    },
+    {
+      "month": "2025-10",
+      "visits": 142,
+      "downloads": 13
+    },
+    {
+      "month": "2025-11",
+      "visits": 109,
+      "downloads": 35
+    },
+    {
+      "month": "2025-12",
+      "visits": 7,
+      "downloads": 2
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

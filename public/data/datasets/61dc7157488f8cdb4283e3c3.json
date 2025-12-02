@@ -1,0 +1,214 @@
+{
+  "id": "61dc7157488f8cdb4283e3c3",
+  "title": "Base de données nationale des bâtiments  ",
+  "slug": "base-de-donnees-nationale-des-batiments",
+  "organization": "Centre Scientifique et Technique du Batiment",
+  "organizationId": "61dc6a1398b3376b6fa0d0d9",
+  "url": "https://www.data.gouv.fr/datasets/base-de-donnees-nationale-des-batiments/",
+  "totalVisits": 255905,
+  "totalDownloads": 44528,
+  "monthlyStats": [
+    {
+      "month": "2022-08",
+      "visits": 1,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 4146,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 5283,
+      "downloads": 220
+    },
+    {
+      "month": "2022-12",
+      "visits": 5020,
+      "downloads": 341
+    },
+    {
+      "month": "2023-01",
+      "visits": 7206,
+      "downloads": 426
+    },
+    {
+      "month": "2023-02",
+      "visits": 17648,
+      "downloads": 583
+    },
+    {
+      "month": "2023-03",
+      "visits": 10073,
+      "downloads": 953
+    },
+    {
+      "month": "2023-04",
+      "visits": 5810,
+      "downloads": 1431
+    },
+    {
+      "month": "2023-05",
+      "visits": 4705,
+      "downloads": 1138
+    },
+    {
+      "month": "2023-06",
+      "visits": 5407,
+      "downloads": 1201
+    },
+    {
+      "month": "2023-07",
+      "visits": 5161,
+      "downloads": 1312
+    },
+    {
+      "month": "2023-08",
+      "visits": 3444,
+      "downloads": 792
+    },
+    {
+      "month": "2023-09",
+      "visits": 5239,
+      "downloads": 1008
+    },
+    {
+      "month": "2023-10",
+      "visits": 6249,
+      "downloads": 1468
+    },
+    {
+      "month": "2023-11",
+      "visits": 6853,
+      "downloads": 1483
+    },
+    {
+      "month": "2023-12",
+      "visits": 5366,
+      "downloads": 994
+    },
+    {
+      "month": "2024-01",
+      "visits": 7299,
+      "downloads": 1377
+    },
+    {
+      "month": "2024-02",
+      "visits": 7376,
+      "downloads": 1289
+    },
+    {
+      "month": "2024-03",
+      "visits": 7661,
+      "downloads": 1523
+    },
+    {
+      "month": "2024-04",
+      "visits": 6831,
+      "downloads": 1269
+    },
+    {
+      "month": "2024-05",
+      "visits": 6212,
+      "downloads": 1098
+    },
+    {
+      "month": "2024-06",
+      "visits": 6970,
+      "downloads": 1366
+    },
+    {
+      "month": "2024-07",
+      "visits": 6702,
+      "downloads": 1261
+    },
+    {
+      "month": "2024-08",
+      "visits": 4962,
+      "downloads": 1198
+    },
+    {
+      "month": "2024-09",
+      "visits": 6850,
+      "downloads": 1635
+    },
+    {
+      "month": "2024-10",
+      "visits": 8282,
+      "downloads": 1362
+    },
+    {
+      "month": "2024-11",
+      "visits": 7559,
+      "downloads": 1269
+    },
+    {
+      "month": "2024-12",
+      "visits": 5089,
+      "downloads": 687
+    },
+    {
+      "month": "2025-01",
+      "visits": 1093,
+      "downloads": 178
+    },
+    {
+      "month": "2025-02",
+      "visits": 7538,
+      "downloads": 1148
+    },
+    {
+      "month": "2025-03",
+      "visits": 9488,
+      "downloads": 1615
+    },
+    {
+      "month": "2025-04",
+      "visits": 8430,
+      "downloads": 1662
+    },
+    {
+      "month": "2025-05",
+      "visits": 8070,
+      "downloads": 1233
+    },
+    {
+      "month": "2025-06",
+      "visits": 7367,
+      "downloads": 1981
+    },
+    {
+      "month": "2025-07",
+      "visits": 6006,
+      "downloads": 1551
+    },
+    {
+      "month": "2025-08",
+      "visits": 5376,
+      "downloads": 1233
+    },
+    {
+      "month": "2025-09",
+      "visits": 7167,
+      "downloads": 1792
+    },
+    {
+      "month": "2025-10",
+      "visits": 8452,
+      "downloads": 1869
+    },
+    {
+      "month": "2025-11",
+      "visits": 7397,
+      "downloads": 1566
+    },
+    {
+      "month": "2025-12",
+      "visits": 117,
+      "downloads": 16
+    }
+  ],
+  "firstMonth": "2022-08",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "547d8d7ac751df405d090fcb",
+  "title": "Le marché du haut et très haut débit fixe (déploiements)",
+  "slug": "le-marche-du-haut-et-tres-haut-debit-fixe-deploiements",
+  "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+  "organizationId": "534fff58a3a7292c64a77cf6",
+  "url": "https://www.data.gouv.fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements/",
+  "totalVisits": 215518,
+  "totalDownloads": 72488,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1929,
+      "downloads": 1642
+    },
+    {
+      "month": "2022-08",
+      "visits": 3674,
+      "downloads": 1406
+    },
+    {
+      "month": "2022-09",
+      "visits": 3925,
+      "downloads": 1310
+    },
+    {
+      "month": "2022-10",
+      "visits": 3783,
+      "downloads": 947
+    },
+    {
+      "month": "2022-11",
+      "visits": 3669,
+      "downloads": 1051
+    },
+    {
+      "month": "2022-12",
+      "visits": 3882,
+      "downloads": 4353
+    },
+    {
+      "month": "2023-01",
+      "visits": 3692,
+      "downloads": 1807
+    },
+    {
+      "month": "2023-02",
+      "visits": 3195,
+      "downloads": 1066
+    },
+    {
+      "month": "2023-03",
+      "visits": 4700,
+      "downloads": 1774
+    },
+    {
+      "month": "2023-04",
+      "visits": 3271,
+      "downloads": 1177
+    },
+    {
+      "month": "2023-05",
+      "visits": 4415,
+      "downloads": 1225
+    },
+    {
+      "month": "2023-06",
+      "visits": 4115,
+      "downloads": 1482
+    },
+    {
+      "month": "2023-07",
+      "visits": 3474,
+      "downloads": 949
+    },
+    {
+      "month": "2023-08",
+      "visits": 3181,
+      "downloads": 1038
+    },
+    {
+      "month": "2023-09",
+      "visits": 5383,
+      "downloads": 1331
+    },
+    {
+      "month": "2023-10",
+      "visits": 5193,
+      "downloads": 1860
+    },
+    {
+      "month": "2023-11",
+      "visits": 4225,
+      "downloads": 1265
+    },
+    {
+      "month": "2023-12",
+      "visits": 5792,
+      "downloads": 1799
+    },
+    {
+      "month": "2024-01",
+      "visits": 4500,
+      "downloads": 1295
+    },
+    {
+      "month": "2024-02",
+      "visits": 4118,
+      "downloads": 1492
+    },
+    {
+      "month": "2024-03",
+      "visits": 5050,
+      "downloads": 1901
+    },
+    {
+      "month": "2024-04",
+      "visits": 3134,
+      "downloads": 1274
+    },
+    {
+      "month": "2024-05",
+      "visits": 4645,
+      "downloads": 1015
+    },
+    {
+      "month": "2024-06",
+      "visits": 27771,
+      "downloads": 1247
+    },
+    {
+      "month": "2024-07",
+      "visits": 5189,
+      "downloads": 1389
+    },
+    {
+      "month": "2024-08",
+      "visits": 4678,
+      "downloads": 1746
+    },
+    {
+      "month": "2024-09",
+      "visits": 5625,
+      "downloads": 1917
+    },
+    {
+      "month": "2024-10",
+      "visits": 5763,
+      "downloads": 1460
+    },
+    {
+      "month": "2024-11",
+      "visits": 5716,
+      "downloads": 1494
+    },
+    {
+      "month": "2024-12",
+      "visits": 3674,
+      "downloads": 1178
+    },
+    {
+      "month": "2025-01",
+      "visits": 703,
+      "downloads": 718
+    },
+    {
+      "month": "2025-02",
+      "visits": 4368,
+      "downloads": 2198
+    },
+    {
+      "month": "2025-03",
+      "visits": 6827,
+      "downloads": 2783
+    },
+    {
+      "month": "2025-04",
+      "visits": 7648,
+      "downloads": 3447
+    },
+    {
+      "month": "2025-05",
+      "visits": 6658,
+      "downloads": 1991
+    },
+    {
+      "month": "2025-06",
+      "visits": 6932,
+      "downloads": 2464
+    },
+    {
+      "month": "2025-07",
+      "visits": 4980,
+      "downloads": 2013
+    },
+    {
+      "month": "2025-08",
+      "visits": 5820,
+      "downloads": 4488
+    },
+    {
+      "month": "2025-09",
+      "visits": 6273,
+      "downloads": 3304
+    },
+    {
+      "month": "2025-10",
+      "visits": 6563,
+      "downloads": 2179
+    },
+    {
+      "month": "2025-11",
+      "visits": 7188,
+      "downloads": 1989
+    },
+    {
+      "month": "2025-12",
+      "visits": 197,
+      "downloads": 24
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

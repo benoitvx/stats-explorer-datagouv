@@ -1,0 +1,224 @@
+{
+  "id": "53699580a3a729239d204738",
+  "title": "[Obsolète] Fichier FANTOIR des voies et lieux-dits",
+  "slug": "fichier-fantoir-des-voies-et-lieux-dits",
+  "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+  "organizationId": "534fff8ea3a7292c64a77f02",
+  "url": "https://www.data.gouv.fr/datasets/fichier-fantoir-des-voies-et-lieux-dits/",
+  "totalVisits": 113565,
+  "totalDownloads": 30946,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2174,
+      "downloads": 343
+    },
+    {
+      "month": "2022-08",
+      "visits": 3502,
+      "downloads": 815
+    },
+    {
+      "month": "2022-09",
+      "visits": 3524,
+      "downloads": 1055
+    },
+    {
+      "month": "2022-10",
+      "visits": 3666,
+      "downloads": 917
+    },
+    {
+      "month": "2022-11",
+      "visits": 3924,
+      "downloads": 936
+    },
+    {
+      "month": "2022-12",
+      "visits": 3295,
+      "downloads": 907
+    },
+    {
+      "month": "2023-01",
+      "visits": 4236,
+      "downloads": 968
+    },
+    {
+      "month": "2023-02",
+      "visits": 3433,
+      "downloads": 834
+    },
+    {
+      "month": "2023-03",
+      "visits": 4606,
+      "downloads": 1182
+    },
+    {
+      "month": "2023-04",
+      "visits": 4236,
+      "downloads": 1084
+    },
+    {
+      "month": "2023-05",
+      "visits": 3336,
+      "downloads": 961
+    },
+    {
+      "month": "2023-06",
+      "visits": 5002,
+      "downloads": 1376
+    },
+    {
+      "month": "2023-07",
+      "visits": 4095,
+      "downloads": 1095
+    },
+    {
+      "month": "2023-08",
+      "visits": 3566,
+      "downloads": 1003
+    },
+    {
+      "month": "2023-09",
+      "visits": 4553,
+      "downloads": 1228
+    },
+    {
+      "month": "2023-10",
+      "visits": 4714,
+      "downloads": 1239
+    },
+    {
+      "month": "2023-11",
+      "visits": 4058,
+      "downloads": 1241
+    },
+    {
+      "month": "2023-12",
+      "visits": 3786,
+      "downloads": 1018
+    },
+    {
+      "month": "2024-01",
+      "visits": 3869,
+      "downloads": 1230
+    },
+    {
+      "month": "2024-02",
+      "visits": 4210,
+      "downloads": 1380
+    },
+    {
+      "month": "2024-03",
+      "visits": 3860,
+      "downloads": 1477
+    },
+    {
+      "month": "2024-04",
+      "visits": 3376,
+      "downloads": 1130
+    },
+    {
+      "month": "2024-05",
+      "visits": 3165,
+      "downloads": 939
+    },
+    {
+      "month": "2024-06",
+      "visits": 2787,
+      "downloads": 673
+    },
+    {
+      "month": "2024-07",
+      "visits": 2780,
+      "downloads": 548
+    },
+    {
+      "month": "2024-08",
+      "visits": 2281,
+      "downloads": 349
+    },
+    {
+      "month": "2024-09",
+      "visits": 2238,
+      "downloads": 394
+    },
+    {
+      "month": "2024-10",
+      "visits": 1698,
+      "downloads": 388
+    },
+    {
+      "month": "2024-11",
+      "visits": 1458,
+      "downloads": 454
+    },
+    {
+      "month": "2024-12",
+      "visits": 1046,
+      "downloads": 349
+    },
+    {
+      "month": "2025-01",
+      "visits": 411,
+      "downloads": 149
+    },
+    {
+      "month": "2025-02",
+      "visits": 1103,
+      "downloads": 411
+    },
+    {
+      "month": "2025-03",
+      "visits": 1226,
+      "downloads": 474
+    },
+    {
+      "month": "2025-04",
+      "visits": 1036,
+      "downloads": 391
+    },
+    {
+      "month": "2025-05",
+      "visits": 1341,
+      "downloads": 461
+    },
+    {
+      "month": "2025-06",
+      "visits": 1424,
+      "downloads": 315
+    },
+    {
+      "month": "2025-07",
+      "visits": 983,
+      "downloads": 417
+    },
+    {
+      "month": "2025-08",
+      "visits": 746,
+      "downloads": 184
+    },
+    {
+      "month": "2025-09",
+      "visits": 1015,
+      "downloads": 222
+    },
+    {
+      "month": "2025-10",
+      "visits": 935,
+      "downloads": 187
+    },
+    {
+      "month": "2025-11",
+      "visits": 854,
+      "downloads": 217
+    },
+    {
+      "month": "2025-12",
+      "visits": 17,
+      "downloads": 5
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

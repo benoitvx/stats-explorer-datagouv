@@ -1,0 +1,224 @@
+{
+  "id": "5943d13588ee38742a95eb0c",
+  "title": "Zones de Revitalisation Rurale (ZRR)",
+  "slug": "zones-de-revitalisation-rurale-zrr",
+  "organization": "Agence nationale de la cohésion des territoires",
+  "organizationId": "5901f4dfc751df412e7bb92d",
+  "url": "https://www.data.gouv.fr/datasets/zones-de-revitalisation-rurale-zrr/",
+  "totalVisits": 230063,
+  "totalDownloads": 35218,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2469,
+      "downloads": 654
+    },
+    {
+      "month": "2022-08",
+      "visits": 3799,
+      "downloads": 1140
+    },
+    {
+      "month": "2022-09",
+      "visits": 5888,
+      "downloads": 2187
+    },
+    {
+      "month": "2022-10",
+      "visits": 5796,
+      "downloads": 1649
+    },
+    {
+      "month": "2022-11",
+      "visits": 6411,
+      "downloads": 1687
+    },
+    {
+      "month": "2022-12",
+      "visits": 5964,
+      "downloads": 1499
+    },
+    {
+      "month": "2023-01",
+      "visits": 5528,
+      "downloads": 1234
+    },
+    {
+      "month": "2023-02",
+      "visits": 5295,
+      "downloads": 766
+    },
+    {
+      "month": "2023-03",
+      "visits": 9260,
+      "downloads": 2159
+    },
+    {
+      "month": "2023-04",
+      "visits": 10101,
+      "downloads": 2431
+    },
+    {
+      "month": "2023-05",
+      "visits": 6461,
+      "downloads": 1496
+    },
+    {
+      "month": "2023-06",
+      "visits": 5141,
+      "downloads": 1208
+    },
+    {
+      "month": "2023-07",
+      "visits": 3985,
+      "downloads": 927
+    },
+    {
+      "month": "2023-08",
+      "visits": 3045,
+      "downloads": 561
+    },
+    {
+      "month": "2023-09",
+      "visits": 5499,
+      "downloads": 878
+    },
+    {
+      "month": "2023-10",
+      "visits": 5079,
+      "downloads": 769
+    },
+    {
+      "month": "2023-11",
+      "visits": 6583,
+      "downloads": 982
+    },
+    {
+      "month": "2023-12",
+      "visits": 9096,
+      "downloads": 1280
+    },
+    {
+      "month": "2024-01",
+      "visits": 10634,
+      "downloads": 1114
+    },
+    {
+      "month": "2024-02",
+      "visits": 8759,
+      "downloads": 1041
+    },
+    {
+      "month": "2024-03",
+      "visits": 8276,
+      "downloads": 1050
+    },
+    {
+      "month": "2024-04",
+      "visits": 6202,
+      "downloads": 663
+    },
+    {
+      "month": "2024-05",
+      "visits": 4904,
+      "downloads": 636
+    },
+    {
+      "month": "2024-06",
+      "visits": 4471,
+      "downloads": 584
+    },
+    {
+      "month": "2024-07",
+      "visits": 6469,
+      "downloads": 819
+    },
+    {
+      "month": "2024-08",
+      "visits": 3005,
+      "downloads": 374
+    },
+    {
+      "month": "2024-09",
+      "visits": 4807,
+      "downloads": 587
+    },
+    {
+      "month": "2024-10",
+      "visits": 4320,
+      "downloads": 485
+    },
+    {
+      "month": "2024-11",
+      "visits": 4856,
+      "downloads": 453
+    },
+    {
+      "month": "2024-12",
+      "visits": 3739,
+      "downloads": 274
+    },
+    {
+      "month": "2025-01",
+      "visits": 420,
+      "downloads": 41
+    },
+    {
+      "month": "2025-02",
+      "visits": 4522,
+      "downloads": 340
+    },
+    {
+      "month": "2025-03",
+      "visits": 6405,
+      "downloads": 455
+    },
+    {
+      "month": "2025-04",
+      "visits": 7132,
+      "downloads": 527
+    },
+    {
+      "month": "2025-05",
+      "visits": 5982,
+      "downloads": 360
+    },
+    {
+      "month": "2025-06",
+      "visits": 4336,
+      "downloads": 208
+    },
+    {
+      "month": "2025-07",
+      "visits": 4067,
+      "downloads": 234
+    },
+    {
+      "month": "2025-08",
+      "visits": 3075,
+      "downloads": 169
+    },
+    {
+      "month": "2025-09",
+      "visits": 4549,
+      "downloads": 400
+    },
+    {
+      "month": "2025-10",
+      "visits": 6840,
+      "downloads": 493
+    },
+    {
+      "month": "2025-11",
+      "visits": 6772,
+      "downloads": 393
+    },
+    {
+      "month": "2025-12",
+      "visits": 121,
+      "downloads": 11
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

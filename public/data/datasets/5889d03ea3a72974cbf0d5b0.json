@@ -1,0 +1,224 @@
+{
+  "id": "5889d03ea3a72974cbf0d5b0",
+  "title": "Le calendrier scolaire",
+  "slug": "le-calendrier-scolaire",
+  "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
+  "organizationId": "534fff8fa3a7292c64a77f22",
+  "url": "https://www.data.gouv.fr/datasets/le-calendrier-scolaire/",
+  "totalVisits": 1328760,
+  "totalDownloads": 189303268,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 8898,
+      "downloads": 1311628
+    },
+    {
+      "month": "2022-08",
+      "visits": 26649,
+      "downloads": 2298838
+    },
+    {
+      "month": "2022-09",
+      "visits": 31490,
+      "downloads": 2876774
+    },
+    {
+      "month": "2022-10",
+      "visits": 22541,
+      "downloads": 3219839
+    },
+    {
+      "month": "2022-11",
+      "visits": 16468,
+      "downloads": 3354465
+    },
+    {
+      "month": "2022-12",
+      "visits": 18265,
+      "downloads": 3529766
+    },
+    {
+      "month": "2023-01",
+      "visits": 32115,
+      "downloads": 4117514
+    },
+    {
+      "month": "2023-02",
+      "visits": 14187,
+      "downloads": 3637015
+    },
+    {
+      "month": "2023-03",
+      "visits": 13705,
+      "downloads": 4390013
+    },
+    {
+      "month": "2023-04",
+      "visits": 11433,
+      "downloads": 4119268
+    },
+    {
+      "month": "2023-05",
+      "visits": 10926,
+      "downloads": 4263025
+    },
+    {
+      "month": "2023-06",
+      "visits": 12924,
+      "downloads": 4403527
+    },
+    {
+      "month": "2023-07",
+      "visits": 16593,
+      "downloads": 4314448
+    },
+    {
+      "month": "2023-08",
+      "visits": 23562,
+      "downloads": 3910071
+    },
+    {
+      "month": "2023-09",
+      "visits": 33151,
+      "downloads": 4707043
+    },
+    {
+      "month": "2023-10",
+      "visits": 24225,
+      "downloads": 4996008
+    },
+    {
+      "month": "2023-11",
+      "visits": 15850,
+      "downloads": 5005752
+    },
+    {
+      "month": "2023-12",
+      "visits": 17743,
+      "downloads": 4963876
+    },
+    {
+      "month": "2024-01",
+      "visits": 26066,
+      "downloads": 5368173
+    },
+    {
+      "month": "2024-02",
+      "visits": 18646,
+      "downloads": 5015108
+    },
+    {
+      "month": "2024-03",
+      "visits": 17707,
+      "downloads": 6249208
+    },
+    {
+      "month": "2024-04",
+      "visits": 13969,
+      "downloads": 5064544
+    },
+    {
+      "month": "2024-05",
+      "visits": 11972,
+      "downloads": 5443420
+    },
+    {
+      "month": "2024-06",
+      "visits": 12783,
+      "downloads": 5380152
+    },
+    {
+      "month": "2024-07",
+      "visits": 15172,
+      "downloads": 5154428
+    },
+    {
+      "month": "2024-08",
+      "visits": 21822,
+      "downloads": 4872639
+    },
+    {
+      "month": "2024-09",
+      "visits": 36697,
+      "downloads": 5522353
+    },
+    {
+      "month": "2024-10",
+      "visits": 34987,
+      "downloads": 5524970
+    },
+    {
+      "month": "2024-11",
+      "visits": 33955,
+      "downloads": 5690575
+    },
+    {
+      "month": "2024-12",
+      "visits": 38645,
+      "downloads": 3731163
+    },
+    {
+      "month": "2025-01",
+      "visits": 62772,
+      "downloads": 1377043
+    },
+    {
+      "month": "2025-02",
+      "visits": 79656,
+      "downloads": 4693020
+    },
+    {
+      "month": "2025-03",
+      "visits": 84864,
+      "downloads": 5975832
+    },
+    {
+      "month": "2025-04",
+      "visits": 82417,
+      "downloads": 5848339
+    },
+    {
+      "month": "2025-05",
+      "visits": 84089,
+      "downloads": 6106577
+    },
+    {
+      "month": "2025-06",
+      "visits": 77501,
+      "downloads": 5669168
+    },
+    {
+      "month": "2025-07",
+      "visits": 33457,
+      "downloads": 5735799
+    },
+    {
+      "month": "2025-08",
+      "visits": 42350,
+      "downloads": 5482701
+    },
+    {
+      "month": "2025-09",
+      "visits": 53019,
+      "downloads": 6076092
+    },
+    {
+      "month": "2025-10",
+      "visits": 48619,
+      "downloads": 3884522
+    },
+    {
+      "month": "2025-11",
+      "visits": 45548,
+      "downloads": 5822192
+    },
+    {
+      "month": "2025-12",
+      "visits": 1322,
+      "downloads": 196380
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

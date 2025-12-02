@@ -1,0 +1,355 @@
+{
+  "lastUpdate": "2025-12-02T15:33:03.024Z",
+  "datasets": [
+    {
+      "id": "5617b11dc751df083fcdbb48",
+      "title": "[Archivé] Crimes et délits enregistrés par les services de gendarmerie et de police depuis 2012",
+      "slug": "archive-crimes-et-delits-enregistres-par-les-services-de-gendarmerie-et-de-police-depuis-2012",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "53699580a3a729239d204738",
+      "title": "[Obsolète] Fichier FANTOIR des voies et lieux-dits",
+      "slug": "fichier-fantoir-des-voies-et-lieux-dits",
+      "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+      "organizationId": "534fff8ea3a7292c64a77f02"
+    },
+    {
+      "id": "53698f1aa3a729239d203653",
+      "title": "Associations Reconnues d'Utilité Publique",
+      "slug": "associations-reconnues-d-utilite-publique",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "5530fbacc751df5ff937dddb",
+      "title": "Base Adresse Nationale",
+      "slug": "base-adresse-nationale",
+      "organization": "Base Adresse Nationale",
+      "organizationId": "58e555f5c751df205d54e76b"
+    },
+    {
+      "id": "61dc7157488f8cdb4283e3c3",
+      "title": "Base de données nationale des bâtiments  ",
+      "slug": "base-de-donnees-nationale-des-batiments",
+      "organization": "Centre Scientifique et Technique du Batiment",
+      "organizationId": "61dc6a1398b3376b6fa0d0d9"
+    },
+    {
+      "id": "5a5f4f6c88ee387da4d252a3",
+      "title": "Base des permis de construire et autres autorisations d'urbanisme (Sitadel)",
+      "slug": "base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel",
+      "organization": "Service des données et études statistiques (SDES)",
+      "organizationId": "681a1272bfa84b075f9531e1"
+    },
+    {
+      "id": "545b55e1c751df52de9b6045",
+      "title": "Base officielle des codes postaux",
+      "slug": "base-officielle-des-codes-postaux",
+      "organization": "La Poste",
+      "organizationId": "534fff85a3a7292c64a77e9c"
+    },
+    {
+      "id": "5b7ffc618b4c4169d30727e0",
+      "title": "Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)",
+      "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "organizationId": "534fff81a3a7292c64a77e5c"
+    },
+    {
+      "id": "53698f4ca3a729239d2036df",
+      "title": "Bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2024",
+      "slug": "bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "5726ef67c751df48e1fcca0d",
+      "title": "Carte des départements",
+      "slug": "carte-des-departements-2-1",
+      "organization": "Inconnu",
+      "organizationId": ""
+    },
+    {
+      "id": "5d13a8b6634f41070a43dff3",
+      "title": "Catalogue des données de data.gouv.fr",
+      "slug": "catalogue-des-donnees-de-data-gouv-fr",
+      "organization": "data.gouv.fr",
+      "organizationId": "646b7187b50b2a93b1ae3d45"
+    },
+    {
+      "id": "5ced14688b4c4114480ce688",
+      "title": "Communes de france - Base  des codes postaux",
+      "slug": "communes-de-france-base-des-codes-postaux",
+      "organization": "Inconnu",
+      "organizationId": ""
+    },
+    {
+      "id": "64ac9c145db6f73a7c012cc3",
+      "title": "Comptes Administratifs votés 2022",
+      "slug": "comptes-administratifs-votes-2022",
+      "organization": "Grand Paris Sud",
+      "organizationId": "59133d14c751df2fa69bfb86"
+    },
+    {
+      "id": "53699233a3a729239d203e69",
+      "title": "Découpage administratif communal français issu d'OpenStreetMap",
+      "slug": "decoupage-administratif-communal-francais-issu-d-openstreetmap",
+      "organization": "OpenStreetMap",
+      "organizationId": "534fffa0a3a7292c64a7806b"
+    },
+    {
+      "id": "64ad041e6efe49d8159daed3",
+      "title": "Demandes d'asile, publication du 26 janvier 2023",
+      "slug": "demandes-dasile-publication-du-26-janvier-2023",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "5c4ae55a634f4117716d5656",
+      "title": "Demandes de valeurs foncières",
+      "slug": "demandes-de-valeurs-foncieres",
+      "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+      "organizationId": "534fff8ea3a7292c64a77f02"
+    },
+    {
+      "id": "5cc1b94a634f4165e96436c1",
+      "title": "Demandes de valeurs foncières géolocalisées",
+      "slug": "demandes-de-valeurs-foncieres-geolocalisees",
+      "organization": "data.gouv.fr",
+      "organizationId": "646b7187b50b2a93b1ae3d45"
+    },
+    {
+      "id": "6470b39cfbad66b8c265ada3",
+      "title": "Donnée Sécheresse - Propluvia",
+      "slug": "donnee-secheresse-propluvia",
+      "organization": "Ministère de la Transition écologique",
+      "organizationId": "534fff8da3a7292c64a77eee"
+    },
+    {
+      "id": "64ac0ebf5d179c23600bf9c7",
+      "title": "Données ecodef 228",
+      "slug": "donnees-ecodef-228-1",
+      "organization": "S2E - Statistique publique de la défense",
+      "organizationId": "6410717f3dea983146a8f552"
+    },
+    {
+      "id": "5e7e104ace2080d9162b61d8",
+      "title": "Données hospitalières relatives à l'épidémie de COVID-19",
+      "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+      "organization": "Santé publique France",
+      "organizationId": "5e721a395d57f93d0bed451f"
+    },
+    {
+      "id": "64ac0f74489ad0b1a327058d",
+      "title": "Ecodef 228",
+      "slug": "ecodef-228",
+      "organization": "S2E - Statistique publique de la défense",
+      "organizationId": "6410717f3dea983146a8f552"
+    },
+    {
+      "id": "5de8f397634f4164071119c5",
+      "title": "Fichier des personnes décédées",
+      "slug": "fichier-des-personnes-decedees",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "organizationId": "534fff81a3a7292c64a77e5c"
+    },
+    {
+      "id": "53699569a3a729239d2046eb",
+      "title": "FINESS Extraction du Fichier des établissements",
+      "slug": "finess-extraction-du-fichier-des-etablissements",
+      "organization": "Ministère des Solidarités et de la Santé",
+      "organizationId": "534fff94a3a7292c64a77fc1"
+    },
+    {
+      "id": "64ac9d02e0951b41b712a193",
+      "title": "Fiscalité locale des professionnels",
+      "slug": "fiscalite-locale-des-entreprises",
+      "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+      "organizationId": "534fff8ea3a7292c64a77f02"
+    },
+    {
+      "id": "64ac9d008a3ef9d72912a193",
+      "title": "Fiscalité locale des professionnels - Géo",
+      "slug": "fiscalite-locale-des-entreprises-geo",
+      "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+      "organizationId": "534fff8ea3a7292c64a77f02"
+    },
+    {
+      "id": "58da72bbc751df38734d8658",
+      "title": "Impôts locaux : fichier de recensement des éléments d'imposition à la fiscalité directe locale (REI)",
+      "slug": "impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3",
+      "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+      "organizationId": "534fff8ea3a7292c64a77f02"
+    },
+    {
+      "id": "64ac9e2ae313835e0812a193",
+      "title": "Infrastructure de Recharge de Véhicules Electriques (IRVE)",
+      "slug": "infrastructure-de-recharge-de-vehicules-electriques-irve",
+      "organization": "CHATEAUROUX METROPOLE",
+      "organizationId": "5bf67a998b4c417eae692920"
+    },
+    {
+      "id": "64abfc2371b6f17970d658dd",
+      "title": "L'accès à la nationalité française, publication du 26 janvier 2023",
+      "slug": "lacces-a-la-nationalite-francaise-publication-du-26-janvier-2023",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "64ad143fea48372c1499772f",
+      "title": "La délivrance de visas aux étrangers, publication du 26 janvier 2023",
+      "slug": "la-delivrance-de-visas-aux-etrangers-publication-du-26-janvier-2023",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "5889d03ea3a72974cbf0d5b0",
+      "title": "Le calendrier scolaire",
+      "slug": "le-calendrier-scolaire",
+      "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
+      "organizationId": "534fff8fa3a7292c64a77f22"
+    },
+    {
+      "id": "547d8d7ac751df405d090fcb",
+      "title": "Le marché du haut et très haut débit fixe (déploiements)",
+      "slug": "le-marche-du-haut-et-tres-haut-debit-fixe-deploiements",
+      "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+      "organizationId": "534fff58a3a7292c64a77cf6"
+    },
+    {
+      "id": "64abf85ae8234fa718f2100a",
+      "title": "Les éloignements, publication du 26 janvier 2023",
+      "slug": "les-eloignements-publication-du-26-janvier-2023",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "64abf15ad2ce05cea3ae0cab",
+      "title": "Les principales données de l'immigration en France au 26 janvier 2023",
+      "slug": "les-principales-donnees-de-limmigration-en-france-au-26-janvier-2023",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "54773790c751df6b1372f5d5",
+      "title": "Liste noire d'URLs",
+      "slug": "liste-noire-durls",
+      "organization": "Inconnu",
+      "organizationId": ""
+    },
+    {
+      "id": "582c8978c751df788ec0bb7e",
+      "title": "Liste Publique des Organismes de Formation (L.6351-7-1 du Code du Travail)",
+      "slug": "liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail",
+      "organization": "Ministère du Travail du Plein emploi et de l'Insertion",
+      "organizationId": "534fff96a3a7292c64a77ff4"
+    },
+    {
+      "id": "58c98b1888ee38770950152b",
+      "title": "Mon Réseau Mobile",
+      "slug": "mon-reseau-mobile",
+      "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+      "organizationId": "534fff58a3a7292c64a77cf6"
+    },
+    {
+      "id": "54149eb5c751df1dc8fc95e3",
+      "title": "OBSOLÈTE : Le calendrier scolaire 2019-2020 et 2020-2021 / Format iCal",
+      "slug": "obsolete-le-calendrier-scolaire-2019-2020-et-2020-2021-format-ical",
+      "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
+      "organizationId": "534fff8fa3a7292c64a77f22"
+    },
+    {
+      "id": "5369986ba3a729239d204f55",
+      "title": "Police municipale : Effectifs par commune",
+      "slug": "police-municipale-effectifs-par-commune",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "64ad2445fedc8385c9a62bdb",
+      "title": "Reconstruction automatique de la géométrie des bureaux de vote depuis INSEE REU et OpenStreetMap",
+      "slug": "reconstruction-automatique-de-la-geometrie-des-bureaux-de-vote-depuis-insee-reu-et-openstreetmap",
+      "organization": "Inconnu",
+      "organizationId": ""
+    },
+    {
+      "id": "58e53811c751df03df38f42d",
+      "title": "Répertoire National des Associations",
+      "slug": "repertoire-national-des-associations",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "5eebbc067a14b6fecc9c9976",
+      "title": "Répertoire national des certifications professionnelles et répertoire spécifique",
+      "slug": "repertoire-national-des-certifications-professionnelles-et-repertoire-specifique",
+      "organization": "France compétences",
+      "organizationId": "5d767ad36f44414d5b3645c8"
+    },
+    {
+      "id": "5c34c4d1634f4173183a64f1",
+      "title": "Répertoire national des élus",
+      "slug": "repertoire-national-des-elus-1",
+      "organization": "Ministère de l'intérieur",
+      "organizationId": "534fff91a3a7292c64a77f53"
+    },
+    {
+      "id": "58da857388ee384902e505f5",
+      "title": "Répertoire Opérationnel des Métiers et des Emplois (ROME)",
+      "slug": "repertoire-operationnel-des-metiers-et-des-emplois-rome",
+      "organization": "France Travail",
+      "organizationId": "534fffa3a3a7292c64a78094"
+    },
+    {
+      "id": "5c5a8b88634f4160c7fe393d",
+      "title": "Résultats du contrôle sanitaire de l'eau du robinet",
+      "slug": "resultats-du-controle-sanitaire-de-leau-du-robinet",
+      "organization": "Ministère des Solidarités et de la Santé",
+      "organizationId": "534fff94a3a7292c64a77fc1"
+    },
+    {
+      "id": "58d8d8a0c751df17537c66be",
+      "title": "RPG",
+      "slug": "rpg",
+      "organization": "Institut national de l'information géographique et forestière",
+      "organizationId": "534fff80a3a7292c64a77e41"
+    },
+    {
+      "id": "60190d00a7273a8100dd4d38",
+      "title": "Synthèse des indicateurs de suivi de l’épidémie COVID-19",
+      "slug": "synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19",
+      "organization": "Santé publique France",
+      "organizationId": "5e721a395d57f93d0bed451f"
+    },
+    {
+      "id": "64ad71f729f42ae8d1e8ec11",
+      "title": "test jeu de données",
+      "slug": "test-jeu-de-donnees-2",
+      "organization": "INITIATIVE ESSONNE",
+      "organizationId": "64ad71045ce5e480c277da24"
+    },
+    {
+      "id": "598892dcc751df3eae8bd6ec",
+      "title": "Trafic moyen journalier annuel sur le réseau routier national",
+      "slug": "trafic-moyen-journalier-annuel-sur-le-reseau-routier-national",
+      "organization": "Ministère de la Transition écologique",
+      "organizationId": "534fff8da3a7292c64a77eee"
+    },
+    {
+      "id": "5e8ee97c16601da4ee24ffb7",
+      "title": "Trajets réalisés en covoiturage - Registre de Preuve de Covoiturage ",
+      "slug": "trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage",
+      "organization": "Registre de Preuve de Covoiturage",
+      "organizationId": "61937d50e54eade2bbf8e8df"
+    },
+    {
+      "id": "5943d13588ee38742a95eb0c",
+      "title": "Zones de Revitalisation Rurale (ZRR)",
+      "slug": "zones-de-revitalisation-rurale-zrr",
+      "organization": "Agence nationale de la cohésion des territoires",
+      "organizationId": "5901f4dfc751df412e7bb92d"
+    }
+  ]
+}

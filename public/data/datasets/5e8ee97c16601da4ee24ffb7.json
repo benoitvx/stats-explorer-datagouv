@@ -1,0 +1,224 @@
+{
+  "id": "5e8ee97c16601da4ee24ffb7",
+  "title": "Trajets réalisés en covoiturage - Registre de Preuve de Covoiturage ",
+  "slug": "trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage",
+  "organization": "Registre de Preuve de Covoiturage",
+  "organizationId": "61937d50e54eade2bbf8e8df",
+  "url": "https://www.data.gouv.fr/datasets/trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage/",
+  "totalVisits": 18392585,
+  "totalDownloads": 49877,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 428105,
+      "downloads": 164
+    },
+    {
+      "month": "2022-08",
+      "visits": 689790,
+      "downloads": 505
+    },
+    {
+      "month": "2022-09",
+      "visits": 643633,
+      "downloads": 371
+    },
+    {
+      "month": "2022-10",
+      "visits": 663979,
+      "downloads": 2367
+    },
+    {
+      "month": "2022-11",
+      "visits": 652386,
+      "downloads": 779
+    },
+    {
+      "month": "2022-12",
+      "visits": 708041,
+      "downloads": 1804
+    },
+    {
+      "month": "2023-01",
+      "visits": 691548,
+      "downloads": 970
+    },
+    {
+      "month": "2023-02",
+      "visits": 549087,
+      "downloads": 436
+    },
+    {
+      "month": "2023-03",
+      "visits": 578667,
+      "downloads": 681
+    },
+    {
+      "month": "2023-04",
+      "visits": 624045,
+      "downloads": 705
+    },
+    {
+      "month": "2023-05",
+      "visits": 560350,
+      "downloads": 462
+    },
+    {
+      "month": "2023-06",
+      "visits": 527472,
+      "downloads": 518
+    },
+    {
+      "month": "2023-07",
+      "visits": 555487,
+      "downloads": 771
+    },
+    {
+      "month": "2023-08",
+      "visits": 502828,
+      "downloads": 560
+    },
+    {
+      "month": "2023-09",
+      "visits": 505064,
+      "downloads": 781
+    },
+    {
+      "month": "2023-10",
+      "visits": 539161,
+      "downloads": 1188
+    },
+    {
+      "month": "2023-11",
+      "visits": 548806,
+      "downloads": 887
+    },
+    {
+      "month": "2023-12",
+      "visits": 565821,
+      "downloads": 1800
+    },
+    {
+      "month": "2024-01",
+      "visits": 566240,
+      "downloads": 627
+    },
+    {
+      "month": "2024-02",
+      "visits": 533740,
+      "downloads": 552
+    },
+    {
+      "month": "2024-03",
+      "visits": 582083,
+      "downloads": 518
+    },
+    {
+      "month": "2024-04",
+      "visits": 510480,
+      "downloads": 804
+    },
+    {
+      "month": "2024-05",
+      "visits": 551474,
+      "downloads": 464
+    },
+    {
+      "month": "2024-06",
+      "visits": 537247,
+      "downloads": 553
+    },
+    {
+      "month": "2024-07",
+      "visits": 564960,
+      "downloads": 961
+    },
+    {
+      "month": "2024-08",
+      "visits": 557688,
+      "downloads": 480
+    },
+    {
+      "month": "2024-09",
+      "visits": 546451,
+      "downloads": 1367
+    },
+    {
+      "month": "2024-10",
+      "visits": 545621,
+      "downloads": 1419
+    },
+    {
+      "month": "2024-11",
+      "visits": 542402,
+      "downloads": 1581
+    },
+    {
+      "month": "2024-12",
+      "visits": 545445,
+      "downloads": 607
+    },
+    {
+      "month": "2025-01",
+      "visits": 544067,
+      "downloads": 141
+    },
+    {
+      "month": "2025-02",
+      "visits": 506293,
+      "downloads": 701
+    },
+    {
+      "month": "2025-03",
+      "visits": 218157,
+      "downloads": 16511
+    },
+    {
+      "month": "2025-04",
+      "visits": 947,
+      "downloads": 804
+    },
+    {
+      "month": "2025-05",
+      "visits": 791,
+      "downloads": 714
+    },
+    {
+      "month": "2025-06",
+      "visits": 911,
+      "downloads": 403
+    },
+    {
+      "month": "2025-07",
+      "visits": 694,
+      "downloads": 1177
+    },
+    {
+      "month": "2025-08",
+      "visits": 528,
+      "downloads": 690
+    },
+    {
+      "month": "2025-09",
+      "visits": 655,
+      "downloads": 534
+    },
+    {
+      "month": "2025-10",
+      "visits": 717,
+      "downloads": 1247
+    },
+    {
+      "month": "2025-11",
+      "visits": 709,
+      "downloads": 1208
+    },
+    {
+      "month": "2025-12",
+      "visits": 15,
+      "downloads": 65
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

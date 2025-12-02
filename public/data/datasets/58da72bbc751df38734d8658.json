@@ -1,0 +1,224 @@
+{
+  "id": "58da72bbc751df38734d8658",
+  "title": "Impôts locaux : fichier de recensement des éléments d'imposition à la fiscalité directe locale (REI)",
+  "slug": "impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3",
+  "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+  "organizationId": "534fff8ea3a7292c64a77f02",
+  "url": "https://www.data.gouv.fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/",
+  "totalVisits": 86609,
+  "totalDownloads": 34916,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1409,
+      "downloads": 762
+    },
+    {
+      "month": "2022-08",
+      "visits": 1820,
+      "downloads": 791
+    },
+    {
+      "month": "2022-09",
+      "visits": 2708,
+      "downloads": 945
+    },
+    {
+      "month": "2022-10",
+      "visits": 1877,
+      "downloads": 794
+    },
+    {
+      "month": "2022-11",
+      "visits": 1855,
+      "downloads": 753
+    },
+    {
+      "month": "2022-12",
+      "visits": 1957,
+      "downloads": 943
+    },
+    {
+      "month": "2023-01",
+      "visits": 2537,
+      "downloads": 798
+    },
+    {
+      "month": "2023-02",
+      "visits": 2205,
+      "downloads": 694
+    },
+    {
+      "month": "2023-03",
+      "visits": 2958,
+      "downloads": 3685
+    },
+    {
+      "month": "2023-04",
+      "visits": 1998,
+      "downloads": 740
+    },
+    {
+      "month": "2023-05",
+      "visits": 2205,
+      "downloads": 743
+    },
+    {
+      "month": "2023-06",
+      "visits": 2458,
+      "downloads": 856
+    },
+    {
+      "month": "2023-07",
+      "visits": 3034,
+      "downloads": 1500
+    },
+    {
+      "month": "2023-08",
+      "visits": 1870,
+      "downloads": 883
+    },
+    {
+      "month": "2023-09",
+      "visits": 3644,
+      "downloads": 1380
+    },
+    {
+      "month": "2023-10",
+      "visits": 2934,
+      "downloads": 1153
+    },
+    {
+      "month": "2023-11",
+      "visits": 2417,
+      "downloads": 940
+    },
+    {
+      "month": "2023-12",
+      "visits": 1784,
+      "downloads": 766
+    },
+    {
+      "month": "2024-01",
+      "visits": 2476,
+      "downloads": 1083
+    },
+    {
+      "month": "2024-02",
+      "visits": 2500,
+      "downloads": 921
+    },
+    {
+      "month": "2024-03",
+      "visits": 2705,
+      "downloads": 1280
+    },
+    {
+      "month": "2024-04",
+      "visits": 2195,
+      "downloads": 804
+    },
+    {
+      "month": "2024-05",
+      "visits": 2195,
+      "downloads": 783
+    },
+    {
+      "month": "2024-06",
+      "visits": 2490,
+      "downloads": 799
+    },
+    {
+      "month": "2024-07",
+      "visits": 1991,
+      "downloads": 756
+    },
+    {
+      "month": "2024-08",
+      "visits": 1560,
+      "downloads": 355
+    },
+    {
+      "month": "2024-09",
+      "visits": 2216,
+      "downloads": 681
+    },
+    {
+      "month": "2024-10",
+      "visits": 2045,
+      "downloads": 816
+    },
+    {
+      "month": "2024-11",
+      "visits": 1783,
+      "downloads": 612
+    },
+    {
+      "month": "2024-12",
+      "visits": 1249,
+      "downloads": 429
+    },
+    {
+      "month": "2025-01",
+      "visits": 410,
+      "downloads": 77
+    },
+    {
+      "month": "2025-02",
+      "visits": 1726,
+      "downloads": 604
+    },
+    {
+      "month": "2025-03",
+      "visits": 1976,
+      "downloads": 522
+    },
+    {
+      "month": "2025-04",
+      "visits": 1901,
+      "downloads": 766
+    },
+    {
+      "month": "2025-05",
+      "visits": 2058,
+      "downloads": 651
+    },
+    {
+      "month": "2025-06",
+      "visits": 2022,
+      "downloads": 541
+    },
+    {
+      "month": "2025-07",
+      "visits": 1860,
+      "downloads": 548
+    },
+    {
+      "month": "2025-08",
+      "visits": 1587,
+      "downloads": 559
+    },
+    {
+      "month": "2025-09",
+      "visits": 1873,
+      "downloads": 597
+    },
+    {
+      "month": "2025-10",
+      "visits": 2354,
+      "downloads": 1018
+    },
+    {
+      "month": "2025-11",
+      "visits": 1731,
+      "downloads": 544
+    },
+    {
+      "month": "2025-12",
+      "visits": 36,
+      "downloads": 44
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

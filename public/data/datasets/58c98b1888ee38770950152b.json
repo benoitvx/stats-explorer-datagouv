@@ -1,0 +1,224 @@
+{
+  "id": "58c98b1888ee38770950152b",
+  "title": "Mon Réseau Mobile",
+  "slug": "mon-reseau-mobile",
+  "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+  "organizationId": "534fff58a3a7292c64a77cf6",
+  "url": "https://www.data.gouv.fr/datasets/mon-reseau-mobile/",
+  "totalVisits": 192377,
+  "totalDownloads": 14814,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1515,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 2683,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 2754,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 3529,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 3173,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 2899,
+      "downloads": 404
+    },
+    {
+      "month": "2023-01",
+      "visits": 3186,
+      "downloads": 695
+    },
+    {
+      "month": "2023-02",
+      "visits": 2348,
+      "downloads": 387
+    },
+    {
+      "month": "2023-03",
+      "visits": 2909,
+      "downloads": 591
+    },
+    {
+      "month": "2023-04",
+      "visits": 2719,
+      "downloads": 408
+    },
+    {
+      "month": "2023-05",
+      "visits": 53981,
+      "downloads": 472
+    },
+    {
+      "month": "2023-06",
+      "visits": 23428,
+      "downloads": 441
+    },
+    {
+      "month": "2023-07",
+      "visits": 3694,
+      "downloads": 396
+    },
+    {
+      "month": "2023-08",
+      "visits": 2812,
+      "downloads": 353
+    },
+    {
+      "month": "2023-09",
+      "visits": 3535,
+      "downloads": 593
+    },
+    {
+      "month": "2023-10",
+      "visits": 3509,
+      "downloads": 582
+    },
+    {
+      "month": "2023-11",
+      "visits": 3546,
+      "downloads": 590
+    },
+    {
+      "month": "2023-12",
+      "visits": 2829,
+      "downloads": 448
+    },
+    {
+      "month": "2024-01",
+      "visits": 3353,
+      "downloads": 387
+    },
+    {
+      "month": "2024-02",
+      "visits": 3179,
+      "downloads": 444
+    },
+    {
+      "month": "2024-03",
+      "visits": 2960,
+      "downloads": 469
+    },
+    {
+      "month": "2024-04",
+      "visits": 2332,
+      "downloads": 333
+    },
+    {
+      "month": "2024-05",
+      "visits": 2512,
+      "downloads": 329
+    },
+    {
+      "month": "2024-06",
+      "visits": 2658,
+      "downloads": 360
+    },
+    {
+      "month": "2024-07",
+      "visits": 2934,
+      "downloads": 334
+    },
+    {
+      "month": "2024-08",
+      "visits": 2521,
+      "downloads": 237
+    },
+    {
+      "month": "2024-09",
+      "visits": 2959,
+      "downloads": 414
+    },
+    {
+      "month": "2024-10",
+      "visits": 2820,
+      "downloads": 426
+    },
+    {
+      "month": "2024-11",
+      "visits": 2670,
+      "downloads": 437
+    },
+    {
+      "month": "2024-12",
+      "visits": 1820,
+      "downloads": 290
+    },
+    {
+      "month": "2025-01",
+      "visits": 559,
+      "downloads": 83
+    },
+    {
+      "month": "2025-02",
+      "visits": 2244,
+      "downloads": 424
+    },
+    {
+      "month": "2025-03",
+      "visits": 2709,
+      "downloads": 371
+    },
+    {
+      "month": "2025-04",
+      "visits": 3376,
+      "downloads": 373
+    },
+    {
+      "month": "2025-05",
+      "visits": 3710,
+      "downloads": 386
+    },
+    {
+      "month": "2025-06",
+      "visits": 2444,
+      "downloads": 345
+    },
+    {
+      "month": "2025-07",
+      "visits": 3254,
+      "downloads": 537
+    },
+    {
+      "month": "2025-08",
+      "visits": 3126,
+      "downloads": 256
+    },
+    {
+      "month": "2025-09",
+      "visits": 3862,
+      "downloads": 405
+    },
+    {
+      "month": "2025-10",
+      "visits": 4460,
+      "downloads": 385
+    },
+    {
+      "month": "2025-11",
+      "visits": 4747,
+      "downloads": 424
+    },
+    {
+      "month": "2025-12",
+      "visits": 119,
+      "downloads": 5
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

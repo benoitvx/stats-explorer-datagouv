@@ -1,0 +1,164 @@
+{
+  "id": "64ac9c145db6f73a7c012cc3",
+  "title": "Comptes Administratifs votés 2022",
+  "slug": "comptes-administratifs-votes-2022",
+  "organization": "Grand Paris Sud",
+  "organizationId": "59133d14c751df2fa69bfb86",
+  "url": "https://www.data.gouv.fr/datasets/comptes-administratifs-votes-2022/",
+  "totalVisits": 2821,
+  "totalDownloads": 738,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 488,
+      "downloads": 26
+    },
+    {
+      "month": "2023-08",
+      "visits": 54,
+      "downloads": 29
+    },
+    {
+      "month": "2023-09",
+      "visits": 79,
+      "downloads": 55
+    },
+    {
+      "month": "2023-10",
+      "visits": 71,
+      "downloads": 45
+    },
+    {
+      "month": "2023-11",
+      "visits": 81,
+      "downloads": 30
+    },
+    {
+      "month": "2023-12",
+      "visits": 91,
+      "downloads": 30
+    },
+    {
+      "month": "2024-01",
+      "visits": 107,
+      "downloads": 26
+    },
+    {
+      "month": "2024-02",
+      "visits": 88,
+      "downloads": 32
+    },
+    {
+      "month": "2024-03",
+      "visits": 99,
+      "downloads": 33
+    },
+    {
+      "month": "2024-04",
+      "visits": 68,
+      "downloads": 14
+    },
+    {
+      "month": "2024-05",
+      "visits": 80,
+      "downloads": 31
+    },
+    {
+      "month": "2024-06",
+      "visits": 97,
+      "downloads": 28
+    },
+    {
+      "month": "2024-07",
+      "visits": 85,
+      "downloads": 24
+    },
+    {
+      "month": "2024-08",
+      "visits": 66,
+      "downloads": 39
+    },
+    {
+      "month": "2024-09",
+      "visits": 37,
+      "downloads": 18
+    },
+    {
+      "month": "2024-10",
+      "visits": 65,
+      "downloads": 46
+    },
+    {
+      "month": "2024-11",
+      "visits": 80,
+      "downloads": 32
+    },
+    {
+      "month": "2024-12",
+      "visits": 66,
+      "downloads": 6
+    },
+    {
+      "month": "2025-01",
+      "visits": 62,
+      "downloads": 14
+    },
+    {
+      "month": "2025-02",
+      "visits": 110,
+      "downloads": 39
+    },
+    {
+      "month": "2025-03",
+      "visits": 114,
+      "downloads": 31
+    },
+    {
+      "month": "2025-04",
+      "visits": 116,
+      "downloads": 36
+    },
+    {
+      "month": "2025-05",
+      "visits": 82,
+      "downloads": 20
+    },
+    {
+      "month": "2025-06",
+      "visits": 142,
+      "downloads": 13
+    },
+    {
+      "month": "2025-07",
+      "visits": 108,
+      "downloads": 17
+    },
+    {
+      "month": "2025-08",
+      "visits": 62,
+      "downloads": 7
+    },
+    {
+      "month": "2025-09",
+      "visits": 61,
+      "downloads": 3
+    },
+    {
+      "month": "2025-10",
+      "visits": 58,
+      "downloads": 2
+    },
+    {
+      "month": "2025-11",
+      "visits": 103,
+      "downloads": 12
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

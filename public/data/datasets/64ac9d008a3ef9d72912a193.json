@@ -1,0 +1,164 @@
+{
+  "id": "64ac9d008a3ef9d72912a193",
+  "title": "Fiscalité locale des professionnels - Géo",
+  "slug": "fiscalite-locale-des-entreprises-geo",
+  "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+  "organizationId": "534fff8ea3a7292c64a77f02",
+  "url": "https://www.data.gouv.fr/datasets/fiscalite-locale-des-entreprises-geo/",
+  "totalVisits": 3231,
+  "totalDownloads": 892,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 484,
+      "downloads": 33
+    },
+    {
+      "month": "2023-08",
+      "visits": 43,
+      "downloads": 12
+    },
+    {
+      "month": "2023-09",
+      "visits": 49,
+      "downloads": 24
+    },
+    {
+      "month": "2023-10",
+      "visits": 34,
+      "downloads": 18
+    },
+    {
+      "month": "2023-11",
+      "visits": 42,
+      "downloads": 15
+    },
+    {
+      "month": "2023-12",
+      "visits": 56,
+      "downloads": 18
+    },
+    {
+      "month": "2024-01",
+      "visits": 78,
+      "downloads": 17
+    },
+    {
+      "month": "2024-02",
+      "visits": 49,
+      "downloads": 21
+    },
+    {
+      "month": "2024-03",
+      "visits": 57,
+      "downloads": 32
+    },
+    {
+      "month": "2024-04",
+      "visits": 83,
+      "downloads": 20
+    },
+    {
+      "month": "2024-05",
+      "visits": 86,
+      "downloads": 51
+    },
+    {
+      "month": "2024-06",
+      "visits": 99,
+      "downloads": 15
+    },
+    {
+      "month": "2024-07",
+      "visits": 98,
+      "downloads": 31
+    },
+    {
+      "month": "2024-08",
+      "visits": 58,
+      "downloads": 34
+    },
+    {
+      "month": "2024-09",
+      "visits": 51,
+      "downloads": 20
+    },
+    {
+      "month": "2024-10",
+      "visits": 111,
+      "downloads": 61
+    },
+    {
+      "month": "2024-11",
+      "visits": 113,
+      "downloads": 25
+    },
+    {
+      "month": "2024-12",
+      "visits": 87,
+      "downloads": 26
+    },
+    {
+      "month": "2025-01",
+      "visits": 61,
+      "downloads": 43
+    },
+    {
+      "month": "2025-02",
+      "visits": 112,
+      "downloads": 70
+    },
+    {
+      "month": "2025-03",
+      "visits": 149,
+      "downloads": 63
+    },
+    {
+      "month": "2025-04",
+      "visits": 164,
+      "downloads": 65
+    },
+    {
+      "month": "2025-05",
+      "visits": 148,
+      "downloads": 40
+    },
+    {
+      "month": "2025-06",
+      "visits": 196,
+      "downloads": 22
+    },
+    {
+      "month": "2025-07",
+      "visits": 141,
+      "downloads": 28
+    },
+    {
+      "month": "2025-08",
+      "visits": 145,
+      "downloads": 12
+    },
+    {
+      "month": "2025-09",
+      "visits": 97,
+      "downloads": 21
+    },
+    {
+      "month": "2025-10",
+      "visits": 104,
+      "downloads": 15
+    },
+    {
+      "month": "2025-11",
+      "visits": 229,
+      "downloads": 40
+    },
+    {
+      "month": "2025-12",
+      "visits": 7,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

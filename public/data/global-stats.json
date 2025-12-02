@@ -1,0 +1,219 @@
+{
+  "totalVisits": 42029586,
+  "totalDownloads": 203319440,
+  "totalDatasets": 50,
+  "startDate": "2022-07",
+  "lastUpdate": "2025-12-02T15:33:03.019Z",
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 750463,
+      "downloads": 1361625
+    },
+    {
+      "month": "2022-08",
+      "visits": 1228205,
+      "downloads": 2372654
+    },
+    {
+      "month": "2022-09",
+      "visits": 1211859,
+      "downloads": 2970121
+    },
+    {
+      "month": "2022-10",
+      "visits": 1606957,
+      "downloads": 3319654
+    },
+    {
+      "month": "2022-11",
+      "visits": 1637228,
+      "downloads": 3486413
+    },
+    {
+      "month": "2022-12",
+      "visits": 1431411,
+      "downloads": 3664986
+    },
+    {
+      "month": "2023-01",
+      "visits": 1337499,
+      "downloads": 4290695
+    },
+    {
+      "month": "2023-02",
+      "visits": 1152292,
+      "downloads": 3759092
+    },
+    {
+      "month": "2023-03",
+      "visits": 1239932,
+      "downloads": 4549936
+    },
+    {
+      "month": "2023-04",
+      "visits": 1225504,
+      "downloads": 4373928
+    },
+    {
+      "month": "2023-05",
+      "visits": 1184624,
+      "downloads": 4500442
+    },
+    {
+      "month": "2023-06",
+      "visits": 1307152,
+      "downloads": 4720525
+    },
+    {
+      "month": "2023-07",
+      "visits": 1418823,
+      "downloads": 4824617
+    },
+    {
+      "month": "2023-08",
+      "visits": 1276147,
+      "downloads": 4394902
+    },
+    {
+      "month": "2023-09",
+      "visits": 1371969,
+      "downloads": 5158285
+    },
+    {
+      "month": "2023-10",
+      "visits": 1402776,
+      "downloads": 5520083
+    },
+    {
+      "month": "2023-11",
+      "visits": 1185069,
+      "downloads": 5593728
+    },
+    {
+      "month": "2023-12",
+      "visits": 1223374,
+      "downloads": 5439425
+    },
+    {
+      "month": "2024-01",
+      "visits": 1390179,
+      "downloads": 6695924
+    },
+    {
+      "month": "2024-02",
+      "visits": 1240605,
+      "downloads": 5415510
+    },
+    {
+      "month": "2024-03",
+      "visits": 1180969,
+      "downloads": 6774048
+    },
+    {
+      "month": "2024-04",
+      "visits": 972069,
+      "downloads": 5465424
+    },
+    {
+      "month": "2024-05",
+      "visits": 995617,
+      "downloads": 5849838
+    },
+    {
+      "month": "2024-06",
+      "visits": 981604,
+      "downloads": 5726125
+    },
+    {
+      "month": "2024-07",
+      "visits": 945755,
+      "downloads": 5460905
+    },
+    {
+      "month": "2024-08",
+      "visits": 902657,
+      "downloads": 5145145
+    },
+    {
+      "month": "2024-09",
+      "visits": 975722,
+      "downloads": 5895517
+    },
+    {
+      "month": "2024-10",
+      "visits": 1070926,
+      "downloads": 5845601
+    },
+    {
+      "month": "2024-11",
+      "visits": 1038001,
+      "downloads": 6006855
+    },
+    {
+      "month": "2024-12",
+      "visits": 895673,
+      "downloads": 4001594
+    },
+    {
+      "month": "2025-01",
+      "visits": 685329,
+      "downloads": 1567115
+    },
+    {
+      "month": "2025-02",
+      "visits": 982866,
+      "downloads": 4999730
+    },
+    {
+      "month": "2025-03",
+      "visits": 803884,
+      "downloads": 6296299
+    },
+    {
+      "month": "2025-04",
+      "visits": 565960,
+      "downloads": 6148648
+    },
+    {
+      "month": "2025-05",
+      "visits": 543336,
+      "downloads": 6388723
+    },
+    {
+      "month": "2025-06",
+      "visits": 511150,
+      "downloads": 5956191
+    },
+    {
+      "month": "2025-07",
+      "visits": 372750,
+      "downloads": 6046652
+    },
+    {
+      "month": "2025-08",
+      "visits": 365185,
+      "downloads": 5843829
+    },
+    {
+      "month": "2025-09",
+      "visits": 460834,
+      "downloads": 6437113
+    },
+    {
+      "month": "2025-10",
+      "visits": 512996,
+      "downloads": 4475618
+    },
+    {
+      "month": "2025-11",
+      "visits": 433746,
+      "downloads": 6371952
+    },
+    {
+      "month": "2025-12",
+      "visits": 10489,
+      "downloads": 203973
+    }
+  ]
+}

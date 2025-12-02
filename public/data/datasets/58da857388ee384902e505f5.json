@@ -1,0 +1,224 @@
+{
+  "id": "58da857388ee384902e505f5",
+  "title": "Répertoire Opérationnel des Métiers et des Emplois (ROME)",
+  "slug": "repertoire-operationnel-des-metiers-et-des-emplois-rome",
+  "organization": "France Travail",
+  "organizationId": "534fffa3a3a7292c64a78094",
+  "url": "https://www.data.gouv.fr/datasets/repertoire-operationnel-des-metiers-et-des-emplois-rome/",
+  "totalVisits": 256533,
+  "totalDownloads": 65375,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2642,
+      "downloads": 740
+    },
+    {
+      "month": "2022-08",
+      "visits": 3921,
+      "downloads": 1309
+    },
+    {
+      "month": "2022-09",
+      "visits": 6235,
+      "downloads": 1671
+    },
+    {
+      "month": "2022-10",
+      "visits": 6229,
+      "downloads": 1870
+    },
+    {
+      "month": "2022-11",
+      "visits": 6321,
+      "downloads": 1841
+    },
+    {
+      "month": "2022-12",
+      "visits": 4647,
+      "downloads": 1592
+    },
+    {
+      "month": "2023-01",
+      "visits": 5927,
+      "downloads": 1699
+    },
+    {
+      "month": "2023-02",
+      "visits": 5798,
+      "downloads": 1359
+    },
+    {
+      "month": "2023-03",
+      "visits": 6712,
+      "downloads": 1820
+    },
+    {
+      "month": "2023-04",
+      "visits": 7030,
+      "downloads": 1910
+    },
+    {
+      "month": "2023-05",
+      "visits": 4975,
+      "downloads": 1714
+    },
+    {
+      "month": "2023-06",
+      "visits": 5661,
+      "downloads": 1780
+    },
+    {
+      "month": "2023-07",
+      "visits": 5069,
+      "downloads": 1778
+    },
+    {
+      "month": "2023-08",
+      "visits": 3573,
+      "downloads": 1180
+    },
+    {
+      "month": "2023-09",
+      "visits": 5972,
+      "downloads": 1539
+    },
+    {
+      "month": "2023-10",
+      "visits": 6990,
+      "downloads": 1911
+    },
+    {
+      "month": "2023-11",
+      "visits": 7057,
+      "downloads": 1782
+    },
+    {
+      "month": "2023-12",
+      "visits": 5570,
+      "downloads": 1552
+    },
+    {
+      "month": "2024-01",
+      "visits": 8236,
+      "downloads": 2008
+    },
+    {
+      "month": "2024-02",
+      "visits": 8851,
+      "downloads": 2179
+    },
+    {
+      "month": "2024-03",
+      "visits": 8672,
+      "downloads": 2561
+    },
+    {
+      "month": "2024-04",
+      "visits": 6379,
+      "downloads": 1349
+    },
+    {
+      "month": "2024-05",
+      "visits": 5057,
+      "downloads": 1237
+    },
+    {
+      "month": "2024-06",
+      "visits": 6464,
+      "downloads": 1986
+    },
+    {
+      "month": "2024-07",
+      "visits": 8359,
+      "downloads": 1869
+    },
+    {
+      "month": "2024-08",
+      "visits": 5665,
+      "downloads": 1155
+    },
+    {
+      "month": "2024-09",
+      "visits": 6900,
+      "downloads": 1534
+    },
+    {
+      "month": "2024-10",
+      "visits": 8603,
+      "downloads": 1624
+    },
+    {
+      "month": "2024-11",
+      "visits": 8002,
+      "downloads": 1616
+    },
+    {
+      "month": "2024-12",
+      "visits": 5326,
+      "downloads": 914
+    },
+    {
+      "month": "2025-01",
+      "visits": 1443,
+      "downloads": 256
+    },
+    {
+      "month": "2025-02",
+      "visits": 3562,
+      "downloads": 1292
+    },
+    {
+      "month": "2025-03",
+      "visits": 5378,
+      "downloads": 1435
+    },
+    {
+      "month": "2025-04",
+      "visits": 5709,
+      "downloads": 1597
+    },
+    {
+      "month": "2025-05",
+      "visits": 5339,
+      "downloads": 1515
+    },
+    {
+      "month": "2025-06",
+      "visits": 5580,
+      "downloads": 1771
+    },
+    {
+      "month": "2025-07",
+      "visits": 4209,
+      "downloads": 1862
+    },
+    {
+      "month": "2025-08",
+      "visits": 4959,
+      "downloads": 1407
+    },
+    {
+      "month": "2025-09",
+      "visits": 10258,
+      "downloads": 1750
+    },
+    {
+      "month": "2025-10",
+      "visits": 10044,
+      "downloads": 1692
+    },
+    {
+      "month": "2025-11",
+      "visits": 13037,
+      "downloads": 1695
+    },
+    {
+      "month": "2025-12",
+      "visits": 172,
+      "downloads": 24
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

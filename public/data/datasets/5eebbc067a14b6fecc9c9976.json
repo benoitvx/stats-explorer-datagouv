@@ -1,0 +1,224 @@
+{
+  "id": "5eebbc067a14b6fecc9c9976",
+  "title": "Répertoire national des certifications professionnelles et répertoire spécifique",
+  "slug": "repertoire-national-des-certifications-professionnelles-et-repertoire-specifique",
+  "organization": "France compétences",
+  "organizationId": "5d767ad36f44414d5b3645c8",
+  "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-certifications-professionnelles-et-repertoire-specifique/",
+  "totalVisits": 214692,
+  "totalDownloads": 194512,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2444,
+      "downloads": 2110
+    },
+    {
+      "month": "2022-08",
+      "visits": 3822,
+      "downloads": 1741
+    },
+    {
+      "month": "2022-09",
+      "visits": 4825,
+      "downloads": 1908
+    },
+    {
+      "month": "2022-10",
+      "visits": 5697,
+      "downloads": 2348
+    },
+    {
+      "month": "2022-11",
+      "visits": 5864,
+      "downloads": 3974
+    },
+    {
+      "month": "2022-12",
+      "visits": 4377,
+      "downloads": 32194
+    },
+    {
+      "month": "2023-01",
+      "visits": 5823,
+      "downloads": 5878
+    },
+    {
+      "month": "2023-02",
+      "visits": 4728,
+      "downloads": 2292
+    },
+    {
+      "month": "2023-03",
+      "visits": 6292,
+      "downloads": 5350
+    },
+    {
+      "month": "2023-04",
+      "visits": 5654,
+      "downloads": 2802
+    },
+    {
+      "month": "2023-05",
+      "visits": 4361,
+      "downloads": 5111
+    },
+    {
+      "month": "2023-06",
+      "visits": 5354,
+      "downloads": 2806
+    },
+    {
+      "month": "2023-07",
+      "visits": 4931,
+      "downloads": 3197
+    },
+    {
+      "month": "2023-08",
+      "visits": 3801,
+      "downloads": 3254
+    },
+    {
+      "month": "2023-09",
+      "visits": 4948,
+      "downloads": 2722
+    },
+    {
+      "month": "2023-10",
+      "visits": 5877,
+      "downloads": 2777
+    },
+    {
+      "month": "2023-11",
+      "visits": 5549,
+      "downloads": 2806
+    },
+    {
+      "month": "2023-12",
+      "visits": 4778,
+      "downloads": 3000
+    },
+    {
+      "month": "2024-01",
+      "visits": 6001,
+      "downloads": 3650
+    },
+    {
+      "month": "2024-02",
+      "visits": 5874,
+      "downloads": 3198
+    },
+    {
+      "month": "2024-03",
+      "visits": 6108,
+      "downloads": 8744
+    },
+    {
+      "month": "2024-04",
+      "visits": 5657,
+      "downloads": 3510
+    },
+    {
+      "month": "2024-05",
+      "visits": 6129,
+      "downloads": 3551
+    },
+    {
+      "month": "2024-06",
+      "visits": 5966,
+      "downloads": 3095
+    },
+    {
+      "month": "2024-07",
+      "visits": 6301,
+      "downloads": 3378
+    },
+    {
+      "month": "2024-08",
+      "visits": 4116,
+      "downloads": 2586
+    },
+    {
+      "month": "2024-09",
+      "visits": 4976,
+      "downloads": 3223
+    },
+    {
+      "month": "2024-10",
+      "visits": 5476,
+      "downloads": 2771
+    },
+    {
+      "month": "2024-11",
+      "visits": 5113,
+      "downloads": 3718
+    },
+    {
+      "month": "2024-12",
+      "visits": 3954,
+      "downloads": 2888
+    },
+    {
+      "month": "2025-01",
+      "visits": 853,
+      "downloads": 3442
+    },
+    {
+      "month": "2025-02",
+      "visits": 1834,
+      "downloads": 3065
+    },
+    {
+      "month": "2025-03",
+      "visits": 2147,
+      "downloads": 3759
+    },
+    {
+      "month": "2025-04",
+      "visits": 2724,
+      "downloads": 4959
+    },
+    {
+      "month": "2025-05",
+      "visits": 3940,
+      "downloads": 3548
+    },
+    {
+      "month": "2025-06",
+      "visits": 13312,
+      "downloads": 6928
+    },
+    {
+      "month": "2025-07",
+      "visits": 5582,
+      "downloads": 5248
+    },
+    {
+      "month": "2025-08",
+      "visits": 6112,
+      "downloads": 5726
+    },
+    {
+      "month": "2025-09",
+      "visits": 7485,
+      "downloads": 12547
+    },
+    {
+      "month": "2025-10",
+      "visits": 8256,
+      "downloads": 7868
+    },
+    {
+      "month": "2025-11",
+      "visits": 7440,
+      "downloads": 6644
+    },
+    {
+      "month": "2025-12",
+      "visits": 211,
+      "downloads": 196
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

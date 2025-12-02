@@ -1,0 +1,164 @@
+{
+  "id": "64ad143fea48372c1499772f",
+  "title": "La délivrance de visas aux étrangers, publication du 26 janvier 2023",
+  "slug": "la-delivrance-de-visas-aux-etrangers-publication-du-26-janvier-2023",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/la-delivrance-de-visas-aux-etrangers-publication-du-26-janvier-2023/",
+  "totalVisits": 2827,
+  "totalDownloads": 196,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 528,
+      "downloads": 13
+    },
+    {
+      "month": "2023-08",
+      "visits": 62,
+      "downloads": 4
+    },
+    {
+      "month": "2023-09",
+      "visits": 60,
+      "downloads": 2
+    },
+    {
+      "month": "2023-10",
+      "visits": 39,
+      "downloads": 3
+    },
+    {
+      "month": "2023-11",
+      "visits": 48,
+      "downloads": 6
+    },
+    {
+      "month": "2023-12",
+      "visits": 62,
+      "downloads": 6
+    },
+    {
+      "month": "2024-01",
+      "visits": 70,
+      "downloads": 7
+    },
+    {
+      "month": "2024-02",
+      "visits": 66,
+      "downloads": 6
+    },
+    {
+      "month": "2024-03",
+      "visits": 65,
+      "downloads": 4
+    },
+    {
+      "month": "2024-04",
+      "visits": 64,
+      "downloads": 7
+    },
+    {
+      "month": "2024-05",
+      "visits": 53,
+      "downloads": 20
+    },
+    {
+      "month": "2024-06",
+      "visits": 69,
+      "downloads": 4
+    },
+    {
+      "month": "2024-07",
+      "visits": 69,
+      "downloads": 6
+    },
+    {
+      "month": "2024-08",
+      "visits": 52,
+      "downloads": 7
+    },
+    {
+      "month": "2024-09",
+      "visits": 62,
+      "downloads": 4
+    },
+    {
+      "month": "2024-10",
+      "visits": 114,
+      "downloads": 11
+    },
+    {
+      "month": "2024-11",
+      "visits": 203,
+      "downloads": 4
+    },
+    {
+      "month": "2024-12",
+      "visits": 163,
+      "downloads": 3
+    },
+    {
+      "month": "2025-01",
+      "visits": 81,
+      "downloads": 6
+    },
+    {
+      "month": "2025-02",
+      "visits": 116,
+      "downloads": 14
+    },
+    {
+      "month": "2025-03",
+      "visits": 135,
+      "downloads": 8
+    },
+    {
+      "month": "2025-04",
+      "visits": 101,
+      "downloads": 9
+    },
+    {
+      "month": "2025-05",
+      "visits": 85,
+      "downloads": 5
+    },
+    {
+      "month": "2025-06",
+      "visits": 109,
+      "downloads": 5
+    },
+    {
+      "month": "2025-07",
+      "visits": 52,
+      "downloads": 5
+    },
+    {
+      "month": "2025-08",
+      "visits": 84,
+      "downloads": 7
+    },
+    {
+      "month": "2025-09",
+      "visits": 58,
+      "downloads": 4
+    },
+    {
+      "month": "2025-10",
+      "visits": 48,
+      "downloads": 9
+    },
+    {
+      "month": "2025-11",
+      "visits": 106,
+      "downloads": 7
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "stats-explorer-datagouv",
+  "version": "0.1.0",
+  "description": "Visualiser les statistiques d'usage de data.gouv.fr",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sync-stats": "tsx scripts/sync-stats.ts",
+    "sync-stats:dry": "tsx scripts/sync-stats.ts --dry-run"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "@gouvfr/dsfr": "^1.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.0",
+    "tsx": "^4.7.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

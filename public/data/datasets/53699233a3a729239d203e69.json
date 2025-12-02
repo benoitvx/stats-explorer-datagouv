@@ -1,0 +1,224 @@
+{
+  "id": "53699233a3a729239d203e69",
+  "title": "Découpage administratif communal français issu d'OpenStreetMap",
+  "slug": "decoupage-administratif-communal-francais-issu-d-openstreetmap",
+  "organization": "OpenStreetMap",
+  "organizationId": "534fffa0a3a7292c64a7806b",
+  "url": "https://www.data.gouv.fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/",
+  "totalVisits": 263771,
+  "totalDownloads": 115468,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 3200,
+      "downloads": 1513
+    },
+    {
+      "month": "2022-08",
+      "visits": 5048,
+      "downloads": 2010
+    },
+    {
+      "month": "2022-09",
+      "visits": 6272,
+      "downloads": 2795
+    },
+    {
+      "month": "2022-10",
+      "visits": 7417,
+      "downloads": 2915
+    },
+    {
+      "month": "2022-11",
+      "visits": 7378,
+      "downloads": 2703
+    },
+    {
+      "month": "2022-12",
+      "visits": 5760,
+      "downloads": 2752
+    },
+    {
+      "month": "2023-01",
+      "visits": 7891,
+      "downloads": 3845
+    },
+    {
+      "month": "2023-02",
+      "visits": 6584,
+      "downloads": 2798
+    },
+    {
+      "month": "2023-03",
+      "visits": 7951,
+      "downloads": 3721
+    },
+    {
+      "month": "2023-04",
+      "visits": 6468,
+      "downloads": 2624
+    },
+    {
+      "month": "2023-05",
+      "visits": 6304,
+      "downloads": 2368
+    },
+    {
+      "month": "2023-06",
+      "visits": 7021,
+      "downloads": 2343
+    },
+    {
+      "month": "2023-07",
+      "visits": 5919,
+      "downloads": 2262
+    },
+    {
+      "month": "2023-08",
+      "visits": 5418,
+      "downloads": 2252
+    },
+    {
+      "month": "2023-09",
+      "visits": 6255,
+      "downloads": 2335
+    },
+    {
+      "month": "2023-10",
+      "visits": 7694,
+      "downloads": 3387
+    },
+    {
+      "month": "2023-11",
+      "visits": 7426,
+      "downloads": 3131
+    },
+    {
+      "month": "2023-12",
+      "visits": 6606,
+      "downloads": 2594
+    },
+    {
+      "month": "2024-01",
+      "visits": 7892,
+      "downloads": 3000
+    },
+    {
+      "month": "2024-02",
+      "visits": 7497,
+      "downloads": 3001
+    },
+    {
+      "month": "2024-03",
+      "visits": 8086,
+      "downloads": 3664
+    },
+    {
+      "month": "2024-04",
+      "visits": 6790,
+      "downloads": 2882
+    },
+    {
+      "month": "2024-05",
+      "visits": 6475,
+      "downloads": 2782
+    },
+    {
+      "month": "2024-06",
+      "visits": 6471,
+      "downloads": 2418
+    },
+    {
+      "month": "2024-07",
+      "visits": 6395,
+      "downloads": 2437
+    },
+    {
+      "month": "2024-08",
+      "visits": 5042,
+      "downloads": 1523
+    },
+    {
+      "month": "2024-09",
+      "visits": 6876,
+      "downloads": 2831
+    },
+    {
+      "month": "2024-10",
+      "visits": 8541,
+      "downloads": 4489
+    },
+    {
+      "month": "2024-11",
+      "visits": 7267,
+      "downloads": 3220
+    },
+    {
+      "month": "2024-12",
+      "visits": 4702,
+      "downloads": 2598
+    },
+    {
+      "month": "2025-01",
+      "visits": 925,
+      "downloads": 236
+    },
+    {
+      "month": "2025-02",
+      "visits": 5909,
+      "downloads": 2548
+    },
+    {
+      "month": "2025-03",
+      "visits": 8235,
+      "downloads": 5761
+    },
+    {
+      "month": "2025-04",
+      "visits": 7762,
+      "downloads": 4836
+    },
+    {
+      "month": "2025-05",
+      "visits": 6615,
+      "downloads": 2429
+    },
+    {
+      "month": "2025-06",
+      "visits": 6163,
+      "downloads": 1859
+    },
+    {
+      "month": "2025-07",
+      "visits": 5584,
+      "downloads": 1894
+    },
+    {
+      "month": "2025-08",
+      "visits": 4847,
+      "downloads": 2158
+    },
+    {
+      "month": "2025-09",
+      "visits": 5975,
+      "downloads": 3835
+    },
+    {
+      "month": "2025-10",
+      "visits": 6660,
+      "downloads": 3545
+    },
+    {
+      "month": "2025-11",
+      "visits": 6326,
+      "downloads": 3137
+    },
+    {
+      "month": "2025-12",
+      "visits": 124,
+      "downloads": 37
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

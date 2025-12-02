@@ -1,0 +1,224 @@
+{
+  "id": "5c34c4d1634f4173183a64f1",
+  "title": "Répertoire national des élus",
+  "slug": "repertoire-national-des-elus-1",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-elus-1/",
+  "totalVisits": 227667,
+  "totalDownloads": 3303021,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1840,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 2893,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 3943,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 4813,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 5111,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 3758,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 7633,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 5340,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 6031,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 5459,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 4969,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 5301,
+      "downloads": 58063
+    },
+    {
+      "month": "2023-07",
+      "visits": 5452,
+      "downloads": 93521
+    },
+    {
+      "month": "2023-08",
+      "visits": 5319,
+      "downloads": 76226
+    },
+    {
+      "month": "2023-09",
+      "visits": 6626,
+      "downloads": 83450
+    },
+    {
+      "month": "2023-10",
+      "visits": 6557,
+      "downloads": 105141
+    },
+    {
+      "month": "2023-11",
+      "visits": 5236,
+      "downloads": 166511
+    },
+    {
+      "month": "2023-12",
+      "visits": 5154,
+      "downloads": 113723
+    },
+    {
+      "month": "2024-01",
+      "visits": 5807,
+      "downloads": 117209
+    },
+    {
+      "month": "2024-02",
+      "visits": 5222,
+      "downloads": 97558
+    },
+    {
+      "month": "2024-03",
+      "visits": 5267,
+      "downloads": 128836
+    },
+    {
+      "month": "2024-04",
+      "visits": 4596,
+      "downloads": 104536
+    },
+    {
+      "month": "2024-05",
+      "visits": 5222,
+      "downloads": 105406
+    },
+    {
+      "month": "2024-06",
+      "visits": 6868,
+      "downloads": 113998
+    },
+    {
+      "month": "2024-07",
+      "visits": 6342,
+      "downloads": 107786
+    },
+    {
+      "month": "2024-08",
+      "visits": 4125,
+      "downloads": 114209
+    },
+    {
+      "month": "2024-09",
+      "visits": 6447,
+      "downloads": 99316
+    },
+    {
+      "month": "2024-10",
+      "visits": 5801,
+      "downloads": 125371
+    },
+    {
+      "month": "2024-11",
+      "visits": 6529,
+      "downloads": 132736
+    },
+    {
+      "month": "2024-12",
+      "visits": 4352,
+      "downloads": 141181
+    },
+    {
+      "month": "2025-01",
+      "visits": 1097,
+      "downloads": 109876
+    },
+    {
+      "month": "2025-02",
+      "visits": 6037,
+      "downloads": 125751
+    },
+    {
+      "month": "2025-03",
+      "visits": 7203,
+      "downloads": 114944
+    },
+    {
+      "month": "2025-04",
+      "visits": 8111,
+      "downloads": 110516
+    },
+    {
+      "month": "2025-05",
+      "visits": 7587,
+      "downloads": 106549
+    },
+    {
+      "month": "2025-06",
+      "visits": 6606,
+      "downloads": 114044
+    },
+    {
+      "month": "2025-07",
+      "visits": 5562,
+      "downloads": 113479
+    },
+    {
+      "month": "2025-08",
+      "visits": 4827,
+      "downloads": 94462
+    },
+    {
+      "month": "2025-09",
+      "visits": 6575,
+      "downloads": 105378
+    },
+    {
+      "month": "2025-10",
+      "visits": 8756,
+      "downloads": 109880
+    },
+    {
+      "month": "2025-11",
+      "visits": 7084,
+      "downloads": 110356
+    },
+    {
+      "month": "2025-12",
+      "visits": 209,
+      "downloads": 3009
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "53698f1aa3a729239d203653",
+  "title": "Associations Reconnues d'Utilité Publique",
+  "slug": "associations-reconnues-d-utilite-publique",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/associations-reconnues-d-utilite-publique/",
+  "totalVisits": 336751,
+  "totalDownloads": 195766,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2940,
+      "downloads": 1894
+    },
+    {
+      "month": "2022-08",
+      "visits": 4863,
+      "downloads": 2994
+    },
+    {
+      "month": "2022-09",
+      "visits": 7038,
+      "downloads": 4394
+    },
+    {
+      "month": "2022-10",
+      "visits": 7851,
+      "downloads": 5257
+    },
+    {
+      "month": "2022-11",
+      "visits": 8396,
+      "downloads": 5733
+    },
+    {
+      "month": "2022-12",
+      "visits": 8466,
+      "downloads": 4997
+    },
+    {
+      "month": "2023-01",
+      "visits": 8457,
+      "downloads": 5256
+    },
+    {
+      "month": "2023-02",
+      "visits": 8044,
+      "downloads": 4699
+    },
+    {
+      "month": "2023-03",
+      "visits": 8244,
+      "downloads": 5633
+    },
+    {
+      "month": "2023-04",
+      "visits": 9015,
+      "downloads": 6180
+    },
+    {
+      "month": "2023-05",
+      "visits": 10816,
+      "downloads": 7416
+    },
+    {
+      "month": "2023-06",
+      "visits": 8921,
+      "downloads": 5850
+    },
+    {
+      "month": "2023-07",
+      "visits": 6212,
+      "downloads": 3573
+    },
+    {
+      "month": "2023-08",
+      "visits": 5215,
+      "downloads": 2877
+    },
+    {
+      "month": "2023-09",
+      "visits": 8703,
+      "downloads": 5312
+    },
+    {
+      "month": "2023-10",
+      "visits": 11814,
+      "downloads": 6259
+    },
+    {
+      "month": "2023-11",
+      "visits": 9643,
+      "downloads": 6076
+    },
+    {
+      "month": "2023-12",
+      "visits": 9235,
+      "downloads": 5983
+    },
+    {
+      "month": "2024-01",
+      "visits": 10409,
+      "downloads": 5999
+    },
+    {
+      "month": "2024-02",
+      "visits": 10553,
+      "downloads": 6127
+    },
+    {
+      "month": "2024-03",
+      "visits": 10337,
+      "downloads": 6929
+    },
+    {
+      "month": "2024-04",
+      "visits": 11541,
+      "downloads": 7302
+    },
+    {
+      "month": "2024-05",
+      "visits": 11519,
+      "downloads": 7141
+    },
+    {
+      "month": "2024-06",
+      "visits": 8282,
+      "downloads": 4697
+    },
+    {
+      "month": "2024-07",
+      "visits": 6800,
+      "downloads": 3647
+    },
+    {
+      "month": "2024-08",
+      "visits": 5203,
+      "downloads": 2643
+    },
+    {
+      "month": "2024-09",
+      "visits": 7957,
+      "downloads": 4341
+    },
+    {
+      "month": "2024-10",
+      "visits": 9151,
+      "downloads": 4942
+    },
+    {
+      "month": "2024-11",
+      "visits": 9750,
+      "downloads": 5142
+    },
+    {
+      "month": "2024-12",
+      "visits": 6914,
+      "downloads": 3439
+    },
+    {
+      "month": "2025-01",
+      "visits": 977,
+      "downloads": 243
+    },
+    {
+      "month": "2025-02",
+      "visits": 8136,
+      "downloads": 5004
+    },
+    {
+      "month": "2025-03",
+      "visits": 8901,
+      "downloads": 4736
+    },
+    {
+      "month": "2025-04",
+      "visits": 9638,
+      "downloads": 5006
+    },
+    {
+      "month": "2025-05",
+      "visits": 11867,
+      "downloads": 6182
+    },
+    {
+      "month": "2025-06",
+      "visits": 8737,
+      "downloads": 3859
+    },
+    {
+      "month": "2025-07",
+      "visits": 6837,
+      "downloads": 3026
+    },
+    {
+      "month": "2025-08",
+      "visits": 4882,
+      "downloads": 2308
+    },
+    {
+      "month": "2025-09",
+      "visits": 7279,
+      "downloads": 4009
+    },
+    {
+      "month": "2025-10",
+      "visits": 8552,
+      "downloads": 4440
+    },
+    {
+      "month": "2025-11",
+      "visits": 8472,
+      "downloads": 4131
+    },
+    {
+      "month": "2025-12",
+      "visits": 184,
+      "downloads": 90
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "582c8978c751df788ec0bb7e",
+  "title": "Liste Publique des Organismes de Formation (L.6351-7-1 du Code du Travail)",
+  "slug": "liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail",
+  "organization": "Ministère du Travail du Plein emploi et de l'Insertion",
+  "organizationId": "534fff96a3a7292c64a77ff4",
+  "url": "https://www.data.gouv.fr/datasets/liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail/",
+  "totalVisits": 1002826,
+  "totalDownloads": 425933,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 12146,
+      "downloads": 7800
+    },
+    {
+      "month": "2022-08",
+      "visits": 18500,
+      "downloads": 11374
+    },
+    {
+      "month": "2022-09",
+      "visits": 26058,
+      "downloads": 16591
+    },
+    {
+      "month": "2022-10",
+      "visits": 27614,
+      "downloads": 17019
+    },
+    {
+      "month": "2022-11",
+      "visits": 25268,
+      "downloads": 14898
+    },
+    {
+      "month": "2022-12",
+      "visits": 20344,
+      "downloads": 12018
+    },
+    {
+      "month": "2023-01",
+      "visits": 26034,
+      "downloads": 14154
+    },
+    {
+      "month": "2023-02",
+      "visits": 22942,
+      "downloads": 11418
+    },
+    {
+      "month": "2023-03",
+      "visits": 27317,
+      "downloads": 16198
+    },
+    {
+      "month": "2023-04",
+      "visits": 21796,
+      "downloads": 10687
+    },
+    {
+      "month": "2023-05",
+      "visits": 19217,
+      "downloads": 9383
+    },
+    {
+      "month": "2023-06",
+      "visits": 21639,
+      "downloads": 10028
+    },
+    {
+      "month": "2023-07",
+      "visits": 19935,
+      "downloads": 8737
+    },
+    {
+      "month": "2023-08",
+      "visits": 14851,
+      "downloads": 7394
+    },
+    {
+      "month": "2023-09",
+      "visits": 21828,
+      "downloads": 9375
+    },
+    {
+      "month": "2023-10",
+      "visits": 24025,
+      "downloads": 10110
+    },
+    {
+      "month": "2023-11",
+      "visits": 25539,
+      "downloads": 10683
+    },
+    {
+      "month": "2023-12",
+      "visits": 19883,
+      "downloads": 9397
+    },
+    {
+      "month": "2024-01",
+      "visits": 34343,
+      "downloads": 11460
+    },
+    {
+      "month": "2024-02",
+      "visits": 33808,
+      "downloads": 13039
+    },
+    {
+      "month": "2024-03",
+      "visits": 34918,
+      "downloads": 17324
+    },
+    {
+      "month": "2024-04",
+      "visits": 27725,
+      "downloads": 9557
+    },
+    {
+      "month": "2024-05",
+      "visits": 25995,
+      "downloads": 9187
+    },
+    {
+      "month": "2024-06",
+      "visits": 25774,
+      "downloads": 8568
+    },
+    {
+      "month": "2024-07",
+      "visits": 27736,
+      "downloads": 9295
+    },
+    {
+      "month": "2024-08",
+      "visits": 18392,
+      "downloads": 6461
+    },
+    {
+      "month": "2024-09",
+      "visits": 25955,
+      "downloads": 9919
+    },
+    {
+      "month": "2024-10",
+      "visits": 34109,
+      "downloads": 11937
+    },
+    {
+      "month": "2024-11",
+      "visits": 33047,
+      "downloads": 9976
+    },
+    {
+      "month": "2024-12",
+      "visits": 22940,
+      "downloads": 6522
+    },
+    {
+      "month": "2025-01",
+      "visits": 7917,
+      "downloads": 1263
+    },
+    {
+      "month": "2025-02",
+      "visits": 27827,
+      "downloads": 8596
+    },
+    {
+      "month": "2025-03",
+      "visits": 33368,
+      "downloads": 10164
+    },
+    {
+      "month": "2025-04",
+      "visits": 28387,
+      "downloads": 9467
+    },
+    {
+      "month": "2025-05",
+      "visits": 24357,
+      "downloads": 9495
+    },
+    {
+      "month": "2025-06",
+      "visits": 26874,
+      "downloads": 10436
+    },
+    {
+      "month": "2025-07",
+      "visits": 20985,
+      "downloads": 8963
+    },
+    {
+      "month": "2025-08",
+      "visits": 18766,
+      "downloads": 6225
+    },
+    {
+      "month": "2025-09",
+      "visits": 24516,
+      "downloads": 10409
+    },
+    {
+      "month": "2025-10",
+      "visits": 26827,
+      "downloads": 12391
+    },
+    {
+      "month": "2025-11",
+      "visits": 23033,
+      "downloads": 7937
+    },
+    {
+      "month": "2025-12",
+      "visits": 291,
+      "downloads": 78
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

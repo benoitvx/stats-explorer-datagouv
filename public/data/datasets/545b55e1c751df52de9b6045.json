@@ -1,0 +1,224 @@
+{
+  "id": "545b55e1c751df52de9b6045",
+  "title": "Base officielle des codes postaux",
+  "slug": "base-officielle-des-codes-postaux",
+  "organization": "La Poste",
+  "organizationId": "534fff85a3a7292c64a77e9c",
+  "url": "https://www.data.gouv.fr/datasets/base-officielle-des-codes-postaux/",
+  "totalVisits": 449653,
+  "totalDownloads": 127053,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 4427,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 7582,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 10087,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 10447,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 10365,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 8301,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 12461,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 10331,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 11907,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 10068,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 9805,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 10477,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 10642,
+      "downloads": 3801
+    },
+    {
+      "month": "2023-08",
+      "visits": 8508,
+      "downloads": 3732
+    },
+    {
+      "month": "2023-09",
+      "visits": 10353,
+      "downloads": 5455
+    },
+    {
+      "month": "2023-10",
+      "visits": 11703,
+      "downloads": 6303
+    },
+    {
+      "month": "2023-11",
+      "visits": 11772,
+      "downloads": 5531
+    },
+    {
+      "month": "2023-12",
+      "visits": 9690,
+      "downloads": 4538
+    },
+    {
+      "month": "2024-01",
+      "visits": 14149,
+      "downloads": 5124
+    },
+    {
+      "month": "2024-02",
+      "visits": 12220,
+      "downloads": 4385
+    },
+    {
+      "month": "2024-03",
+      "visits": 12405,
+      "downloads": 4642
+    },
+    {
+      "month": "2024-04",
+      "visits": 10782,
+      "downloads": 5605
+    },
+    {
+      "month": "2024-05",
+      "visits": 10418,
+      "downloads": 3305
+    },
+    {
+      "month": "2024-06",
+      "visits": 10933,
+      "downloads": 3661
+    },
+    {
+      "month": "2024-07",
+      "visits": 11107,
+      "downloads": 5062
+    },
+    {
+      "month": "2024-08",
+      "visits": 8697,
+      "downloads": 3521
+    },
+    {
+      "month": "2024-09",
+      "visits": 11828,
+      "downloads": 7011
+    },
+    {
+      "month": "2024-10",
+      "visits": 12793,
+      "downloads": 7133
+    },
+    {
+      "month": "2024-11",
+      "visits": 13653,
+      "downloads": 5036
+    },
+    {
+      "month": "2024-12",
+      "visits": 8527,
+      "downloads": 2574
+    },
+    {
+      "month": "2025-01",
+      "visits": 1511,
+      "downloads": 415
+    },
+    {
+      "month": "2025-02",
+      "visits": 13002,
+      "downloads": 4402
+    },
+    {
+      "month": "2025-03",
+      "visits": 16774,
+      "downloads": 5407
+    },
+    {
+      "month": "2025-04",
+      "visits": 15891,
+      "downloads": 5789
+    },
+    {
+      "month": "2025-05",
+      "visits": 13299,
+      "downloads": 4622
+    },
+    {
+      "month": "2025-06",
+      "visits": 12681,
+      "downloads": 4161
+    },
+    {
+      "month": "2025-07",
+      "visits": 11547,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 9719,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 13436,
+      "downloads": 3731
+    },
+    {
+      "month": "2025-10",
+      "visits": 13892,
+      "downloads": 6591
+    },
+    {
+      "month": "2025-11",
+      "visits": 11274,
+      "downloads": 5442
+    },
+    {
+      "month": "2025-12",
+      "visits": 189,
+      "downloads": 74
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

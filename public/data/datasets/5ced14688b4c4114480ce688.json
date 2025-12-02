@@ -1,0 +1,224 @@
+{
+  "id": "5ced14688b4c4114480ce688",
+  "title": "Communes de france - Base  des codes postaux",
+  "slug": "communes-de-france-base-des-codes-postaux",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/communes-de-france-base-des-codes-postaux/",
+  "totalVisits": 169242,
+  "totalDownloads": 165860,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1674,
+      "downloads": 2225
+    },
+    {
+      "month": "2022-08",
+      "visits": 2533,
+      "downloads": 2724
+    },
+    {
+      "month": "2022-09",
+      "visits": 2844,
+      "downloads": 4147
+    },
+    {
+      "month": "2022-10",
+      "visits": 3282,
+      "downloads": 3467
+    },
+    {
+      "month": "2022-11",
+      "visits": 3399,
+      "downloads": 2763
+    },
+    {
+      "month": "2022-12",
+      "visits": 2751,
+      "downloads": 2282
+    },
+    {
+      "month": "2023-01",
+      "visits": 3843,
+      "downloads": 3040
+    },
+    {
+      "month": "2023-02",
+      "visits": 3112,
+      "downloads": 3944
+    },
+    {
+      "month": "2023-03",
+      "visits": 3175,
+      "downloads": 2448
+    },
+    {
+      "month": "2023-04",
+      "visits": 3132,
+      "downloads": 2096
+    },
+    {
+      "month": "2023-05",
+      "visits": 3139,
+      "downloads": 2906
+    },
+    {
+      "month": "2023-06",
+      "visits": 3138,
+      "downloads": 5817
+    },
+    {
+      "month": "2023-07",
+      "visits": 3601,
+      "downloads": 2830
+    },
+    {
+      "month": "2023-08",
+      "visits": 3268,
+      "downloads": 1909
+    },
+    {
+      "month": "2023-09",
+      "visits": 4694,
+      "downloads": 4614
+    },
+    {
+      "month": "2023-10",
+      "visits": 4524,
+      "downloads": 6167
+    },
+    {
+      "month": "2023-11",
+      "visits": 4502,
+      "downloads": 4868
+    },
+    {
+      "month": "2023-12",
+      "visits": 3953,
+      "downloads": 4593
+    },
+    {
+      "month": "2024-01",
+      "visits": 5151,
+      "downloads": 2597
+    },
+    {
+      "month": "2024-02",
+      "visits": 4548,
+      "downloads": 3355
+    },
+    {
+      "month": "2024-03",
+      "visits": 5017,
+      "downloads": 4870
+    },
+    {
+      "month": "2024-04",
+      "visits": 4728,
+      "downloads": 21611
+    },
+    {
+      "month": "2024-05",
+      "visits": 4460,
+      "downloads": 2586
+    },
+    {
+      "month": "2024-06",
+      "visits": 4205,
+      "downloads": 2901
+    },
+    {
+      "month": "2024-07",
+      "visits": 4110,
+      "downloads": 2754
+    },
+    {
+      "month": "2024-08",
+      "visits": 3263,
+      "downloads": 2674
+    },
+    {
+      "month": "2024-09",
+      "visits": 4148,
+      "downloads": 3823
+    },
+    {
+      "month": "2024-10",
+      "visits": 4668,
+      "downloads": 3548
+    },
+    {
+      "month": "2024-11",
+      "visits": 5106,
+      "downloads": 4707
+    },
+    {
+      "month": "2024-12",
+      "visits": 3527,
+      "downloads": 2954
+    },
+    {
+      "month": "2025-01",
+      "visits": 635,
+      "downloads": 2177
+    },
+    {
+      "month": "2025-02",
+      "visits": 5653,
+      "downloads": 3715
+    },
+    {
+      "month": "2025-03",
+      "visits": 7272,
+      "downloads": 3194
+    },
+    {
+      "month": "2025-04",
+      "visits": 7476,
+      "downloads": 3601
+    },
+    {
+      "month": "2025-05",
+      "visits": 6400,
+      "downloads": 5378
+    },
+    {
+      "month": "2025-06",
+      "visits": 5614,
+      "downloads": 3464
+    },
+    {
+      "month": "2025-07",
+      "visits": 4227,
+      "downloads": 3987
+    },
+    {
+      "month": "2025-08",
+      "visits": 3656,
+      "downloads": 5389
+    },
+    {
+      "month": "2025-09",
+      "visits": 4230,
+      "downloads": 5129
+    },
+    {
+      "month": "2025-10",
+      "visits": 5395,
+      "downloads": 4405
+    },
+    {
+      "month": "2025-11",
+      "visits": 5068,
+      "downloads": 3946
+    },
+    {
+      "month": "2025-12",
+      "visits": 121,
+      "downloads": 255
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

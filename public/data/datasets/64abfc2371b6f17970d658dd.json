@@ -1,0 +1,164 @@
+{
+  "id": "64abfc2371b6f17970d658dd",
+  "title": "L'accès à la nationalité française, publication du 26 janvier 2023",
+  "slug": "lacces-a-la-nationalite-francaise-publication-du-26-janvier-2023",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/lacces-a-la-nationalite-francaise-publication-du-26-janvier-2023/",
+  "totalVisits": 3131,
+  "totalDownloads": 196,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 478,
+      "downloads": 9
+    },
+    {
+      "month": "2023-08",
+      "visits": 71,
+      "downloads": 3
+    },
+    {
+      "month": "2023-09",
+      "visits": 55,
+      "downloads": 4
+    },
+    {
+      "month": "2023-10",
+      "visits": 33,
+      "downloads": 8
+    },
+    {
+      "month": "2023-11",
+      "visits": 49,
+      "downloads": 4
+    },
+    {
+      "month": "2023-12",
+      "visits": 73,
+      "downloads": 4
+    },
+    {
+      "month": "2024-01",
+      "visits": 84,
+      "downloads": 4
+    },
+    {
+      "month": "2024-02",
+      "visits": 60,
+      "downloads": 8
+    },
+    {
+      "month": "2024-03",
+      "visits": 71,
+      "downloads": 4
+    },
+    {
+      "month": "2024-04",
+      "visits": 56,
+      "downloads": 6
+    },
+    {
+      "month": "2024-05",
+      "visits": 73,
+      "downloads": 6
+    },
+    {
+      "month": "2024-06",
+      "visits": 70,
+      "downloads": 4
+    },
+    {
+      "month": "2024-07",
+      "visits": 67,
+      "downloads": 6
+    },
+    {
+      "month": "2024-08",
+      "visits": 73,
+      "downloads": 3
+    },
+    {
+      "month": "2024-09",
+      "visits": 102,
+      "downloads": 6
+    },
+    {
+      "month": "2024-10",
+      "visits": 198,
+      "downloads": 11
+    },
+    {
+      "month": "2024-11",
+      "visits": 243,
+      "downloads": 5
+    },
+    {
+      "month": "2024-12",
+      "visits": 165,
+      "downloads": 3
+    },
+    {
+      "month": "2025-01",
+      "visits": 46,
+      "downloads": 7
+    },
+    {
+      "month": "2025-02",
+      "visits": 126,
+      "downloads": 14
+    },
+    {
+      "month": "2025-03",
+      "visits": 127,
+      "downloads": 14
+    },
+    {
+      "month": "2025-04",
+      "visits": 110,
+      "downloads": 6
+    },
+    {
+      "month": "2025-05",
+      "visits": 130,
+      "downloads": 8
+    },
+    {
+      "month": "2025-06",
+      "visits": 182,
+      "downloads": 7
+    },
+    {
+      "month": "2025-07",
+      "visits": 94,
+      "downloads": 13
+    },
+    {
+      "month": "2025-08",
+      "visits": 80,
+      "downloads": 6
+    },
+    {
+      "month": "2025-09",
+      "visits": 79,
+      "downloads": 4
+    },
+    {
+      "month": "2025-10",
+      "visits": 63,
+      "downloads": 9
+    },
+    {
+      "month": "2025-11",
+      "visits": 67,
+      "downloads": 9
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 1
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

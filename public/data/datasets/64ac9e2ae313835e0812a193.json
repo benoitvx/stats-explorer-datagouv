@@ -1,0 +1,164 @@
+{
+  "id": "64ac9e2ae313835e0812a193",
+  "title": "Infrastructure de Recharge de Véhicules Electriques (IRVE)",
+  "slug": "infrastructure-de-recharge-de-vehicules-electriques-irve",
+  "organization": "CHATEAUROUX METROPOLE",
+  "organizationId": "5bf67a998b4c417eae692920",
+  "url": "https://www.data.gouv.fr/datasets/infrastructure-de-recharge-de-vehicules-electriques-irve/",
+  "totalVisits": 3134,
+  "totalDownloads": 1079,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 438,
+      "downloads": 43
+    },
+    {
+      "month": "2023-08",
+      "visits": 55,
+      "downloads": 41
+    },
+    {
+      "month": "2023-09",
+      "visits": 85,
+      "downloads": 82
+    },
+    {
+      "month": "2023-10",
+      "visits": 63,
+      "downloads": 39
+    },
+    {
+      "month": "2023-11",
+      "visits": 66,
+      "downloads": 42
+    },
+    {
+      "month": "2023-12",
+      "visits": 95,
+      "downloads": 46
+    },
+    {
+      "month": "2024-01",
+      "visits": 108,
+      "downloads": 24
+    },
+    {
+      "month": "2024-02",
+      "visits": 111,
+      "downloads": 39
+    },
+    {
+      "month": "2024-03",
+      "visits": 70,
+      "downloads": 19
+    },
+    {
+      "month": "2024-04",
+      "visits": 78,
+      "downloads": 26
+    },
+    {
+      "month": "2024-05",
+      "visits": 82,
+      "downloads": 37
+    },
+    {
+      "month": "2024-06",
+      "visits": 96,
+      "downloads": 18
+    },
+    {
+      "month": "2024-07",
+      "visits": 103,
+      "downloads": 44
+    },
+    {
+      "month": "2024-08",
+      "visits": 60,
+      "downloads": 64
+    },
+    {
+      "month": "2024-09",
+      "visits": 37,
+      "downloads": 35
+    },
+    {
+      "month": "2024-10",
+      "visits": 66,
+      "downloads": 40
+    },
+    {
+      "month": "2024-11",
+      "visits": 128,
+      "downloads": 32
+    },
+    {
+      "month": "2024-12",
+      "visits": 120,
+      "downloads": 32
+    },
+    {
+      "month": "2025-01",
+      "visits": 121,
+      "downloads": 29
+    },
+    {
+      "month": "2025-02",
+      "visits": 125,
+      "downloads": 101
+    },
+    {
+      "month": "2025-03",
+      "visits": 120,
+      "downloads": 46
+    },
+    {
+      "month": "2025-04",
+      "visits": 126,
+      "downloads": 63
+    },
+    {
+      "month": "2025-05",
+      "visits": 85,
+      "downloads": 55
+    },
+    {
+      "month": "2025-06",
+      "visits": 172,
+      "downloads": 23
+    },
+    {
+      "month": "2025-07",
+      "visits": 114,
+      "downloads": 14
+    },
+    {
+      "month": "2025-08",
+      "visits": 126,
+      "downloads": 13
+    },
+    {
+      "month": "2025-09",
+      "visits": 103,
+      "downloads": 7
+    },
+    {
+      "month": "2025-10",
+      "visits": 85,
+      "downloads": 4
+    },
+    {
+      "month": "2025-11",
+      "visits": 90,
+      "downloads": 21
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}
