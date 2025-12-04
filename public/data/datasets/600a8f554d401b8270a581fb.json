@@ -1,0 +1,224 @@
+{
+  "id": "600a8f554d401b8270a581fb",
+  "title": "Evaluation des médicaments",
+  "slug": "evaluation-des-medicaments",
+  "organization": "Haute Autorité de santé (HAS)",
+  "organizationId": "534fff7ba3a7292c64a77e15",
+  "url": "https://www.data.gouv.fr/datasets/evaluation-des-medicaments/",
+  "totalVisits": 14733,
+  "totalDownloads": 462855,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 196,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 294,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 338,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 468,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 450,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 490,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 543,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 519,
+      "downloads": 31
+    },
+    {
+      "month": "2023-03",
+      "visits": 388,
+      "downloads": 159
+    },
+    {
+      "month": "2023-04",
+      "visits": 399,
+      "downloads": 15905
+    },
+    {
+      "month": "2023-05",
+      "visits": 327,
+      "downloads": 10229
+    },
+    {
+      "month": "2023-06",
+      "visits": 339,
+      "downloads": 14712
+    },
+    {
+      "month": "2023-07",
+      "visits": 275,
+      "downloads": 16920
+    },
+    {
+      "month": "2023-08",
+      "visits": 236,
+      "downloads": 14840
+    },
+    {
+      "month": "2023-09",
+      "visits": 371,
+      "downloads": 16039
+    },
+    {
+      "month": "2023-10",
+      "visits": 403,
+      "downloads": 16751
+    },
+    {
+      "month": "2023-11",
+      "visits": 408,
+      "downloads": 16196
+    },
+    {
+      "month": "2023-12",
+      "visits": 381,
+      "downloads": 17990
+    },
+    {
+      "month": "2024-01",
+      "visits": 353,
+      "downloads": 19074
+    },
+    {
+      "month": "2024-02",
+      "visits": 321,
+      "downloads": 15664
+    },
+    {
+      "month": "2024-03",
+      "visits": 292,
+      "downloads": 17010
+    },
+    {
+      "month": "2024-04",
+      "visits": 251,
+      "downloads": 14289
+    },
+    {
+      "month": "2024-05",
+      "visits": 253,
+      "downloads": 16565
+    },
+    {
+      "month": "2024-06",
+      "visits": 290,
+      "downloads": 15229
+    },
+    {
+      "month": "2024-07",
+      "visits": 233,
+      "downloads": 16767
+    },
+    {
+      "month": "2024-08",
+      "visits": 184,
+      "downloads": 16282
+    },
+    {
+      "month": "2024-09",
+      "visits": 277,
+      "downloads": 13721
+    },
+    {
+      "month": "2024-10",
+      "visits": 275,
+      "downloads": 15911
+    },
+    {
+      "month": "2024-11",
+      "visits": 352,
+      "downloads": 15634
+    },
+    {
+      "month": "2024-12",
+      "visits": 254,
+      "downloads": 16036
+    },
+    {
+      "month": "2025-01",
+      "visits": 281,
+      "downloads": 16603
+    },
+    {
+      "month": "2025-02",
+      "visits": 307,
+      "downloads": 16874
+    },
+    {
+      "month": "2025-03",
+      "visits": 403,
+      "downloads": 15830
+    },
+    {
+      "month": "2025-04",
+      "visits": 410,
+      "downloads": 15957
+    },
+    {
+      "month": "2025-05",
+      "visits": 417,
+      "downloads": 16438
+    },
+    {
+      "month": "2025-06",
+      "visits": 465,
+      "downloads": 13494
+    },
+    {
+      "month": "2025-07",
+      "visits": 387,
+      "downloads": 22
+    },
+    {
+      "month": "2025-08",
+      "visits": 252,
+      "downloads": 16
+    },
+    {
+      "month": "2025-09",
+      "visits": 455,
+      "downloads": 3451
+    },
+    {
+      "month": "2025-10",
+      "visits": 576,
+      "downloads": 16236
+    },
+    {
+      "month": "2025-11",
+      "visits": 563,
+      "downloads": 14967
+    },
+    {
+      "month": "2025-12",
+      "visits": 57,
+      "downloads": 1013
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

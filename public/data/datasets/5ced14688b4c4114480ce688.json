@@ -5,8 +5,8 @@
   "organization": "Inconnu",
   "organizationId": "",
   "url": "https://www.data.gouv.fr/datasets/communes-de-france-base-des-codes-postaux/",
-  "totalVisits": 169242,
-  "totalDownloads": 165860,
+  "totalVisits": 169442,
+  "totalDownloads": 165644,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3601,
-      "downloads": 2830
+      "downloads": 2706
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 5017,
-      "downloads": 4870
+      "downloads": 4480
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 121,
-      "downloads": 255
+      "visits": 321,
+      "downloads": 553
     }
   ],
   "firstMonth": "2022-07",

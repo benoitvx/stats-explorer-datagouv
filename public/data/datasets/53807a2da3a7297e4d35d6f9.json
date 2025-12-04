@@ -1,0 +1,224 @@
+{
+  "id": "53807a2da3a7297e4d35d6f9",
+  "title": "Hébergement Marchand - Poids territoire",
+  "slug": "hebergement-marchand-poids-territoire-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/hebergement-marchand-poids-territoire-cors/",
+  "totalVisits": 1639,
+  "totalDownloads": 230220,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 15,
+      "downloads": 16
+    },
+    {
+      "month": "2022-08",
+      "visits": 14,
+      "downloads": 17
+    },
+    {
+      "month": "2022-09",
+      "visits": 25,
+      "downloads": 16
+    },
+    {
+      "month": "2022-10",
+      "visits": 37,
+      "downloads": 17
+    },
+    {
+      "month": "2022-11",
+      "visits": 43,
+      "downloads": 19
+    },
+    {
+      "month": "2022-12",
+      "visits": 43,
+      "downloads": 20
+    },
+    {
+      "month": "2023-01",
+      "visits": 26,
+      "downloads": 19
+    },
+    {
+      "month": "2023-02",
+      "visits": 26,
+      "downloads": 16
+    },
+    {
+      "month": "2023-03",
+      "visits": 21,
+      "downloads": 33
+    },
+    {
+      "month": "2023-04",
+      "visits": 23,
+      "downloads": 25
+    },
+    {
+      "month": "2023-05",
+      "visits": 20,
+      "downloads": 22
+    },
+    {
+      "month": "2023-06",
+      "visits": 23,
+      "downloads": 34
+    },
+    {
+      "month": "2023-07",
+      "visits": 34,
+      "downloads": 35
+    },
+    {
+      "month": "2023-08",
+      "visits": 22,
+      "downloads": 54
+    },
+    {
+      "month": "2023-09",
+      "visits": 46,
+      "downloads": 54
+    },
+    {
+      "month": "2023-10",
+      "visits": 29,
+      "downloads": 55
+    },
+    {
+      "month": "2023-11",
+      "visits": 32,
+      "downloads": 43
+    },
+    {
+      "month": "2023-12",
+      "visits": 50,
+      "downloads": 47
+    },
+    {
+      "month": "2024-01",
+      "visits": 57,
+      "downloads": 15
+    },
+    {
+      "month": "2024-02",
+      "visits": 50,
+      "downloads": 25
+    },
+    {
+      "month": "2024-03",
+      "visits": 38,
+      "downloads": 28
+    },
+    {
+      "month": "2024-04",
+      "visits": 39,
+      "downloads": 21
+    },
+    {
+      "month": "2024-05",
+      "visits": 47,
+      "downloads": 33
+    },
+    {
+      "month": "2024-06",
+      "visits": 51,
+      "downloads": 20
+    },
+    {
+      "month": "2024-07",
+      "visits": 41,
+      "downloads": 17
+    },
+    {
+      "month": "2024-08",
+      "visits": 41,
+      "downloads": 31
+    },
+    {
+      "month": "2024-09",
+      "visits": 35,
+      "downloads": 21
+    },
+    {
+      "month": "2024-10",
+      "visits": 42,
+      "downloads": 22
+    },
+    {
+      "month": "2024-11",
+      "visits": 64,
+      "downloads": 26
+    },
+    {
+      "month": "2024-12",
+      "visits": 35,
+      "downloads": 17
+    },
+    {
+      "month": "2025-01",
+      "visits": 42,
+      "downloads": 229192
+    },
+    {
+      "month": "2025-02",
+      "visits": 53,
+      "downloads": 24
+    },
+    {
+      "month": "2025-03",
+      "visits": 72,
+      "downloads": 50
+    },
+    {
+      "month": "2025-04",
+      "visits": 61,
+      "downloads": 36
+    },
+    {
+      "month": "2025-05",
+      "visits": 78,
+      "downloads": 41
+    },
+    {
+      "month": "2025-06",
+      "visits": 104,
+      "downloads": 17
+    },
+    {
+      "month": "2025-07",
+      "visits": 41,
+      "downloads": 17
+    },
+    {
+      "month": "2025-08",
+      "visits": 28,
+      "downloads": 7
+    },
+    {
+      "month": "2025-09",
+      "visits": 34,
+      "downloads": 3
+    },
+    {
+      "month": "2025-10",
+      "visits": 23,
+      "downloads": 1
+    },
+    {
+      "month": "2025-11",
+      "visits": 34,
+      "downloads": 14
+    },
+    {
+      "month": "2025-12",
+      "visits": 0,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

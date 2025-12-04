@@ -1,0 +1,114 @@
+{
+  "id": "54101458a3a72937cb2c703c",
+  "title": "Dataset 54101458a3a72937cb2c703c",
+  "slug": "54101458a3a72937cb2c703c",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/fr/datasets/54101458a3a72937cb2c703c/",
+  "totalVisits": 127739,
+  "totalDownloads": 540131,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1711,
+      "downloads": 11361
+    },
+    {
+      "month": "2022-08",
+      "visits": 3512,
+      "downloads": 19617
+    },
+    {
+      "month": "2022-09",
+      "visits": 3253,
+      "downloads": 19461
+    },
+    {
+      "month": "2022-10",
+      "visits": 51867,
+      "downloads": 30810
+    },
+    {
+      "month": "2022-11",
+      "visits": 6124,
+      "downloads": 31473
+    },
+    {
+      "month": "2022-12",
+      "visits": 3399,
+      "downloads": 31890
+    },
+    {
+      "month": "2023-01",
+      "visits": 4394,
+      "downloads": 31333
+    },
+    {
+      "month": "2023-02",
+      "visits": 5650,
+      "downloads": 26146
+    },
+    {
+      "month": "2023-03",
+      "visits": 10726,
+      "downloads": 29313
+    },
+    {
+      "month": "2023-04",
+      "visits": 5152,
+      "downloads": 28105
+    },
+    {
+      "month": "2023-05",
+      "visits": 7239,
+      "downloads": 29005
+    },
+    {
+      "month": "2023-06",
+      "visits": 2780,
+      "downloads": 29382
+    },
+    {
+      "month": "2023-07",
+      "visits": 2008,
+      "downloads": 28368
+    },
+    {
+      "month": "2023-08",
+      "visits": 2353,
+      "downloads": 27792
+    },
+    {
+      "month": "2023-09",
+      "visits": 3512,
+      "downloads": 28480
+    },
+    {
+      "month": "2023-10",
+      "visits": 4122,
+      "downloads": 30323
+    },
+    {
+      "month": "2023-11",
+      "visits": 3610,
+      "downloads": 31083
+    },
+    {
+      "month": "2023-12",
+      "visits": 2670,
+      "downloads": 30772
+    },
+    {
+      "month": "2024-01",
+      "visits": 2304,
+      "downloads": 28707
+    },
+    {
+      "month": "2024-02",
+      "visits": 1353,
+      "downloads": 16710
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2024-02"
+}

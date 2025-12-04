@@ -1,0 +1,224 @@
+{
+  "id": "5b6c1650634f4160a32d2a77",
+  "title": "Réseau de transport urbain de la Métropole Toulon Provence Méditerranée",
+  "slug": "reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee",
+  "organization": "Métropole Toulon Provence Méditerranée",
+  "organizationId": "5b6c128d634f41593028881d",
+  "url": "https://www.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/",
+  "totalVisits": 7186,
+  "totalDownloads": 879308,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 49,
+      "downloads": 12
+    },
+    {
+      "month": "2022-08",
+      "visits": 73,
+      "downloads": 25
+    },
+    {
+      "month": "2022-09",
+      "visits": 108,
+      "downloads": 25
+    },
+    {
+      "month": "2022-10",
+      "visits": 178,
+      "downloads": 27
+    },
+    {
+      "month": "2022-11",
+      "visits": 153,
+      "downloads": 13
+    },
+    {
+      "month": "2022-12",
+      "visits": 176,
+      "downloads": 21
+    },
+    {
+      "month": "2023-01",
+      "visits": 137,
+      "downloads": 35
+    },
+    {
+      "month": "2023-02",
+      "visits": 132,
+      "downloads": 8
+    },
+    {
+      "month": "2023-03",
+      "visits": 184,
+      "downloads": 79
+    },
+    {
+      "month": "2023-04",
+      "visits": 104,
+      "downloads": 70
+    },
+    {
+      "month": "2023-05",
+      "visits": 157,
+      "downloads": 127
+    },
+    {
+      "month": "2023-06",
+      "visits": 162,
+      "downloads": 73
+    },
+    {
+      "month": "2023-07",
+      "visits": 213,
+      "downloads": 150
+    },
+    {
+      "month": "2023-08",
+      "visits": 164,
+      "downloads": 139
+    },
+    {
+      "month": "2023-09",
+      "visits": 198,
+      "downloads": 123
+    },
+    {
+      "month": "2023-10",
+      "visits": 211,
+      "downloads": 140
+    },
+    {
+      "month": "2023-11",
+      "visits": 202,
+      "downloads": 217
+    },
+    {
+      "month": "2023-12",
+      "visits": 261,
+      "downloads": 131
+    },
+    {
+      "month": "2024-01",
+      "visits": 231,
+      "downloads": 110
+    },
+    {
+      "month": "2024-02",
+      "visits": 237,
+      "downloads": 144
+    },
+    {
+      "month": "2024-03",
+      "visits": 211,
+      "downloads": 152
+    },
+    {
+      "month": "2024-04",
+      "visits": 213,
+      "downloads": 116
+    },
+    {
+      "month": "2024-05",
+      "visits": 208,
+      "downloads": 144
+    },
+    {
+      "month": "2024-06",
+      "visits": 216,
+      "downloads": 141
+    },
+    {
+      "month": "2024-07",
+      "visits": 247,
+      "downloads": 249
+    },
+    {
+      "month": "2024-08",
+      "visits": 177,
+      "downloads": 181
+    },
+    {
+      "month": "2024-09",
+      "visits": 164,
+      "downloads": 197
+    },
+    {
+      "month": "2024-10",
+      "visits": 162,
+      "downloads": 168
+    },
+    {
+      "month": "2024-11",
+      "visits": 253,
+      "downloads": 491
+    },
+    {
+      "month": "2024-12",
+      "visits": 127,
+      "downloads": 401
+    },
+    {
+      "month": "2025-01",
+      "visits": 81,
+      "downloads": 9216
+    },
+    {
+      "month": "2025-02",
+      "visits": 202,
+      "downloads": 3937
+    },
+    {
+      "month": "2025-03",
+      "visits": 282,
+      "downloads": 80833
+    },
+    {
+      "month": "2025-04",
+      "visits": 298,
+      "downloads": 100910
+    },
+    {
+      "month": "2025-05",
+      "visits": 94,
+      "downloads": 104054
+    },
+    {
+      "month": "2025-06",
+      "visits": 175,
+      "downloads": 95329
+    },
+    {
+      "month": "2025-07",
+      "visits": 107,
+      "downloads": 101737
+    },
+    {
+      "month": "2025-08",
+      "visits": 197,
+      "downloads": 101243
+    },
+    {
+      "month": "2025-09",
+      "visits": 179,
+      "downloads": 102178
+    },
+    {
+      "month": "2025-10",
+      "visits": 128,
+      "downloads": 88154
+    },
+    {
+      "month": "2025-11",
+      "visits": 121,
+      "downloads": 82048
+    },
+    {
+      "month": "2025-12",
+      "visits": 14,
+      "downloads": 5760
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

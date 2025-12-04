@@ -1,0 +1,149 @@
+{
+  "id": "6061a66ab05ac8509352aa12",
+  "title": "Dataset 6061a66ab05ac8509352aa12",
+  "slug": "6061a66ab05ac8509352aa12",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/fr/datasets/6061a66ab05ac8509352aa12/",
+  "totalVisits": 1308,
+  "totalDownloads": 719035,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 21,
+      "downloads": 4
+    },
+    {
+      "month": "2022-08",
+      "visits": 34,
+      "downloads": 12
+    },
+    {
+      "month": "2022-09",
+      "visits": 52,
+      "downloads": 7
+    },
+    {
+      "month": "2022-10",
+      "visits": 83,
+      "downloads": 7
+    },
+    {
+      "month": "2022-11",
+      "visits": 66,
+      "downloads": 12
+    },
+    {
+      "month": "2022-12",
+      "visits": 80,
+      "downloads": 17
+    },
+    {
+      "month": "2023-01",
+      "visits": 38,
+      "downloads": 3
+    },
+    {
+      "month": "2023-02",
+      "visits": 51,
+      "downloads": 5
+    },
+    {
+      "month": "2023-03",
+      "visits": 45,
+      "downloads": 11
+    },
+    {
+      "month": "2023-04",
+      "visits": 33,
+      "downloads": 1
+    },
+    {
+      "month": "2023-05",
+      "visits": 27,
+      "downloads": 51
+    },
+    {
+      "month": "2023-06",
+      "visits": 27,
+      "downloads": 128
+    },
+    {
+      "month": "2023-07",
+      "visits": 34,
+      "downloads": 55
+    },
+    {
+      "month": "2023-08",
+      "visits": 56,
+      "downloads": 15462
+    },
+    {
+      "month": "2023-09",
+      "visits": 51,
+      "downloads": 320516
+    },
+    {
+      "month": "2023-10",
+      "visits": 44,
+      "downloads": 301873
+    },
+    {
+      "month": "2023-11",
+      "visits": 41,
+      "downloads": 80720
+    },
+    {
+      "month": "2023-12",
+      "visits": 67,
+      "downloads": 10
+    },
+    {
+      "month": "2024-01",
+      "visits": 62,
+      "downloads": 18
+    },
+    {
+      "month": "2024-02",
+      "visits": 62,
+      "downloads": 14
+    },
+    {
+      "month": "2024-03",
+      "visits": 49,
+      "downloads": 14
+    },
+    {
+      "month": "2024-04",
+      "visits": 61,
+      "downloads": 14
+    },
+    {
+      "month": "2024-05",
+      "visits": 47,
+      "downloads": 11
+    },
+    {
+      "month": "2024-06",
+      "visits": 61,
+      "downloads": 14
+    },
+    {
+      "month": "2024-07",
+      "visits": 44,
+      "downloads": 21
+    },
+    {
+      "month": "2024-08",
+      "visits": 42,
+      "downloads": 16
+    },
+    {
+      "month": "2024-09",
+      "visits": 30,
+      "downloads": 19
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2024-09"
+}

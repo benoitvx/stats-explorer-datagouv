@@ -1,0 +1,104 @@
+{
+  "id": "669a23fad869acc2ee2b9588",
+  "title": "Vikibus (Yvetot Normandie)",
+  "slug": "vikibus-yvetot-normandie",
+  "organization": "Syndicat mixte Atoumod",
+  "organizationId": "5cc844dd634f41078d8e2c8e",
+  "url": "https://www.data.gouv.fr/datasets/vikibus-yvetot-normandie/",
+  "totalVisits": 2192,
+  "totalDownloads": 268780,
+  "monthlyStats": [
+    {
+      "month": "2024-07",
+      "visits": 341,
+      "downloads": 367
+    },
+    {
+      "month": "2024-08",
+      "visits": 86,
+      "downloads": 953
+    },
+    {
+      "month": "2024-09",
+      "visits": 107,
+      "downloads": 972
+    },
+    {
+      "month": "2024-10",
+      "visits": 98,
+      "downloads": 926
+    },
+    {
+      "month": "2024-11",
+      "visits": 104,
+      "downloads": 1040
+    },
+    {
+      "month": "2024-12",
+      "visits": 97,
+      "downloads": 1646
+    },
+    {
+      "month": "2025-01",
+      "visits": 76,
+      "downloads": 174240
+    },
+    {
+      "month": "2025-02",
+      "visits": 122,
+      "downloads": 76823
+    },
+    {
+      "month": "2025-03",
+      "visits": 102,
+      "downloads": 1506
+    },
+    {
+      "month": "2025-04",
+      "visits": 104,
+      "downloads": 1136
+    },
+    {
+      "month": "2025-05",
+      "visits": 68,
+      "downloads": 1128
+    },
+    {
+      "month": "2025-06",
+      "visits": 159,
+      "downloads": 1190
+    },
+    {
+      "month": "2025-07",
+      "visits": 147,
+      "downloads": 1232
+    },
+    {
+      "month": "2025-08",
+      "visits": 81,
+      "downloads": 1195
+    },
+    {
+      "month": "2025-09",
+      "visits": 70,
+      "downloads": 1163
+    },
+    {
+      "month": "2025-10",
+      "visits": 133,
+      "downloads": 1226
+    },
+    {
+      "month": "2025-11",
+      "visits": 296,
+      "downloads": 1956
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 81
+    }
+  ],
+  "firstMonth": "2024-07",
+  "lastMonth": "2025-12"
+}

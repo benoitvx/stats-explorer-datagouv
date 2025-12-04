@@ -1,0 +1,224 @@
+{
+  "id": "559395f1c751df0f51a453b9",
+  "title": "BODACC",
+  "slug": "bodacc",
+  "organization": "Premier ministre",
+  "organizationId": "534fffa5a3a7292c64a7809e",
+  "url": "https://www.data.gouv.fr/datasets/bodacc/",
+  "totalVisits": 125220,
+  "totalDownloads": 15585,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1053,
+      "downloads": 110
+    },
+    {
+      "month": "2022-08",
+      "visits": 1621,
+      "downloads": 208
+    },
+    {
+      "month": "2022-09",
+      "visits": 1771,
+      "downloads": 286
+    },
+    {
+      "month": "2022-10",
+      "visits": 2282,
+      "downloads": 308
+    },
+    {
+      "month": "2022-11",
+      "visits": 1930,
+      "downloads": 279
+    },
+    {
+      "month": "2022-12",
+      "visits": 1806,
+      "downloads": 349
+    },
+    {
+      "month": "2023-01",
+      "visits": 2165,
+      "downloads": 326
+    },
+    {
+      "month": "2023-02",
+      "visits": 1606,
+      "downloads": 237
+    },
+    {
+      "month": "2023-03",
+      "visits": 1706,
+      "downloads": 336
+    },
+    {
+      "month": "2023-04",
+      "visits": 1545,
+      "downloads": 281
+    },
+    {
+      "month": "2023-05",
+      "visits": 1569,
+      "downloads": 353
+    },
+    {
+      "month": "2023-06",
+      "visits": 1757,
+      "downloads": 304
+    },
+    {
+      "month": "2023-07",
+      "visits": 1886,
+      "downloads": 289
+    },
+    {
+      "month": "2023-08",
+      "visits": 2082,
+      "downloads": 319
+    },
+    {
+      "month": "2023-09",
+      "visits": 3085,
+      "downloads": 329
+    },
+    {
+      "month": "2023-10",
+      "visits": 2994,
+      "downloads": 475
+    },
+    {
+      "month": "2023-11",
+      "visits": 2739,
+      "downloads": 418
+    },
+    {
+      "month": "2023-12",
+      "visits": 2748,
+      "downloads": 364
+    },
+    {
+      "month": "2024-01",
+      "visits": 3362,
+      "downloads": 439
+    },
+    {
+      "month": "2024-02",
+      "visits": 3051,
+      "downloads": 353
+    },
+    {
+      "month": "2024-03",
+      "visits": 2914,
+      "downloads": 390
+    },
+    {
+      "month": "2024-04",
+      "visits": 2833,
+      "downloads": 404
+    },
+    {
+      "month": "2024-05",
+      "visits": 2894,
+      "downloads": 285
+    },
+    {
+      "month": "2024-06",
+      "visits": 3035,
+      "downloads": 404
+    },
+    {
+      "month": "2024-07",
+      "visits": 3200,
+      "downloads": 410
+    },
+    {
+      "month": "2024-08",
+      "visits": 2387,
+      "downloads": 270
+    },
+    {
+      "month": "2024-09",
+      "visits": 4062,
+      "downloads": 397
+    },
+    {
+      "month": "2024-10",
+      "visits": 3820,
+      "downloads": 1107
+    },
+    {
+      "month": "2024-11",
+      "visits": 3627,
+      "downloads": 600
+    },
+    {
+      "month": "2024-12",
+      "visits": 2414,
+      "downloads": 472
+    },
+    {
+      "month": "2025-01",
+      "visits": 622,
+      "downloads": 84
+    },
+    {
+      "month": "2025-02",
+      "visits": 3307,
+      "downloads": 383
+    },
+    {
+      "month": "2025-03",
+      "visits": 3754,
+      "downloads": 553
+    },
+    {
+      "month": "2025-04",
+      "visits": 3877,
+      "downloads": 607
+    },
+    {
+      "month": "2025-05",
+      "visits": 4095,
+      "downloads": 437
+    },
+    {
+      "month": "2025-06",
+      "visits": 9016,
+      "downloads": 336
+    },
+    {
+      "month": "2025-07",
+      "visits": 5342,
+      "downloads": 535
+    },
+    {
+      "month": "2025-08",
+      "visits": 4151,
+      "downloads": 392
+    },
+    {
+      "month": "2025-09",
+      "visits": 6089,
+      "downloads": 341
+    },
+    {
+      "month": "2025-10",
+      "visits": 5082,
+      "downloads": 302
+    },
+    {
+      "month": "2025-11",
+      "visits": 5639,
+      "downloads": 487
+    },
+    {
+      "month": "2025-12",
+      "visits": 302,
+      "downloads": 26
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5e836644ca07c8558d91a6fc",
+  "title": "Ma connexion internet",
+  "slug": "ma-connexion-internet",
+  "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+  "organizationId": "534fff58a3a7292c64a77cf6",
+  "url": "https://www.data.gouv.fr/datasets/ma-connexion-internet/",
+  "totalVisits": 81669,
+  "totalDownloads": 15864,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 624,
+      "downloads": 190
+    },
+    {
+      "month": "2022-08",
+      "visits": 1025,
+      "downloads": 231
+    },
+    {
+      "month": "2022-09",
+      "visits": 1411,
+      "downloads": 272
+    },
+    {
+      "month": "2022-10",
+      "visits": 1603,
+      "downloads": 380
+    },
+    {
+      "month": "2022-11",
+      "visits": 1476,
+      "downloads": 437
+    },
+    {
+      "month": "2022-12",
+      "visits": 1445,
+      "downloads": 605
+    },
+    {
+      "month": "2023-01",
+      "visits": 1577,
+      "downloads": 374
+    },
+    {
+      "month": "2023-02",
+      "visits": 1501,
+      "downloads": 351
+    },
+    {
+      "month": "2023-03",
+      "visits": 1902,
+      "downloads": 642
+    },
+    {
+      "month": "2023-04",
+      "visits": 1372,
+      "downloads": 520
+    },
+    {
+      "month": "2023-05",
+      "visits": 1542,
+      "downloads": 527
+    },
+    {
+      "month": "2023-06",
+      "visits": 1733,
+      "downloads": 387
+    },
+    {
+      "month": "2023-07",
+      "visits": 1462,
+      "downloads": 486
+    },
+    {
+      "month": "2023-08",
+      "visits": 1175,
+      "downloads": 454
+    },
+    {
+      "month": "2023-09",
+      "visits": 1382,
+      "downloads": 488
+    },
+    {
+      "month": "2023-10",
+      "visits": 1557,
+      "downloads": 612
+    },
+    {
+      "month": "2023-11",
+      "visits": 1558,
+      "downloads": 571
+    },
+    {
+      "month": "2023-12",
+      "visits": 1935,
+      "downloads": 493
+    },
+    {
+      "month": "2024-01",
+      "visits": 1672,
+      "downloads": 491
+    },
+    {
+      "month": "2024-02",
+      "visits": 1401,
+      "downloads": 391
+    },
+    {
+      "month": "2024-03",
+      "visits": 1856,
+      "downloads": 452
+    },
+    {
+      "month": "2024-04",
+      "visits": 1420,
+      "downloads": 422
+    },
+    {
+      "month": "2024-05",
+      "visits": 1240,
+      "downloads": 351
+    },
+    {
+      "month": "2024-06",
+      "visits": 24233,
+      "downloads": 305
+    },
+    {
+      "month": "2024-07",
+      "visits": 1204,
+      "downloads": 338
+    },
+    {
+      "month": "2024-08",
+      "visits": 1064,
+      "downloads": 280
+    },
+    {
+      "month": "2024-09",
+      "visits": 1175,
+      "downloads": 240
+    },
+    {
+      "month": "2024-10",
+      "visits": 1183,
+      "downloads": 409
+    },
+    {
+      "month": "2024-11",
+      "visits": 1344,
+      "downloads": 264
+    },
+    {
+      "month": "2024-12",
+      "visits": 926,
+      "downloads": 207
+    },
+    {
+      "month": "2025-01",
+      "visits": 374,
+      "downloads": 106
+    },
+    {
+      "month": "2025-02",
+      "visits": 1069,
+      "downloads": 336
+    },
+    {
+      "month": "2025-03",
+      "visits": 1337,
+      "downloads": 479
+    },
+    {
+      "month": "2025-04",
+      "visits": 1190,
+      "downloads": 517
+    },
+    {
+      "month": "2025-05",
+      "visits": 1071,
+      "downloads": 319
+    },
+    {
+      "month": "2025-06",
+      "visits": 2499,
+      "downloads": 309
+    },
+    {
+      "month": "2025-07",
+      "visits": 2098,
+      "downloads": 437
+    },
+    {
+      "month": "2025-08",
+      "visits": 1268,
+      "downloads": 253
+    },
+    {
+      "month": "2025-09",
+      "visits": 1808,
+      "downloads": 357
+    },
+    {
+      "month": "2025-10",
+      "visits": 1955,
+      "downloads": 296
+    },
+    {
+      "month": "2025-11",
+      "visits": 1898,
+      "downloads": 272
+    },
+    {
+      "month": "2025-12",
+      "visits": 104,
+      "downloads": 13
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

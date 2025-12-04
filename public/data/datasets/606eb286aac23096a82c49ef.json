@@ -1,0 +1,224 @@
+{
+  "id": "606eb286aac23096a82c49ef",
+  "title": "Urbanisme/Environnement/Travaux/Cadre de Vie",
+  "slug": "urbanisme-environnement-travaux-cadre-de-vie",
+  "organization": "Commune de Tartas",
+  "organizationId": "606d7f3644b7c6a93cf48e8d",
+  "url": "https://www.data.gouv.fr/datasets/urbanisme-environnement-travaux-cadre-de-vie/",
+  "totalVisits": 2903,
+  "totalDownloads": 8895,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 45,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 53,
+      "downloads": 197
+    },
+    {
+      "month": "2022-09",
+      "visits": 62,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 95,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 94,
+      "downloads": 1
+    },
+    {
+      "month": "2022-12",
+      "visits": 105,
+      "downloads": 580
+    },
+    {
+      "month": "2023-01",
+      "visits": 58,
+      "downloads": 160
+    },
+    {
+      "month": "2023-02",
+      "visits": 60,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 58,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 71,
+      "downloads": 1
+    },
+    {
+      "month": "2023-05",
+      "visits": 58,
+      "downloads": 2
+    },
+    {
+      "month": "2023-06",
+      "visits": 89,
+      "downloads": 208
+    },
+    {
+      "month": "2023-07",
+      "visits": 63,
+      "downloads": 9
+    },
+    {
+      "month": "2023-08",
+      "visits": 84,
+      "downloads": 5
+    },
+    {
+      "month": "2023-09",
+      "visits": 78,
+      "downloads": 19
+    },
+    {
+      "month": "2023-10",
+      "visits": 52,
+      "downloads": 43
+    },
+    {
+      "month": "2023-11",
+      "visits": 67,
+      "downloads": 415
+    },
+    {
+      "month": "2023-12",
+      "visits": 115,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 113,
+      "downloads": 206
+    },
+    {
+      "month": "2024-02",
+      "visits": 80,
+      "downloads": 12
+    },
+    {
+      "month": "2024-03",
+      "visits": 69,
+      "downloads": 13
+    },
+    {
+      "month": "2024-04",
+      "visits": 79,
+      "downloads": 252
+    },
+    {
+      "month": "2024-05",
+      "visits": 98,
+      "downloads": 429
+    },
+    {
+      "month": "2024-06",
+      "visits": 90,
+      "downloads": 11
+    },
+    {
+      "month": "2024-07",
+      "visits": 43,
+      "downloads": 17
+    },
+    {
+      "month": "2024-08",
+      "visits": 48,
+      "downloads": 262
+    },
+    {
+      "month": "2024-09",
+      "visits": 23,
+      "downloads": 62
+    },
+    {
+      "month": "2024-10",
+      "visits": 35,
+      "downloads": 27
+    },
+    {
+      "month": "2024-11",
+      "visits": 83,
+      "downloads": 207
+    },
+    {
+      "month": "2024-12",
+      "visits": 60,
+      "downloads": 200
+    },
+    {
+      "month": "2025-01",
+      "visits": 80,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 71,
+      "downloads": 183
+    },
+    {
+      "month": "2025-03",
+      "visits": 67,
+      "downloads": 415
+    },
+    {
+      "month": "2025-04",
+      "visits": 99,
+      "downloads": 404
+    },
+    {
+      "month": "2025-05",
+      "visits": 53,
+      "downloads": 44
+    },
+    {
+      "month": "2025-06",
+      "visits": 89,
+      "downloads": 2
+    },
+    {
+      "month": "2025-07",
+      "visits": 74,
+      "downloads": 26
+    },
+    {
+      "month": "2025-08",
+      "visits": 72,
+      "downloads": 1065
+    },
+    {
+      "month": "2025-09",
+      "visits": 48,
+      "downloads": 488
+    },
+    {
+      "month": "2025-10",
+      "visits": 78,
+      "downloads": 1377
+    },
+    {
+      "month": "2025-11",
+      "visits": 42,
+      "downloads": 758
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 795
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

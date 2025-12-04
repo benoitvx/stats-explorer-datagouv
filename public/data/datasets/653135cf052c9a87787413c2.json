@@ -1,0 +1,124 @@
+{
+  "id": "653135cf052c9a87787413c2",
+  "title": "Liste blanche des prestataires de services sur actifs numériques (PSAN)",
+  "slug": "liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan",
+  "organization": "Autorité des marchés financiers",
+  "organizationId": "56507a53c751df6679aad370",
+  "url": "https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan/",
+  "totalVisits": 46887,
+  "totalDownloads": 7726,
+  "monthlyStats": [
+    {
+      "month": "2024-03",
+      "visits": 526,
+      "downloads": 205
+    },
+    {
+      "month": "2024-04",
+      "visits": 844,
+      "downloads": 246
+    },
+    {
+      "month": "2024-05",
+      "visits": 916,
+      "downloads": 221
+    },
+    {
+      "month": "2024-06",
+      "visits": 931,
+      "downloads": 208
+    },
+    {
+      "month": "2024-07",
+      "visits": 873,
+      "downloads": 182
+    },
+    {
+      "month": "2024-08",
+      "visits": 1374,
+      "downloads": 314
+    },
+    {
+      "month": "2024-09",
+      "visits": 1160,
+      "downloads": 249
+    },
+    {
+      "month": "2024-10",
+      "visits": 1247,
+      "downloads": 288
+    },
+    {
+      "month": "2024-11",
+      "visits": 2344,
+      "downloads": 499
+    },
+    {
+      "month": "2024-12",
+      "visits": 1709,
+      "downloads": 349
+    },
+    {
+      "month": "2025-01",
+      "visits": 333,
+      "downloads": 17
+    },
+    {
+      "month": "2025-02",
+      "visits": 2350,
+      "downloads": 448
+    },
+    {
+      "month": "2025-03",
+      "visits": 2431,
+      "downloads": 430
+    },
+    {
+      "month": "2025-04",
+      "visits": 2713,
+      "downloads": 401
+    },
+    {
+      "month": "2025-05",
+      "visits": 3854,
+      "downloads": 592
+    },
+    {
+      "month": "2025-06",
+      "visits": 2883,
+      "downloads": 334
+    },
+    {
+      "month": "2025-07",
+      "visits": 2731,
+      "downloads": 335
+    },
+    {
+      "month": "2025-08",
+      "visits": 3225,
+      "downloads": 394
+    },
+    {
+      "month": "2025-09",
+      "visits": 3997,
+      "downloads": 506
+    },
+    {
+      "month": "2025-10",
+      "visits": 4907,
+      "downloads": 710
+    },
+    {
+      "month": "2025-11",
+      "visits": 4863,
+      "downloads": 627
+    },
+    {
+      "month": "2025-12",
+      "visits": 676,
+      "downloads": 171
+    }
+  ],
+  "firstMonth": "2024-03",
+  "lastMonth": "2025-12"
+}

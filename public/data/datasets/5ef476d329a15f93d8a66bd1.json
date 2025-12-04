@@ -1,0 +1,224 @@
+{
+  "id": "5ef476d329a15f93d8a66bd1",
+  "title": "Traitements de données personnelles déclarés à la CNIL depuis le 25 mai 2018",
+  "slug": "traitements-de-donnees-personnelles-declares-a-la-cnil-depuis-le-25-mai-2018",
+  "organization": "CNIL",
+  "organizationId": "534fff61a3a7292c64a77d59",
+  "url": "https://www.data.gouv.fr/datasets/traitements-de-donnees-personnelles-declares-a-la-cnil-depuis-le-25-mai-2018/",
+  "totalVisits": 9411,
+  "totalDownloads": 1352858,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 103,
+      "downloads": 74
+    },
+    {
+      "month": "2022-08",
+      "visits": 140,
+      "downloads": 97
+    },
+    {
+      "month": "2022-09",
+      "visits": 134,
+      "downloads": 91
+    },
+    {
+      "month": "2022-10",
+      "visits": 219,
+      "downloads": 118
+    },
+    {
+      "month": "2022-11",
+      "visits": 204,
+      "downloads": 85
+    },
+    {
+      "month": "2022-12",
+      "visits": 259,
+      "downloads": 121
+    },
+    {
+      "month": "2023-01",
+      "visits": 167,
+      "downloads": 91
+    },
+    {
+      "month": "2023-02",
+      "visits": 154,
+      "downloads": 101
+    },
+    {
+      "month": "2023-03",
+      "visits": 175,
+      "downloads": 85
+    },
+    {
+      "month": "2023-04",
+      "visits": 186,
+      "downloads": 60
+    },
+    {
+      "month": "2023-05",
+      "visits": 168,
+      "downloads": 85
+    },
+    {
+      "month": "2023-06",
+      "visits": 214,
+      "downloads": 95
+    },
+    {
+      "month": "2023-07",
+      "visits": 151,
+      "downloads": 104
+    },
+    {
+      "month": "2023-08",
+      "visits": 115,
+      "downloads": 115
+    },
+    {
+      "month": "2023-09",
+      "visits": 156,
+      "downloads": 135
+    },
+    {
+      "month": "2023-10",
+      "visits": 210,
+      "downloads": 127
+    },
+    {
+      "month": "2023-11",
+      "visits": 281,
+      "downloads": 170
+    },
+    {
+      "month": "2023-12",
+      "visits": 247,
+      "downloads": 91
+    },
+    {
+      "month": "2024-01",
+      "visits": 241,
+      "downloads": 88
+    },
+    {
+      "month": "2024-02",
+      "visits": 248,
+      "downloads": 84
+    },
+    {
+      "month": "2024-03",
+      "visits": 241,
+      "downloads": 88
+    },
+    {
+      "month": "2024-04",
+      "visits": 199,
+      "downloads": 74
+    },
+    {
+      "month": "2024-05",
+      "visits": 204,
+      "downloads": 93
+    },
+    {
+      "month": "2024-06",
+      "visits": 236,
+      "downloads": 87
+    },
+    {
+      "month": "2024-07",
+      "visits": 287,
+      "downloads": 1348933
+    },
+    {
+      "month": "2024-08",
+      "visits": 191,
+      "downloads": 109
+    },
+    {
+      "month": "2024-09",
+      "visits": 218,
+      "downloads": 88
+    },
+    {
+      "month": "2024-10",
+      "visits": 242,
+      "downloads": 124
+    },
+    {
+      "month": "2024-11",
+      "visits": 277,
+      "downloads": 97
+    },
+    {
+      "month": "2024-12",
+      "visits": 165,
+      "downloads": 306
+    },
+    {
+      "month": "2025-01",
+      "visits": 113,
+      "downloads": 41
+    },
+    {
+      "month": "2025-02",
+      "visits": 249,
+      "downloads": 86
+    },
+    {
+      "month": "2025-03",
+      "visits": 259,
+      "downloads": 57
+    },
+    {
+      "month": "2025-04",
+      "visits": 349,
+      "downloads": 135
+    },
+    {
+      "month": "2025-05",
+      "visits": 289,
+      "downloads": 106
+    },
+    {
+      "month": "2025-06",
+      "visits": 354,
+      "downloads": 96
+    },
+    {
+      "month": "2025-07",
+      "visits": 298,
+      "downloads": 87
+    },
+    {
+      "month": "2025-08",
+      "visits": 217,
+      "downloads": 54
+    },
+    {
+      "month": "2025-09",
+      "visits": 340,
+      "downloads": 65
+    },
+    {
+      "month": "2025-10",
+      "visits": 443,
+      "downloads": 76
+    },
+    {
+      "month": "2025-11",
+      "visits": 452,
+      "downloads": 37
+    },
+    {
+      "month": "2025-12",
+      "visits": 16,
+      "downloads": 2
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

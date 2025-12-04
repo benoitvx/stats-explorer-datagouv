@@ -1,0 +1,224 @@
+{
+  "id": "5a1dd4e5c751df02b116a0d6",
+  "title": "Répertoire des logements locatifs des bailleurs sociaux",
+  "slug": "repertoire-des-logements-locatifs-des-bailleurs-sociaux",
+  "organization": "Service des données et études statistiques (SDES)",
+  "organizationId": "681a1272bfa84b075f9531e1",
+  "url": "https://www.data.gouv.fr/datasets/repertoire-des-logements-locatifs-des-bailleurs-sociaux/",
+  "totalVisits": 111800,
+  "totalDownloads": 38144,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 898,
+      "downloads": 433
+    },
+    {
+      "month": "2022-08",
+      "visits": 1559,
+      "downloads": 545
+    },
+    {
+      "month": "2022-09",
+      "visits": 2144,
+      "downloads": 931
+    },
+    {
+      "month": "2022-10",
+      "visits": 2220,
+      "downloads": 850
+    },
+    {
+      "month": "2022-11",
+      "visits": 2500,
+      "downloads": 853
+    },
+    {
+      "month": "2022-12",
+      "visits": 2153,
+      "downloads": 1117
+    },
+    {
+      "month": "2023-01",
+      "visits": 2890,
+      "downloads": 781
+    },
+    {
+      "month": "2023-02",
+      "visits": 2866,
+      "downloads": 694
+    },
+    {
+      "month": "2023-03",
+      "visits": 3019,
+      "downloads": 1161
+    },
+    {
+      "month": "2023-04",
+      "visits": 2518,
+      "downloads": 910
+    },
+    {
+      "month": "2023-05",
+      "visits": 2542,
+      "downloads": 1040
+    },
+    {
+      "month": "2023-06",
+      "visits": 2768,
+      "downloads": 1052
+    },
+    {
+      "month": "2023-07",
+      "visits": 2468,
+      "downloads": 829
+    },
+    {
+      "month": "2023-08",
+      "visits": 2458,
+      "downloads": 792
+    },
+    {
+      "month": "2023-09",
+      "visits": 3580,
+      "downloads": 1119
+    },
+    {
+      "month": "2023-10",
+      "visits": 3333,
+      "downloads": 1293
+    },
+    {
+      "month": "2023-11",
+      "visits": 3062,
+      "downloads": 1166
+    },
+    {
+      "month": "2023-12",
+      "visits": 2550,
+      "downloads": 1131
+    },
+    {
+      "month": "2024-01",
+      "visits": 3577,
+      "downloads": 1262
+    },
+    {
+      "month": "2024-02",
+      "visits": 3366,
+      "downloads": 1286
+    },
+    {
+      "month": "2024-03",
+      "visits": 2845,
+      "downloads": 1104
+    },
+    {
+      "month": "2024-04",
+      "visits": 2511,
+      "downloads": 1020
+    },
+    {
+      "month": "2024-05",
+      "visits": 2336,
+      "downloads": 957
+    },
+    {
+      "month": "2024-06",
+      "visits": 2457,
+      "downloads": 1135
+    },
+    {
+      "month": "2024-07",
+      "visits": 2630,
+      "downloads": 952
+    },
+    {
+      "month": "2024-08",
+      "visits": 2089,
+      "downloads": 754
+    },
+    {
+      "month": "2024-09",
+      "visits": 2853,
+      "downloads": 992
+    },
+    {
+      "month": "2024-10",
+      "visits": 3377,
+      "downloads": 1365
+    },
+    {
+      "month": "2024-11",
+      "visits": 3501,
+      "downloads": 1111
+    },
+    {
+      "month": "2024-12",
+      "visits": 2321,
+      "downloads": 770
+    },
+    {
+      "month": "2025-01",
+      "visits": 695,
+      "downloads": 142
+    },
+    {
+      "month": "2025-02",
+      "visits": 3372,
+      "downloads": 1056
+    },
+    {
+      "month": "2025-03",
+      "visits": 3975,
+      "downloads": 1158
+    },
+    {
+      "month": "2025-04",
+      "visits": 4361,
+      "downloads": 1275
+    },
+    {
+      "month": "2025-05",
+      "visits": 3990,
+      "downloads": 1142
+    },
+    {
+      "month": "2025-06",
+      "visits": 3335,
+      "downloads": 961
+    },
+    {
+      "month": "2025-07",
+      "visits": 2960,
+      "downloads": 1043
+    },
+    {
+      "month": "2025-08",
+      "visits": 2617,
+      "downloads": 651
+    },
+    {
+      "month": "2025-09",
+      "visits": 3415,
+      "downloads": 643
+    },
+    {
+      "month": "2025-10",
+      "visits": 2809,
+      "downloads": 511
+    },
+    {
+      "month": "2025-11",
+      "visits": 833,
+      "downloads": 146
+    },
+    {
+      "month": "2025-12",
+      "visits": 47,
+      "downloads": 11
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

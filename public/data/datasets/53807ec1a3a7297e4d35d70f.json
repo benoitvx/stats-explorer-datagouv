@@ -1,0 +1,224 @@
+{
+  "id": "53807ec1a3a7297e4d35d70f",
+  "title": "Marchés de fournitures conclus par la CTC en 2011",
+  "slug": "marches-de-fournitures-conclus-par-la-ctc-en-2011-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/marches-de-fournitures-conclus-par-la-ctc-en-2011-cors/",
+  "totalVisits": 1650,
+  "totalDownloads": 268563,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 8,
+      "downloads": 11
+    },
+    {
+      "month": "2022-08",
+      "visits": 9,
+      "downloads": 27
+    },
+    {
+      "month": "2022-09",
+      "visits": 29,
+      "downloads": 13
+    },
+    {
+      "month": "2022-10",
+      "visits": 38,
+      "downloads": 15
+    },
+    {
+      "month": "2022-11",
+      "visits": 35,
+      "downloads": 21
+    },
+    {
+      "month": "2022-12",
+      "visits": 46,
+      "downloads": 32
+    },
+    {
+      "month": "2023-01",
+      "visits": 23,
+      "downloads": 15
+    },
+    {
+      "month": "2023-02",
+      "visits": 17,
+      "downloads": 20
+    },
+    {
+      "month": "2023-03",
+      "visits": 24,
+      "downloads": 37
+    },
+    {
+      "month": "2023-04",
+      "visits": 23,
+      "downloads": 28
+    },
+    {
+      "month": "2023-05",
+      "visits": 29,
+      "downloads": 27
+    },
+    {
+      "month": "2023-06",
+      "visits": 22,
+      "downloads": 39
+    },
+    {
+      "month": "2023-07",
+      "visits": 29,
+      "downloads": 37
+    },
+    {
+      "month": "2023-08",
+      "visits": 50,
+      "downloads": 64
+    },
+    {
+      "month": "2023-09",
+      "visits": 39,
+      "downloads": 48
+    },
+    {
+      "month": "2023-10",
+      "visits": 28,
+      "downloads": 51
+    },
+    {
+      "month": "2023-11",
+      "visits": 50,
+      "downloads": 62
+    },
+    {
+      "month": "2023-12",
+      "visits": 70,
+      "downloads": 35
+    },
+    {
+      "month": "2024-01",
+      "visits": 57,
+      "downloads": 28
+    },
+    {
+      "month": "2024-02",
+      "visits": 44,
+      "downloads": 28
+    },
+    {
+      "month": "2024-03",
+      "visits": 38,
+      "downloads": 22
+    },
+    {
+      "month": "2024-04",
+      "visits": 48,
+      "downloads": 22
+    },
+    {
+      "month": "2024-05",
+      "visits": 48,
+      "downloads": 24
+    },
+    {
+      "month": "2024-06",
+      "visits": 49,
+      "downloads": 23
+    },
+    {
+      "month": "2024-07",
+      "visits": 41,
+      "downloads": 36
+    },
+    {
+      "month": "2024-08",
+      "visits": 37,
+      "downloads": 62
+    },
+    {
+      "month": "2024-09",
+      "visits": 21,
+      "downloads": 21
+    },
+    {
+      "month": "2024-10",
+      "visits": 16,
+      "downloads": 30
+    },
+    {
+      "month": "2024-11",
+      "visits": 38,
+      "downloads": 25
+    },
+    {
+      "month": "2024-12",
+      "visits": 32,
+      "downloads": 9
+    },
+    {
+      "month": "2025-01",
+      "visits": 41,
+      "downloads": 267389
+    },
+    {
+      "month": "2025-02",
+      "visits": 46,
+      "downloads": 47
+    },
+    {
+      "month": "2025-03",
+      "visits": 44,
+      "downloads": 32
+    },
+    {
+      "month": "2025-04",
+      "visits": 31,
+      "downloads": 37
+    },
+    {
+      "month": "2025-05",
+      "visits": 154,
+      "downloads": 34
+    },
+    {
+      "month": "2025-06",
+      "visits": 41,
+      "downloads": 13
+    },
+    {
+      "month": "2025-07",
+      "visits": 86,
+      "downloads": 63
+    },
+    {
+      "month": "2025-08",
+      "visits": 62,
+      "downloads": 13
+    },
+    {
+      "month": "2025-09",
+      "visits": 27,
+      "downloads": 4
+    },
+    {
+      "month": "2025-10",
+      "visits": 36,
+      "downloads": 6
+    },
+    {
+      "month": "2025-11",
+      "visits": 43,
+      "downloads": 13
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

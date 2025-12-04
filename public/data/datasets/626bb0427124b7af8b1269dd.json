@@ -1,0 +1,224 @@
+{
+  "id": "626bb0427124b7af8b1269dd",
+  "title": "Registre national des gels",
+  "slug": "registre-national-des-gels",
+  "organization": "Ouvrons !",
+  "organizationId": "6262af2917cf50cc9b7eb11b",
+  "url": "https://www.data.gouv.fr/datasets/registre-national-des-gels/",
+  "totalVisits": 30100,
+  "totalDownloads": 115066,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 137,
+      "downloads": 40
+    },
+    {
+      "month": "2022-08",
+      "visits": 217,
+      "downloads": 101
+    },
+    {
+      "month": "2022-09",
+      "visits": 282,
+      "downloads": 224
+    },
+    {
+      "month": "2022-10",
+      "visits": 428,
+      "downloads": 916
+    },
+    {
+      "month": "2022-11",
+      "visits": 381,
+      "downloads": 467
+    },
+    {
+      "month": "2022-12",
+      "visits": 332,
+      "downloads": 356
+    },
+    {
+      "month": "2023-01",
+      "visits": 433,
+      "downloads": 463
+    },
+    {
+      "month": "2023-02",
+      "visits": 427,
+      "downloads": 586
+    },
+    {
+      "month": "2023-03",
+      "visits": 386,
+      "downloads": 624
+    },
+    {
+      "month": "2023-04",
+      "visits": 2866,
+      "downloads": 481
+    },
+    {
+      "month": "2023-05",
+      "visits": 315,
+      "downloads": 354
+    },
+    {
+      "month": "2023-06",
+      "visits": 407,
+      "downloads": 665
+    },
+    {
+      "month": "2023-07",
+      "visits": 358,
+      "downloads": 567
+    },
+    {
+      "month": "2023-08",
+      "visits": 288,
+      "downloads": 580
+    },
+    {
+      "month": "2023-09",
+      "visits": 350,
+      "downloads": 632
+    },
+    {
+      "month": "2023-10",
+      "visits": 291,
+      "downloads": 427
+    },
+    {
+      "month": "2023-11",
+      "visits": 348,
+      "downloads": 636
+    },
+    {
+      "month": "2023-12",
+      "visits": 420,
+      "downloads": 393
+    },
+    {
+      "month": "2024-01",
+      "visits": 418,
+      "downloads": 709
+    },
+    {
+      "month": "2024-02",
+      "visits": 390,
+      "downloads": 615
+    },
+    {
+      "month": "2024-03",
+      "visits": 408,
+      "downloads": 474
+    },
+    {
+      "month": "2024-04",
+      "visits": 267,
+      "downloads": 698
+    },
+    {
+      "month": "2024-05",
+      "visits": 318,
+      "downloads": 319
+    },
+    {
+      "month": "2024-06",
+      "visits": 302,
+      "downloads": 393
+    },
+    {
+      "month": "2024-07",
+      "visits": 275,
+      "downloads": 1830
+    },
+    {
+      "month": "2024-08",
+      "visits": 233,
+      "downloads": 324
+    },
+    {
+      "month": "2024-09",
+      "visits": 382,
+      "downloads": 539
+    },
+    {
+      "month": "2024-10",
+      "visits": 489,
+      "downloads": 405
+    },
+    {
+      "month": "2024-11",
+      "visits": 576,
+      "downloads": 590
+    },
+    {
+      "month": "2024-12",
+      "visits": 486,
+      "downloads": 457
+    },
+    {
+      "month": "2025-01",
+      "visits": 146,
+      "downloads": 1048
+    },
+    {
+      "month": "2025-02",
+      "visits": 1152,
+      "downloads": 8855
+    },
+    {
+      "month": "2025-03",
+      "visits": 3843,
+      "downloads": 9779
+    },
+    {
+      "month": "2025-04",
+      "visits": 2816,
+      "downloads": 9498
+    },
+    {
+      "month": "2025-05",
+      "visits": 1831,
+      "downloads": 9664
+    },
+    {
+      "month": "2025-06",
+      "visits": 1731,
+      "downloads": 8826
+    },
+    {
+      "month": "2025-07",
+      "visits": 1824,
+      "downloads": 9977
+    },
+    {
+      "month": "2025-08",
+      "visits": 763,
+      "downloads": 9201
+    },
+    {
+      "month": "2025-09",
+      "visits": 832,
+      "downloads": 9805
+    },
+    {
+      "month": "2025-10",
+      "visits": 927,
+      "downloads": 10930
+    },
+    {
+      "month": "2025-11",
+      "visits": 993,
+      "downloads": 10956
+    },
+    {
+      "month": "2025-12",
+      "visits": 32,
+      "downloads": 662
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

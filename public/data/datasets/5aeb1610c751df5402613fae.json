@@ -1,0 +1,224 @@
+{
+  "id": "5aeb1610c751df5402613fae",
+  "title": "Vacances scolaires par zones",
+  "slug": "vacances-scolaires-par-zones",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/vacances-scolaires-par-zones/",
+  "totalVisits": 79163,
+  "totalDownloads": 260925,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 195,
+      "downloads": 12423
+    },
+    {
+      "month": "2022-08",
+      "visits": 273,
+      "downloads": 23898
+    },
+    {
+      "month": "2022-09",
+      "visits": 279,
+      "downloads": 53290
+    },
+    {
+      "month": "2022-10",
+      "visits": 313,
+      "downloads": 25120
+    },
+    {
+      "month": "2022-11",
+      "visits": 346,
+      "downloads": 8081
+    },
+    {
+      "month": "2022-12",
+      "visits": 362,
+      "downloads": 3247
+    },
+    {
+      "month": "2023-01",
+      "visits": 416,
+      "downloads": 3356
+    },
+    {
+      "month": "2023-02",
+      "visits": 495,
+      "downloads": 3181
+    },
+    {
+      "month": "2023-03",
+      "visits": 410,
+      "downloads": 3333
+    },
+    {
+      "month": "2023-04",
+      "visits": 361,
+      "downloads": 3185
+    },
+    {
+      "month": "2023-05",
+      "visits": 282,
+      "downloads": 3155
+    },
+    {
+      "month": "2023-06",
+      "visits": 306,
+      "downloads": 3464
+    },
+    {
+      "month": "2023-07",
+      "visits": 317,
+      "downloads": 4460
+    },
+    {
+      "month": "2023-08",
+      "visits": 368,
+      "downloads": 3883
+    },
+    {
+      "month": "2023-09",
+      "visits": 391,
+      "downloads": 3943
+    },
+    {
+      "month": "2023-10",
+      "visits": 457,
+      "downloads": 2349
+    },
+    {
+      "month": "2023-11",
+      "visits": 401,
+      "downloads": 10690
+    },
+    {
+      "month": "2023-12",
+      "visits": 477,
+      "downloads": 2785
+    },
+    {
+      "month": "2024-01",
+      "visits": 636,
+      "downloads": 3178
+    },
+    {
+      "month": "2024-02",
+      "visits": 1528,
+      "downloads": 2653
+    },
+    {
+      "month": "2024-03",
+      "visits": 1606,
+      "downloads": 3127
+    },
+    {
+      "month": "2024-04",
+      "visits": 2498,
+      "downloads": 2789
+    },
+    {
+      "month": "2024-05",
+      "visits": 778,
+      "downloads": 3549
+    },
+    {
+      "month": "2024-06",
+      "visits": 792,
+      "downloads": 3263
+    },
+    {
+      "month": "2024-07",
+      "visits": 578,
+      "downloads": 3490
+    },
+    {
+      "month": "2024-08",
+      "visits": 948,
+      "downloads": 2404
+    },
+    {
+      "month": "2024-09",
+      "visits": 1921,
+      "downloads": 3419
+    },
+    {
+      "month": "2024-10",
+      "visits": 5029,
+      "downloads": 3127
+    },
+    {
+      "month": "2024-11",
+      "visits": 3184,
+      "downloads": 3631
+    },
+    {
+      "month": "2024-12",
+      "visits": 2198,
+      "downloads": 3102
+    },
+    {
+      "month": "2025-01",
+      "visits": 924,
+      "downloads": 2510
+    },
+    {
+      "month": "2025-02",
+      "visits": 8736,
+      "downloads": 4279
+    },
+    {
+      "month": "2025-03",
+      "visits": 7236,
+      "downloads": 4985
+    },
+    {
+      "month": "2025-04",
+      "visits": 10730,
+      "downloads": 4307
+    },
+    {
+      "month": "2025-05",
+      "visits": 2480,
+      "downloads": 3947
+    },
+    {
+      "month": "2025-06",
+      "visits": 2070,
+      "downloads": 4855
+    },
+    {
+      "month": "2025-07",
+      "visits": 2178,
+      "downloads": 4119
+    },
+    {
+      "month": "2025-08",
+      "visits": 2906,
+      "downloads": 3046
+    },
+    {
+      "month": "2025-09",
+      "visits": 3511,
+      "downloads": 5206
+    },
+    {
+      "month": "2025-10",
+      "visits": 4875,
+      "downloads": 7387
+    },
+    {
+      "month": "2025-11",
+      "visits": 4967,
+      "downloads": 4231
+    },
+    {
+      "month": "2025-12",
+      "visits": 405,
+      "downloads": 478
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

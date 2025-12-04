@@ -5,8 +5,8 @@
   "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
   "organizationId": "534fff58a3a7292c64a77cf6",
   "url": "https://www.data.gouv.fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements/",
-  "totalVisits": 215518,
-  "totalDownloads": 72488,
+  "totalVisits": 215837,
+  "totalDownloads": 72368,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3474,
-      "downloads": 949
+      "downloads": 893
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 5050,
-      "downloads": 1901
+      "downloads": 1736
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 197,
-      "downloads": 24
+      "visits": 516,
+      "downloads": 125
     }
   ],
   "firstMonth": "2022-07",

@@ -1,0 +1,224 @@
+{
+  "id": "621df2954fa5a3b5a023e23c",
+  "title": "Bases statistiques communale, départementale et régionale de la délinquance enregistrée par la police et la gendarmerie nationales ",
+  "slug": "bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
+  "totalVisits": 201296,
+  "totalDownloads": 132518,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 9,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 7,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 28,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 35,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 38,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 33,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 27,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 23,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 3782,
+      "downloads": 3919
+    },
+    {
+      "month": "2023-04",
+      "visits": 2909,
+      "downloads": 3006
+    },
+    {
+      "month": "2023-05",
+      "visits": 2595,
+      "downloads": 2663
+    },
+    {
+      "month": "2023-06",
+      "visits": 3530,
+      "downloads": 3688
+    },
+    {
+      "month": "2023-07",
+      "visits": 3182,
+      "downloads": 2894
+    },
+    {
+      "month": "2023-08",
+      "visits": 4045,
+      "downloads": 3330
+    },
+    {
+      "month": "2023-09",
+      "visits": 3836,
+      "downloads": 2495
+    },
+    {
+      "month": "2023-10",
+      "visits": 3675,
+      "downloads": 3624
+    },
+    {
+      "month": "2023-11",
+      "visits": 4024,
+      "downloads": 5659
+    },
+    {
+      "month": "2023-12",
+      "visits": 3742,
+      "downloads": 3219
+    },
+    {
+      "month": "2024-01",
+      "visits": 5450,
+      "downloads": 4221
+    },
+    {
+      "month": "2024-02",
+      "visits": 5493,
+      "downloads": 3585
+    },
+    {
+      "month": "2024-03",
+      "visits": 7332,
+      "downloads": 4272
+    },
+    {
+      "month": "2024-04",
+      "visits": 5526,
+      "downloads": 2902
+    },
+    {
+      "month": "2024-05",
+      "visits": 6031,
+      "downloads": 2061
+    },
+    {
+      "month": "2024-06",
+      "visits": 7061,
+      "downloads": 2454
+    },
+    {
+      "month": "2024-07",
+      "visits": 6613,
+      "downloads": 6703
+    },
+    {
+      "month": "2024-08",
+      "visits": 7107,
+      "downloads": 3059
+    },
+    {
+      "month": "2024-09",
+      "visits": 4776,
+      "downloads": 3003
+    },
+    {
+      "month": "2024-10",
+      "visits": 5171,
+      "downloads": 3315
+    },
+    {
+      "month": "2024-11",
+      "visits": 8508,
+      "downloads": 3265
+    },
+    {
+      "month": "2024-12",
+      "visits": 5788,
+      "downloads": 1655
+    },
+    {
+      "month": "2025-01",
+      "visits": 675,
+      "downloads": 510
+    },
+    {
+      "month": "2025-02",
+      "visits": 8151,
+      "downloads": 5748
+    },
+    {
+      "month": "2025-03",
+      "visits": 11778,
+      "downloads": 5713
+    },
+    {
+      "month": "2025-04",
+      "visits": 10768,
+      "downloads": 5413
+    },
+    {
+      "month": "2025-05",
+      "visits": 10287,
+      "downloads": 4472
+    },
+    {
+      "month": "2025-06",
+      "visits": 7581,
+      "downloads": 4410
+    },
+    {
+      "month": "2025-07",
+      "visits": 6511,
+      "downloads": 4913
+    },
+    {
+      "month": "2025-08",
+      "visits": 6428,
+      "downloads": 5395
+    },
+    {
+      "month": "2025-09",
+      "visits": 7131,
+      "downloads": 6862
+    },
+    {
+      "month": "2025-10",
+      "visits": 9353,
+      "downloads": 7434
+    },
+    {
+      "month": "2025-11",
+      "visits": 11644,
+      "downloads": 6309
+    },
+    {
+      "month": "2025-12",
+      "visits": 613,
+      "downloads": 347
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

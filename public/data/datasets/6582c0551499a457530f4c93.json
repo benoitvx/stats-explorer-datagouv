@@ -1,0 +1,139 @@
+{
+  "id": "6582c0551499a457530f4c93",
+  "title": "Horaires théoriques et temps-réel du réseau Cavaillon - C mon bus (GTFS / GTFS-RT) ",
+  "slug": "horaires-theoriques-et-temps-reel-du-reseau-cavaillon-c-mon-bus-gtfs-gtfs-rt",
+  "organization": "Zenbus",
+  "organizationId": "5cf67b0d6f44413baf79652d",
+  "url": "https://www.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-cavaillon-c-mon-bus-gtfs-gtfs-rt/",
+  "totalVisits": 2400,
+  "totalDownloads": 2330783,
+  "monthlyStats": [
+    {
+      "month": "2023-12",
+      "visits": 364,
+      "downloads": 41
+    },
+    {
+      "month": "2024-01",
+      "visits": 85,
+      "downloads": 48
+    },
+    {
+      "month": "2024-02",
+      "visits": 113,
+      "downloads": 65
+    },
+    {
+      "month": "2024-03",
+      "visits": 87,
+      "downloads": 58
+    },
+    {
+      "month": "2024-04",
+      "visits": 79,
+      "downloads": 571
+    },
+    {
+      "month": "2024-05",
+      "visits": 74,
+      "downloads": 44462
+    },
+    {
+      "month": "2024-06",
+      "visits": 110,
+      "downloads": 73271
+    },
+    {
+      "month": "2024-07",
+      "visits": 99,
+      "downloads": 129018
+    },
+    {
+      "month": "2024-08",
+      "visits": 95,
+      "downloads": 129689
+    },
+    {
+      "month": "2024-09",
+      "visits": 40,
+      "downloads": 125304
+    },
+    {
+      "month": "2024-10",
+      "visits": 41,
+      "downloads": 125120
+    },
+    {
+      "month": "2024-11",
+      "visits": 69,
+      "downloads": 125492
+    },
+    {
+      "month": "2024-12",
+      "visits": 47,
+      "downloads": 127606
+    },
+    {
+      "month": "2025-01",
+      "visits": 51,
+      "downloads": 135908
+    },
+    {
+      "month": "2025-02",
+      "visits": 84,
+      "downloads": 124519
+    },
+    {
+      "month": "2025-03",
+      "visits": 81,
+      "downloads": 126963
+    },
+    {
+      "month": "2025-04",
+      "visits": 160,
+      "downloads": 131589
+    },
+    {
+      "month": "2025-05",
+      "visits": 87,
+      "downloads": 136704
+    },
+    {
+      "month": "2025-06",
+      "visits": 158,
+      "downloads": 125632
+    },
+    {
+      "month": "2025-07",
+      "visits": 133,
+      "downloads": 135893
+    },
+    {
+      "month": "2025-08",
+      "visits": 98,
+      "downloads": 136085
+    },
+    {
+      "month": "2025-09",
+      "visits": 96,
+      "downloads": 134119
+    },
+    {
+      "month": "2025-10",
+      "visits": 86,
+      "downloads": 131676
+    },
+    {
+      "month": "2025-11",
+      "visits": 58,
+      "downloads": 122402
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 8548
+    }
+  ],
+  "firstMonth": "2023-12",
+  "lastMonth": "2025-12"
+}

@@ -5,8 +5,8 @@
   "organization": "France compétences",
   "organizationId": "5d767ad36f44414d5b3645c8",
   "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-certifications-professionnelles-et-repertoire-specifique/",
-  "totalVisits": 214692,
-  "totalDownloads": 194512,
+  "totalVisits": 214945,
+  "totalDownloads": 193782,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 4931,
-      "downloads": 3197
+      "downloads": 2959
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 6108,
-      "downloads": 8744
+      "downloads": 8220
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 211,
-      "downloads": 196
+      "visits": 464,
+      "downloads": 228
     }
   ],
   "firstMonth": "2022-07",

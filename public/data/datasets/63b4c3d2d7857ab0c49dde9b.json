@@ -1,0 +1,194 @@
+{
+  "id": "63b4c3d2d7857ab0c49dde9b",
+  "title": "Offre de transport du réseau SITAC (Communauté d'Agglomération de Châlons-en-Champagne)",
+  "slug": "fr-200052264-t0005-0000-1",
+  "organization": "Fluo Grand Est",
+  "organizationId": "5d823fd98b4c411e38e820b4",
+  "url": "https://www.data.gouv.fr/datasets/fr-200052264-t0005-0000-1/",
+  "totalVisits": 5271,
+  "totalDownloads": 4093749,
+  "monthlyStats": [
+    {
+      "month": "2023-01",
+      "visits": 191,
+      "downloads": 14
+    },
+    {
+      "month": "2023-02",
+      "visits": 38,
+      "downloads": 3
+    },
+    {
+      "month": "2023-03",
+      "visits": 31,
+      "downloads": 9
+    },
+    {
+      "month": "2023-04",
+      "visits": 49,
+      "downloads": 9
+    },
+    {
+      "month": "2023-05",
+      "visits": 35,
+      "downloads": 55
+    },
+    {
+      "month": "2023-06",
+      "visits": 120,
+      "downloads": 95
+    },
+    {
+      "month": "2023-07",
+      "visits": 122,
+      "downloads": 80
+    },
+    {
+      "month": "2023-08",
+      "visits": 119,
+      "downloads": 15521
+    },
+    {
+      "month": "2023-09",
+      "visits": 129,
+      "downloads": 320613
+    },
+    {
+      "month": "2023-10",
+      "visits": 119,
+      "downloads": 301688
+    },
+    {
+      "month": "2023-11",
+      "visits": 131,
+      "downloads": 81322
+    },
+    {
+      "month": "2023-12",
+      "visits": 186,
+      "downloads": 92
+    },
+    {
+      "month": "2024-01",
+      "visits": 169,
+      "downloads": 92
+    },
+    {
+      "month": "2024-02",
+      "visits": 154,
+      "downloads": 107
+    },
+    {
+      "month": "2024-03",
+      "visits": 148,
+      "downloads": 115
+    },
+    {
+      "month": "2024-04",
+      "visits": 160,
+      "downloads": 117
+    },
+    {
+      "month": "2024-05",
+      "visits": 170,
+      "downloads": 159
+    },
+    {
+      "month": "2024-06",
+      "visits": 158,
+      "downloads": 135
+    },
+    {
+      "month": "2024-07",
+      "visits": 170,
+      "downloads": 157100
+    },
+    {
+      "month": "2024-08",
+      "visits": 300,
+      "downloads": 215461
+    },
+    {
+      "month": "2024-09",
+      "visits": 113,
+      "downloads": 201988
+    },
+    {
+      "month": "2024-10",
+      "visits": 125,
+      "downloads": 196817
+    },
+    {
+      "month": "2024-11",
+      "visits": 155,
+      "downloads": 207086
+    },
+    {
+      "month": "2024-12",
+      "visits": 105,
+      "downloads": 199089
+    },
+    {
+      "month": "2025-01",
+      "visits": 88,
+      "downloads": 206594
+    },
+    {
+      "month": "2025-02",
+      "visits": 145,
+      "downloads": 98841
+    },
+    {
+      "month": "2025-03",
+      "visits": 134,
+      "downloads": 211769
+    },
+    {
+      "month": "2025-04",
+      "visits": 146,
+      "downloads": 199057
+    },
+    {
+      "month": "2025-05",
+      "visits": 191,
+      "downloads": 225536
+    },
+    {
+      "month": "2025-06",
+      "visits": 292,
+      "downloads": 207384
+    },
+    {
+      "month": "2025-07",
+      "visits": 357,
+      "downloads": 219195
+    },
+    {
+      "month": "2025-08",
+      "visits": 245,
+      "downloads": 217892
+    },
+    {
+      "month": "2025-09",
+      "visits": 146,
+      "downloads": 181454
+    },
+    {
+      "month": "2025-10",
+      "visits": 149,
+      "downloads": 214730
+    },
+    {
+      "month": "2025-11",
+      "visits": 172,
+      "downloads": 199633
+    },
+    {
+      "month": "2025-12",
+      "visits": 9,
+      "downloads": 13897
+    }
+  ],
+  "firstMonth": "2023-01",
+  "lastMonth": "2025-12"
+}

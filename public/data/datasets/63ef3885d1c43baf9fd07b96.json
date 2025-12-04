@@ -1,0 +1,189 @@
+{
+  "id": "63ef3885d1c43baf9fd07b96",
+  "title": "SNgo! (Vernon, Les Andelys, Seine Normandie Agglo)",
+  "slug": "sngo-vernon-les-andelys-seine-normandie-agglo",
+  "organization": "Syndicat mixte Atoumod",
+  "organizationId": "5cc844dd634f41078d8e2c8e",
+  "url": "https://www.data.gouv.fr/datasets/sngo-vernon-les-andelys-seine-normandie-agglo/",
+  "totalVisits": 4444,
+  "totalDownloads": 4222973,
+  "monthlyStats": [
+    {
+      "month": "2023-02",
+      "visits": 386,
+      "downloads": 4
+    },
+    {
+      "month": "2023-03",
+      "visits": 90,
+      "downloads": 9
+    },
+    {
+      "month": "2023-04",
+      "visits": 61,
+      "downloads": 3
+    },
+    {
+      "month": "2023-05",
+      "visits": 85,
+      "downloads": 3
+    },
+    {
+      "month": "2023-06",
+      "visits": 84,
+      "downloads": 59
+    },
+    {
+      "month": "2023-07",
+      "visits": 106,
+      "downloads": 1543
+    },
+    {
+      "month": "2023-08",
+      "visits": 97,
+      "downloads": 17498
+    },
+    {
+      "month": "2023-09",
+      "visits": 123,
+      "downloads": 323306
+    },
+    {
+      "month": "2023-10",
+      "visits": 97,
+      "downloads": 303017
+    },
+    {
+      "month": "2023-11",
+      "visits": 103,
+      "downloads": 83007
+    },
+    {
+      "month": "2023-12",
+      "visits": 240,
+      "downloads": 2230
+    },
+    {
+      "month": "2024-01",
+      "visits": 228,
+      "downloads": 2257
+    },
+    {
+      "month": "2024-02",
+      "visits": 188,
+      "downloads": 2690
+    },
+    {
+      "month": "2024-03",
+      "visits": 141,
+      "downloads": 3168
+    },
+    {
+      "month": "2024-04",
+      "visits": 108,
+      "downloads": 3134
+    },
+    {
+      "month": "2024-05",
+      "visits": 123,
+      "downloads": 3686
+    },
+    {
+      "month": "2024-06",
+      "visits": 146,
+      "downloads": 2744
+    },
+    {
+      "month": "2024-07",
+      "visits": 145,
+      "downloads": 159016
+    },
+    {
+      "month": "2024-08",
+      "visits": 120,
+      "downloads": 207389
+    },
+    {
+      "month": "2024-09",
+      "visits": 102,
+      "downloads": 202318
+    },
+    {
+      "month": "2024-10",
+      "visits": 70,
+      "downloads": 195800
+    },
+    {
+      "month": "2024-11",
+      "visits": 118,
+      "downloads": 206338
+    },
+    {
+      "month": "2024-12",
+      "visits": 73,
+      "downloads": 204867
+    },
+    {
+      "month": "2025-01",
+      "visits": 63,
+      "downloads": 214700
+    },
+    {
+      "month": "2025-02",
+      "visits": 84,
+      "downloads": 198301
+    },
+    {
+      "month": "2025-03",
+      "visits": 113,
+      "downloads": 213431
+    },
+    {
+      "month": "2025-04",
+      "visits": 259,
+      "downloads": 219417
+    },
+    {
+      "month": "2025-05",
+      "visits": 81,
+      "downloads": 198012
+    },
+    {
+      "month": "2025-06",
+      "visits": 195,
+      "downloads": 204170
+    },
+    {
+      "month": "2025-07",
+      "visits": 144,
+      "downloads": 210334
+    },
+    {
+      "month": "2025-08",
+      "visits": 75,
+      "downloads": 214265
+    },
+    {
+      "month": "2025-09",
+      "visits": 121,
+      "downloads": 208770
+    },
+    {
+      "month": "2025-10",
+      "visits": 134,
+      "downloads": 202554
+    },
+    {
+      "month": "2025-11",
+      "visits": 134,
+      "downloads": 200915
+    },
+    {
+      "month": "2025-12",
+      "visits": 7,
+      "downloads": 14018
+    }
+  ],
+  "firstMonth": "2023-02",
+  "lastMonth": "2025-12"
+}

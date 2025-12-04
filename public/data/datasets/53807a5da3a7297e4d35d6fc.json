@@ -1,0 +1,224 @@
+{
+  "id": "53807a5da3a7297e4d35d6fc",
+  "title": "Hôtellerie : Durée moyenne de séjour",
+  "slug": "hotellerie-duree-moyenne-de-sejour-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/hotellerie-duree-moyenne-de-sejour-cors/",
+  "totalVisits": 3082,
+  "totalDownloads": 240620,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 16,
+      "downloads": 19
+    },
+    {
+      "month": "2022-08",
+      "visits": 19,
+      "downloads": 27
+    },
+    {
+      "month": "2022-09",
+      "visits": 49,
+      "downloads": 40
+    },
+    {
+      "month": "2022-10",
+      "visits": 61,
+      "downloads": 29
+    },
+    {
+      "month": "2022-11",
+      "visits": 46,
+      "downloads": 63
+    },
+    {
+      "month": "2022-12",
+      "visits": 72,
+      "downloads": 43
+    },
+    {
+      "month": "2023-01",
+      "visits": 43,
+      "downloads": 24
+    },
+    {
+      "month": "2023-02",
+      "visits": 44,
+      "downloads": 17
+    },
+    {
+      "month": "2023-03",
+      "visits": 45,
+      "downloads": 49
+    },
+    {
+      "month": "2023-04",
+      "visits": 51,
+      "downloads": 31
+    },
+    {
+      "month": "2023-05",
+      "visits": 43,
+      "downloads": 28
+    },
+    {
+      "month": "2023-06",
+      "visits": 68,
+      "downloads": 44
+    },
+    {
+      "month": "2023-07",
+      "visits": 60,
+      "downloads": 43
+    },
+    {
+      "month": "2023-08",
+      "visits": 96,
+      "downloads": 78
+    },
+    {
+      "month": "2023-09",
+      "visits": 89,
+      "downloads": 77
+    },
+    {
+      "month": "2023-10",
+      "visits": 79,
+      "downloads": 81
+    },
+    {
+      "month": "2023-11",
+      "visits": 73,
+      "downloads": 47
+    },
+    {
+      "month": "2023-12",
+      "visits": 126,
+      "downloads": 49
+    },
+    {
+      "month": "2024-01",
+      "visits": 82,
+      "downloads": 32
+    },
+    {
+      "month": "2024-02",
+      "visits": 82,
+      "downloads": 29
+    },
+    {
+      "month": "2024-03",
+      "visits": 75,
+      "downloads": 46
+    },
+    {
+      "month": "2024-04",
+      "visits": 58,
+      "downloads": 31
+    },
+    {
+      "month": "2024-05",
+      "visits": 64,
+      "downloads": 32
+    },
+    {
+      "month": "2024-06",
+      "visits": 87,
+      "downloads": 36
+    },
+    {
+      "month": "2024-07",
+      "visits": 55,
+      "downloads": 39
+    },
+    {
+      "month": "2024-08",
+      "visits": 57,
+      "downloads": 55
+    },
+    {
+      "month": "2024-09",
+      "visits": 57,
+      "downloads": 37
+    },
+    {
+      "month": "2024-10",
+      "visits": 55,
+      "downloads": 28
+    },
+    {
+      "month": "2024-11",
+      "visits": 72,
+      "downloads": 42
+    },
+    {
+      "month": "2024-12",
+      "visits": 68,
+      "downloads": 15
+    },
+    {
+      "month": "2025-01",
+      "visits": 58,
+      "downloads": 239178
+    },
+    {
+      "month": "2025-02",
+      "visits": 76,
+      "downloads": 36
+    },
+    {
+      "month": "2025-03",
+      "visits": 88,
+      "downloads": 33
+    },
+    {
+      "month": "2025-04",
+      "visits": 95,
+      "downloads": 43
+    },
+    {
+      "month": "2025-05",
+      "visits": 132,
+      "downloads": 52
+    },
+    {
+      "month": "2025-06",
+      "visits": 113,
+      "downloads": 18
+    },
+    {
+      "month": "2025-07",
+      "visits": 222,
+      "downloads": 15
+    },
+    {
+      "month": "2025-08",
+      "visits": 61,
+      "downloads": 6
+    },
+    {
+      "month": "2025-09",
+      "visits": 83,
+      "downloads": 12
+    },
+    {
+      "month": "2025-10",
+      "visits": 42,
+      "downloads": 4
+    },
+    {
+      "month": "2025-11",
+      "visits": 217,
+      "downloads": 12
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "6026675fc02b24d37069f81a",
+  "title": "CTLB - Données théoriques et RT Aix-les-Bains, lac du Bourget",
+  "slug": "ctlb-donnees-theoriques-et-rt-aix-les-bains-lac-du-bourget",
+  "organization": "Ondéa - COMPAGNIE DE TRANSPORT DU LAC DU BOURGET-CTLB",
+  "organizationId": "5be2dd80634f41472fc9de00",
+  "url": "https://www.data.gouv.fr/datasets/ctlb-donnees-theoriques-et-rt-aix-les-bains-lac-du-bourget/",
+  "totalVisits": 4510,
+  "totalDownloads": 2804482,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 27,
+      "downloads": 128
+    },
+    {
+      "month": "2022-08",
+      "visits": 44,
+      "downloads": 224
+    },
+    {
+      "month": "2022-09",
+      "visits": 81,
+      "downloads": 243
+    },
+    {
+      "month": "2022-10",
+      "visits": 97,
+      "downloads": 197
+    },
+    {
+      "month": "2022-11",
+      "visits": 114,
+      "downloads": 187
+    },
+    {
+      "month": "2022-12",
+      "visits": 103,
+      "downloads": 193
+    },
+    {
+      "month": "2023-01",
+      "visits": 56,
+      "downloads": 245
+    },
+    {
+      "month": "2023-02",
+      "visits": 55,
+      "downloads": 203
+    },
+    {
+      "month": "2023-03",
+      "visits": 62,
+      "downloads": 203
+    },
+    {
+      "month": "2023-04",
+      "visits": 48,
+      "downloads": 184
+    },
+    {
+      "month": "2023-05",
+      "visits": 52,
+      "downloads": 226
+    },
+    {
+      "month": "2023-06",
+      "visits": 57,
+      "downloads": 291
+    },
+    {
+      "month": "2023-07",
+      "visits": 59,
+      "downloads": 229
+    },
+    {
+      "month": "2023-08",
+      "visits": 69,
+      "downloads": 270
+    },
+    {
+      "month": "2023-09",
+      "visits": 73,
+      "downloads": 246
+    },
+    {
+      "month": "2023-10",
+      "visits": 73,
+      "downloads": 239
+    },
+    {
+      "month": "2023-11",
+      "visits": 69,
+      "downloads": 246
+    },
+    {
+      "month": "2023-12",
+      "visits": 112,
+      "downloads": 130
+    },
+    {
+      "month": "2024-01",
+      "visits": 117,
+      "downloads": 102
+    },
+    {
+      "month": "2024-02",
+      "visits": 93,
+      "downloads": 111
+    },
+    {
+      "month": "2024-03",
+      "visits": 84,
+      "downloads": 120
+    },
+    {
+      "month": "2024-04",
+      "visits": 83,
+      "downloads": 131
+    },
+    {
+      "month": "2024-05",
+      "visits": 93,
+      "downloads": 56981
+    },
+    {
+      "month": "2024-06",
+      "visits": 129,
+      "downloads": 196240
+    },
+    {
+      "month": "2024-07",
+      "visits": 151,
+      "downloads": 200995
+    },
+    {
+      "month": "2024-08",
+      "visits": 141,
+      "downloads": 198186
+    },
+    {
+      "month": "2024-09",
+      "visits": 141,
+      "downloads": 191519
+    },
+    {
+      "month": "2024-10",
+      "visits": 138,
+      "downloads": 192122
+    },
+    {
+      "month": "2024-11",
+      "visits": 191,
+      "downloads": 190979
+    },
+    {
+      "month": "2024-12",
+      "visits": 138,
+      "downloads": 198437
+    },
+    {
+      "month": "2025-01",
+      "visits": 101,
+      "downloads": 212289
+    },
+    {
+      "month": "2025-02",
+      "visits": 129,
+      "downloads": 195854
+    },
+    {
+      "month": "2025-03",
+      "visits": 169,
+      "downloads": 198826
+    },
+    {
+      "month": "2025-04",
+      "visits": 199,
+      "downloads": 208297
+    },
+    {
+      "month": "2025-05",
+      "visits": 141,
+      "downloads": 216206
+    },
+    {
+      "month": "2025-06",
+      "visits": 209,
+      "downloads": 196757
+    },
+    {
+      "month": "2025-07",
+      "visits": 212,
+      "downloads": 121610
+    },
+    {
+      "month": "2025-08",
+      "visits": 124,
+      "downloads": 1962
+    },
+    {
+      "month": "2025-09",
+      "visits": 178,
+      "downloads": 4617
+    },
+    {
+      "month": "2025-10",
+      "visits": 168,
+      "downloads": 9273
+    },
+    {
+      "month": "2025-11",
+      "visits": 125,
+      "downloads": 8394
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 590
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

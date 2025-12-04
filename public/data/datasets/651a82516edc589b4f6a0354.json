@@ -1,0 +1,149 @@
+{
+  "id": "651a82516edc589b4f6a0354",
+  "title": "Surveillance du Sars-Cov-2 dans les eaux usées (SUM'Eau)",
+  "slug": "surveillance-du-sars-cov-2-dans-les-eaux-usees-sumeau",
+  "organization": "Santé publique France",
+  "organizationId": "5e721a395d57f93d0bed451f",
+  "url": "https://www.data.gouv.fr/datasets/surveillance-du-sars-cov-2-dans-les-eaux-usees-sumeau/",
+  "totalVisits": 75883,
+  "totalDownloads": 110952,
+  "monthlyStats": [
+    {
+      "month": "2023-10",
+      "visits": 4583,
+      "downloads": 3604
+    },
+    {
+      "month": "2023-11",
+      "visits": 2750,
+      "downloads": 4373
+    },
+    {
+      "month": "2023-12",
+      "visits": 2819,
+      "downloads": 5560
+    },
+    {
+      "month": "2024-01",
+      "visits": 1272,
+      "downloads": 2706
+    },
+    {
+      "month": "2024-02",
+      "visits": 784,
+      "downloads": 1919
+    },
+    {
+      "month": "2024-03",
+      "visits": 1108,
+      "downloads": 2667
+    },
+    {
+      "month": "2024-04",
+      "visits": 1666,
+      "downloads": 3317
+    },
+    {
+      "month": "2024-05",
+      "visits": 2775,
+      "downloads": 3324
+    },
+    {
+      "month": "2024-06",
+      "visits": 5575,
+      "downloads": 12826
+    },
+    {
+      "month": "2024-07",
+      "visits": 2675,
+      "downloads": 6199
+    },
+    {
+      "month": "2024-08",
+      "visits": 2589,
+      "downloads": 3638
+    },
+    {
+      "month": "2024-09",
+      "visits": 1930,
+      "downloads": 4728
+    },
+    {
+      "month": "2024-10",
+      "visits": 2110,
+      "downloads": 6974
+    },
+    {
+      "month": "2024-11",
+      "visits": 3392,
+      "downloads": 5506
+    },
+    {
+      "month": "2024-12",
+      "visits": 1055,
+      "downloads": 3456
+    },
+    {
+      "month": "2025-01",
+      "visits": 2436,
+      "downloads": 628
+    },
+    {
+      "month": "2025-02",
+      "visits": 674,
+      "downloads": 4068
+    },
+    {
+      "month": "2025-03",
+      "visits": 1199,
+      "downloads": 4330
+    },
+    {
+      "month": "2025-04",
+      "visits": 3332,
+      "downloads": 5995
+    },
+    {
+      "month": "2025-05",
+      "visits": 3984,
+      "downloads": 5530
+    },
+    {
+      "month": "2025-06",
+      "visits": 4214,
+      "downloads": 5172
+    },
+    {
+      "month": "2025-07",
+      "visits": 4761,
+      "downloads": 500
+    },
+    {
+      "month": "2025-08",
+      "visits": 7113,
+      "downloads": 523
+    },
+    {
+      "month": "2025-09",
+      "visits": 5255,
+      "downloads": 2557
+    },
+    {
+      "month": "2025-10",
+      "visits": 4827,
+      "downloads": 6659
+    },
+    {
+      "month": "2025-11",
+      "visits": 937,
+      "downloads": 3856
+    },
+    {
+      "month": "2025-12",
+      "visits": 68,
+      "downloads": 337
+    }
+  ],
+  "firstMonth": "2023-10",
+  "lastMonth": "2025-12"
+}

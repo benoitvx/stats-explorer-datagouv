@@ -1,0 +1,224 @@
+{
+  "id": "5d31845b8b4c4169bb4d11d4",
+  "title": "FILIBUS Periurbain",
+  "slug": "filibus-periurbain",
+  "organization": "Filibus - Chartres Métropole Transports",
+  "organizationId": "5c35c8518b4c416fe6cb42c9",
+  "url": "https://www.data.gouv.fr/datasets/filibus-periurbain/",
+  "totalVisits": 3456,
+  "totalDownloads": 862692,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 24,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 17,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 153,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 160,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 148,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 142,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 188,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 104,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 57,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 46,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 56,
+      "downloads": 21
+    },
+    {
+      "month": "2023-06",
+      "visits": 48,
+      "downloads": 79
+    },
+    {
+      "month": "2023-07",
+      "visits": 71,
+      "downloads": 4635
+    },
+    {
+      "month": "2023-08",
+      "visits": 78,
+      "downloads": 137
+    },
+    {
+      "month": "2023-09",
+      "visits": 85,
+      "downloads": 182
+    },
+    {
+      "month": "2023-10",
+      "visits": 64,
+      "downloads": 185
+    },
+    {
+      "month": "2023-11",
+      "visits": 75,
+      "downloads": 140
+    },
+    {
+      "month": "2023-12",
+      "visits": 116,
+      "downloads": 161
+    },
+    {
+      "month": "2024-01",
+      "visits": 114,
+      "downloads": 103
+    },
+    {
+      "month": "2024-02",
+      "visits": 76,
+      "downloads": 126
+    },
+    {
+      "month": "2024-03",
+      "visits": 95,
+      "downloads": 3211
+    },
+    {
+      "month": "2024-04",
+      "visits": 83,
+      "downloads": 8024
+    },
+    {
+      "month": "2024-05",
+      "visits": 70,
+      "downloads": 8351
+    },
+    {
+      "month": "2024-06",
+      "visits": 143,
+      "downloads": 8326
+    },
+    {
+      "month": "2024-07",
+      "visits": 111,
+      "downloads": 8603
+    },
+    {
+      "month": "2024-08",
+      "visits": 72,
+      "downloads": 8434
+    },
+    {
+      "month": "2024-09",
+      "visits": 58,
+      "downloads": 7866
+    },
+    {
+      "month": "2024-10",
+      "visits": 82,
+      "downloads": 8080
+    },
+    {
+      "month": "2024-11",
+      "visits": 123,
+      "downloads": 8169
+    },
+    {
+      "month": "2024-12",
+      "visits": 96,
+      "downloads": 8186
+    },
+    {
+      "month": "2025-01",
+      "visits": 77,
+      "downloads": 19720
+    },
+    {
+      "month": "2025-02",
+      "visits": 94,
+      "downloads": 33554
+    },
+    {
+      "month": "2025-03",
+      "visits": 87,
+      "downloads": 80957
+    },
+    {
+      "month": "2025-04",
+      "visits": 92,
+      "downloads": 80865
+    },
+    {
+      "month": "2025-05",
+      "visits": 65,
+      "downloads": 84209
+    },
+    {
+      "month": "2025-06",
+      "visits": 85,
+      "downloads": 77632
+    },
+    {
+      "month": "2025-07",
+      "visits": 49,
+      "downloads": 78035
+    },
+    {
+      "month": "2025-08",
+      "visits": 44,
+      "downloads": 78606
+    },
+    {
+      "month": "2025-09",
+      "visits": 48,
+      "downloads": 81430
+    },
+    {
+      "month": "2025-10",
+      "visits": 33,
+      "downloads": 82792
+    },
+    {
+      "month": "2025-11",
+      "visits": 23,
+      "downloads": 76520
+    },
+    {
+      "month": "2025-12",
+      "visits": 4,
+      "downloads": 5353
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

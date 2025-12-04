@@ -1,0 +1,224 @@
+{
+  "id": "5c642379634f41657e9b5ea4",
+  "title": "Offre de transport du réseau Tango de Nîmes Métropole (GTFS/GTFS-RT)",
+  "slug": "offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt",
+  "organization": "Tango",
+  "organizationId": "5c63eb3b634f414aa0d998d4",
+  "url": "https://www.data.gouv.fr/datasets/offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt/",
+  "totalVisits": 5909,
+  "totalDownloads": 543943,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 5,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 7,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 14,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 26,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 39,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 30,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 17,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 28,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 45,
+      "downloads": 15
+    },
+    {
+      "month": "2023-04",
+      "visits": 153,
+      "downloads": 19
+    },
+    {
+      "month": "2023-05",
+      "visits": 117,
+      "downloads": 23
+    },
+    {
+      "month": "2023-06",
+      "visits": 122,
+      "downloads": 871
+    },
+    {
+      "month": "2023-07",
+      "visits": 134,
+      "downloads": 1746
+    },
+    {
+      "month": "2023-08",
+      "visits": 148,
+      "downloads": 2013
+    },
+    {
+      "month": "2023-09",
+      "visits": 186,
+      "downloads": 1382
+    },
+    {
+      "month": "2023-10",
+      "visits": 146,
+      "downloads": 1440
+    },
+    {
+      "month": "2023-11",
+      "visits": 115,
+      "downloads": 1508
+    },
+    {
+      "month": "2023-12",
+      "visits": 205,
+      "downloads": 1452
+    },
+    {
+      "month": "2024-01",
+      "visits": 207,
+      "downloads": 1813
+    },
+    {
+      "month": "2024-02",
+      "visits": 160,
+      "downloads": 1712
+    },
+    {
+      "month": "2024-03",
+      "visits": 175,
+      "downloads": 1604
+    },
+    {
+      "month": "2024-04",
+      "visits": 179,
+      "downloads": 1438
+    },
+    {
+      "month": "2024-05",
+      "visits": 129,
+      "downloads": 1858
+    },
+    {
+      "month": "2024-06",
+      "visits": 172,
+      "downloads": 1727
+    },
+    {
+      "month": "2024-07",
+      "visits": 175,
+      "downloads": 3500
+    },
+    {
+      "month": "2024-08",
+      "visits": 142,
+      "downloads": 9422
+    },
+    {
+      "month": "2024-09",
+      "visits": 95,
+      "downloads": 8534
+    },
+    {
+      "month": "2024-10",
+      "visits": 75,
+      "downloads": 12263
+    },
+    {
+      "month": "2024-11",
+      "visits": 124,
+      "downloads": 13474
+    },
+    {
+      "month": "2024-12",
+      "visits": 98,
+      "downloads": 14042
+    },
+    {
+      "month": "2025-01",
+      "visits": 82,
+      "downloads": 19991
+    },
+    {
+      "month": "2025-02",
+      "visits": 205,
+      "downloads": 18115
+    },
+    {
+      "month": "2025-03",
+      "visits": 236,
+      "downloads": 26446
+    },
+    {
+      "month": "2025-04",
+      "visits": 229,
+      "downloads": 62229
+    },
+    {
+      "month": "2025-05",
+      "visits": 266,
+      "downloads": 55574
+    },
+    {
+      "month": "2025-06",
+      "visits": 370,
+      "downloads": 41319
+    },
+    {
+      "month": "2025-07",
+      "visits": 253,
+      "downloads": 48554
+    },
+    {
+      "month": "2025-08",
+      "visits": 249,
+      "downloads": 49960
+    },
+    {
+      "month": "2025-09",
+      "visits": 289,
+      "downloads": 61550
+    },
+    {
+      "month": "2025-10",
+      "visits": 295,
+      "downloads": 38498
+    },
+    {
+      "month": "2025-11",
+      "visits": 156,
+      "downloads": 37138
+    },
+    {
+      "month": "2025-12",
+      "visits": 11,
+      "downloads": 2713
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

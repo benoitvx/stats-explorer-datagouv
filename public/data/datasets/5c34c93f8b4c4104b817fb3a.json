@@ -1,0 +1,224 @@
+{
+  "id": "5c34c93f8b4c4104b817fb3a",
+  "title": "Horaires du réseau STAS",
+  "slug": "horaires-du-reseau-stas",
+  "organization": "Saint-Etienne Métropole",
+  "organizationId": "5c34c63a8b4c41718c8b236f",
+  "url": "https://www.data.gouv.fr/datasets/horaires-du-reseau-stas/",
+  "totalVisits": 13933,
+  "totalDownloads": 854388,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 4,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 4,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 10,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 14,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 16,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 13,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 16,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 17,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 27,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 16,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 108,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 176,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 247,
+      "downloads": 146
+    },
+    {
+      "month": "2023-08",
+      "visits": 279,
+      "downloads": 1656
+    },
+    {
+      "month": "2023-09",
+      "visits": 290,
+      "downloads": 8424
+    },
+    {
+      "month": "2023-10",
+      "visits": 407,
+      "downloads": 8798
+    },
+    {
+      "month": "2023-11",
+      "visits": 330,
+      "downloads": 8570
+    },
+    {
+      "month": "2023-12",
+      "visits": 461,
+      "downloads": 8912
+    },
+    {
+      "month": "2024-01",
+      "visits": 485,
+      "downloads": 9001
+    },
+    {
+      "month": "2024-02",
+      "visits": 377,
+      "downloads": 8346
+    },
+    {
+      "month": "2024-03",
+      "visits": 294,
+      "downloads": 9203
+    },
+    {
+      "month": "2024-04",
+      "visits": 269,
+      "downloads": 8133
+    },
+    {
+      "month": "2024-05",
+      "visits": 287,
+      "downloads": 8482
+    },
+    {
+      "month": "2024-06",
+      "visits": 266,
+      "downloads": 8454
+    },
+    {
+      "month": "2024-07",
+      "visits": 265,
+      "downloads": 8936
+    },
+    {
+      "month": "2024-08",
+      "visits": 219,
+      "downloads": 8549
+    },
+    {
+      "month": "2024-09",
+      "visits": 183,
+      "downloads": 8092
+    },
+    {
+      "month": "2024-10",
+      "visits": 202,
+      "downloads": 8409
+    },
+    {
+      "month": "2024-11",
+      "visits": 351,
+      "downloads": 8565
+    },
+    {
+      "month": "2024-12",
+      "visits": 335,
+      "downloads": 8473
+    },
+    {
+      "month": "2025-01",
+      "visits": 206,
+      "downloads": 8592
+    },
+    {
+      "month": "2025-02",
+      "visits": 281,
+      "downloads": 5471
+    },
+    {
+      "month": "2025-03",
+      "visits": 328,
+      "downloads": 306
+    },
+    {
+      "month": "2025-04",
+      "visits": 370,
+      "downloads": 516
+    },
+    {
+      "month": "2025-05",
+      "visits": 480,
+      "downloads": 480
+    },
+    {
+      "month": "2025-06",
+      "visits": 766,
+      "downloads": 381
+    },
+    {
+      "month": "2025-07",
+      "visits": 43,
+      "downloads": 14252
+    },
+    {
+      "month": "2025-08",
+      "visits": 243,
+      "downloads": 171886
+    },
+    {
+      "month": "2025-09",
+      "visits": 4213,
+      "downloads": 169637
+    },
+    {
+      "month": "2025-10",
+      "visits": 534,
+      "downloads": 172557
+    },
+    {
+      "month": "2025-11",
+      "visits": 483,
+      "downloads": 160166
+    },
+    {
+      "month": "2025-12",
+      "visits": 18,
+      "downloads": 10995
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

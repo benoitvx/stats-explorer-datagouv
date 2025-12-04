@@ -1,0 +1,224 @@
+{
+  "id": "6033a87b4e276fd6499986bf",
+  "title": "AMETIS",
+  "slug": "ametis",
+  "organization": "Ametis",
+  "organizationId": "6033a1f1740296cd703b934b",
+  "url": "https://www.data.gouv.fr/datasets/ametis/",
+  "totalVisits": 6232,
+  "totalDownloads": 6009064,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 5,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 4,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 6,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 31,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 17,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 31,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 14,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 12,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 112,
+      "downloads": 14
+    },
+    {
+      "month": "2023-04",
+      "visits": 94,
+      "downloads": 12
+    },
+    {
+      "month": "2023-05",
+      "visits": 106,
+      "downloads": 17
+    },
+    {
+      "month": "2023-06",
+      "visits": 108,
+      "downloads": 1914
+    },
+    {
+      "month": "2023-07",
+      "visits": 129,
+      "downloads": 2971
+    },
+    {
+      "month": "2023-08",
+      "visits": 129,
+      "downloads": 18080
+    },
+    {
+      "month": "2023-09",
+      "visits": 158,
+      "downloads": 322907
+    },
+    {
+      "month": "2023-10",
+      "visits": 116,
+      "downloads": 304179
+    },
+    {
+      "month": "2023-11",
+      "visits": 101,
+      "downloads": 210562
+    },
+    {
+      "month": "2023-12",
+      "visits": 206,
+      "downloads": 172071
+    },
+    {
+      "month": "2024-01",
+      "visits": 205,
+      "downloads": 136428
+    },
+    {
+      "month": "2024-02",
+      "visits": 158,
+      "downloads": 165826
+    },
+    {
+      "month": "2024-03",
+      "visits": 151,
+      "downloads": 182268
+    },
+    {
+      "month": "2024-04",
+      "visits": 150,
+      "downloads": 221623
+    },
+    {
+      "month": "2024-05",
+      "visits": 140,
+      "downloads": 256037
+    },
+    {
+      "month": "2024-06",
+      "visits": 135,
+      "downloads": 223097
+    },
+    {
+      "month": "2024-07",
+      "visits": 183,
+      "downloads": 214007
+    },
+    {
+      "month": "2024-08",
+      "visits": 161,
+      "downloads": 219849
+    },
+    {
+      "month": "2024-09",
+      "visits": 121,
+      "downloads": 205967
+    },
+    {
+      "month": "2024-10",
+      "visits": 152,
+      "downloads": 188783
+    },
+    {
+      "month": "2024-11",
+      "visits": 179,
+      "downloads": 173549
+    },
+    {
+      "month": "2024-12",
+      "visits": 193,
+      "downloads": 208222
+    },
+    {
+      "month": "2025-01",
+      "visits": 100,
+      "downloads": 242702
+    },
+    {
+      "month": "2025-02",
+      "visits": 167,
+      "downloads": 227643
+    },
+    {
+      "month": "2025-03",
+      "visits": 177,
+      "downloads": 217954
+    },
+    {
+      "month": "2025-04",
+      "visits": 207,
+      "downloads": 255375
+    },
+    {
+      "month": "2025-05",
+      "visits": 295,
+      "downloads": 264588
+    },
+    {
+      "month": "2025-06",
+      "visits": 269,
+      "downloads": 240322
+    },
+    {
+      "month": "2025-07",
+      "visits": 395,
+      "downloads": 230221
+    },
+    {
+      "month": "2025-08",
+      "visits": 233,
+      "downloads": 232580
+    },
+    {
+      "month": "2025-09",
+      "visits": 369,
+      "downloads": 227022
+    },
+    {
+      "month": "2025-10",
+      "visits": 478,
+      "downloads": 220362
+    },
+    {
+      "month": "2025-11",
+      "visits": 211,
+      "downloads": 207494
+    },
+    {
+      "month": "2025-12",
+      "visits": 24,
+      "downloads": 14418
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

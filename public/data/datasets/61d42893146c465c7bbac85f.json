@@ -1,0 +1,224 @@
+{
+  "id": "61d42893146c465c7bbac85f",
+  "title": "Thèses soutenues en France depuis 1985",
+  "slug": "theses-soutenues-en-france-depuis-1985",
+  "organization": "Agence bibliographique de l'enseignement supérieur",
+  "organizationId": "61addb0b0bee8f02301638af",
+  "url": "https://www.data.gouv.fr/datasets/theses-soutenues-en-france-depuis-1985/",
+  "totalVisits": 271178,
+  "totalDownloads": 29922,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 147,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 223,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 374,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 579,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 473,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 535,
+      "downloads": 11
+    },
+    {
+      "month": "2023-01",
+      "visits": 739,
+      "downloads": 53
+    },
+    {
+      "month": "2023-02",
+      "visits": 527,
+      "downloads": 92
+    },
+    {
+      "month": "2023-03",
+      "visits": 745,
+      "downloads": 102
+    },
+    {
+      "month": "2023-04",
+      "visits": 814,
+      "downloads": 105
+    },
+    {
+      "month": "2023-05",
+      "visits": 1146,
+      "downloads": 100
+    },
+    {
+      "month": "2023-06",
+      "visits": 1258,
+      "downloads": 128
+    },
+    {
+      "month": "2023-07",
+      "visits": 917,
+      "downloads": 109
+    },
+    {
+      "month": "2023-08",
+      "visits": 713,
+      "downloads": 110
+    },
+    {
+      "month": "2023-09",
+      "visits": 1030,
+      "downloads": 182
+    },
+    {
+      "month": "2023-10",
+      "visits": 1162,
+      "downloads": 209
+    },
+    {
+      "month": "2023-11",
+      "visits": 974,
+      "downloads": 100
+    },
+    {
+      "month": "2023-12",
+      "visits": 1025,
+      "downloads": 105
+    },
+    {
+      "month": "2024-01",
+      "visits": 1027,
+      "downloads": 184
+    },
+    {
+      "month": "2024-02",
+      "visits": 781,
+      "downloads": 161
+    },
+    {
+      "month": "2024-03",
+      "visits": 19027,
+      "downloads": 3617
+    },
+    {
+      "month": "2024-04",
+      "visits": 21317,
+      "downloads": 3714
+    },
+    {
+      "month": "2024-05",
+      "visits": 17452,
+      "downloads": 3008
+    },
+    {
+      "month": "2024-06",
+      "visits": 12618,
+      "downloads": 1482
+    },
+    {
+      "month": "2024-07",
+      "visits": 11134,
+      "downloads": 1296
+    },
+    {
+      "month": "2024-08",
+      "visits": 9696,
+      "downloads": 923
+    },
+    {
+      "month": "2024-09",
+      "visits": 13560,
+      "downloads": 1351
+    },
+    {
+      "month": "2024-10",
+      "visits": 16076,
+      "downloads": 1714
+    },
+    {
+      "month": "2024-11",
+      "visits": 16195,
+      "downloads": 1647
+    },
+    {
+      "month": "2024-12",
+      "visits": 9538,
+      "downloads": 968
+    },
+    {
+      "month": "2025-01",
+      "visits": 1348,
+      "downloads": 105
+    },
+    {
+      "month": "2025-02",
+      "visits": 14169,
+      "downloads": 2062
+    },
+    {
+      "month": "2025-03",
+      "visits": 11514,
+      "downloads": 1138
+    },
+    {
+      "month": "2025-04",
+      "visits": 7707,
+      "downloads": 663
+    },
+    {
+      "month": "2025-05",
+      "visits": 7865,
+      "downloads": 725
+    },
+    {
+      "month": "2025-06",
+      "visits": 35910,
+      "downloads": 551
+    },
+    {
+      "month": "2025-07",
+      "visits": 5511,
+      "downloads": 539
+    },
+    {
+      "month": "2025-08",
+      "visits": 5344,
+      "downloads": 625
+    },
+    {
+      "month": "2025-09",
+      "visits": 5774,
+      "downloads": 622
+    },
+    {
+      "month": "2025-10",
+      "visits": 6600,
+      "downloads": 661
+    },
+    {
+      "month": "2025-11",
+      "visits": 7191,
+      "downloads": 722
+    },
+    {
+      "month": "2025-12",
+      "visits": 443,
+      "downloads": 38
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

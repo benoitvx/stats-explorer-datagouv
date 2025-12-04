@@ -5,8 +5,8 @@
   "organization": "France Travail",
   "organizationId": "534fffa3a3a7292c64a78094",
   "url": "https://www.data.gouv.fr/datasets/repertoire-operationnel-des-metiers-et-des-emplois-rome/",
-  "totalVisits": 256533,
-  "totalDownloads": 65375,
+  "totalVisits": 257078,
+  "totalDownloads": 65096,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 5069,
-      "downloads": 1778
+      "downloads": 1624
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 8672,
-      "downloads": 2561
+      "downloads": 2298
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 172,
-      "downloads": 24
+      "visits": 717,
+      "downloads": 162
     }
   ],
   "firstMonth": "2022-07",

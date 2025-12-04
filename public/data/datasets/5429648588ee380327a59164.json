@@ -1,0 +1,224 @@
+{
+  "id": "5429648588ee380327a59164",
+  "title": "Monuments historiques classés à Saint-Malo",
+  "slug": "monuments-historiques-classes-a-saint-malo",
+  "organization": "Ville de Saint-Malo",
+  "organizationId": "53ba4599a3a729219b7beaca",
+  "url": "https://www.data.gouv.fr/datasets/monuments-historiques-classes-a-saint-malo/",
+  "totalVisits": 683774,
+  "totalDownloads": 27485,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 484,
+      "downloads": 52
+    },
+    {
+      "month": "2022-08",
+      "visits": 1010,
+      "downloads": 59
+    },
+    {
+      "month": "2022-09",
+      "visits": 7676,
+      "downloads": 313
+    },
+    {
+      "month": "2022-10",
+      "visits": 15530,
+      "downloads": 577
+    },
+    {
+      "month": "2022-11",
+      "visits": 18822,
+      "downloads": 747
+    },
+    {
+      "month": "2022-12",
+      "visits": 13112,
+      "downloads": 587
+    },
+    {
+      "month": "2023-01",
+      "visits": 21916,
+      "downloads": 865
+    },
+    {
+      "month": "2023-02",
+      "visits": 17745,
+      "downloads": 781
+    },
+    {
+      "month": "2023-03",
+      "visits": 22616,
+      "downloads": 1092
+    },
+    {
+      "month": "2023-04",
+      "visits": 12283,
+      "downloads": 658
+    },
+    {
+      "month": "2023-05",
+      "visits": 16636,
+      "downloads": 865
+    },
+    {
+      "month": "2023-06",
+      "visits": 9106,
+      "downloads": 527
+    },
+    {
+      "month": "2023-07",
+      "visits": 1068,
+      "downloads": 96
+    },
+    {
+      "month": "2023-08",
+      "visits": 822,
+      "downloads": 69
+    },
+    {
+      "month": "2023-09",
+      "visits": 7639,
+      "downloads": 336
+    },
+    {
+      "month": "2023-10",
+      "visits": 14423,
+      "downloads": 732
+    },
+    {
+      "month": "2023-11",
+      "visits": 19058,
+      "downloads": 929
+    },
+    {
+      "month": "2023-12",
+      "visits": 18294,
+      "downloads": 765
+    },
+    {
+      "month": "2024-01",
+      "visits": 28935,
+      "downloads": 1178
+    },
+    {
+      "month": "2024-02",
+      "visits": 28093,
+      "downloads": 1168
+    },
+    {
+      "month": "2024-03",
+      "visits": 35607,
+      "downloads": 1652
+    },
+    {
+      "month": "2024-04",
+      "visits": 18185,
+      "downloads": 722
+    },
+    {
+      "month": "2024-05",
+      "visits": 26622,
+      "downloads": 1104
+    },
+    {
+      "month": "2024-06",
+      "visits": 15366,
+      "downloads": 611
+    },
+    {
+      "month": "2024-07",
+      "visits": 1785,
+      "downloads": 119
+    },
+    {
+      "month": "2024-08",
+      "visits": 1267,
+      "downloads": 64
+    },
+    {
+      "month": "2024-09",
+      "visits": 16527,
+      "downloads": 608
+    },
+    {
+      "month": "2024-10",
+      "visits": 27218,
+      "downloads": 1133
+    },
+    {
+      "month": "2024-11",
+      "visits": 35202,
+      "downloads": 1382
+    },
+    {
+      "month": "2024-12",
+      "visits": 19652,
+      "downloads": 759
+    },
+    {
+      "month": "2025-01",
+      "visits": 1398,
+      "downloads": 56
+    },
+    {
+      "month": "2025-02",
+      "visits": 23931,
+      "downloads": 1062
+    },
+    {
+      "month": "2025-03",
+      "visits": 35646,
+      "downloads": 1120
+    },
+    {
+      "month": "2025-04",
+      "visits": 23283,
+      "downloads": 862
+    },
+    {
+      "month": "2025-05",
+      "visits": 31331,
+      "downloads": 981
+    },
+    {
+      "month": "2025-06",
+      "visits": 15731,
+      "downloads": 434
+    },
+    {
+      "month": "2025-07",
+      "visits": 1778,
+      "downloads": 88
+    },
+    {
+      "month": "2025-08",
+      "visits": 1355,
+      "downloads": 68
+    },
+    {
+      "month": "2025-09",
+      "visits": 17170,
+      "downloads": 636
+    },
+    {
+      "month": "2025-10",
+      "visits": 25258,
+      "downloads": 683
+    },
+    {
+      "month": "2025-11",
+      "visits": 32112,
+      "downloads": 888
+    },
+    {
+      "month": "2025-12",
+      "visits": 2082,
+      "downloads": 57
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "6745d9ae4524d845d2138193",
+  "title": "Communes et villes de France en CSV, Excel, Json, Parquet et Feather",
+  "slug": "communes-et-villes-de-france-en-csv-excel-json-parquet-et-feather",
+  "organization": "Ville de rêve",
+  "organizationId": "65392ce9293b4a5ba61309bd",
+  "url": "https://www.data.gouv.fr/datasets/communes-et-villes-de-france-en-csv-excel-json-parquet-et-feather/",
+  "totalVisits": 76698,
+  "totalDownloads": 35855,
+  "monthlyStats": [
+    {
+      "month": "2024-11",
+      "visits": 476,
+      "downloads": 132
+    },
+    {
+      "month": "2024-12",
+      "visits": 1581,
+      "downloads": 634
+    },
+    {
+      "month": "2025-01",
+      "visits": 221,
+      "downloads": 421
+    },
+    {
+      "month": "2025-02",
+      "visits": 4029,
+      "downloads": 1259
+    },
+    {
+      "month": "2025-03",
+      "visits": 7041,
+      "downloads": 2483
+    },
+    {
+      "month": "2025-04",
+      "visits": 8770,
+      "downloads": 3084
+    },
+    {
+      "month": "2025-05",
+      "visits": 7493,
+      "downloads": 2620
+    },
+    {
+      "month": "2025-06",
+      "visits": 6272,
+      "downloads": 2184
+    },
+    {
+      "month": "2025-07",
+      "visits": 6930,
+      "downloads": 3291
+    },
+    {
+      "month": "2025-08",
+      "visits": 6037,
+      "downloads": 2857
+    },
+    {
+      "month": "2025-09",
+      "visits": 7597,
+      "downloads": 5001
+    },
+    {
+      "month": "2025-10",
+      "visits": 10145,
+      "downloads": 6382
+    },
+    {
+      "month": "2025-11",
+      "visits": 9585,
+      "downloads": 5153
+    },
+    {
+      "month": "2025-12",
+      "visits": 521,
+      "downloads": 354
+    }
+  ],
+  "firstMonth": "2024-11",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "58e5842688ee386c65805755",
+  "title": "Référentiel à grande échelle (RGE)",
+  "slug": "referentiel-a-grande-echelle-rge",
+  "organization": "Institut national de l'information géographique et forestière",
+  "organizationId": "534fff80a3a7292c64a77e41",
+  "url": "https://www.data.gouv.fr/datasets/referentiel-a-grande-echelle-rge/",
+  "totalVisits": 68097,
+  "totalDownloads": 24593,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 616,
+      "downloads": 308
+    },
+    {
+      "month": "2022-08",
+      "visits": 928,
+      "downloads": 244
+    },
+    {
+      "month": "2022-09",
+      "visits": 1000,
+      "downloads": 375
+    },
+    {
+      "month": "2022-10",
+      "visits": 1079,
+      "downloads": 280
+    },
+    {
+      "month": "2022-11",
+      "visits": 2365,
+      "downloads": 248
+    },
+    {
+      "month": "2022-12",
+      "visits": 1286,
+      "downloads": 656
+    },
+    {
+      "month": "2023-01",
+      "visits": 1339,
+      "downloads": 316
+    },
+    {
+      "month": "2023-02",
+      "visits": 1068,
+      "downloads": 356
+    },
+    {
+      "month": "2023-03",
+      "visits": 2289,
+      "downloads": 410
+    },
+    {
+      "month": "2023-04",
+      "visits": 2765,
+      "downloads": 903
+    },
+    {
+      "month": "2023-05",
+      "visits": 1322,
+      "downloads": 419
+    },
+    {
+      "month": "2023-06",
+      "visits": 1552,
+      "downloads": 393
+    },
+    {
+      "month": "2023-07",
+      "visits": 1420,
+      "downloads": 617
+    },
+    {
+      "month": "2023-08",
+      "visits": 948,
+      "downloads": 385
+    },
+    {
+      "month": "2023-09",
+      "visits": 1087,
+      "downloads": 455
+    },
+    {
+      "month": "2023-10",
+      "visits": 1337,
+      "downloads": 569
+    },
+    {
+      "month": "2023-11",
+      "visits": 1413,
+      "downloads": 1004
+    },
+    {
+      "month": "2023-12",
+      "visits": 1962,
+      "downloads": 583
+    },
+    {
+      "month": "2024-01",
+      "visits": 3398,
+      "downloads": 570
+    },
+    {
+      "month": "2024-02",
+      "visits": 1363,
+      "downloads": 633
+    },
+    {
+      "month": "2024-03",
+      "visits": 1672,
+      "downloads": 895
+    },
+    {
+      "month": "2024-04",
+      "visits": 1291,
+      "downloads": 716
+    },
+    {
+      "month": "2024-05",
+      "visits": 1178,
+      "downloads": 590
+    },
+    {
+      "month": "2024-06",
+      "visits": 1614,
+      "downloads": 1297
+    },
+    {
+      "month": "2024-07",
+      "visits": 1711,
+      "downloads": 1121
+    },
+    {
+      "month": "2024-08",
+      "visits": 1263,
+      "downloads": 780
+    },
+    {
+      "month": "2024-09",
+      "visits": 1143,
+      "downloads": 775
+    },
+    {
+      "month": "2024-10",
+      "visits": 1183,
+      "downloads": 596
+    },
+    {
+      "month": "2024-11",
+      "visits": 1309,
+      "downloads": 651
+    },
+    {
+      "month": "2024-12",
+      "visits": 1351,
+      "downloads": 563
+    },
+    {
+      "month": "2025-01",
+      "visits": 436,
+      "downloads": 355
+    },
+    {
+      "month": "2025-02",
+      "visits": 719,
+      "downloads": 669
+    },
+    {
+      "month": "2025-03",
+      "visits": 919,
+      "downloads": 759
+    },
+    {
+      "month": "2025-04",
+      "visits": 1100,
+      "downloads": 890
+    },
+    {
+      "month": "2025-05",
+      "visits": 1063,
+      "downloads": 867
+    },
+    {
+      "month": "2025-06",
+      "visits": 1134,
+      "downloads": 949
+    },
+    {
+      "month": "2025-07",
+      "visits": 861,
+      "downloads": 731
+    },
+    {
+      "month": "2025-08",
+      "visits": 2311,
+      "downloads": 465
+    },
+    {
+      "month": "2025-09",
+      "visits": 5089,
+      "downloads": 473
+    },
+    {
+      "month": "2025-10",
+      "visits": 5102,
+      "downloads": 386
+    },
+    {
+      "month": "2025-11",
+      "visits": 4800,
+      "downloads": 333
+    },
+    {
+      "month": "2025-12",
+      "visits": 311,
+      "downloads": 8
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

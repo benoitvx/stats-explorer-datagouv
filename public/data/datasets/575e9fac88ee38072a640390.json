@@ -1,0 +1,224 @@
+{
+  "id": "575e9fac88ee38072a640390",
+  "title": "Données ouvertes du catalogue E-Phy des produits phytopharmaceutiques, matières fertilisantes et supports de culture, adjuvants, produits mixtes et mélanges",
+  "slug": "donnees-ouvertes-du-catalogue-e-phy-des-produits-phytopharmaceutiques-matieres-fertilisantes-et-supports-de-culture-adjuvants-produits-mixtes-et-melanges",
+  "organization": "Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (Anses)",
+  "organizationId": "534fff50a3a7292c64a77cc0",
+  "url": "https://www.data.gouv.fr/datasets/donnees-ouvertes-du-catalogue-e-phy-des-produits-phytopharmaceutiques-matieres-fertilisantes-et-supports-de-culture-adjuvants-produits-mixtes-et-melanges/",
+  "totalVisits": 201107,
+  "totalDownloads": 37039,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2052,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 2244,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 2285,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 2559,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 2593,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 1845,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 2681,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 2545,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 2802,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 2496,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 2311,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 2460,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 2928,
+      "downloads": 934
+    },
+    {
+      "month": "2023-08",
+      "visits": 2436,
+      "downloads": 491
+    },
+    {
+      "month": "2023-09",
+      "visits": 3115,
+      "downloads": 1378
+    },
+    {
+      "month": "2023-10",
+      "visits": 3431,
+      "downloads": 1195
+    },
+    {
+      "month": "2023-11",
+      "visits": 3567,
+      "downloads": 1021
+    },
+    {
+      "month": "2023-12",
+      "visits": 3546,
+      "downloads": 735
+    },
+    {
+      "month": "2024-01",
+      "visits": 4661,
+      "downloads": 724
+    },
+    {
+      "month": "2024-02",
+      "visits": 3574,
+      "downloads": 1031
+    },
+    {
+      "month": "2024-03",
+      "visits": 3691,
+      "downloads": 1218
+    },
+    {
+      "month": "2024-04",
+      "visits": 3242,
+      "downloads": 835
+    },
+    {
+      "month": "2024-05",
+      "visits": 2705,
+      "downloads": 978
+    },
+    {
+      "month": "2024-06",
+      "visits": 3030,
+      "downloads": 737
+    },
+    {
+      "month": "2024-07",
+      "visits": 4781,
+      "downloads": 891
+    },
+    {
+      "month": "2024-08",
+      "visits": 2722,
+      "downloads": 673
+    },
+    {
+      "month": "2024-09",
+      "visits": 3647,
+      "downloads": 733
+    },
+    {
+      "month": "2024-10",
+      "visits": 6026,
+      "downloads": 907
+    },
+    {
+      "month": "2024-11",
+      "visits": 6385,
+      "downloads": 797
+    },
+    {
+      "month": "2024-12",
+      "visits": 5092,
+      "downloads": 744
+    },
+    {
+      "month": "2025-01",
+      "visits": 5475,
+      "downloads": 3791
+    },
+    {
+      "month": "2025-02",
+      "visits": 11821,
+      "downloads": 3267
+    },
+    {
+      "month": "2025-03",
+      "visits": 14128,
+      "downloads": 2009
+    },
+    {
+      "month": "2025-04",
+      "visits": 14220,
+      "downloads": 2895
+    },
+    {
+      "month": "2025-05",
+      "visits": 14327,
+      "downloads": 2279
+    },
+    {
+      "month": "2025-06",
+      "visits": 11402,
+      "downloads": 1893
+    },
+    {
+      "month": "2025-07",
+      "visits": 8257,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 4299,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 6643,
+      "downloads": 506
+    },
+    {
+      "month": "2025-10",
+      "visits": 6988,
+      "downloads": 1991
+    },
+    {
+      "month": "2025-11",
+      "visits": 5842,
+      "downloads": 2242
+    },
+    {
+      "month": "2025-12",
+      "visits": 253,
+      "downloads": 144
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -5,7 +5,7 @@
   "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
   "organizationId": "534fff8fa3a7292c64a77f22",
   "url": "https://www.data.gouv.fr/datasets/obsolete-le-calendrier-scolaire-2019-2020-et-2020-2021-format-ical/",
-  "totalVisits": 219349,
+  "totalVisits": 219520,
   "totalDownloads": 0,
   "monthlyStats": [
     {
@@ -215,7 +215,7 @@
     },
     {
       "month": "2025-12",
-      "visits": 153,
+      "visits": 324,
       "downloads": 0
     }
   ],

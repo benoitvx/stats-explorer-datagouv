@@ -1,0 +1,29 @@
+{
+  "id": "69025e6c73d1f9b79ca3c365",
+  "title": "Annuaire Santé - Extractions des données en libre accès des professionnels intervenant dans le système de Santé",
+  "slug": "annuaire-sante-extractions-des-donnees-en-libre-acces-des-professionnels-intervenant-dans-le-systeme-de-sante",
+  "organization": "Agence du Numérique en Santé",
+  "organizationId": "610192ec7d0dd134d7a28c2c",
+  "url": "https://www.data.gouv.fr/datasets/annuaire-sante-extractions-des-donnees-en-libre-acces-des-professionnels-intervenant-dans-le-systeme-de-sante/",
+  "totalVisits": 2375,
+  "totalDownloads": 443,
+  "monthlyStats": [
+    {
+      "month": "2025-10",
+      "visits": 26,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 2149,
+      "downloads": 425
+    },
+    {
+      "month": "2025-12",
+      "visits": 200,
+      "downloads": 18
+    }
+  ],
+  "firstMonth": "2025-10",
+  "lastMonth": "2025-12"
+}

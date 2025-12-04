@@ -5,8 +5,8 @@
   "organization": "Ministère des Solidarités et de la Santé",
   "organizationId": "534fff94a3a7292c64a77fc1",
   "url": "https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-du-robinet/",
-  "totalVisits": 4684205,
-  "totalDownloads": 22199,
+  "totalVisits": 4684288,
+  "totalDownloads": 22047,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 419242,
-      "downloads": 660
+      "downloads": 516
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 73248,
-      "downloads": 709
+      "downloads": 652
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 43,
-      "downloads": 23
+      "visits": 126,
+      "downloads": 72
     }
   ],
   "firstMonth": "2022-07",

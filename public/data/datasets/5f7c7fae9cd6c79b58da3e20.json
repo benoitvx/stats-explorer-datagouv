@@ -1,0 +1,64 @@
+{
+  "id": "5f7c7fae9cd6c79b58da3e20",
+  "title": "Sites indisponibles",
+  "slug": "sites-indisponibles",
+  "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
+  "organizationId": "534fff58a3a7292c64a77cf6",
+  "url": "https://www.data.gouv.fr/datasets/sites-indisponibles/",
+  "totalVisits": 832,
+  "totalDownloads": 40358,
+  "monthlyStats": [
+    {
+      "month": "2024-03",
+      "visits": 29,
+      "downloads": 3475
+    },
+    {
+      "month": "2024-04",
+      "visits": 45,
+      "downloads": 951
+    },
+    {
+      "month": "2025-05",
+      "visits": 10,
+      "downloads": 1561
+    },
+    {
+      "month": "2025-06",
+      "visits": 134,
+      "downloads": 6176
+    },
+    {
+      "month": "2025-07",
+      "visits": 124,
+      "downloads": 4847
+    },
+    {
+      "month": "2025-08",
+      "visits": 95,
+      "downloads": 7627
+    },
+    {
+      "month": "2025-09",
+      "visits": 102,
+      "downloads": 6327
+    },
+    {
+      "month": "2025-10",
+      "visits": 137,
+      "downloads": 4194
+    },
+    {
+      "month": "2025-11",
+      "visits": 155,
+      "downloads": 4324
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 876
+    }
+  ],
+  "firstMonth": "2024-03",
+  "lastMonth": "2025-12"
+}

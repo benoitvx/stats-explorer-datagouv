@@ -1,0 +1,184 @@
+{
+  "id": "63dccb1307e9b2f213a5130c",
+  "title": "Fichier IRVE Gireve",
+  "slug": "fichier-irve-gireve",
+  "organization": "GIREVE",
+  "organizationId": "5c892180634f412da5da4e95",
+  "url": "https://www.data.gouv.fr/datasets/fichier-irve-gireve/",
+  "totalVisits": 6141,
+  "totalDownloads": 479199,
+  "monthlyStats": [
+    {
+      "month": "2023-03",
+      "visits": 67,
+      "downloads": 7
+    },
+    {
+      "month": "2023-04",
+      "visits": 78,
+      "downloads": 33
+    },
+    {
+      "month": "2023-05",
+      "visits": 111,
+      "downloads": 71
+    },
+    {
+      "month": "2023-06",
+      "visits": 110,
+      "downloads": 49
+    },
+    {
+      "month": "2023-07",
+      "visits": 120,
+      "downloads": 58
+    },
+    {
+      "month": "2023-08",
+      "visits": 103,
+      "downloads": 59
+    },
+    {
+      "month": "2023-09",
+      "visits": 117,
+      "downloads": 99
+    },
+    {
+      "month": "2023-10",
+      "visits": 110,
+      "downloads": 2562
+    },
+    {
+      "month": "2023-11",
+      "visits": 144,
+      "downloads": 8783
+    },
+    {
+      "month": "2023-12",
+      "visits": 143,
+      "downloads": 9011
+    },
+    {
+      "month": "2024-01",
+      "visits": 223,
+      "downloads": 9049
+    },
+    {
+      "month": "2024-02",
+      "visits": 220,
+      "downloads": 7823
+    },
+    {
+      "month": "2024-03",
+      "visits": 239,
+      "downloads": 7658
+    },
+    {
+      "month": "2024-04",
+      "visits": 145,
+      "downloads": 6550
+    },
+    {
+      "month": "2024-05",
+      "visits": 165,
+      "downloads": 8839
+    },
+    {
+      "month": "2024-06",
+      "visits": 216,
+      "downloads": 8801
+    },
+    {
+      "month": "2024-07",
+      "visits": 199,
+      "downloads": 9062
+    },
+    {
+      "month": "2024-08",
+      "visits": 138,
+      "downloads": 9010
+    },
+    {
+      "month": "2024-09",
+      "visits": 131,
+      "downloads": 8749
+    },
+    {
+      "month": "2024-10",
+      "visits": 205,
+      "downloads": 8849
+    },
+    {
+      "month": "2024-11",
+      "visits": 240,
+      "downloads": 8755
+    },
+    {
+      "month": "2024-12",
+      "visits": 235,
+      "downloads": 8848
+    },
+    {
+      "month": "2025-01",
+      "visits": 109,
+      "downloads": 9114
+    },
+    {
+      "month": "2025-02",
+      "visits": 228,
+      "downloads": 8340
+    },
+    {
+      "month": "2025-03",
+      "visits": 258,
+      "downloads": 10226
+    },
+    {
+      "month": "2025-04",
+      "visits": 311,
+      "downloads": 9254
+    },
+    {
+      "month": "2025-05",
+      "visits": 235,
+      "downloads": 10407
+    },
+    {
+      "month": "2025-06",
+      "visits": 348,
+      "downloads": 9334
+    },
+    {
+      "month": "2025-07",
+      "visits": 285,
+      "downloads": 10548
+    },
+    {
+      "month": "2025-08",
+      "visits": 219,
+      "downloads": 80274
+    },
+    {
+      "month": "2025-09",
+      "visits": 199,
+      "downloads": 96628
+    },
+    {
+      "month": "2025-10",
+      "visits": 239,
+      "downloads": 59255
+    },
+    {
+      "month": "2025-11",
+      "visits": 231,
+      "downloads": 50394
+    },
+    {
+      "month": "2025-12",
+      "visits": 20,
+      "downloads": 2700
+    }
+  ],
+  "firstMonth": "2023-03",
+  "lastMonth": "2025-12"
+}

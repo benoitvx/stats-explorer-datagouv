@@ -1,0 +1,129 @@
+{
+  "id": "65bd13b2eb9e79ab309f6e63",
+  "title": "Paquets Arpège - Résolution 0,1°",
+  "slug": "paquets-arpege-resolution-0-1deg",
+  "organization": "Météo-France",
+  "organizationId": "534fff8ba3a7292c64a77ed4",
+  "url": "https://www.data.gouv.fr/datasets/paquets-arpege-resolution-0-1deg/",
+  "totalVisits": 5323,
+  "totalDownloads": 88824,
+  "monthlyStats": [
+    {
+      "month": "2024-02",
+      "visits": 2,
+      "downloads": 2
+    },
+    {
+      "month": "2024-03",
+      "visits": 54,
+      "downloads": 366
+    },
+    {
+      "month": "2024-04",
+      "visits": 37,
+      "downloads": 595
+    },
+    {
+      "month": "2024-05",
+      "visits": 74,
+      "downloads": 903
+    },
+    {
+      "month": "2024-06",
+      "visits": 133,
+      "downloads": 1770
+    },
+    {
+      "month": "2024-07",
+      "visits": 131,
+      "downloads": 1663
+    },
+    {
+      "month": "2024-08",
+      "visits": 123,
+      "downloads": 390
+    },
+    {
+      "month": "2024-09",
+      "visits": 81,
+      "downloads": 827
+    },
+    {
+      "month": "2024-10",
+      "visits": 136,
+      "downloads": 828
+    },
+    {
+      "month": "2024-11",
+      "visits": 264,
+      "downloads": 1384
+    },
+    {
+      "month": "2024-12",
+      "visits": 190,
+      "downloads": 1659
+    },
+    {
+      "month": "2025-01",
+      "visits": 127,
+      "downloads": 2751
+    },
+    {
+      "month": "2025-02",
+      "visits": 162,
+      "downloads": 3896
+    },
+    {
+      "month": "2025-03",
+      "visits": 263,
+      "downloads": 4204
+    },
+    {
+      "month": "2025-04",
+      "visits": 272,
+      "downloads": 7247
+    },
+    {
+      "month": "2025-05",
+      "visits": 242,
+      "downloads": 8918
+    },
+    {
+      "month": "2025-06",
+      "visits": 331,
+      "downloads": 7791
+    },
+    {
+      "month": "2025-07",
+      "visits": 544,
+      "downloads": 8088
+    },
+    {
+      "month": "2025-08",
+      "visits": 404,
+      "downloads": 7967
+    },
+    {
+      "month": "2025-09",
+      "visits": 443,
+      "downloads": 8124
+    },
+    {
+      "month": "2025-10",
+      "visits": 637,
+      "downloads": 10079
+    },
+    {
+      "month": "2025-11",
+      "visits": 650,
+      "downloads": 8872
+    },
+    {
+      "month": "2025-12",
+      "visits": 23,
+      "downloads": 500
+    }
+  ],
+  "firstMonth": "2024-02",
+  "lastMonth": "2025-12"
+}

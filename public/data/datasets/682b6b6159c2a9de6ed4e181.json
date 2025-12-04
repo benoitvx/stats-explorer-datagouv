@@ -1,0 +1,54 @@
+{
+  "id": "682b6b6159c2a9de6ed4e181",
+  "title": "Liste des marchés en Drôme (jours, horaires, lieux, nature)",
+  "slug": "liste-des-marches-en-drome-jours-horaires-lieux-nature",
+  "organization": "Vivre à Nyons",
+  "organizationId": "681ea83d2221f750257f5fea",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-marches-en-drome-jours-horaires-lieux-nature/",
+  "totalVisits": 1902,
+  "totalDownloads": 42,
+  "monthlyStats": [
+    {
+      "month": "2025-05",
+      "visits": 399,
+      "downloads": 9
+    },
+    {
+      "month": "2025-06",
+      "visits": 195,
+      "downloads": 6
+    },
+    {
+      "month": "2025-07",
+      "visits": 179,
+      "downloads": 13
+    },
+    {
+      "month": "2025-08",
+      "visits": 159,
+      "downloads": 6
+    },
+    {
+      "month": "2025-09",
+      "visits": 126,
+      "downloads": 1
+    },
+    {
+      "month": "2025-10",
+      "visits": 144,
+      "downloads": 5
+    },
+    {
+      "month": "2025-11",
+      "visits": 459,
+      "downloads": 2
+    },
+    {
+      "month": "2025-12",
+      "visits": 241,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2025-05",
+  "lastMonth": "2025-12"
+}

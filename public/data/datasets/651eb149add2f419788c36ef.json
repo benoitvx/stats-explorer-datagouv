@@ -1,0 +1,149 @@
+{
+  "id": "651eb149add2f419788c36ef",
+  "title": "Données essentielles des marchés publics - Xmarchés",
+  "slug": "donnees-essentielles-des-marches-publics-xmarches",
+  "organization": "SPL-XDEMAT",
+  "organizationId": "651eafe55f1be30b5ee9cc00",
+  "url": "https://www.data.gouv.fr/datasets/donnees-essentielles-des-marches-publics-xmarches/",
+  "totalVisits": 8093,
+  "totalDownloads": 81283,
+  "monthlyStats": [
+    {
+      "month": "2023-10",
+      "visits": 63,
+      "downloads": 2
+    },
+    {
+      "month": "2023-11",
+      "visits": 23,
+      "downloads": 3
+    },
+    {
+      "month": "2023-12",
+      "visits": 62,
+      "downloads": 6
+    },
+    {
+      "month": "2024-01",
+      "visits": 138,
+      "downloads": 62
+    },
+    {
+      "month": "2024-02",
+      "visits": 173,
+      "downloads": 299
+    },
+    {
+      "month": "2024-03",
+      "visits": 180,
+      "downloads": 187
+    },
+    {
+      "month": "2024-04",
+      "visits": 157,
+      "downloads": 240
+    },
+    {
+      "month": "2024-05",
+      "visits": 145,
+      "downloads": 797
+    },
+    {
+      "month": "2024-06",
+      "visits": 205,
+      "downloads": 3395
+    },
+    {
+      "month": "2024-07",
+      "visits": 248,
+      "downloads": 2286
+    },
+    {
+      "month": "2024-08",
+      "visits": 136,
+      "downloads": 550
+    },
+    {
+      "month": "2024-09",
+      "visits": 270,
+      "downloads": 2360
+    },
+    {
+      "month": "2024-10",
+      "visits": 300,
+      "downloads": 3114
+    },
+    {
+      "month": "2024-11",
+      "visits": 300,
+      "downloads": 4956
+    },
+    {
+      "month": "2024-12",
+      "visits": 176,
+      "downloads": 804
+    },
+    {
+      "month": "2025-01",
+      "visits": 53,
+      "downloads": 4211
+    },
+    {
+      "month": "2025-02",
+      "visits": 399,
+      "downloads": 768
+    },
+    {
+      "month": "2025-03",
+      "visits": 216,
+      "downloads": 277
+    },
+    {
+      "month": "2025-04",
+      "visits": 228,
+      "downloads": 11215
+    },
+    {
+      "month": "2025-05",
+      "visits": 213,
+      "downloads": 6358
+    },
+    {
+      "month": "2025-06",
+      "visits": 224,
+      "downloads": 8628
+    },
+    {
+      "month": "2025-07",
+      "visits": 217,
+      "downloads": 1786
+    },
+    {
+      "month": "2025-08",
+      "visits": 110,
+      "downloads": 694
+    },
+    {
+      "month": "2025-09",
+      "visits": 172,
+      "downloads": 9884
+    },
+    {
+      "month": "2025-10",
+      "visits": 249,
+      "downloads": 8315
+    },
+    {
+      "month": "2025-11",
+      "visits": 3403,
+      "downloads": 10026
+    },
+    {
+      "month": "2025-12",
+      "visits": 33,
+      "downloads": 60
+    }
+  ],
+  "firstMonth": "2023-10",
+  "lastMonth": "2025-12"
+}

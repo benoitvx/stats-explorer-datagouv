@@ -1,0 +1,224 @@
+{
+  "id": "5db1a0f46f444104866d1b43",
+  "title": "Base Carbone complète de l'ADEME en français - v17.0",
+  "slug": "base-carbone-complete-de-lademe-en-francais-v17-0",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/base-carbone-complete-de-lademe-en-francais-v17-0/",
+  "totalVisits": 86490,
+  "totalDownloads": 24904,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 417,
+      "downloads": 125
+    },
+    {
+      "month": "2022-08",
+      "visits": 666,
+      "downloads": 193
+    },
+    {
+      "month": "2022-09",
+      "visits": 752,
+      "downloads": 233
+    },
+    {
+      "month": "2022-10",
+      "visits": 818,
+      "downloads": 162
+    },
+    {
+      "month": "2022-11",
+      "visits": 930,
+      "downloads": 205
+    },
+    {
+      "month": "2022-12",
+      "visits": 708,
+      "downloads": 141
+    },
+    {
+      "month": "2023-01",
+      "visits": 796,
+      "downloads": 165
+    },
+    {
+      "month": "2023-02",
+      "visits": 1091,
+      "downloads": 236
+    },
+    {
+      "month": "2023-03",
+      "visits": 2255,
+      "downloads": 670
+    },
+    {
+      "month": "2023-04",
+      "visits": 1972,
+      "downloads": 592
+    },
+    {
+      "month": "2023-05",
+      "visits": 1602,
+      "downloads": 411
+    },
+    {
+      "month": "2023-06",
+      "visits": 1569,
+      "downloads": 430
+    },
+    {
+      "month": "2023-07",
+      "visits": 1273,
+      "downloads": 425
+    },
+    {
+      "month": "2023-08",
+      "visits": 921,
+      "downloads": 352
+    },
+    {
+      "month": "2023-09",
+      "visits": 1330,
+      "downloads": 545
+    },
+    {
+      "month": "2023-10",
+      "visits": 1305,
+      "downloads": 606
+    },
+    {
+      "month": "2023-11",
+      "visits": 1709,
+      "downloads": 738
+    },
+    {
+      "month": "2023-12",
+      "visits": 1688,
+      "downloads": 666
+    },
+    {
+      "month": "2024-01",
+      "visits": 2590,
+      "downloads": 818
+    },
+    {
+      "month": "2024-02",
+      "visits": 2310,
+      "downloads": 1024
+    },
+    {
+      "month": "2024-03",
+      "visits": 2056,
+      "downloads": 972
+    },
+    {
+      "month": "2024-04",
+      "visits": 1764,
+      "downloads": 744
+    },
+    {
+      "month": "2024-05",
+      "visits": 1640,
+      "downloads": 669
+    },
+    {
+      "month": "2024-06",
+      "visits": 1967,
+      "downloads": 683
+    },
+    {
+      "month": "2024-07",
+      "visits": 2331,
+      "downloads": 878
+    },
+    {
+      "month": "2024-08",
+      "visits": 1615,
+      "downloads": 525
+    },
+    {
+      "month": "2024-09",
+      "visits": 2631,
+      "downloads": 910
+    },
+    {
+      "month": "2024-10",
+      "visits": 3211,
+      "downloads": 982
+    },
+    {
+      "month": "2024-11",
+      "visits": 3237,
+      "downloads": 758
+    },
+    {
+      "month": "2024-12",
+      "visits": 2151,
+      "downloads": 451
+    },
+    {
+      "month": "2025-01",
+      "visits": 396,
+      "downloads": 200
+    },
+    {
+      "month": "2025-02",
+      "visits": 3620,
+      "downloads": 875
+    },
+    {
+      "month": "2025-03",
+      "visits": 4181,
+      "downloads": 879
+    },
+    {
+      "month": "2025-04",
+      "visits": 4414,
+      "downloads": 1045
+    },
+    {
+      "month": "2025-05",
+      "visits": 4172,
+      "downloads": 1036
+    },
+    {
+      "month": "2025-06",
+      "visits": 4086,
+      "downloads": 828
+    },
+    {
+      "month": "2025-07",
+      "visits": 3056,
+      "downloads": 715
+    },
+    {
+      "month": "2025-08",
+      "visits": 2612,
+      "downloads": 675
+    },
+    {
+      "month": "2025-09",
+      "visits": 3079,
+      "downloads": 808
+    },
+    {
+      "month": "2025-10",
+      "visits": 3941,
+      "downloads": 862
+    },
+    {
+      "month": "2025-11",
+      "visits": 3457,
+      "downloads": 656
+    },
+    {
+      "month": "2025-12",
+      "visits": 171,
+      "downloads": 16
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

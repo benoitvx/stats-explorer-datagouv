@@ -5,8 +5,8 @@
   "organization": "Institut national de la statistique et des études économiques (Insee)",
   "organizationId": "534fff81a3a7292c64a77e5c",
   "url": "https://www.data.gouv.fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
-  "totalVisits": 1286133,
-  "totalDownloads": 1962483,
+  "totalVisits": 1287949,
+  "totalDownloads": 1962385,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 35203,
-      "downloads": 7746
+      "downloads": 7308
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 25205,
-      "downloads": 14027
+      "downloads": 12947
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 603,
-      "downloads": 462
+      "visits": 2419,
+      "downloads": 1882
     }
   ],
   "firstMonth": "2022-07",

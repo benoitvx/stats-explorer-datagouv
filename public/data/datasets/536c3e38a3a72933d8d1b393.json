@@ -1,0 +1,224 @@
+{
+  "id": "536c3e38a3a72933d8d1b393",
+  "title": "Cartes anciennes dématérialisées",
+  "slug": "cartes-anciennes-dematerialisees",
+  "organization": "Institut national de l'information géographique et forestière",
+  "organizationId": "534fff80a3a7292c64a77e41",
+  "url": "https://www.data.gouv.fr/datasets/cartes-anciennes-dematerialisees/",
+  "totalVisits": 107360,
+  "totalDownloads": 16545,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1064,
+      "downloads": 193
+    },
+    {
+      "month": "2022-08",
+      "visits": 2098,
+      "downloads": 364
+    },
+    {
+      "month": "2022-09",
+      "visits": 2079,
+      "downloads": 359
+    },
+    {
+      "month": "2022-10",
+      "visits": 2273,
+      "downloads": 437
+    },
+    {
+      "month": "2022-11",
+      "visits": 2550,
+      "downloads": 374
+    },
+    {
+      "month": "2022-12",
+      "visits": 2018,
+      "downloads": 356
+    },
+    {
+      "month": "2023-01",
+      "visits": 2424,
+      "downloads": 392
+    },
+    {
+      "month": "2023-02",
+      "visits": 2228,
+      "downloads": 299
+    },
+    {
+      "month": "2023-03",
+      "visits": 2302,
+      "downloads": 378
+    },
+    {
+      "month": "2023-04",
+      "visits": 2127,
+      "downloads": 364
+    },
+    {
+      "month": "2023-05",
+      "visits": 2210,
+      "downloads": 366
+    },
+    {
+      "month": "2023-06",
+      "visits": 2029,
+      "downloads": 269
+    },
+    {
+      "month": "2023-07",
+      "visits": 1983,
+      "downloads": 290
+    },
+    {
+      "month": "2023-08",
+      "visits": 2124,
+      "downloads": 304
+    },
+    {
+      "month": "2023-09",
+      "visits": 2174,
+      "downloads": 346
+    },
+    {
+      "month": "2023-10",
+      "visits": 2511,
+      "downloads": 393
+    },
+    {
+      "month": "2023-11",
+      "visits": 2443,
+      "downloads": 343
+    },
+    {
+      "month": "2023-12",
+      "visits": 2238,
+      "downloads": 318
+    },
+    {
+      "month": "2024-01",
+      "visits": 3066,
+      "downloads": 353
+    },
+    {
+      "month": "2024-02",
+      "visits": 3138,
+      "downloads": 434
+    },
+    {
+      "month": "2024-03",
+      "visits": 3478,
+      "downloads": 447
+    },
+    {
+      "month": "2024-04",
+      "visits": 2871,
+      "downloads": 388
+    },
+    {
+      "month": "2024-05",
+      "visits": 2817,
+      "downloads": 504
+    },
+    {
+      "month": "2024-06",
+      "visits": 2602,
+      "downloads": 436
+    },
+    {
+      "month": "2024-07",
+      "visits": 2799,
+      "downloads": 416
+    },
+    {
+      "month": "2024-08",
+      "visits": 2842,
+      "downloads": 399
+    },
+    {
+      "month": "2024-09",
+      "visits": 3145,
+      "downloads": 535
+    },
+    {
+      "month": "2024-10",
+      "visits": 3943,
+      "downloads": 727
+    },
+    {
+      "month": "2024-11",
+      "visits": 3737,
+      "downloads": 639
+    },
+    {
+      "month": "2024-12",
+      "visits": 2151,
+      "downloads": 366
+    },
+    {
+      "month": "2025-01",
+      "visits": 281,
+      "downloads": 72
+    },
+    {
+      "month": "2025-02",
+      "visits": 2931,
+      "downloads": 466
+    },
+    {
+      "month": "2025-03",
+      "visits": 3955,
+      "downloads": 688
+    },
+    {
+      "month": "2025-04",
+      "visits": 3639,
+      "downloads": 521
+    },
+    {
+      "month": "2025-05",
+      "visits": 3324,
+      "downloads": 491
+    },
+    {
+      "month": "2025-06",
+      "visits": 2391,
+      "downloads": 374
+    },
+    {
+      "month": "2025-07",
+      "visits": 1665,
+      "downloads": 303
+    },
+    {
+      "month": "2025-08",
+      "visits": 2795,
+      "downloads": 395
+    },
+    {
+      "month": "2025-09",
+      "visits": 3460,
+      "downloads": 493
+    },
+    {
+      "month": "2025-10",
+      "visits": 3696,
+      "downloads": 473
+    },
+    {
+      "month": "2025-11",
+      "visits": 3526,
+      "downloads": 446
+    },
+    {
+      "month": "2025-12",
+      "visits": 233,
+      "downloads": 34
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

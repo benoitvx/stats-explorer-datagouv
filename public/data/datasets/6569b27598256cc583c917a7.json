@@ -1,0 +1,139 @@
+{
+  "id": "6569b27598256cc583c917a7",
+  "title": "Données changement climatique - SIM quotidienne",
+  "slug": "donnees-changement-climatique-sim-quotidienne",
+  "organization": "Météo-France",
+  "organizationId": "534fff8ba3a7292c64a77ed4",
+  "url": "https://www.data.gouv.fr/datasets/donnees-changement-climatique-sim-quotidienne/",
+  "totalVisits": 45524,
+  "totalDownloads": 101461,
+  "monthlyStats": [
+    {
+      "month": "2023-12",
+      "visits": 1987,
+      "downloads": 1509
+    },
+    {
+      "month": "2024-01",
+      "visits": 4406,
+      "downloads": 2729
+    },
+    {
+      "month": "2024-02",
+      "visits": 5539,
+      "downloads": 2065
+    },
+    {
+      "month": "2024-03",
+      "visits": 14038,
+      "downloads": 2510
+    },
+    {
+      "month": "2024-04",
+      "visits": 1607,
+      "downloads": 2422
+    },
+    {
+      "month": "2024-05",
+      "visits": 1835,
+      "downloads": 2057
+    },
+    {
+      "month": "2024-06",
+      "visits": 850,
+      "downloads": 2587
+    },
+    {
+      "month": "2024-07",
+      "visits": 606,
+      "downloads": 1833
+    },
+    {
+      "month": "2024-08",
+      "visits": 446,
+      "downloads": 1015
+    },
+    {
+      "month": "2024-09",
+      "visits": 554,
+      "downloads": 1098
+    },
+    {
+      "month": "2024-10",
+      "visits": 568,
+      "downloads": 1728
+    },
+    {
+      "month": "2024-11",
+      "visits": 671,
+      "downloads": 1365
+    },
+    {
+      "month": "2024-12",
+      "visits": 418,
+      "downloads": 921
+    },
+    {
+      "month": "2025-01",
+      "visits": 220,
+      "downloads": 533
+    },
+    {
+      "month": "2025-02",
+      "visits": 737,
+      "downloads": 1973
+    },
+    {
+      "month": "2025-03",
+      "visits": 843,
+      "downloads": 2513
+    },
+    {
+      "month": "2025-04",
+      "visits": 791,
+      "downloads": 2166
+    },
+    {
+      "month": "2025-05",
+      "visits": 1104,
+      "downloads": 2071
+    },
+    {
+      "month": "2025-06",
+      "visits": 1259,
+      "downloads": 4380
+    },
+    {
+      "month": "2025-07",
+      "visits": 1083,
+      "downloads": 11540
+    },
+    {
+      "month": "2025-08",
+      "visits": 1025,
+      "downloads": 13325
+    },
+    {
+      "month": "2025-09",
+      "visits": 1507,
+      "downloads": 13526
+    },
+    {
+      "month": "2025-10",
+      "visits": 1847,
+      "downloads": 9702
+    },
+    {
+      "month": "2025-11",
+      "visits": 1499,
+      "downloads": 14722
+    },
+    {
+      "month": "2025-12",
+      "visits": 84,
+      "downloads": 1171
+    }
+  ],
+  "firstMonth": "2023-12",
+  "lastMonth": "2025-12"
+}

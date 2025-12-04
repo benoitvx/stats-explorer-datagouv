@@ -1,0 +1,199 @@
+{
+  "id": "63b4c3d306d317f5caa80dcf",
+  "title": "Offre de transport du réseau Fluo Grand Est - Bas-Rhin (67)",
+  "slug": "offre-de-transport-du-reseau-fluo-grand-est-bas-rhin-67",
+  "organization": "Fluo Grand Est",
+  "organizationId": "5d823fd98b4c411e38e820b4",
+  "url": "https://www.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-bas-rhin-67/",
+  "totalVisits": 3481,
+  "totalDownloads": 29414,
+  "monthlyStats": [
+    {
+      "month": "2022-12",
+      "visits": 35,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 333,
+      "downloads": 20
+    },
+    {
+      "month": "2023-02",
+      "visits": 37,
+      "downloads": 2
+    },
+    {
+      "month": "2023-03",
+      "visits": 39,
+      "downloads": 17
+    },
+    {
+      "month": "2023-04",
+      "visits": 80,
+      "downloads": 4
+    },
+    {
+      "month": "2023-05",
+      "visits": 71,
+      "downloads": 61
+    },
+    {
+      "month": "2023-06",
+      "visits": 55,
+      "downloads": 17
+    },
+    {
+      "month": "2023-07",
+      "visits": 65,
+      "downloads": 140
+    },
+    {
+      "month": "2023-08",
+      "visits": 72,
+      "downloads": 86
+    },
+    {
+      "month": "2023-09",
+      "visits": 100,
+      "downloads": 116
+    },
+    {
+      "month": "2023-10",
+      "visits": 85,
+      "downloads": 136
+    },
+    {
+      "month": "2023-11",
+      "visits": 85,
+      "downloads": 98
+    },
+    {
+      "month": "2023-12",
+      "visits": 145,
+      "downloads": 60
+    },
+    {
+      "month": "2024-01",
+      "visits": 113,
+      "downloads": 66
+    },
+    {
+      "month": "2024-02",
+      "visits": 94,
+      "downloads": 119
+    },
+    {
+      "month": "2024-03",
+      "visits": 67,
+      "downloads": 133
+    },
+    {
+      "month": "2024-04",
+      "visits": 84,
+      "downloads": 149
+    },
+    {
+      "month": "2024-05",
+      "visits": 72,
+      "downloads": 143
+    },
+    {
+      "month": "2024-06",
+      "visits": 65,
+      "downloads": 123
+    },
+    {
+      "month": "2024-07",
+      "visits": 79,
+      "downloads": 283
+    },
+    {
+      "month": "2024-08",
+      "visits": 63,
+      "downloads": 217
+    },
+    {
+      "month": "2024-09",
+      "visits": 61,
+      "downloads": 201
+    },
+    {
+      "month": "2024-10",
+      "visits": 57,
+      "downloads": 198
+    },
+    {
+      "month": "2024-11",
+      "visits": 102,
+      "downloads": 258
+    },
+    {
+      "month": "2024-12",
+      "visits": 75,
+      "downloads": 240
+    },
+    {
+      "month": "2025-01",
+      "visits": 66,
+      "downloads": 298
+    },
+    {
+      "month": "2025-02",
+      "visits": 90,
+      "downloads": 395
+    },
+    {
+      "month": "2025-03",
+      "visits": 96,
+      "downloads": 474
+    },
+    {
+      "month": "2025-04",
+      "visits": 122,
+      "downloads": 412
+    },
+    {
+      "month": "2025-05",
+      "visits": 128,
+      "downloads": 332
+    },
+    {
+      "month": "2025-06",
+      "visits": 106,
+      "downloads": 202
+    },
+    {
+      "month": "2025-07",
+      "visits": 118,
+      "downloads": 232
+    },
+    {
+      "month": "2025-08",
+      "visits": 88,
+      "downloads": 169
+    },
+    {
+      "month": "2025-09",
+      "visits": 85,
+      "downloads": 158
+    },
+    {
+      "month": "2025-10",
+      "visits": 189,
+      "downloads": 10637
+    },
+    {
+      "month": "2025-11",
+      "visits": 246,
+      "downloads": 12352
+    },
+    {
+      "month": "2025-12",
+      "visits": 13,
+      "downloads": 866
+    }
+  ],
+  "firstMonth": "2022-12",
+  "lastMonth": "2025-12"
+}

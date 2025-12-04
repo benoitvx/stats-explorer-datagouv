@@ -1,0 +1,54 @@
+{
+  "id": "6818bce2d9af175f6e01a1b2",
+  "title": "Infrastructures de recharge pour véhicules électriques - Données ouvertes",
+  "slug": "infrastructures-de-recharge-pour-vehicules-electriques-donnees-ouvertes",
+  "organization": "QualiCharge",
+  "organizationId": "67d3f3118a36e2a243793a45",
+  "url": "https://www.data.gouv.fr/datasets/infrastructures-de-recharge-pour-vehicules-electriques-donnees-ouvertes/",
+  "totalVisits": 1595,
+  "totalDownloads": 371953,
+  "monthlyStats": [
+    {
+      "month": "2025-05",
+      "visits": 475,
+      "downloads": 172
+    },
+    {
+      "month": "2025-06",
+      "visits": 249,
+      "downloads": 159
+    },
+    {
+      "month": "2025-07",
+      "visits": 181,
+      "downloads": 9260
+    },
+    {
+      "month": "2025-08",
+      "visits": 185,
+      "downloads": 70880
+    },
+    {
+      "month": "2025-09",
+      "visits": 151,
+      "downloads": 61567
+    },
+    {
+      "month": "2025-10",
+      "visits": 166,
+      "downloads": 109335
+    },
+    {
+      "month": "2025-11",
+      "visits": 172,
+      "downloads": 112608
+    },
+    {
+      "month": "2025-12",
+      "visits": 16,
+      "downloads": 7972
+    }
+  ],
+  "firstMonth": "2025-05",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5ae2e01d88ee381811e691b5",
+  "title": "Réseau ORIZO - Grand Avignon",
+  "slug": "reseau-orizo-grand-avignon",
+  "organization": "Grand Avignon",
+  "organizationId": "5a7ad2b1c751df27e7d1190c",
+  "url": "https://www.data.gouv.fr/datasets/reseau-orizo-grand-avignon/",
+  "totalVisits": 5642,
+  "totalDownloads": 149858,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1,
+      "downloads": 140
+    },
+    {
+      "month": "2022-08",
+      "visits": 2,
+      "downloads": 227
+    },
+    {
+      "month": "2022-09",
+      "visits": 8,
+      "downloads": 258
+    },
+    {
+      "month": "2022-10",
+      "visits": 203,
+      "downloads": 264
+    },
+    {
+      "month": "2022-11",
+      "visits": 143,
+      "downloads": 204
+    },
+    {
+      "month": "2022-12",
+      "visits": 176,
+      "downloads": 225
+    },
+    {
+      "month": "2023-01",
+      "visits": 111,
+      "downloads": 207
+    },
+    {
+      "month": "2023-02",
+      "visits": 130,
+      "downloads": 218
+    },
+    {
+      "month": "2023-03",
+      "visits": 124,
+      "downloads": 245
+    },
+    {
+      "month": "2023-04",
+      "visits": 108,
+      "downloads": 202
+    },
+    {
+      "month": "2023-05",
+      "visits": 113,
+      "downloads": 251
+    },
+    {
+      "month": "2023-06",
+      "visits": 129,
+      "downloads": 232
+    },
+    {
+      "month": "2023-07",
+      "visits": 201,
+      "downloads": 174
+    },
+    {
+      "month": "2023-08",
+      "visits": 128,
+      "downloads": 152
+    },
+    {
+      "month": "2023-09",
+      "visits": 158,
+      "downloads": 119
+    },
+    {
+      "month": "2023-10",
+      "visits": 115,
+      "downloads": 181
+    },
+    {
+      "month": "2023-11",
+      "visits": 121,
+      "downloads": 145
+    },
+    {
+      "month": "2023-12",
+      "visits": 140,
+      "downloads": 145
+    },
+    {
+      "month": "2024-01",
+      "visits": 137,
+      "downloads": 138
+    },
+    {
+      "month": "2024-02",
+      "visits": 106,
+      "downloads": 144
+    },
+    {
+      "month": "2024-03",
+      "visits": 130,
+      "downloads": 263
+    },
+    {
+      "month": "2024-04",
+      "visits": 122,
+      "downloads": 958
+    },
+    {
+      "month": "2024-05",
+      "visits": 137,
+      "downloads": 221
+    },
+    {
+      "month": "2024-06",
+      "visits": 134,
+      "downloads": 154
+    },
+    {
+      "month": "2024-07",
+      "visits": 141,
+      "downloads": 307
+    },
+    {
+      "month": "2024-08",
+      "visits": 105,
+      "downloads": 489
+    },
+    {
+      "month": "2024-09",
+      "visits": 104,
+      "downloads": 634
+    },
+    {
+      "month": "2024-10",
+      "visits": 106,
+      "downloads": 182
+    },
+    {
+      "month": "2024-11",
+      "visits": 144,
+      "downloads": 267
+    },
+    {
+      "month": "2024-12",
+      "visits": 114,
+      "downloads": 270
+    },
+    {
+      "month": "2025-01",
+      "visits": 107,
+      "downloads": 3838
+    },
+    {
+      "month": "2025-02",
+      "visits": 169,
+      "downloads": 3689
+    },
+    {
+      "month": "2025-03",
+      "visits": 192,
+      "downloads": 267
+    },
+    {
+      "month": "2025-04",
+      "visits": 221,
+      "downloads": 4972
+    },
+    {
+      "month": "2025-05",
+      "visits": 339,
+      "downloads": 5062
+    },
+    {
+      "month": "2025-06",
+      "visits": 249,
+      "downloads": 4322
+    },
+    {
+      "month": "2025-07",
+      "visits": 36,
+      "downloads": 26871
+    },
+    {
+      "month": "2025-08",
+      "visits": 13,
+      "downloads": 17122
+    },
+    {
+      "month": "2025-09",
+      "visits": 82,
+      "downloads": 22674
+    },
+    {
+      "month": "2025-10",
+      "visits": 328,
+      "downloads": 1497
+    },
+    {
+      "month": "2025-11",
+      "visits": 299,
+      "downloads": 48045
+    },
+    {
+      "month": "2025-12",
+      "visits": 16,
+      "downloads": 3883
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

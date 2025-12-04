@@ -1,0 +1,134 @@
+{
+  "id": "65b22fc2d03f277ec9a207aa",
+  "title": "Profil d'acheteur Mairie AUBY",
+  "slug": "profil-dacheteur-mairie-auby",
+  "organization": "Mairie AUBY",
+  "organizationId": "65b2269d21496f48ebe283ae",
+  "url": "https://www.data.gouv.fr/datasets/profil-dacheteur-mairie-auby/",
+  "totalVisits": 103687,
+  "totalDownloads": 1236,
+  "monthlyStats": [
+    {
+      "month": "2024-01",
+      "visits": 342,
+      "downloads": 15
+    },
+    {
+      "month": "2024-02",
+      "visits": 429,
+      "downloads": 20
+    },
+    {
+      "month": "2024-03",
+      "visits": 459,
+      "downloads": 32
+    },
+    {
+      "month": "2024-04",
+      "visits": 648,
+      "downloads": 41
+    },
+    {
+      "month": "2024-05",
+      "visits": 531,
+      "downloads": 35
+    },
+    {
+      "month": "2024-06",
+      "visits": 524,
+      "downloads": 57
+    },
+    {
+      "month": "2024-07",
+      "visits": 517,
+      "downloads": 32
+    },
+    {
+      "month": "2024-08",
+      "visits": 603,
+      "downloads": 18
+    },
+    {
+      "month": "2024-09",
+      "visits": 1797,
+      "downloads": 35
+    },
+    {
+      "month": "2024-10",
+      "visits": 4235,
+      "downloads": 65
+    },
+    {
+      "month": "2024-11",
+      "visits": 2928,
+      "downloads": 67
+    },
+    {
+      "month": "2024-12",
+      "visits": 1506,
+      "downloads": 32
+    },
+    {
+      "month": "2025-01",
+      "visits": 693,
+      "downloads": 9
+    },
+    {
+      "month": "2025-02",
+      "visits": 37146,
+      "downloads": 85
+    },
+    {
+      "month": "2025-03",
+      "visits": 20026,
+      "downloads": 103
+    },
+    {
+      "month": "2025-04",
+      "visits": 14244,
+      "downloads": 91
+    },
+    {
+      "month": "2025-05",
+      "visits": 6416,
+      "downloads": 78
+    },
+    {
+      "month": "2025-06",
+      "visits": 9256,
+      "downloads": 80
+    },
+    {
+      "month": "2025-07",
+      "visits": 66,
+      "downloads": 113
+    },
+    {
+      "month": "2025-08",
+      "visits": 50,
+      "downloads": 82
+    },
+    {
+      "month": "2025-09",
+      "visits": 97,
+      "downloads": 83
+    },
+    {
+      "month": "2025-10",
+      "visits": 573,
+      "downloads": 18
+    },
+    {
+      "month": "2025-11",
+      "visits": 566,
+      "downloads": 42
+    },
+    {
+      "month": "2025-12",
+      "visits": 35,
+      "downloads": 3
+    }
+  ],
+  "firstMonth": "2024-01",
+  "lastMonth": "2025-12"
+}

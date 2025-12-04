@@ -1,0 +1,84 @@
+{
+  "id": "673c971b4f730fec5eacc517",
+  "title": "Horaires RLV Mobilités",
+  "slug": "horaires-rlv-mobilites",
+  "organization": "Keolis RIOM",
+  "organizationId": "67377a4495a58383e4a88812",
+  "url": "https://www.data.gouv.fr/datasets/horaires-rlv-mobilites/",
+  "totalVisits": 1451,
+  "totalDownloads": 1714361,
+  "monthlyStats": [
+    {
+      "month": "2024-11",
+      "visits": 232,
+      "downloads": 431
+    },
+    {
+      "month": "2024-12",
+      "visits": 143,
+      "downloads": 1227
+    },
+    {
+      "month": "2025-01",
+      "visits": 58,
+      "downloads": 156165
+    },
+    {
+      "month": "2025-02",
+      "visits": 96,
+      "downloads": 124286
+    },
+    {
+      "month": "2025-03",
+      "visits": 79,
+      "downloads": 131175
+    },
+    {
+      "month": "2025-04",
+      "visits": 84,
+      "downloads": 186089
+    },
+    {
+      "month": "2025-05",
+      "visits": 67,
+      "downloads": 281323
+    },
+    {
+      "month": "2025-06",
+      "visits": 80,
+      "downloads": 237126
+    },
+    {
+      "month": "2025-07",
+      "visits": 138,
+      "downloads": 133958
+    },
+    {
+      "month": "2025-08",
+      "visits": 125,
+      "downloads": 174341
+    },
+    {
+      "month": "2025-09",
+      "visits": 107,
+      "downloads": 151090
+    },
+    {
+      "month": "2025-10",
+      "visits": 123,
+      "downloads": 82746
+    },
+    {
+      "month": "2025-11",
+      "visits": 116,
+      "downloads": 51465
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 2939
+    }
+  ],
+  "firstMonth": "2024-11",
+  "lastMonth": "2025-12"
+}

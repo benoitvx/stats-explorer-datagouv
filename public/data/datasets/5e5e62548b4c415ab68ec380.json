@@ -1,0 +1,224 @@
+{
+  "id": "5e5e62548b4c415ab68ec380",
+  "title": "EvolitY - Horaires théoriques de transport public",
+  "slug": "evolity-horaires-theoriques-de-transport-public",
+  "organization": "évolitY",
+  "organizationId": "5e5e5afe8b4c41422da2d227",
+  "url": "https://www.data.gouv.fr/datasets/evolity-horaires-theoriques-de-transport-public/",
+  "totalVisits": 5720,
+  "totalDownloads": 393436,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 41,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 68,
+      "downloads": 23
+    },
+    {
+      "month": "2022-09",
+      "visits": 75,
+      "downloads": 800
+    },
+    {
+      "month": "2022-10",
+      "visits": 120,
+      "downloads": 1232
+    },
+    {
+      "month": "2022-11",
+      "visits": 111,
+      "downloads": 1188
+    },
+    {
+      "month": "2022-12",
+      "visits": 119,
+      "downloads": 1254
+    },
+    {
+      "month": "2023-01",
+      "visits": 84,
+      "downloads": 1221
+    },
+    {
+      "month": "2023-02",
+      "visits": 65,
+      "downloads": 1065
+    },
+    {
+      "month": "2023-03",
+      "visits": 92,
+      "downloads": 1235
+    },
+    {
+      "month": "2023-04",
+      "visits": 82,
+      "downloads": 1239
+    },
+    {
+      "month": "2023-05",
+      "visits": 82,
+      "downloads": 1253
+    },
+    {
+      "month": "2023-06",
+      "visits": 90,
+      "downloads": 1200
+    },
+    {
+      "month": "2023-07",
+      "visits": 112,
+      "downloads": 1293
+    },
+    {
+      "month": "2023-08",
+      "visits": 178,
+      "downloads": 1254
+    },
+    {
+      "month": "2023-09",
+      "visits": 158,
+      "downloads": 1294
+    },
+    {
+      "month": "2023-10",
+      "visits": 117,
+      "downloads": 1313
+    },
+    {
+      "month": "2023-11",
+      "visits": 112,
+      "downloads": 1367
+    },
+    {
+      "month": "2023-12",
+      "visits": 151,
+      "downloads": 1353
+    },
+    {
+      "month": "2024-01",
+      "visits": 128,
+      "downloads": 1462
+    },
+    {
+      "month": "2024-02",
+      "visits": 118,
+      "downloads": 1308
+    },
+    {
+      "month": "2024-03",
+      "visits": 93,
+      "downloads": 1411
+    },
+    {
+      "month": "2024-04",
+      "visits": 122,
+      "downloads": 1373
+    },
+    {
+      "month": "2024-05",
+      "visits": 105,
+      "downloads": 1402
+    },
+    {
+      "month": "2024-06",
+      "visits": 118,
+      "downloads": 1285
+    },
+    {
+      "month": "2024-07",
+      "visits": 131,
+      "downloads": 1205
+    },
+    {
+      "month": "2024-08",
+      "visits": 101,
+      "downloads": 1126
+    },
+    {
+      "month": "2024-09",
+      "visits": 76,
+      "downloads": 1104
+    },
+    {
+      "month": "2024-10",
+      "visits": 107,
+      "downloads": 1066
+    },
+    {
+      "month": "2024-11",
+      "visits": 172,
+      "downloads": 1064
+    },
+    {
+      "month": "2024-12",
+      "visits": 153,
+      "downloads": 15849
+    },
+    {
+      "month": "2025-01",
+      "visits": 150,
+      "downloads": 36191
+    },
+    {
+      "month": "2025-02",
+      "visits": 203,
+      "downloads": 37532
+    },
+    {
+      "month": "2025-03",
+      "visits": 202,
+      "downloads": 11885
+    },
+    {
+      "month": "2025-04",
+      "visits": 463,
+      "downloads": 1247
+    },
+    {
+      "month": "2025-05",
+      "visits": 310,
+      "downloads": 1200
+    },
+    {
+      "month": "2025-06",
+      "visits": 304,
+      "downloads": 1697
+    },
+    {
+      "month": "2025-07",
+      "visits": 228,
+      "downloads": 4
+    },
+    {
+      "month": "2025-08",
+      "visits": 129,
+      "downloads": 43526
+    },
+    {
+      "month": "2025-09",
+      "visits": 157,
+      "downloads": 69370
+    },
+    {
+      "month": "2025-10",
+      "visits": 164,
+      "downloads": 70744
+    },
+    {
+      "month": "2025-11",
+      "visits": 126,
+      "downloads": 66110
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 4691
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

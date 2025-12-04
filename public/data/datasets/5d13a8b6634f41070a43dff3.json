@@ -5,8 +5,8 @@
   "organization": "data.gouv.fr",
   "organizationId": "646b7187b50b2a93b1ae3d45",
   "url": "https://www.data.gouv.fr/datasets/catalogue-des-donnees-de-data-gouv-fr/",
-  "totalVisits": 275238,
-  "totalDownloads": 23427,
+  "totalVisits": 275794,
+  "totalDownloads": 23361,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 4493,
-      "downloads": 294
+      "downloads": 278
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 7627,
-      "downloads": 1132
+      "downloads": 1073
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 340,
-      "downloads": 18
+      "visits": 896,
+      "downloads": 27
     }
   ],
   "firstMonth": "2022-07",

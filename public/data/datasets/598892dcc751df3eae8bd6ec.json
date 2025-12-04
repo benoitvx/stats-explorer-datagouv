@@ -5,8 +5,8 @@
   "organization": "Ministère de la Transition écologique",
   "organizationId": "534fff8da3a7292c64a77eee",
   "url": "https://www.data.gouv.fr/datasets/trafic-moyen-journalier-annuel-sur-le-reseau-routier-national/",
-  "totalVisits": 173921,
-  "totalDownloads": 49589,
+  "totalVisits": 174110,
+  "totalDownloads": 49402,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3894,
-      "downloads": 1223
+      "downloads": 1159
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 4567,
-      "downloads": 1683
+      "downloads": 1525
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 107,
-      "downloads": 18
+      "visits": 296,
+      "downloads": 53
     }
   ],
   "firstMonth": "2022-07",

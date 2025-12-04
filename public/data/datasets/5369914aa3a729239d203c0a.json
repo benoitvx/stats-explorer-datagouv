@@ -1,0 +1,224 @@
+{
+  "id": "5369914aa3a729239d203c0a",
+  "title": "Comptes, agenda et bilans de l'association LiberTIC",
+  "slug": "comptes-agenda-et-bilans-de-l-association-libertic-nd",
+  "organization": "NosDonnées.fr",
+  "organizationId": "534fff99a3a7292c64a78016",
+  "url": "https://www.data.gouv.fr/datasets/comptes-agenda-et-bilans-de-l-association-libertic-nd/",
+  "totalVisits": 218738,
+  "totalDownloads": 854,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 86,
+      "downloads": 15
+    },
+    {
+      "month": "2022-08",
+      "visits": 62,
+      "downloads": 19
+    },
+    {
+      "month": "2022-09",
+      "visits": 113,
+      "downloads": 9
+    },
+    {
+      "month": "2022-10",
+      "visits": 119,
+      "downloads": 17
+    },
+    {
+      "month": "2022-11",
+      "visits": 135,
+      "downloads": 19
+    },
+    {
+      "month": "2022-12",
+      "visits": 93,
+      "downloads": 50
+    },
+    {
+      "month": "2023-01",
+      "visits": 674,
+      "downloads": 25
+    },
+    {
+      "month": "2023-02",
+      "visits": 1719,
+      "downloads": 25
+    },
+    {
+      "month": "2023-03",
+      "visits": 104,
+      "downloads": 29
+    },
+    {
+      "month": "2023-04",
+      "visits": 132,
+      "downloads": 20
+    },
+    {
+      "month": "2023-05",
+      "visits": 1379,
+      "downloads": 18
+    },
+    {
+      "month": "2023-06",
+      "visits": 410,
+      "downloads": 27
+    },
+    {
+      "month": "2023-07",
+      "visits": 356,
+      "downloads": 8
+    },
+    {
+      "month": "2023-08",
+      "visits": 4505,
+      "downloads": 42
+    },
+    {
+      "month": "2023-09",
+      "visits": 807,
+      "downloads": 33
+    },
+    {
+      "month": "2023-10",
+      "visits": 1687,
+      "downloads": 28
+    },
+    {
+      "month": "2023-11",
+      "visits": 807,
+      "downloads": 24
+    },
+    {
+      "month": "2023-12",
+      "visits": 382,
+      "downloads": 15
+    },
+    {
+      "month": "2024-01",
+      "visits": 5069,
+      "downloads": 34
+    },
+    {
+      "month": "2024-02",
+      "visits": 4200,
+      "downloads": 17
+    },
+    {
+      "month": "2024-03",
+      "visits": 3342,
+      "downloads": 15
+    },
+    {
+      "month": "2024-04",
+      "visits": 6089,
+      "downloads": 28
+    },
+    {
+      "month": "2024-05",
+      "visits": 8558,
+      "downloads": 7
+    },
+    {
+      "month": "2024-06",
+      "visits": 8959,
+      "downloads": 22
+    },
+    {
+      "month": "2024-07",
+      "visits": 26546,
+      "downloads": 22
+    },
+    {
+      "month": "2024-08",
+      "visits": 18279,
+      "downloads": 27
+    },
+    {
+      "month": "2024-09",
+      "visits": 8389,
+      "downloads": 20
+    },
+    {
+      "month": "2024-10",
+      "visits": 19920,
+      "downloads": 30
+    },
+    {
+      "month": "2024-11",
+      "visits": 18720,
+      "downloads": 15
+    },
+    {
+      "month": "2024-12",
+      "visits": 7251,
+      "downloads": 14
+    },
+    {
+      "month": "2025-01",
+      "visits": 112,
+      "downloads": 25
+    },
+    {
+      "month": "2025-02",
+      "visits": 5283,
+      "downloads": 21
+    },
+    {
+      "month": "2025-03",
+      "visits": 21303,
+      "downloads": 30
+    },
+    {
+      "month": "2025-04",
+      "visits": 9846,
+      "downloads": 27
+    },
+    {
+      "month": "2025-05",
+      "visits": 9260,
+      "downloads": 38
+    },
+    {
+      "month": "2025-06",
+      "visits": 229,
+      "downloads": 10
+    },
+    {
+      "month": "2025-07",
+      "visits": 136,
+      "downloads": 9
+    },
+    {
+      "month": "2025-08",
+      "visits": 85,
+      "downloads": 4
+    },
+    {
+      "month": "2025-09",
+      "visits": 85,
+      "downloads": 5
+    },
+    {
+      "month": "2025-10",
+      "visits": 358,
+      "downloads": 2
+    },
+    {
+      "month": "2025-11",
+      "visits": 20421,
+      "downloads": 9
+    },
+    {
+      "month": "2025-12",
+      "visits": 2728,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

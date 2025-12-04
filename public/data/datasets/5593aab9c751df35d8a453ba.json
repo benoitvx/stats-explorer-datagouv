@@ -1,0 +1,224 @@
+{
+  "id": "5593aab9c751df35d8a453ba",
+  "title": "Résultats des contrôles officiels sanitaires : dispositif d'information « Alim’confiance »",
+  "slug": "resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance",
+  "organization": "Ministère de l'Agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+  "organizationId": "534fff8ca3a7292c64a77edf",
+  "url": "https://www.data.gouv.fr/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/",
+  "totalVisits": 330604,
+  "totalDownloads": 38136,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 281,
+      "downloads": 219
+    },
+    {
+      "month": "2022-08",
+      "visits": 384,
+      "downloads": 143
+    },
+    {
+      "month": "2022-09",
+      "visits": 526,
+      "downloads": 248
+    },
+    {
+      "month": "2022-10",
+      "visits": 789,
+      "downloads": 311
+    },
+    {
+      "month": "2022-11",
+      "visits": 992,
+      "downloads": 280
+    },
+    {
+      "month": "2022-12",
+      "visits": 565,
+      "downloads": 383
+    },
+    {
+      "month": "2023-01",
+      "visits": 1092,
+      "downloads": 282
+    },
+    {
+      "month": "2023-02",
+      "visits": 554,
+      "downloads": 231
+    },
+    {
+      "month": "2023-03",
+      "visits": 663,
+      "downloads": 217
+    },
+    {
+      "month": "2023-04",
+      "visits": 653,
+      "downloads": 232
+    },
+    {
+      "month": "2023-05",
+      "visits": 515,
+      "downloads": 295
+    },
+    {
+      "month": "2023-06",
+      "visits": 686,
+      "downloads": 191
+    },
+    {
+      "month": "2023-07",
+      "visits": 925,
+      "downloads": 300
+    },
+    {
+      "month": "2023-08",
+      "visits": 1079,
+      "downloads": 316
+    },
+    {
+      "month": "2023-09",
+      "visits": 2502,
+      "downloads": 615
+    },
+    {
+      "month": "2023-10",
+      "visits": 2124,
+      "downloads": 518
+    },
+    {
+      "month": "2023-11",
+      "visits": 3796,
+      "downloads": 694
+    },
+    {
+      "month": "2023-12",
+      "visits": 2399,
+      "downloads": 404
+    },
+    {
+      "month": "2024-01",
+      "visits": 6687,
+      "downloads": 480
+    },
+    {
+      "month": "2024-02",
+      "visits": 3869,
+      "downloads": 478
+    },
+    {
+      "month": "2024-03",
+      "visits": 4347,
+      "downloads": 869
+    },
+    {
+      "month": "2024-04",
+      "visits": 34285,
+      "downloads": 1359
+    },
+    {
+      "month": "2024-05",
+      "visits": 7595,
+      "downloads": 1042
+    },
+    {
+      "month": "2024-06",
+      "visits": 17808,
+      "downloads": 1450
+    },
+    {
+      "month": "2024-07",
+      "visits": 16628,
+      "downloads": 1418
+    },
+    {
+      "month": "2024-08",
+      "visits": 11273,
+      "downloads": 1451
+    },
+    {
+      "month": "2024-09",
+      "visits": 7490,
+      "downloads": 753
+    },
+    {
+      "month": "2024-10",
+      "visits": 6683,
+      "downloads": 613
+    },
+    {
+      "month": "2024-11",
+      "visits": 7422,
+      "downloads": 734
+    },
+    {
+      "month": "2024-12",
+      "visits": 2021,
+      "downloads": 259
+    },
+    {
+      "month": "2025-01",
+      "visits": 439,
+      "downloads": 201
+    },
+    {
+      "month": "2025-02",
+      "visits": 1770,
+      "downloads": 356
+    },
+    {
+      "month": "2025-03",
+      "visits": 6916,
+      "downloads": 500
+    },
+    {
+      "month": "2025-04",
+      "visits": 100792,
+      "downloads": 10783
+    },
+    {
+      "month": "2025-05",
+      "visits": 41981,
+      "downloads": 5231
+    },
+    {
+      "month": "2025-06",
+      "visits": 9503,
+      "downloads": 1123
+    },
+    {
+      "month": "2025-07",
+      "visits": 5535,
+      "downloads": 625
+    },
+    {
+      "month": "2025-08",
+      "visits": 3462,
+      "downloads": 455
+    },
+    {
+      "month": "2025-09",
+      "visits": 3371,
+      "downloads": 457
+    },
+    {
+      "month": "2025-10",
+      "visits": 5439,
+      "downloads": 870
+    },
+    {
+      "month": "2025-11",
+      "visits": 4520,
+      "downloads": 714
+    },
+    {
+      "month": "2025-12",
+      "visits": 243,
+      "downloads": 36
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

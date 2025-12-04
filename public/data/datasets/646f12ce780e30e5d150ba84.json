@@ -1,0 +1,174 @@
+{
+  "id": "646f12ce780e30e5d150ba84",
+  "title": "Horaires théoriques et temps-réel du réseau Tarbes / Lourdes - TLP mobilités (GTFS / GTFS-RT)",
+  "slug": "horaires-theoriques-et-temps-reel-du-reseau-tarbes-lourdes-tlp-mobilites-gtfs-gtfs-rt",
+  "organization": "Zenbus",
+  "organizationId": "5cf67b0d6f44413baf79652d",
+  "url": "https://www.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-tarbes-lourdes-tlp-mobilites-gtfs-gtfs-rt/",
+  "totalVisits": 3093,
+  "totalDownloads": 1815277,
+  "monthlyStats": [
+    {
+      "month": "2023-05",
+      "visits": 467,
+      "downloads": 764
+    },
+    {
+      "month": "2023-06",
+      "visits": 80,
+      "downloads": 248110
+    },
+    {
+      "month": "2023-07",
+      "visits": 57,
+      "downloads": 301191
+    },
+    {
+      "month": "2023-08",
+      "visits": 81,
+      "downloads": 267052
+    },
+    {
+      "month": "2023-09",
+      "visits": 85,
+      "downloads": 247499
+    },
+    {
+      "month": "2023-10",
+      "visits": 58,
+      "downloads": 268099
+    },
+    {
+      "month": "2023-11",
+      "visits": 65,
+      "downloads": 242570
+    },
+    {
+      "month": "2023-12",
+      "visits": 127,
+      "downloads": 151296
+    },
+    {
+      "month": "2024-01",
+      "visits": 115,
+      "downloads": 87900
+    },
+    {
+      "month": "2024-02",
+      "visits": 96,
+      "downloads": 46
+    },
+    {
+      "month": "2024-03",
+      "visits": 74,
+      "downloads": 59
+    },
+    {
+      "month": "2024-04",
+      "visits": 72,
+      "downloads": 55
+    },
+    {
+      "month": "2024-05",
+      "visits": 97,
+      "downloads": 71
+    },
+    {
+      "month": "2024-06",
+      "visits": 80,
+      "downloads": 58
+    },
+    {
+      "month": "2024-07",
+      "visits": 87,
+      "downloads": 196
+    },
+    {
+      "month": "2024-08",
+      "visits": 75,
+      "downloads": 46
+    },
+    {
+      "month": "2024-09",
+      "visits": 43,
+      "downloads": 40
+    },
+    {
+      "month": "2024-10",
+      "visits": 64,
+      "downloads": 44
+    },
+    {
+      "month": "2024-11",
+      "visits": 85,
+      "downloads": 22
+    },
+    {
+      "month": "2024-12",
+      "visits": 58,
+      "downloads": 7
+    },
+    {
+      "month": "2025-01",
+      "visits": 50,
+      "downloads": 14
+    },
+    {
+      "month": "2025-02",
+      "visits": 70,
+      "downloads": 20
+    },
+    {
+      "month": "2025-03",
+      "visits": 135,
+      "downloads": 18
+    },
+    {
+      "month": "2025-04",
+      "visits": 80,
+      "downloads": 15
+    },
+    {
+      "month": "2025-05",
+      "visits": 107,
+      "downloads": 32
+    },
+    {
+      "month": "2025-06",
+      "visits": 174,
+      "downloads": 17
+    },
+    {
+      "month": "2025-07",
+      "visits": 114,
+      "downloads": 17
+    },
+    {
+      "month": "2025-08",
+      "visits": 98,
+      "downloads": 2
+    },
+    {
+      "month": "2025-09",
+      "visits": 80,
+      "downloads": 1
+    },
+    {
+      "month": "2025-10",
+      "visits": 120,
+      "downloads": 2
+    },
+    {
+      "month": "2025-11",
+      "visits": 94,
+      "downloads": 14
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2023-05",
+  "lastMonth": "2025-12"
+}

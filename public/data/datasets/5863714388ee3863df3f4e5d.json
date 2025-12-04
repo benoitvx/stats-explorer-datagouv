@@ -1,0 +1,224 @@
+{
+  "id": "5863714388ee3863df3f4e5d",
+  "title": "CORINE Land Cover - Occupation des sols en France",
+  "slug": "corine-land-cover-occupation-des-sols-en-france",
+  "organization": "Ministère de la Transition écologique",
+  "organizationId": "534fff8da3a7292c64a77eee",
+  "url": "https://www.data.gouv.fr/datasets/corine-land-cover-occupation-des-sols-en-france/",
+  "totalVisits": 138326,
+  "totalDownloads": 66286,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1447,
+      "downloads": 622
+    },
+    {
+      "month": "2022-08",
+      "visits": 2246,
+      "downloads": 792
+    },
+    {
+      "month": "2022-09",
+      "visits": 3364,
+      "downloads": 1224
+    },
+    {
+      "month": "2022-10",
+      "visits": 4621,
+      "downloads": 1745
+    },
+    {
+      "month": "2022-11",
+      "visits": 4546,
+      "downloads": 1646
+    },
+    {
+      "month": "2022-12",
+      "visits": 3607,
+      "downloads": 1519
+    },
+    {
+      "month": "2023-01",
+      "visits": 4351,
+      "downloads": 1644
+    },
+    {
+      "month": "2023-02",
+      "visits": 3871,
+      "downloads": 1378
+    },
+    {
+      "month": "2023-03",
+      "visits": 4053,
+      "downloads": 2072
+    },
+    {
+      "month": "2023-04",
+      "visits": 3019,
+      "downloads": 1545
+    },
+    {
+      "month": "2023-05",
+      "visits": 2609,
+      "downloads": 1233
+    },
+    {
+      "month": "2023-06",
+      "visits": 2892,
+      "downloads": 1196
+    },
+    {
+      "month": "2023-07",
+      "visits": 2235,
+      "downloads": 1005
+    },
+    {
+      "month": "2023-08",
+      "visits": 1802,
+      "downloads": 803
+    },
+    {
+      "month": "2023-09",
+      "visits": 2627,
+      "downloads": 1334
+    },
+    {
+      "month": "2023-10",
+      "visits": 4026,
+      "downloads": 2128
+    },
+    {
+      "month": "2023-11",
+      "visits": 3573,
+      "downloads": 2179
+    },
+    {
+      "month": "2023-12",
+      "visits": 3180,
+      "downloads": 1344
+    },
+    {
+      "month": "2024-01",
+      "visits": 4104,
+      "downloads": 1600
+    },
+    {
+      "month": "2024-02",
+      "visits": 3917,
+      "downloads": 1826
+    },
+    {
+      "month": "2024-03",
+      "visits": 3929,
+      "downloads": 1752
+    },
+    {
+      "month": "2024-04",
+      "visits": 3252,
+      "downloads": 1460
+    },
+    {
+      "month": "2024-05",
+      "visits": 2778,
+      "downloads": 1021
+    },
+    {
+      "month": "2024-06",
+      "visits": 2647,
+      "downloads": 1526
+    },
+    {
+      "month": "2024-07",
+      "visits": 2655,
+      "downloads": 2206
+    },
+    {
+      "month": "2024-08",
+      "visits": 2002,
+      "downloads": 1456
+    },
+    {
+      "month": "2024-09",
+      "visits": 2838,
+      "downloads": 1894
+    },
+    {
+      "month": "2024-10",
+      "visits": 4862,
+      "downloads": 2417
+    },
+    {
+      "month": "2024-11",
+      "visits": 4389,
+      "downloads": 1982
+    },
+    {
+      "month": "2024-12",
+      "visits": 3083,
+      "downloads": 1415
+    },
+    {
+      "month": "2025-01",
+      "visits": 567,
+      "downloads": 132
+    },
+    {
+      "month": "2025-02",
+      "visits": 3512,
+      "downloads": 1799
+    },
+    {
+      "month": "2025-03",
+      "visits": 4761,
+      "downloads": 2792
+    },
+    {
+      "month": "2025-04",
+      "visits": 4641,
+      "downloads": 2382
+    },
+    {
+      "month": "2025-05",
+      "visits": 3821,
+      "downloads": 2372
+    },
+    {
+      "month": "2025-06",
+      "visits": 3754,
+      "downloads": 1387
+    },
+    {
+      "month": "2025-07",
+      "visits": 3034,
+      "downloads": 1382
+    },
+    {
+      "month": "2025-08",
+      "visits": 2460,
+      "downloads": 1129
+    },
+    {
+      "month": "2025-09",
+      "visits": 3874,
+      "downloads": 2016
+    },
+    {
+      "month": "2025-10",
+      "visits": 4721,
+      "downloads": 2518
+    },
+    {
+      "month": "2025-11",
+      "visits": 4354,
+      "downloads": 2191
+    },
+    {
+      "month": "2025-12",
+      "visits": 302,
+      "downloads": 222
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

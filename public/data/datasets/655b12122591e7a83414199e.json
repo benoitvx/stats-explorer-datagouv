@@ -1,0 +1,144 @@
+{
+  "id": "655b12122591e7a83414199e",
+  "title": "Nuages de points LiDAR HD",
+  "slug": "nuages-de-points-lidar-hd",
+  "organization": "Institut national de l'information géographique et forestière",
+  "organizationId": "534fff80a3a7292c64a77e41",
+  "url": "https://www.data.gouv.fr/datasets/nuages-de-points-lidar-hd/",
+  "totalVisits": 31653,
+  "totalDownloads": 7159,
+  "monthlyStats": [
+    {
+      "month": "2023-11",
+      "visits": 1194,
+      "downloads": 322
+    },
+    {
+      "month": "2023-12",
+      "visits": 445,
+      "downloads": 162
+    },
+    {
+      "month": "2024-01",
+      "visits": 629,
+      "downloads": 131
+    },
+    {
+      "month": "2024-02",
+      "visits": 787,
+      "downloads": 198
+    },
+    {
+      "month": "2024-03",
+      "visits": 1171,
+      "downloads": 485
+    },
+    {
+      "month": "2024-04",
+      "visits": 1081,
+      "downloads": 507
+    },
+    {
+      "month": "2024-05",
+      "visits": 805,
+      "downloads": 370
+    },
+    {
+      "month": "2024-06",
+      "visits": 918,
+      "downloads": 378
+    },
+    {
+      "month": "2024-07",
+      "visits": 933,
+      "downloads": 399
+    },
+    {
+      "month": "2024-08",
+      "visits": 973,
+      "downloads": 361
+    },
+    {
+      "month": "2024-09",
+      "visits": 1219,
+      "downloads": 294
+    },
+    {
+      "month": "2024-10",
+      "visits": 1584,
+      "downloads": 347
+    },
+    {
+      "month": "2024-11",
+      "visits": 2320,
+      "downloads": 361
+    },
+    {
+      "month": "2024-12",
+      "visits": 1356,
+      "downloads": 174
+    },
+    {
+      "month": "2025-01",
+      "visits": 266,
+      "downloads": 79
+    },
+    {
+      "month": "2025-02",
+      "visits": 1240,
+      "downloads": 267
+    },
+    {
+      "month": "2025-03",
+      "visits": 1452,
+      "downloads": 320
+    },
+    {
+      "month": "2025-04",
+      "visits": 1581,
+      "downloads": 319
+    },
+    {
+      "month": "2025-05",
+      "visits": 1605,
+      "downloads": 315
+    },
+    {
+      "month": "2025-06",
+      "visits": 1164,
+      "downloads": 254
+    },
+    {
+      "month": "2025-07",
+      "visits": 716,
+      "downloads": 283
+    },
+    {
+      "month": "2025-08",
+      "visits": 1626,
+      "downloads": 181
+    },
+    {
+      "month": "2025-09",
+      "visits": 1623,
+      "downloads": 210
+    },
+    {
+      "month": "2025-10",
+      "visits": 2203,
+      "downloads": 205
+    },
+    {
+      "month": "2025-11",
+      "visits": 2490,
+      "downloads": 215
+    },
+    {
+      "month": "2025-12",
+      "visits": 272,
+      "downloads": 22
+    }
+  ],
+  "firstMonth": "2023-11",
+  "lastMonth": "2025-12"
+}

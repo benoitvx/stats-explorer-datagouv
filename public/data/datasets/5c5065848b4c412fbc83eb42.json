@@ -1,0 +1,224 @@
+{
+  "id": "5c5065848b4c412fbc83eb42",
+  "title": "Réseau cars Région Isère (38) - Données temps réel",
+  "slug": "reseau-cars-region-isere-38-donnees-temps-reel",
+  "organization": "Conseil départemental de l'Isère",
+  "organizationId": "5bb1c7e4634f412a95dff6b9",
+  "url": "https://www.data.gouv.fr/datasets/reseau-cars-region-isere-38-donnees-temps-reel/",
+  "totalVisits": 4063,
+  "totalDownloads": 8853827,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 30,
+      "downloads": 221835
+    },
+    {
+      "month": "2022-08",
+      "visits": 55,
+      "downloads": 358812
+    },
+    {
+      "month": "2022-09",
+      "visits": 71,
+      "downloads": 355048
+    },
+    {
+      "month": "2022-10",
+      "visits": 132,
+      "downloads": 405286
+    },
+    {
+      "month": "2022-11",
+      "visits": 116,
+      "downloads": 348660
+    },
+    {
+      "month": "2022-12",
+      "visits": 106,
+      "downloads": 357873
+    },
+    {
+      "month": "2023-01",
+      "visits": 59,
+      "downloads": 358987
+    },
+    {
+      "month": "2023-02",
+      "visits": 78,
+      "downloads": 312383
+    },
+    {
+      "month": "2023-03",
+      "visits": 57,
+      "downloads": 358848
+    },
+    {
+      "month": "2023-04",
+      "visits": 67,
+      "downloads": 312904
+    },
+    {
+      "month": "2023-05",
+      "visits": 49,
+      "downloads": 331214
+    },
+    {
+      "month": "2023-06",
+      "visits": 61,
+      "downloads": 346313
+    },
+    {
+      "month": "2023-07",
+      "visits": 67,
+      "downloads": 345307
+    },
+    {
+      "month": "2023-08",
+      "visits": 91,
+      "downloads": 346084
+    },
+    {
+      "month": "2023-09",
+      "visits": 109,
+      "downloads": 348862
+    },
+    {
+      "month": "2023-10",
+      "visits": 72,
+      "downloads": 320137
+    },
+    {
+      "month": "2023-11",
+      "visits": 92,
+      "downloads": 337039
+    },
+    {
+      "month": "2023-12",
+      "visits": 145,
+      "downloads": 332834
+    },
+    {
+      "month": "2024-01",
+      "visits": 136,
+      "downloads": 362432
+    },
+    {
+      "month": "2024-02",
+      "visits": 104,
+      "downloads": 332337
+    },
+    {
+      "month": "2024-03",
+      "visits": 107,
+      "downloads": 357912
+    },
+    {
+      "month": "2024-04",
+      "visits": 92,
+      "downloads": 315264
+    },
+    {
+      "month": "2024-05",
+      "visits": 89,
+      "downloads": 340535
+    },
+    {
+      "month": "2024-06",
+      "visits": 95,
+      "downloads": 322138
+    },
+    {
+      "month": "2024-07",
+      "visits": 78,
+      "downloads": 323138
+    },
+    {
+      "month": "2024-08",
+      "visits": 88,
+      "downloads": 290594
+    },
+    {
+      "month": "2024-09",
+      "visits": 76,
+      "downloads": 50738
+    },
+    {
+      "month": "2024-10",
+      "visits": 93,
+      "downloads": 9110
+    },
+    {
+      "month": "2024-11",
+      "visits": 163,
+      "downloads": 8464
+    },
+    {
+      "month": "2024-12",
+      "visits": 116,
+      "downloads": 6706
+    },
+    {
+      "month": "2025-01",
+      "visits": 96,
+      "downloads": 8338
+    },
+    {
+      "month": "2025-02",
+      "visits": 119,
+      "downloads": 8001
+    },
+    {
+      "month": "2025-03",
+      "visits": 125,
+      "downloads": 8614
+    },
+    {
+      "month": "2025-04",
+      "visits": 162,
+      "downloads": 8553
+    },
+    {
+      "month": "2025-05",
+      "visits": 147,
+      "downloads": 2460
+    },
+    {
+      "month": "2025-06",
+      "visits": 205,
+      "downloads": 15
+    },
+    {
+      "month": "2025-07",
+      "visits": 121,
+      "downloads": 18
+    },
+    {
+      "month": "2025-08",
+      "visits": 77,
+      "downloads": 2
+    },
+    {
+      "month": "2025-09",
+      "visits": 86,
+      "downloads": 15
+    },
+    {
+      "month": "2025-10",
+      "visits": 119,
+      "downloads": 2
+    },
+    {
+      "month": "2025-11",
+      "visits": 104,
+      "downloads": 15
+    },
+    {
+      "month": "2025-12",
+      "visits": 8,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

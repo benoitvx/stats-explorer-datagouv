@@ -1,0 +1,224 @@
+{
+  "id": "5b90e9338b4c413448c4b22a",
+  "title": "Liste et composition des Autorités Organisatrices de la Mobilité (AOM)",
+  "slug": "liste-et-composition-des-autorites-organisatrices-de-la-mobilite-aom",
+  "organization": "Cerema",
+  "organizationId": "5c812a16634f416583ed1876",
+  "url": "https://www.data.gouv.fr/datasets/liste-et-composition-des-autorites-organisatrices-de-la-mobilite-aom/",
+  "totalVisits": 28465,
+  "totalDownloads": 329459,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 260,
+      "downloads": 65
+    },
+    {
+      "month": "2022-08",
+      "visits": 343,
+      "downloads": 86
+    },
+    {
+      "month": "2022-09",
+      "visits": 534,
+      "downloads": 162
+    },
+    {
+      "month": "2022-10",
+      "visits": 650,
+      "downloads": 189
+    },
+    {
+      "month": "2022-11",
+      "visits": 748,
+      "downloads": 1316
+    },
+    {
+      "month": "2022-12",
+      "visits": 622,
+      "downloads": 3777
+    },
+    {
+      "month": "2023-01",
+      "visits": 638,
+      "downloads": 3501
+    },
+    {
+      "month": "2023-02",
+      "visits": 549,
+      "downloads": 3688
+    },
+    {
+      "month": "2023-03",
+      "visits": 686,
+      "downloads": 4606
+    },
+    {
+      "month": "2023-04",
+      "visits": 513,
+      "downloads": 5224
+    },
+    {
+      "month": "2023-05",
+      "visits": 465,
+      "downloads": 7368
+    },
+    {
+      "month": "2023-06",
+      "visits": 563,
+      "downloads": 7472
+    },
+    {
+      "month": "2023-07",
+      "visits": 581,
+      "downloads": 7938
+    },
+    {
+      "month": "2023-08",
+      "visits": 433,
+      "downloads": 8735
+    },
+    {
+      "month": "2023-09",
+      "visits": 569,
+      "downloads": 8603
+    },
+    {
+      "month": "2023-10",
+      "visits": 675,
+      "downloads": 7745
+    },
+    {
+      "month": "2023-11",
+      "visits": 622,
+      "downloads": 8988
+    },
+    {
+      "month": "2023-12",
+      "visits": 501,
+      "downloads": 8782
+    },
+    {
+      "month": "2024-01",
+      "visits": 624,
+      "downloads": 8421
+    },
+    {
+      "month": "2024-02",
+      "visits": 622,
+      "downloads": 7985
+    },
+    {
+      "month": "2024-03",
+      "visits": 595,
+      "downloads": 8993
+    },
+    {
+      "month": "2024-04",
+      "visits": 579,
+      "downloads": 8700
+    },
+    {
+      "month": "2024-05",
+      "visits": 666,
+      "downloads": 9837
+    },
+    {
+      "month": "2024-06",
+      "visits": 788,
+      "downloads": 9190
+    },
+    {
+      "month": "2024-07",
+      "visits": 756,
+      "downloads": 10076
+    },
+    {
+      "month": "2024-08",
+      "visits": 580,
+      "downloads": 9685
+    },
+    {
+      "month": "2024-09",
+      "visits": 853,
+      "downloads": 9631
+    },
+    {
+      "month": "2024-10",
+      "visits": 1005,
+      "downloads": 10556
+    },
+    {
+      "month": "2024-11",
+      "visits": 1114,
+      "downloads": 10155
+    },
+    {
+      "month": "2024-12",
+      "visits": 732,
+      "downloads": 8730
+    },
+    {
+      "month": "2025-01",
+      "visits": 249,
+      "downloads": 9615
+    },
+    {
+      "month": "2025-02",
+      "visits": 939,
+      "downloads": 9646
+    },
+    {
+      "month": "2025-03",
+      "visits": 1056,
+      "downloads": 13512
+    },
+    {
+      "month": "2025-04",
+      "visits": 1177,
+      "downloads": 9767
+    },
+    {
+      "month": "2025-05",
+      "visits": 1065,
+      "downloads": 9750
+    },
+    {
+      "month": "2025-06",
+      "visits": 1208,
+      "downloads": 12252
+    },
+    {
+      "month": "2025-07",
+      "visits": 849,
+      "downloads": 12005
+    },
+    {
+      "month": "2025-08",
+      "visits": 619,
+      "downloads": 12845
+    },
+    {
+      "month": "2025-09",
+      "visits": 700,
+      "downloads": 13118
+    },
+    {
+      "month": "2025-10",
+      "visits": 904,
+      "downloads": 13732
+    },
+    {
+      "month": "2025-11",
+      "visits": 808,
+      "downloads": 12146
+    },
+    {
+      "month": "2025-12",
+      "visits": 25,
+      "downloads": 867
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

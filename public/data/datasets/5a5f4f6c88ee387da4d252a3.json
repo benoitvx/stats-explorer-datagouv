@@ -5,8 +5,8 @@
   "organization": "Service des données et études statistiques (SDES)",
   "organizationId": "681a1272bfa84b075f9531e1",
   "url": "https://www.data.gouv.fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
-  "totalVisits": 459334,
-  "totalDownloads": 167315,
+  "totalVisits": 459443,
+  "totalDownloads": 166530,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 10228,
-      "downloads": 4336
+      "downloads": 4060
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 13335,
-      "downloads": 5879
+      "downloads": 5348
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 35,
-      "downloads": 5
+      "visits": 144,
+      "downloads": 27
     }
   ],
   "firstMonth": "2022-07",

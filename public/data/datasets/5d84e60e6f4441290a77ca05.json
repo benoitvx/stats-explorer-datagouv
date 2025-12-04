@@ -1,0 +1,224 @@
+{
+  "id": "5d84e60e6f4441290a77ca05",
+  "title": "Horaires théoriques et temps-réel du réseau GPSO (GTFS / GTFS-RT)",
+  "slug": "horaires-theoriques-et-temps-reel-du-reseau-gpso-gtfs-gtfs-rt",
+  "organization": "Zenbus",
+  "organizationId": "5cf67b0d6f44413baf79652d",
+  "url": "https://www.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-gpso-gtfs-gtfs-rt/",
+  "totalVisits": 4311,
+  "totalDownloads": 7341743,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 40,
+      "downloads": 53815
+    },
+    {
+      "month": "2022-08",
+      "visits": 51,
+      "downloads": 86354
+    },
+    {
+      "month": "2022-09",
+      "visits": 77,
+      "downloads": 84622
+    },
+    {
+      "month": "2022-10",
+      "visits": 89,
+      "downloads": 85948
+    },
+    {
+      "month": "2022-11",
+      "visits": 98,
+      "downloads": 81045
+    },
+    {
+      "month": "2022-12",
+      "visits": 121,
+      "downloads": 83107
+    },
+    {
+      "month": "2023-01",
+      "visits": 62,
+      "downloads": 85043
+    },
+    {
+      "month": "2023-02",
+      "visits": 67,
+      "downloads": 74566
+    },
+    {
+      "month": "2023-03",
+      "visits": 81,
+      "downloads": 85377
+    },
+    {
+      "month": "2023-04",
+      "visits": 57,
+      "downloads": 80233
+    },
+    {
+      "month": "2023-05",
+      "visits": 53,
+      "downloads": 79757
+    },
+    {
+      "month": "2023-06",
+      "visits": 65,
+      "downloads": 80684
+    },
+    {
+      "month": "2023-07",
+      "visits": 82,
+      "downloads": 80225
+    },
+    {
+      "month": "2023-08",
+      "visits": 80,
+      "downloads": 94317
+    },
+    {
+      "month": "2023-09",
+      "visits": 100,
+      "downloads": 385400
+    },
+    {
+      "month": "2023-10",
+      "visits": 98,
+      "downloads": 355764
+    },
+    {
+      "month": "2023-11",
+      "visits": 103,
+      "downloads": 260603
+    },
+    {
+      "month": "2023-12",
+      "visits": 134,
+      "downloads": 225058
+    },
+    {
+      "month": "2024-01",
+      "visits": 140,
+      "downloads": 105050
+    },
+    {
+      "month": "2024-02",
+      "visits": 135,
+      "downloads": 72692
+    },
+    {
+      "month": "2024-03",
+      "visits": 101,
+      "downloads": 79296
+    },
+    {
+      "month": "2024-04",
+      "visits": 81,
+      "downloads": 72767
+    },
+    {
+      "month": "2024-05",
+      "visits": 90,
+      "downloads": 76612
+    },
+    {
+      "month": "2024-06",
+      "visits": 116,
+      "downloads": 63025
+    },
+    {
+      "month": "2024-07",
+      "visits": 127,
+      "downloads": 218360
+    },
+    {
+      "month": "2024-08",
+      "visits": 97,
+      "downloads": 275494
+    },
+    {
+      "month": "2024-09",
+      "visits": 78,
+      "downloads": 263848
+    },
+    {
+      "month": "2024-10",
+      "visits": 74,
+      "downloads": 257592
+    },
+    {
+      "month": "2024-11",
+      "visits": 109,
+      "downloads": 269843
+    },
+    {
+      "month": "2024-12",
+      "visits": 103,
+      "downloads": 240945
+    },
+    {
+      "month": "2025-01",
+      "visits": 91,
+      "downloads": 213389
+    },
+    {
+      "month": "2025-02",
+      "visits": 112,
+      "downloads": 245339
+    },
+    {
+      "month": "2025-03",
+      "visits": 131,
+      "downloads": 273338
+    },
+    {
+      "month": "2025-04",
+      "visits": 138,
+      "downloads": 260258
+    },
+    {
+      "month": "2025-05",
+      "visits": 152,
+      "downloads": 298782
+    },
+    {
+      "month": "2025-06",
+      "visits": 201,
+      "downloads": 283281
+    },
+    {
+      "month": "2025-07",
+      "visits": 133,
+      "downloads": 302066
+    },
+    {
+      "month": "2025-08",
+      "visits": 199,
+      "downloads": 298802
+    },
+    {
+      "month": "2025-09",
+      "visits": 116,
+      "downloads": 282287
+    },
+    {
+      "month": "2025-10",
+      "visits": 171,
+      "downloads": 275924
+    },
+    {
+      "month": "2025-11",
+      "visits": 155,
+      "downloads": 232854
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 17981
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

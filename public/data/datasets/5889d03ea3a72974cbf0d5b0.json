@@ -5,8 +5,8 @@
   "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
   "organizationId": "534fff8fa3a7292c64a77f22",
   "url": "https://www.data.gouv.fr/datasets/le-calendrier-scolaire/",
-  "totalVisits": 1328760,
-  "totalDownloads": 189303268,
+  "totalVisits": 1330259,
+  "totalDownloads": 188554975,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 16593,
-      "downloads": 4314448
+      "downloads": 4024166
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 17707,
-      "downloads": 6249208
+      "downloads": 5577038
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 1322,
-      "downloads": 196380
+      "visits": 2821,
+      "downloads": 410539
     }
   ],
   "firstMonth": "2022-07",

@@ -1,0 +1,199 @@
+{
+  "id": "63b4c3d255130e7bb19dde9c",
+  "title": "Offre de transport du réseau REZO (Communauté d'Agglomération du Grand Verdun)",
+  "slug": "fr-200052264-t0011-0000-1",
+  "organization": "Fluo Grand Est",
+  "organizationId": "5d823fd98b4c411e38e820b4",
+  "url": "https://www.data.gouv.fr/datasets/fr-200052264-t0011-0000-1/",
+  "totalVisits": 2781,
+  "totalDownloads": 4208264,
+  "monthlyStats": [
+    {
+      "month": "2022-12",
+      "visits": 1,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 192,
+      "downloads": 6
+    },
+    {
+      "month": "2023-02",
+      "visits": 17,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 13,
+      "downloads": 4
+    },
+    {
+      "month": "2023-04",
+      "visits": 23,
+      "downloads": 20
+    },
+    {
+      "month": "2023-05",
+      "visits": 20,
+      "downloads": 48
+    },
+    {
+      "month": "2023-06",
+      "visits": 149,
+      "downloads": 73
+    },
+    {
+      "month": "2023-07",
+      "visits": 80,
+      "downloads": 59
+    },
+    {
+      "month": "2023-08",
+      "visits": 38,
+      "downloads": 15428
+    },
+    {
+      "month": "2023-09",
+      "visits": 30,
+      "downloads": 321119
+    },
+    {
+      "month": "2023-10",
+      "visits": 31,
+      "downloads": 301561
+    },
+    {
+      "month": "2023-11",
+      "visits": 38,
+      "downloads": 81147
+    },
+    {
+      "month": "2023-12",
+      "visits": 67,
+      "downloads": 42
+    },
+    {
+      "month": "2024-01",
+      "visits": 78,
+      "downloads": 12
+    },
+    {
+      "month": "2024-02",
+      "visits": 61,
+      "downloads": 22
+    },
+    {
+      "month": "2024-03",
+      "visits": 65,
+      "downloads": 38
+    },
+    {
+      "month": "2024-04",
+      "visits": 70,
+      "downloads": 68
+    },
+    {
+      "month": "2024-05",
+      "visits": 70,
+      "downloads": 110
+    },
+    {
+      "month": "2024-06",
+      "visits": 75,
+      "downloads": 67
+    },
+    {
+      "month": "2024-07",
+      "visits": 91,
+      "downloads": 156989
+    },
+    {
+      "month": "2024-08",
+      "visits": 227,
+      "downloads": 215379
+    },
+    {
+      "month": "2024-09",
+      "visits": 53,
+      "downloads": 201415
+    },
+    {
+      "month": "2024-10",
+      "visits": 70,
+      "downloads": 194962
+    },
+    {
+      "month": "2024-11",
+      "visits": 79,
+      "downloads": 205486
+    },
+    {
+      "month": "2024-12",
+      "visits": 83,
+      "downloads": 205794
+    },
+    {
+      "month": "2025-01",
+      "visits": 75,
+      "downloads": 215073
+    },
+    {
+      "month": "2025-02",
+      "visits": 64,
+      "downloads": 199017
+    },
+    {
+      "month": "2025-03",
+      "visits": 80,
+      "downloads": 211952
+    },
+    {
+      "month": "2025-04",
+      "visits": 124,
+      "downloads": 199491
+    },
+    {
+      "month": "2025-05",
+      "visits": 158,
+      "downloads": 226225
+    },
+    {
+      "month": "2025-06",
+      "visits": 160,
+      "downloads": 208055
+    },
+    {
+      "month": "2025-07",
+      "visits": 147,
+      "downloads": 218948
+    },
+    {
+      "month": "2025-08",
+      "visits": 45,
+      "downloads": 218879
+    },
+    {
+      "month": "2025-09",
+      "visits": 70,
+      "downloads": 181564
+    },
+    {
+      "month": "2025-10",
+      "visits": 60,
+      "downloads": 215023
+    },
+    {
+      "month": "2025-11",
+      "visits": 75,
+      "downloads": 200224
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 13964
+    }
+  ],
+  "firstMonth": "2022-12",
+  "lastMonth": "2025-12"
+}

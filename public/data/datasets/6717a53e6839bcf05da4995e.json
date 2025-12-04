@@ -1,0 +1,89 @@
+{
+  "id": "6717a53e6839bcf05da4995e",
+  "title": "Calendrier des jours de changements d'heure (dates de passage à l'heure d'été / heure d'hiver)",
+  "slug": "calendrier-des-jours-de-changements-dheure-dates-de-passage-a-lheure-dete-heure-dhiver",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/calendrier-des-jours-de-changements-dheure-dates-de-passage-a-lheure-dete-heure-dhiver/",
+  "totalVisits": 11161,
+  "totalDownloads": 62376,
+  "monthlyStats": [
+    {
+      "month": "2024-10",
+      "visits": 1728,
+      "downloads": 148
+    },
+    {
+      "month": "2024-11",
+      "visits": 380,
+      "downloads": 256
+    },
+    {
+      "month": "2024-12",
+      "visits": 288,
+      "downloads": 91
+    },
+    {
+      "month": "2025-01",
+      "visits": 123,
+      "downloads": 73
+    },
+    {
+      "month": "2025-02",
+      "visits": 514,
+      "downloads": 2899
+    },
+    {
+      "month": "2025-03",
+      "visits": 1463,
+      "downloads": 4039
+    },
+    {
+      "month": "2025-04",
+      "visits": 534,
+      "downloads": 4429
+    },
+    {
+      "month": "2025-05",
+      "visits": 398,
+      "downloads": 4854
+    },
+    {
+      "month": "2025-06",
+      "visits": 529,
+      "downloads": 4439
+    },
+    {
+      "month": "2025-07",
+      "visits": 367,
+      "downloads": 4482
+    },
+    {
+      "month": "2025-08",
+      "visits": 920,
+      "downloads": 4503
+    },
+    {
+      "month": "2025-09",
+      "visits": 1168,
+      "downloads": 5306
+    },
+    {
+      "month": "2025-10",
+      "visits": 1919,
+      "downloads": 12438
+    },
+    {
+      "month": "2025-11",
+      "visits": 770,
+      "downloads": 13486
+    },
+    {
+      "month": "2025-12",
+      "visits": 60,
+      "downloads": 933
+    }
+  ],
+  "firstMonth": "2024-10",
+  "lastMonth": "2025-12"
+}

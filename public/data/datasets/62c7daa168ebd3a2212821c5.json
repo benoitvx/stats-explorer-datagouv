@@ -1,0 +1,224 @@
+{
+  "id": "62c7daa168ebd3a2212821c5",
+  "title": "Liste des infractions en vigueur de la nomenclature NATINF",
+  "slug": "liste-des-infractions-en-vigueur-de-la-nomenclature-natinf",
+  "organization": "Ministère de la Justice",
+  "organizationId": "534fff93a3a7292c64a77fa2",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-infractions-en-vigueur-de-la-nomenclature-natinf/",
+  "totalVisits": 88770,
+  "totalDownloads": 41018,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 804,
+      "downloads": 290
+    },
+    {
+      "month": "2022-08",
+      "visits": 2895,
+      "downloads": 1714
+    },
+    {
+      "month": "2022-09",
+      "visits": 1815,
+      "downloads": 640
+    },
+    {
+      "month": "2022-10",
+      "visits": 1701,
+      "downloads": 666
+    },
+    {
+      "month": "2022-11",
+      "visits": 1634,
+      "downloads": 494
+    },
+    {
+      "month": "2022-12",
+      "visits": 1342,
+      "downloads": 303
+    },
+    {
+      "month": "2023-01",
+      "visits": 1744,
+      "downloads": 191
+    },
+    {
+      "month": "2023-02",
+      "visits": 1795,
+      "downloads": 203
+    },
+    {
+      "month": "2023-03",
+      "visits": 2164,
+      "downloads": 696
+    },
+    {
+      "month": "2023-04",
+      "visits": 1976,
+      "downloads": 656
+    },
+    {
+      "month": "2023-05",
+      "visits": 2225,
+      "downloads": 667
+    },
+    {
+      "month": "2023-06",
+      "visits": 2594,
+      "downloads": 780
+    },
+    {
+      "month": "2023-07",
+      "visits": 1868,
+      "downloads": 860
+    },
+    {
+      "month": "2023-08",
+      "visits": 1796,
+      "downloads": 458
+    },
+    {
+      "month": "2023-09",
+      "visits": 2060,
+      "downloads": 549
+    },
+    {
+      "month": "2023-10",
+      "visits": 2144,
+      "downloads": 656
+    },
+    {
+      "month": "2023-11",
+      "visits": 2199,
+      "downloads": 711
+    },
+    {
+      "month": "2023-12",
+      "visits": 1988,
+      "downloads": 520
+    },
+    {
+      "month": "2024-01",
+      "visits": 2512,
+      "downloads": 524
+    },
+    {
+      "month": "2024-02",
+      "visits": 2170,
+      "downloads": 667
+    },
+    {
+      "month": "2024-03",
+      "visits": 2034,
+      "downloads": 552
+    },
+    {
+      "month": "2024-04",
+      "visits": 2045,
+      "downloads": 583
+    },
+    {
+      "month": "2024-05",
+      "visits": 1932,
+      "downloads": 470
+    },
+    {
+      "month": "2024-06",
+      "visits": 2301,
+      "downloads": 581
+    },
+    {
+      "month": "2024-07",
+      "visits": 2161,
+      "downloads": 549
+    },
+    {
+      "month": "2024-08",
+      "visits": 2129,
+      "downloads": 493
+    },
+    {
+      "month": "2024-09",
+      "visits": 2324,
+      "downloads": 624
+    },
+    {
+      "month": "2024-10",
+      "visits": 2511,
+      "downloads": 596
+    },
+    {
+      "month": "2024-11",
+      "visits": 2358,
+      "downloads": 441
+    },
+    {
+      "month": "2024-12",
+      "visits": 1741,
+      "downloads": 404
+    },
+    {
+      "month": "2025-01",
+      "visits": 321,
+      "downloads": 192
+    },
+    {
+      "month": "2025-02",
+      "visits": 2494,
+      "downloads": 714
+    },
+    {
+      "month": "2025-03",
+      "visits": 3211,
+      "downloads": 602
+    },
+    {
+      "month": "2025-04",
+      "visits": 2857,
+      "downloads": 1458
+    },
+    {
+      "month": "2025-05",
+      "visits": 2990,
+      "downloads": 1341
+    },
+    {
+      "month": "2025-06",
+      "visits": 2430,
+      "downloads": 2221
+    },
+    {
+      "month": "2025-07",
+      "visits": 2557,
+      "downloads": 46
+    },
+    {
+      "month": "2025-08",
+      "visits": 2362,
+      "downloads": 38
+    },
+    {
+      "month": "2025-09",
+      "visits": 2652,
+      "downloads": 1553
+    },
+    {
+      "month": "2025-10",
+      "visits": 3179,
+      "downloads": 1390
+    },
+    {
+      "month": "2025-11",
+      "visits": 2562,
+      "downloads": 13684
+    },
+    {
+      "month": "2025-12",
+      "visits": 193,
+      "downloads": 241
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

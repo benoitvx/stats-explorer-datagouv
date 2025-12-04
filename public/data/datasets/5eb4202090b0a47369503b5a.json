@@ -1,0 +1,224 @@
+{
+  "id": "5eb4202090b0a47369503b5a",
+  "title": "Liste des liens URL redirigeant vers les consignes préféctorales dans le cadre du Covid-19",
+  "slug": "liste-des-liens-url-redirigeant-vers-les-consignes-prefectorales-dans-le-cadre-du-covid-19",
+  "organization": "Service d'Information du Gouvernement",
+  "organizationId": "54126af3a3a7292a9bbf14d6",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-liens-url-redirigeant-vers-les-consignes-prefectorales-dans-le-cadre-du-covid-19/",
+  "totalVisits": 5396,
+  "totalDownloads": 2824390,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 100,
+      "downloads": 369031
+    },
+    {
+      "month": "2022-08",
+      "visits": 97,
+      "downloads": 344799
+    },
+    {
+      "month": "2022-09",
+      "visits": 100,
+      "downloads": 297955
+    },
+    {
+      "month": "2022-10",
+      "visits": 129,
+      "downloads": 293607
+    },
+    {
+      "month": "2022-11",
+      "visits": 123,
+      "downloads": 240889
+    },
+    {
+      "month": "2022-12",
+      "visits": 152,
+      "downloads": 285297
+    },
+    {
+      "month": "2023-01",
+      "visits": 89,
+      "downloads": 141290
+    },
+    {
+      "month": "2023-02",
+      "visits": 92,
+      "downloads": 109879
+    },
+    {
+      "month": "2023-03",
+      "visits": 95,
+      "downloads": 147272
+    },
+    {
+      "month": "2023-04",
+      "visits": 82,
+      "downloads": 107868
+    },
+    {
+      "month": "2023-05",
+      "visits": 85,
+      "downloads": 88061
+    },
+    {
+      "month": "2023-06",
+      "visits": 91,
+      "downloads": 68644
+    },
+    {
+      "month": "2023-07",
+      "visits": 112,
+      "downloads": 53152
+    },
+    {
+      "month": "2023-08",
+      "visits": 92,
+      "downloads": 83560
+    },
+    {
+      "month": "2023-09",
+      "visits": 120,
+      "downloads": 134573
+    },
+    {
+      "month": "2023-10",
+      "visits": 107,
+      "downloads": 58106
+    },
+    {
+      "month": "2023-11",
+      "visits": 114,
+      "downloads": 65
+    },
+    {
+      "month": "2023-12",
+      "visits": 117,
+      "downloads": 51
+    },
+    {
+      "month": "2024-01",
+      "visits": 127,
+      "downloads": 28
+    },
+    {
+      "month": "2024-02",
+      "visits": 87,
+      "downloads": 23
+    },
+    {
+      "month": "2024-03",
+      "visits": 90,
+      "downloads": 5
+    },
+    {
+      "month": "2024-04",
+      "visits": 90,
+      "downloads": 4
+    },
+    {
+      "month": "2024-05",
+      "visits": 139,
+      "downloads": 10
+    },
+    {
+      "month": "2024-06",
+      "visits": 641,
+      "downloads": 5
+    },
+    {
+      "month": "2024-07",
+      "visits": 550,
+      "downloads": 12
+    },
+    {
+      "month": "2024-08",
+      "visits": 116,
+      "downloads": 6
+    },
+    {
+      "month": "2024-09",
+      "visits": 104,
+      "downloads": 8
+    },
+    {
+      "month": "2024-10",
+      "visits": 103,
+      "downloads": 10
+    },
+    {
+      "month": "2024-11",
+      "visits": 94,
+      "downloads": 3
+    },
+    {
+      "month": "2024-12",
+      "visits": 128,
+      "downloads": 9
+    },
+    {
+      "month": "2025-01",
+      "visits": 79,
+      "downloads": 2
+    },
+    {
+      "month": "2025-02",
+      "visits": 109,
+      "downloads": 17
+    },
+    {
+      "month": "2025-03",
+      "visits": 106,
+      "downloads": 9
+    },
+    {
+      "month": "2025-04",
+      "visits": 134,
+      "downloads": 19
+    },
+    {
+      "month": "2025-05",
+      "visits": 128,
+      "downloads": 10
+    },
+    {
+      "month": "2025-06",
+      "visits": 168,
+      "downloads": 19
+    },
+    {
+      "month": "2025-07",
+      "visits": 145,
+      "downloads": 17
+    },
+    {
+      "month": "2025-08",
+      "visits": 106,
+      "downloads": 21
+    },
+    {
+      "month": "2025-09",
+      "visits": 84,
+      "downloads": 20
+    },
+    {
+      "month": "2025-10",
+      "visits": 88,
+      "downloads": 11
+    },
+    {
+      "month": "2025-11",
+      "visits": 81,
+      "downloads": 22
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 1
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

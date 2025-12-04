@@ -1,0 +1,224 @@
+{
+  "id": "5b46c60ba3a729427ab11d6f",
+  "title": "Statistiques de prêts de DVD à la médiathèque en 2017 - Cesson-Sévigné",
+  "slug": "statistiques-de-prets-de-dvd-a-la-mediatheque-en-2017-cesson-sevigne",
+  "organization": "Rennes Métropole en accès libre",
+  "organizationId": "580735be88ee3814295ff490",
+  "url": "https://www.data.gouv.fr/datasets/statistiques-de-prets-de-dvd-a-la-mediatheque-en-2017-cesson-sevigne/",
+  "totalVisits": 46324,
+  "totalDownloads": 14818,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 19,
+      "downloads": 13
+    },
+    {
+      "month": "2022-08",
+      "visits": 16,
+      "downloads": 18
+    },
+    {
+      "month": "2022-09",
+      "visits": 31,
+      "downloads": 18
+    },
+    {
+      "month": "2022-10",
+      "visits": 83,
+      "downloads": 21
+    },
+    {
+      "month": "2022-11",
+      "visits": 71,
+      "downloads": 24
+    },
+    {
+      "month": "2022-12",
+      "visits": 75,
+      "downloads": 22
+    },
+    {
+      "month": "2023-01",
+      "visits": 39,
+      "downloads": 20
+    },
+    {
+      "month": "2023-02",
+      "visits": 48,
+      "downloads": 23
+    },
+    {
+      "month": "2023-03",
+      "visits": 67,
+      "downloads": 37
+    },
+    {
+      "month": "2023-04",
+      "visits": 42,
+      "downloads": 27
+    },
+    {
+      "month": "2023-05",
+      "visits": 36,
+      "downloads": 23
+    },
+    {
+      "month": "2023-06",
+      "visits": 32,
+      "downloads": 32
+    },
+    {
+      "month": "2023-07",
+      "visits": 38,
+      "downloads": 26
+    },
+    {
+      "month": "2023-08",
+      "visits": 60,
+      "downloads": 53
+    },
+    {
+      "month": "2023-09",
+      "visits": 56,
+      "downloads": 61
+    },
+    {
+      "month": "2023-10",
+      "visits": 60,
+      "downloads": 60
+    },
+    {
+      "month": "2023-11",
+      "visits": 35,
+      "downloads": 24
+    },
+    {
+      "month": "2023-12",
+      "visits": 92,
+      "downloads": 20
+    },
+    {
+      "month": "2024-01",
+      "visits": 83,
+      "downloads": 9
+    },
+    {
+      "month": "2024-02",
+      "visits": 74,
+      "downloads": 20
+    },
+    {
+      "month": "2024-03",
+      "visits": 68,
+      "downloads": 24
+    },
+    {
+      "month": "2024-04",
+      "visits": 64,
+      "downloads": 17
+    },
+    {
+      "month": "2024-05",
+      "visits": 95,
+      "downloads": 12
+    },
+    {
+      "month": "2024-06",
+      "visits": 872,
+      "downloads": 338
+    },
+    {
+      "month": "2024-07",
+      "visits": 570,
+      "downloads": 216
+    },
+    {
+      "month": "2024-08",
+      "visits": 520,
+      "downloads": 193
+    },
+    {
+      "month": "2024-09",
+      "visits": 2081,
+      "downloads": 872
+    },
+    {
+      "month": "2024-10",
+      "visits": 3931,
+      "downloads": 1525
+    },
+    {
+      "month": "2024-11",
+      "visits": 5571,
+      "downloads": 1775
+    },
+    {
+      "month": "2024-12",
+      "visits": 3168,
+      "downloads": 860
+    },
+    {
+      "month": "2025-01",
+      "visits": 297,
+      "downloads": 32
+    },
+    {
+      "month": "2025-02",
+      "visits": 4150,
+      "downloads": 1090
+    },
+    {
+      "month": "2025-03",
+      "visits": 4771,
+      "downloads": 1408
+    },
+    {
+      "month": "2025-04",
+      "visits": 3379,
+      "downloads": 962
+    },
+    {
+      "month": "2025-05",
+      "visits": 2711,
+      "downloads": 934
+    },
+    {
+      "month": "2025-06",
+      "visits": 1550,
+      "downloads": 426
+    },
+    {
+      "month": "2025-07",
+      "visits": 912,
+      "downloads": 273
+    },
+    {
+      "month": "2025-08",
+      "visits": 617,
+      "downloads": 148
+    },
+    {
+      "month": "2025-09",
+      "visits": 1996,
+      "downloads": 679
+    },
+    {
+      "month": "2025-10",
+      "visits": 3380,
+      "downloads": 1135
+    },
+    {
+      "month": "2025-11",
+      "visits": 4223,
+      "downloads": 1248
+    },
+    {
+      "month": "2025-12",
+      "visits": 341,
+      "downloads": 100
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "546609c1c751df1a6f6c8d07",
+  "title": "Fichiers GTFS - EUROMETROPOLE de METZ",
+  "slug": "fichiers-gtfs-eurometropole-de-metz",
+  "organization": "Eurométropole de Metz",
+  "organizationId": "53fd1263a3a729390ba568a4",
+  "url": "https://www.data.gouv.fr/datasets/fichiers-gtfs-eurometropole-de-metz/",
+  "totalVisits": 9560,
+  "totalDownloads": 11939430,
+  "monthlyStats": [
+    {
+      "month": "2023-02",
+      "visits": 142,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 239,
+      "downloads": 11
+    },
+    {
+      "month": "2023-04",
+      "visits": 183,
+      "downloads": 14
+    },
+    {
+      "month": "2023-05",
+      "visits": 189,
+      "downloads": 73
+    },
+    {
+      "month": "2023-06",
+      "visits": 266,
+      "downloads": 38
+    },
+    {
+      "month": "2023-07",
+      "visits": 260,
+      "downloads": 112
+    },
+    {
+      "month": "2023-08",
+      "visits": 238,
+      "downloads": 69
+    },
+    {
+      "month": "2023-09",
+      "visits": 262,
+      "downloads": 55
+    },
+    {
+      "month": "2023-10",
+      "visits": 358,
+      "downloads": 158
+    },
+    {
+      "month": "2023-11",
+      "visits": 359,
+      "downloads": 480
+    },
+    {
+      "month": "2023-12",
+      "visits": 383,
+      "downloads": 87
+    },
+    {
+      "month": "2024-01",
+      "visits": 350,
+      "downloads": 119
+    },
+    {
+      "month": "2024-02",
+      "visits": 297,
+      "downloads": 150
+    },
+    {
+      "month": "2024-03",
+      "visits": 283,
+      "downloads": 530481
+    },
+    {
+      "month": "2024-04",
+      "visits": 278,
+      "downloads": 545401
+    },
+    {
+      "month": "2024-05",
+      "visits": 250,
+      "downloads": 594411
+    },
+    {
+      "month": "2024-06",
+      "visits": 266,
+      "downloads": 574777
+    },
+    {
+      "month": "2024-07",
+      "visits": 298,
+      "downloads": 582307
+    },
+    {
+      "month": "2024-08",
+      "visits": 261,
+      "downloads": 584477
+    },
+    {
+      "month": "2024-09",
+      "visits": 178,
+      "downloads": 564504
+    },
+    {
+      "month": "2024-10",
+      "visits": 268,
+      "downloads": 563049
+    },
+    {
+      "month": "2024-11",
+      "visits": 344,
+      "downloads": 561433
+    },
+    {
+      "month": "2024-12",
+      "visits": 239,
+      "downloads": 562257
+    },
+    {
+      "month": "2025-01",
+      "visits": 125,
+      "downloads": 590539
+    },
+    {
+      "month": "2025-02",
+      "visits": 285,
+      "downloads": 536118
+    },
+    {
+      "month": "2025-03",
+      "visits": 301,
+      "downloads": 561247
+    },
+    {
+      "month": "2025-04",
+      "visits": 288,
+      "downloads": 577117
+    },
+    {
+      "month": "2025-05",
+      "visits": 354,
+      "downloads": 599277
+    },
+    {
+      "month": "2025-06",
+      "visits": 503,
+      "downloads": 549329
+    },
+    {
+      "month": "2025-07",
+      "visits": 392,
+      "downloads": 580513
+    },
+    {
+      "month": "2025-08",
+      "visits": 336,
+      "downloads": 580485
+    },
+    {
+      "month": "2025-09",
+      "visits": 184,
+      "downloads": 561641
+    },
+    {
+      "month": "2025-10",
+      "visits": 333,
+      "downloads": 570645
+    },
+    {
+      "month": "2025-11",
+      "visits": 247,
+      "downloads": 531015
+    },
+    {
+      "month": "2025-12",
+      "visits": 21,
+      "downloads": 37041
+    }
+  ],
+  "firstMonth": "2023-02",
+  "lastMonth": "2025-12"
+}

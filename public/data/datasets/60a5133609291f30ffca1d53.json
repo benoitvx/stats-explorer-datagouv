@@ -1,0 +1,224 @@
+{
+  "id": "60a5133609291f30ffca1d53",
+  "title": "Réseau urbain Nosbus",
+  "slug": "reseau-urbain-nosbus",
+  "organization": "Transdev • Centre-Val de Loire",
+  "organizationId": "60a50eacc833c842a97209b7",
+  "url": "https://www.data.gouv.fr/datasets/reseau-urbain-nosbus/",
+  "totalVisits": 2854,
+  "totalDownloads": 4586797,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 27,
+      "downloads": 3
+    },
+    {
+      "month": "2022-08",
+      "visits": 41,
+      "downloads": 9
+    },
+    {
+      "month": "2022-09",
+      "visits": 46,
+      "downloads": 5
+    },
+    {
+      "month": "2022-10",
+      "visits": 85,
+      "downloads": 4
+    },
+    {
+      "month": "2022-11",
+      "visits": 58,
+      "downloads": 3
+    },
+    {
+      "month": "2022-12",
+      "visits": 74,
+      "downloads": 11
+    },
+    {
+      "month": "2023-01",
+      "visits": 32,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 41,
+      "downloads": 5
+    },
+    {
+      "month": "2023-03",
+      "visits": 46,
+      "downloads": 7
+    },
+    {
+      "month": "2023-04",
+      "visits": 38,
+      "downloads": 1
+    },
+    {
+      "month": "2023-05",
+      "visits": 46,
+      "downloads": 3
+    },
+    {
+      "month": "2023-06",
+      "visits": 49,
+      "downloads": 394
+    },
+    {
+      "month": "2023-07",
+      "visits": 55,
+      "downloads": 1268
+    },
+    {
+      "month": "2023-08",
+      "visits": 64,
+      "downloads": 16699
+    },
+    {
+      "month": "2023-09",
+      "visits": 71,
+      "downloads": 324141
+    },
+    {
+      "month": "2023-10",
+      "visits": 57,
+      "downloads": 333332
+    },
+    {
+      "month": "2023-11",
+      "visits": 101,
+      "downloads": 209924
+    },
+    {
+      "month": "2023-12",
+      "visits": 114,
+      "downloads": 170655
+    },
+    {
+      "month": "2024-01",
+      "visits": 79,
+      "downloads": 29373
+    },
+    {
+      "month": "2024-02",
+      "visits": 67,
+      "downloads": 1332
+    },
+    {
+      "month": "2024-03",
+      "visits": 69,
+      "downloads": 1425
+    },
+    {
+      "month": "2024-04",
+      "visits": 70,
+      "downloads": 1478
+    },
+    {
+      "month": "2024-05",
+      "visits": 70,
+      "downloads": 1946
+    },
+    {
+      "month": "2024-06",
+      "visits": 80,
+      "downloads": 1498
+    },
+    {
+      "month": "2024-07",
+      "visits": 76,
+      "downloads": 156444
+    },
+    {
+      "month": "2024-08",
+      "visits": 59,
+      "downloads": 214517
+    },
+    {
+      "month": "2024-09",
+      "visits": 51,
+      "downloads": 201513
+    },
+    {
+      "month": "2024-10",
+      "visits": 30,
+      "downloads": 195249
+    },
+    {
+      "month": "2024-11",
+      "visits": 58,
+      "downloads": 206228
+    },
+    {
+      "month": "2024-12",
+      "visits": 49,
+      "downloads": 204707
+    },
+    {
+      "month": "2025-01",
+      "visits": 41,
+      "downloads": 212201
+    },
+    {
+      "month": "2025-02",
+      "visits": 74,
+      "downloads": 190445
+    },
+    {
+      "month": "2025-03",
+      "visits": 69,
+      "downloads": 207616
+    },
+    {
+      "month": "2025-04",
+      "visits": 90,
+      "downloads": 195585
+    },
+    {
+      "month": "2025-05",
+      "visits": 81,
+      "downloads": 220678
+    },
+    {
+      "month": "2025-06",
+      "visits": 134,
+      "downloads": 206540
+    },
+    {
+      "month": "2025-07",
+      "visits": 162,
+      "downloads": 220325
+    },
+    {
+      "month": "2025-08",
+      "visits": 113,
+      "downloads": 221194
+    },
+    {
+      "month": "2025-09",
+      "visits": 113,
+      "downloads": 216659
+    },
+    {
+      "month": "2025-10",
+      "visits": 91,
+      "downloads": 212905
+    },
+    {
+      "month": "2025-11",
+      "visits": 79,
+      "downloads": 196678
+    },
+    {
+      "month": "2025-12",
+      "visits": 4,
+      "downloads": 13797
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

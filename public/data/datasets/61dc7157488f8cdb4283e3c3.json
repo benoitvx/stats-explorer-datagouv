@@ -5,8 +5,8 @@
   "organization": "Centre Scientifique et Technique du Batiment",
   "organizationId": "61dc6a1398b3376b6fa0d0d9",
   "url": "https://www.data.gouv.fr/datasets/base-de-donnees-nationale-des-batiments/",
-  "totalVisits": 255905,
-  "totalDownloads": 44528,
+  "totalVisits": 256237,
+  "totalDownloads": 44287,
   "monthlyStats": [
     {
       "month": "2022-08",
@@ -61,7 +61,7 @@
     {
       "month": "2023-07",
       "visits": 5161,
-      "downloads": 1312
+      "downloads": 1206
     },
     {
       "month": "2023-08",
@@ -101,7 +101,7 @@
     {
       "month": "2024-03",
       "visits": 7661,
-      "downloads": 1523
+      "downloads": 1341
     },
     {
       "month": "2024-04",
@@ -205,8 +205,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 117,
-      "downloads": 16
+      "visits": 449,
+      "downloads": 63
     }
   ],
   "firstMonth": "2022-08",

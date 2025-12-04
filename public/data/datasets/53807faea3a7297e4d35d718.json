@@ -1,0 +1,224 @@
+{
+  "id": "53807faea3a7297e4d35d718",
+  "title": "Nombre de bénéficiaires en fin de trimestre du RSA avec ou sans majoration pour isolement",
+  "slug": "nombre-de-beneficiaires-en-fin-de-trimestre-du-rsa-avec-ou-sans-majoration-pour-isolement-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/nombre-de-beneficiaires-en-fin-de-trimestre-du-rsa-avec-ou-sans-majoration-pour-isolement-cors/",
+  "totalVisits": 1688,
+  "totalDownloads": 269067,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 10,
+      "downloads": 11
+    },
+    {
+      "month": "2022-08",
+      "visits": 10,
+      "downloads": 15
+    },
+    {
+      "month": "2022-09",
+      "visits": 24,
+      "downloads": 15
+    },
+    {
+      "month": "2022-10",
+      "visits": 37,
+      "downloads": 22
+    },
+    {
+      "month": "2022-11",
+      "visits": 41,
+      "downloads": 21
+    },
+    {
+      "month": "2022-12",
+      "visits": 33,
+      "downloads": 19
+    },
+    {
+      "month": "2023-01",
+      "visits": 23,
+      "downloads": 23
+    },
+    {
+      "month": "2023-02",
+      "visits": 21,
+      "downloads": 20
+    },
+    {
+      "month": "2023-03",
+      "visits": 28,
+      "downloads": 33
+    },
+    {
+      "month": "2023-04",
+      "visits": 18,
+      "downloads": 25
+    },
+    {
+      "month": "2023-05",
+      "visits": 23,
+      "downloads": 21
+    },
+    {
+      "month": "2023-06",
+      "visits": 17,
+      "downloads": 34
+    },
+    {
+      "month": "2023-07",
+      "visits": 26,
+      "downloads": 39
+    },
+    {
+      "month": "2023-08",
+      "visits": 28,
+      "downloads": 61
+    },
+    {
+      "month": "2023-09",
+      "visits": 39,
+      "downloads": 51
+    },
+    {
+      "month": "2023-10",
+      "visits": 26,
+      "downloads": 68
+    },
+    {
+      "month": "2023-11",
+      "visits": 25,
+      "downloads": 27
+    },
+    {
+      "month": "2023-12",
+      "visits": 57,
+      "downloads": 32
+    },
+    {
+      "month": "2024-01",
+      "visits": 56,
+      "downloads": 29
+    },
+    {
+      "month": "2024-02",
+      "visits": 41,
+      "downloads": 30
+    },
+    {
+      "month": "2024-03",
+      "visits": 45,
+      "downloads": 28
+    },
+    {
+      "month": "2024-04",
+      "visits": 37,
+      "downloads": 22
+    },
+    {
+      "month": "2024-05",
+      "visits": 55,
+      "downloads": 32
+    },
+    {
+      "month": "2024-06",
+      "visits": 53,
+      "downloads": 19
+    },
+    {
+      "month": "2024-07",
+      "visits": 32,
+      "downloads": 23
+    },
+    {
+      "month": "2024-08",
+      "visits": 30,
+      "downloads": 20
+    },
+    {
+      "month": "2024-09",
+      "visits": 30,
+      "downloads": 22
+    },
+    {
+      "month": "2024-10",
+      "visits": 28,
+      "downloads": 27
+    },
+    {
+      "month": "2024-11",
+      "visits": 36,
+      "downloads": 18
+    },
+    {
+      "month": "2024-12",
+      "visits": 49,
+      "downloads": 11
+    },
+    {
+      "month": "2025-01",
+      "visits": 67,
+      "downloads": 268055
+    },
+    {
+      "month": "2025-02",
+      "visits": 57,
+      "downloads": 22
+    },
+    {
+      "month": "2025-03",
+      "visits": 55,
+      "downloads": 22
+    },
+    {
+      "month": "2025-04",
+      "visits": 186,
+      "downloads": 34
+    },
+    {
+      "month": "2025-05",
+      "visits": 82,
+      "downloads": 61
+    },
+    {
+      "month": "2025-06",
+      "visits": 91,
+      "downloads": 19
+    },
+    {
+      "month": "2025-07",
+      "visits": 42,
+      "downloads": 13
+    },
+    {
+      "month": "2025-08",
+      "visits": 32,
+      "downloads": 7
+    },
+    {
+      "month": "2025-09",
+      "visits": 42,
+      "downloads": 5
+    },
+    {
+      "month": "2025-10",
+      "visits": 21,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 35,
+      "downloads": 11
+    },
+    {
+      "month": "2025-12",
+      "visits": 0,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

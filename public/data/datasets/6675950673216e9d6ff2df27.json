@@ -1,0 +1,109 @@
+{
+  "id": "6675950673216e9d6ff2df27",
+  "title": "Les saints et fêtes du calendrier",
+  "slug": "les-saints-et-fetes-du-calendrier",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/les-saints-et-fetes-du-calendrier/",
+  "totalVisits": 4987,
+  "totalDownloads": 895931,
+  "monthlyStats": [
+    {
+      "month": "2024-06",
+      "visits": 327,
+      "downloads": 13
+    },
+    {
+      "month": "2024-07",
+      "visits": 118,
+      "downloads": 17
+    },
+    {
+      "month": "2024-08",
+      "visits": 154,
+      "downloads": 68
+    },
+    {
+      "month": "2024-09",
+      "visits": 128,
+      "downloads": 49
+    },
+    {
+      "month": "2024-10",
+      "visits": 107,
+      "downloads": 9208
+    },
+    {
+      "month": "2024-11",
+      "visits": 161,
+      "downloads": 42866
+    },
+    {
+      "month": "2024-12",
+      "visits": 165,
+      "downloads": 41536
+    },
+    {
+      "month": "2025-01",
+      "visits": 99,
+      "downloads": 43421
+    },
+    {
+      "month": "2025-02",
+      "visits": 236,
+      "downloads": 44528
+    },
+    {
+      "month": "2025-03",
+      "visits": 295,
+      "downloads": 43302
+    },
+    {
+      "month": "2025-04",
+      "visits": 366,
+      "downloads": 42993
+    },
+    {
+      "month": "2025-05",
+      "visits": 392,
+      "downloads": 44792
+    },
+    {
+      "month": "2025-06",
+      "visits": 367,
+      "downloads": 41083
+    },
+    {
+      "month": "2025-07",
+      "visits": 303,
+      "downloads": 40095
+    },
+    {
+      "month": "2025-08",
+      "visits": 322,
+      "downloads": 111572
+    },
+    {
+      "month": "2025-09",
+      "visits": 364,
+      "downloads": 127002
+    },
+    {
+      "month": "2025-10",
+      "visits": 437,
+      "downloads": 132069
+    },
+    {
+      "month": "2025-11",
+      "visits": 599,
+      "downloads": 122754
+    },
+    {
+      "month": "2025-12",
+      "visits": 47,
+      "downloads": 8563
+    }
+  ],
+  "firstMonth": "2024-06",
+  "lastMonth": "2025-12"
+}

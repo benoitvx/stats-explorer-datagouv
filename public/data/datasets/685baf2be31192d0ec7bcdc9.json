@@ -1,0 +1,49 @@
+{
+  "id": "685baf2be31192d0ec7bcdc9",
+  "title": "ZOU !",
+  "slug": "zou",
+  "organization": "Transdev Rail Sud Intermétropole",
+  "organizationId": "685baa4b19d5fea0f1652b20",
+  "url": "https://www.data.gouv.fr/datasets/zou/",
+  "totalVisits": 693,
+  "totalDownloads": 1416098,
+  "monthlyStats": [
+    {
+      "month": "2025-06",
+      "visits": 32,
+      "downloads": 3
+    },
+    {
+      "month": "2025-07",
+      "visits": 172,
+      "downloads": 205821
+    },
+    {
+      "month": "2025-08",
+      "visits": 112,
+      "downloads": 278136
+    },
+    {
+      "month": "2025-09",
+      "visits": 90,
+      "downloads": 269393
+    },
+    {
+      "month": "2025-10",
+      "visits": 139,
+      "downloads": 298172
+    },
+    {
+      "month": "2025-11",
+      "visits": 147,
+      "downloads": 330185
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 34388
+    }
+  ],
+  "firstMonth": "2025-06",
+  "lastMonth": "2025-12"
+}

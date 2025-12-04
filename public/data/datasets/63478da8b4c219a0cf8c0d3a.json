@@ -1,0 +1,209 @@
+{
+  "id": "63478da8b4c219a0cf8c0d3a",
+  "title": "Indices de position sociale des écoles (2016-2021)",
+  "slug": "indices-de-position-sociale-dans-les-ecoles-de-france-metropolitaine-et-drom-version-2-1",
+  "organization": "Ministères de l'Éducation nationale, Sports et Jeunesse",
+  "organizationId": "534fff8fa3a7292c64a77f22",
+  "url": "https://www.data.gouv.fr/datasets/indices-de-position-sociale-dans-les-ecoles-de-france-metropolitaine-et-drom-version-2-1/",
+  "totalVisits": 96695,
+  "totalDownloads": 28757,
+  "monthlyStats": [
+    {
+      "month": "2022-10",
+      "visits": 372,
+      "downloads": 1171
+    },
+    {
+      "month": "2022-11",
+      "visits": 49,
+      "downloads": 2257
+    },
+    {
+      "month": "2022-12",
+      "visits": 69,
+      "downloads": 1540
+    },
+    {
+      "month": "2023-01",
+      "visits": 58,
+      "downloads": 2319
+    },
+    {
+      "month": "2023-02",
+      "visits": 11918,
+      "downloads": 2862
+    },
+    {
+      "month": "2023-03",
+      "visits": 13032,
+      "downloads": 3109
+    },
+    {
+      "month": "2023-04",
+      "visits": 6477,
+      "downloads": 1533
+    },
+    {
+      "month": "2023-05",
+      "visits": 4327,
+      "downloads": 882
+    },
+    {
+      "month": "2023-06",
+      "visits": 3460,
+      "downloads": 652
+    },
+    {
+      "month": "2023-07",
+      "visits": 4573,
+      "downloads": 784
+    },
+    {
+      "month": "2023-08",
+      "visits": 1775,
+      "downloads": 368
+    },
+    {
+      "month": "2023-09",
+      "visits": 3667,
+      "downloads": 876
+    },
+    {
+      "month": "2023-10",
+      "visits": 3130,
+      "downloads": 757
+    },
+    {
+      "month": "2023-11",
+      "visits": 3498,
+      "downloads": 842
+    },
+    {
+      "month": "2023-12",
+      "visits": 2873,
+      "downloads": 684
+    },
+    {
+      "month": "2024-01",
+      "visits": 4813,
+      "downloads": 1307
+    },
+    {
+      "month": "2024-02",
+      "visits": 3585,
+      "downloads": 762
+    },
+    {
+      "month": "2024-03",
+      "visits": 3852,
+      "downloads": 853
+    },
+    {
+      "month": "2024-04",
+      "visits": 3732,
+      "downloads": 855
+    },
+    {
+      "month": "2024-05",
+      "visits": 2280,
+      "downloads": 481
+    },
+    {
+      "month": "2024-06",
+      "visits": 2745,
+      "downloads": 540
+    },
+    {
+      "month": "2024-07",
+      "visits": 1588,
+      "downloads": 320
+    },
+    {
+      "month": "2024-08",
+      "visits": 948,
+      "downloads": 204
+    },
+    {
+      "month": "2024-09",
+      "visits": 1634,
+      "downloads": 333
+    },
+    {
+      "month": "2024-10",
+      "visits": 1491,
+      "downloads": 395
+    },
+    {
+      "month": "2024-11",
+      "visits": 1645,
+      "downloads": 307
+    },
+    {
+      "month": "2024-12",
+      "visits": 816,
+      "downloads": 120
+    },
+    {
+      "month": "2025-01",
+      "visits": 260,
+      "downloads": 76
+    },
+    {
+      "month": "2025-02",
+      "visits": 683,
+      "downloads": 149
+    },
+    {
+      "month": "2025-03",
+      "visits": 942,
+      "downloads": 198
+    },
+    {
+      "month": "2025-04",
+      "visits": 1220,
+      "downloads": 237
+    },
+    {
+      "month": "2025-05",
+      "visits": 1218,
+      "downloads": 208
+    },
+    {
+      "month": "2025-06",
+      "visits": 1026,
+      "downloads": 140
+    },
+    {
+      "month": "2025-07",
+      "visits": 484,
+      "downloads": 99
+    },
+    {
+      "month": "2025-08",
+      "visits": 460,
+      "downloads": 85
+    },
+    {
+      "month": "2025-09",
+      "visits": 722,
+      "downloads": 149
+    },
+    {
+      "month": "2025-10",
+      "visits": 667,
+      "downloads": 134
+    },
+    {
+      "month": "2025-11",
+      "visits": 568,
+      "downloads": 167
+    },
+    {
+      "month": "2025-12",
+      "visits": 38,
+      "downloads": 2
+    }
+  ],
+  "firstMonth": "2022-10",
+  "lastMonth": "2025-12"
+}

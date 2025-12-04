@@ -1,0 +1,224 @@
+{
+  "id": "61489083dc4223219e50cc35",
+  "title": "BD TOPO®",
+  "slug": "bd-topo-r",
+  "organization": "Institut national de l'information géographique et forestière",
+  "organizationId": "534fff80a3a7292c64a77e41",
+  "url": "https://www.data.gouv.fr/datasets/bd-topo-r/",
+  "totalVisits": 76892,
+  "totalDownloads": 24981,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 446,
+      "downloads": 174
+    },
+    {
+      "month": "2022-08",
+      "visits": 697,
+      "downloads": 190
+    },
+    {
+      "month": "2022-09",
+      "visits": 1085,
+      "downloads": 333
+    },
+    {
+      "month": "2022-10",
+      "visits": 1700,
+      "downloads": 520
+    },
+    {
+      "month": "2022-11",
+      "visits": 1635,
+      "downloads": 458
+    },
+    {
+      "month": "2022-12",
+      "visits": 1238,
+      "downloads": 547
+    },
+    {
+      "month": "2023-01",
+      "visits": 1912,
+      "downloads": 648
+    },
+    {
+      "month": "2023-02",
+      "visits": 1645,
+      "downloads": 403
+    },
+    {
+      "month": "2023-03",
+      "visits": 1673,
+      "downloads": 644
+    },
+    {
+      "month": "2023-04",
+      "visits": 1259,
+      "downloads": 469
+    },
+    {
+      "month": "2023-05",
+      "visits": 1453,
+      "downloads": 619
+    },
+    {
+      "month": "2023-06",
+      "visits": 2013,
+      "downloads": 629
+    },
+    {
+      "month": "2023-07",
+      "visits": 1427,
+      "downloads": 477
+    },
+    {
+      "month": "2023-08",
+      "visits": 972,
+      "downloads": 429
+    },
+    {
+      "month": "2023-09",
+      "visits": 1527,
+      "downloads": 659
+    },
+    {
+      "month": "2023-10",
+      "visits": 2008,
+      "downloads": 788
+    },
+    {
+      "month": "2023-11",
+      "visits": 1924,
+      "downloads": 772
+    },
+    {
+      "month": "2023-12",
+      "visits": 1613,
+      "downloads": 727
+    },
+    {
+      "month": "2024-01",
+      "visits": 1962,
+      "downloads": 727
+    },
+    {
+      "month": "2024-02",
+      "visits": 1908,
+      "downloads": 813
+    },
+    {
+      "month": "2024-03",
+      "visits": 2022,
+      "downloads": 849
+    },
+    {
+      "month": "2024-04",
+      "visits": 1852,
+      "downloads": 851
+    },
+    {
+      "month": "2024-05",
+      "visits": 1591,
+      "downloads": 737
+    },
+    {
+      "month": "2024-06",
+      "visits": 1725,
+      "downloads": 722
+    },
+    {
+      "month": "2024-07",
+      "visits": 1812,
+      "downloads": 675
+    },
+    {
+      "month": "2024-08",
+      "visits": 1429,
+      "downloads": 480
+    },
+    {
+      "month": "2024-09",
+      "visits": 2131,
+      "downloads": 683
+    },
+    {
+      "month": "2024-10",
+      "visits": 2685,
+      "downloads": 891
+    },
+    {
+      "month": "2024-11",
+      "visits": 2738,
+      "downloads": 700
+    },
+    {
+      "month": "2024-12",
+      "visits": 1772,
+      "downloads": 345
+    },
+    {
+      "month": "2025-01",
+      "visits": 346,
+      "downloads": 277
+    },
+    {
+      "month": "2025-02",
+      "visits": 2331,
+      "downloads": 591
+    },
+    {
+      "month": "2025-03",
+      "visits": 1889,
+      "downloads": 556
+    },
+    {
+      "month": "2025-04",
+      "visits": 3065,
+      "downloads": 811
+    },
+    {
+      "month": "2025-05",
+      "visits": 2726,
+      "downloads": 1415
+    },
+    {
+      "month": "2025-06",
+      "visits": 2826,
+      "downloads": 762
+    },
+    {
+      "month": "2025-07",
+      "visits": 2217,
+      "downloads": 660
+    },
+    {
+      "month": "2025-08",
+      "visits": 2113,
+      "downloads": 291
+    },
+    {
+      "month": "2025-09",
+      "visits": 2604,
+      "downloads": 394
+    },
+    {
+      "month": "2025-10",
+      "visits": 3241,
+      "downloads": 538
+    },
+    {
+      "month": "2025-11",
+      "visits": 3478,
+      "downloads": 703
+    },
+    {
+      "month": "2025-12",
+      "visits": 202,
+      "downloads": 24
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

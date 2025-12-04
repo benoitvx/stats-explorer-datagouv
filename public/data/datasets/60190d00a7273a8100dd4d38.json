@@ -5,8 +5,8 @@
   "organization": "Santé publique France",
   "organizationId": "5e721a395d57f93d0bed451f",
   "url": "https://www.data.gouv.fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/",
-  "totalVisits": 2466892,
-  "totalDownloads": 2074544,
+  "totalVisits": 2466970,
+  "totalDownloads": 2045643,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 94290,
-      "downloads": 238018
+      "downloads": 224814
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 92144,
-      "downloads": 136691
+      "downloads": 120754
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 28,
-      "downloads": 170
+      "visits": 106,
+      "downloads": 410
     }
   ],
   "firstMonth": "2022-07",

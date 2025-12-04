@@ -1,0 +1,134 @@
+{
+  "id": "65b1a75854fb88f787f72944",
+  "title": "Population municipale des communes - France entière",
+  "slug": "population-municipale-des-communes-france-entiere",
+  "organization": "Département du Loiret",
+  "organizationId": "57d90ef4c751df44fb79df72",
+  "url": "https://www.data.gouv.fr/datasets/population-municipale-des-communes-france-entiere/",
+  "totalVisits": 48090,
+  "totalDownloads": 10644,
+  "monthlyStats": [
+    {
+      "month": "2024-01",
+      "visits": 283,
+      "downloads": 16
+    },
+    {
+      "month": "2024-02",
+      "visits": 134,
+      "downloads": 24
+    },
+    {
+      "month": "2024-03",
+      "visits": 154,
+      "downloads": 43
+    },
+    {
+      "month": "2024-04",
+      "visits": 214,
+      "downloads": 63
+    },
+    {
+      "month": "2024-05",
+      "visits": 219,
+      "downloads": 68
+    },
+    {
+      "month": "2024-06",
+      "visits": 342,
+      "downloads": 145
+    },
+    {
+      "month": "2024-07",
+      "visits": 312,
+      "downloads": 94
+    },
+    {
+      "month": "2024-08",
+      "visits": 366,
+      "downloads": 126
+    },
+    {
+      "month": "2024-09",
+      "visits": 534,
+      "downloads": 194
+    },
+    {
+      "month": "2024-10",
+      "visits": 1044,
+      "downloads": 347
+    },
+    {
+      "month": "2024-11",
+      "visits": 1660,
+      "downloads": 391
+    },
+    {
+      "month": "2024-12",
+      "visits": 1601,
+      "downloads": 409
+    },
+    {
+      "month": "2025-01",
+      "visits": 275,
+      "downloads": 79
+    },
+    {
+      "month": "2025-02",
+      "visits": 2344,
+      "downloads": 510
+    },
+    {
+      "month": "2025-03",
+      "visits": 3534,
+      "downloads": 717
+    },
+    {
+      "month": "2025-04",
+      "visits": 5296,
+      "downloads": 1348
+    },
+    {
+      "month": "2025-05",
+      "visits": 4956,
+      "downloads": 654
+    },
+    {
+      "month": "2025-06",
+      "visits": 3521,
+      "downloads": 549
+    },
+    {
+      "month": "2025-07",
+      "visits": 3235,
+      "downloads": 521
+    },
+    {
+      "month": "2025-08",
+      "visits": 3224,
+      "downloads": 512
+    },
+    {
+      "month": "2025-09",
+      "visits": 4141,
+      "downloads": 1156
+    },
+    {
+      "month": "2025-10",
+      "visits": 5194,
+      "downloads": 1441
+    },
+    {
+      "month": "2025-11",
+      "visits": 5187,
+      "downloads": 1152
+    },
+    {
+      "month": "2025-12",
+      "visits": 320,
+      "downloads": 85
+    }
+  ],
+  "firstMonth": "2024-01",
+  "lastMonth": "2025-12"
+}

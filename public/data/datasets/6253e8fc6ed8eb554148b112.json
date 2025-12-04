@@ -1,0 +1,224 @@
+{
+  "id": "6253e8fc6ed8eb554148b112",
+  "title": " Disponibilité  en temps réel des vélos en libre-service Vélomagg de Montpellier",
+  "slug": "disponibilite-en-temps-reel-des-velos-en-libre-service-velomagg-de-montpellier",
+  "organization": "Montpellier Méditerranée Métropole",
+  "organizationId": "5847cb5cc751df5d58c0bb7e",
+  "url": "https://www.data.gouv.fr/datasets/disponibilite-en-temps-reel-des-velos-en-libre-service-velomagg-de-montpellier/",
+  "totalVisits": 28286,
+  "totalDownloads": 1893291,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 75,
+      "downloads": 4
+    },
+    {
+      "month": "2022-08",
+      "visits": 101,
+      "downloads": 13
+    },
+    {
+      "month": "2022-09",
+      "visits": 83,
+      "downloads": 10
+    },
+    {
+      "month": "2022-10",
+      "visits": 132,
+      "downloads": 12
+    },
+    {
+      "month": "2022-11",
+      "visits": 116,
+      "downloads": 8
+    },
+    {
+      "month": "2022-12",
+      "visits": 113,
+      "downloads": 13
+    },
+    {
+      "month": "2023-01",
+      "visits": 72,
+      "downloads": 165216
+    },
+    {
+      "month": "2023-02",
+      "visits": 72,
+      "downloads": 1719204
+    },
+    {
+      "month": "2023-03",
+      "visits": 78,
+      "downloads": 21
+    },
+    {
+      "month": "2023-04",
+      "visits": 60,
+      "downloads": 18
+    },
+    {
+      "month": "2023-05",
+      "visits": 65,
+      "downloads": 18
+    },
+    {
+      "month": "2023-06",
+      "visits": 153,
+      "downloads": 48
+    },
+    {
+      "month": "2023-07",
+      "visits": 121,
+      "downloads": 22
+    },
+    {
+      "month": "2023-08",
+      "visits": 106,
+      "downloads": 24
+    },
+    {
+      "month": "2023-09",
+      "visits": 139,
+      "downloads": 33
+    },
+    {
+      "month": "2023-10",
+      "visits": 112,
+      "downloads": 36
+    },
+    {
+      "month": "2023-11",
+      "visits": 106,
+      "downloads": 41
+    },
+    {
+      "month": "2023-12",
+      "visits": 345,
+      "downloads": 127
+    },
+    {
+      "month": "2024-01",
+      "visits": 1236,
+      "downloads": 454
+    },
+    {
+      "month": "2024-02",
+      "visits": 843,
+      "downloads": 339
+    },
+    {
+      "month": "2024-03",
+      "visits": 1208,
+      "downloads": 494
+    },
+    {
+      "month": "2024-04",
+      "visits": 698,
+      "downloads": 270
+    },
+    {
+      "month": "2024-05",
+      "visits": 482,
+      "downloads": 123
+    },
+    {
+      "month": "2024-06",
+      "visits": 557,
+      "downloads": 157
+    },
+    {
+      "month": "2024-07",
+      "visits": 421,
+      "downloads": 174
+    },
+    {
+      "month": "2024-08",
+      "visits": 346,
+      "downloads": 177
+    },
+    {
+      "month": "2024-09",
+      "visits": 675,
+      "downloads": 300
+    },
+    {
+      "month": "2024-10",
+      "visits": 1466,
+      "downloads": 448
+    },
+    {
+      "month": "2024-11",
+      "visits": 2052,
+      "downloads": 575
+    },
+    {
+      "month": "2024-12",
+      "visits": 1510,
+      "downloads": 439
+    },
+    {
+      "month": "2025-01",
+      "visits": 168,
+      "downloads": 110
+    },
+    {
+      "month": "2025-02",
+      "visits": 2394,
+      "downloads": 724
+    },
+    {
+      "month": "2025-03",
+      "visits": 1983,
+      "downloads": 601
+    },
+    {
+      "month": "2025-04",
+      "visits": 1404,
+      "downloads": 385
+    },
+    {
+      "month": "2025-05",
+      "visits": 1179,
+      "downloads": 409
+    },
+    {
+      "month": "2025-06",
+      "visits": 867,
+      "downloads": 281
+    },
+    {
+      "month": "2025-07",
+      "visits": 627,
+      "downloads": 242
+    },
+    {
+      "month": "2025-08",
+      "visits": 505,
+      "downloads": 192
+    },
+    {
+      "month": "2025-09",
+      "visits": 1107,
+      "downloads": 372
+    },
+    {
+      "month": "2025-10",
+      "visits": 1780,
+      "downloads": 470
+    },
+    {
+      "month": "2025-11",
+      "visits": 2536,
+      "downloads": 630
+    },
+    {
+      "month": "2025-12",
+      "visits": 193,
+      "downloads": 57
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

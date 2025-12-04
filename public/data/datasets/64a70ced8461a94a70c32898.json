@@ -1,0 +1,164 @@
+{
+  "id": "64a70ced8461a94a70c32898",
+  "title": "Données théoriques et temps-réel du réseau TIC (urbain) - Communauté d'Agglomération de la Région de Compiègne et de la Basse Automne",
+  "slug": "donnees-theoriques-et-temps-reel-du-reseau-tic-urbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne",
+  "organization": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+  "organizationId": "5e874ace3af8a02435889f1b",
+  "url": "https://www.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-tic-urbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne/",
+  "totalVisits": 4569,
+  "totalDownloads": 227856,
+  "monthlyStats": [
+    {
+      "month": "2023-07",
+      "visits": 39,
+      "downloads": 77
+    },
+    {
+      "month": "2023-08",
+      "visits": 52,
+      "downloads": 71
+    },
+    {
+      "month": "2023-09",
+      "visits": 63,
+      "downloads": 93
+    },
+    {
+      "month": "2023-10",
+      "visits": 48,
+      "downloads": 109
+    },
+    {
+      "month": "2023-11",
+      "visits": 77,
+      "downloads": 110
+    },
+    {
+      "month": "2023-12",
+      "visits": 90,
+      "downloads": 84
+    },
+    {
+      "month": "2024-01",
+      "visits": 335,
+      "downloads": 298
+    },
+    {
+      "month": "2024-02",
+      "visits": 351,
+      "downloads": 377
+    },
+    {
+      "month": "2024-03",
+      "visits": 351,
+      "downloads": 344
+    },
+    {
+      "month": "2024-04",
+      "visits": 111,
+      "downloads": 140
+    },
+    {
+      "month": "2024-05",
+      "visits": 100,
+      "downloads": 142
+    },
+    {
+      "month": "2024-06",
+      "visits": 127,
+      "downloads": 139
+    },
+    {
+      "month": "2024-07",
+      "visits": 147,
+      "downloads": 523
+    },
+    {
+      "month": "2024-08",
+      "visits": 123,
+      "downloads": 453
+    },
+    {
+      "month": "2024-09",
+      "visits": 99,
+      "downloads": 1187
+    },
+    {
+      "month": "2024-10",
+      "visits": 114,
+      "downloads": 2537
+    },
+    {
+      "month": "2024-11",
+      "visits": 199,
+      "downloads": 2412
+    },
+    {
+      "month": "2024-12",
+      "visits": 179,
+      "downloads": 2338
+    },
+    {
+      "month": "2025-01",
+      "visits": 120,
+      "downloads": 9343
+    },
+    {
+      "month": "2025-02",
+      "visits": 196,
+      "downloads": 9262
+    },
+    {
+      "month": "2025-03",
+      "visits": 203,
+      "downloads": 2456
+    },
+    {
+      "month": "2025-04",
+      "visits": 165,
+      "downloads": 11722
+    },
+    {
+      "month": "2025-05",
+      "visits": 205,
+      "downloads": 12105
+    },
+    {
+      "month": "2025-06",
+      "visits": 197,
+      "downloads": 10874
+    },
+    {
+      "month": "2025-07",
+      "visits": 176,
+      "downloads": 98204
+    },
+    {
+      "month": "2025-08",
+      "visits": 162,
+      "downloads": 50056
+    },
+    {
+      "month": "2025-09",
+      "visits": 158,
+      "downloads": 11320
+    },
+    {
+      "month": "2025-10",
+      "visits": 184,
+      "downloads": 451
+    },
+    {
+      "month": "2025-11",
+      "visits": 184,
+      "downloads": 563
+    },
+    {
+      "month": "2025-12",
+      "visits": 14,
+      "downloads": 66
+    }
+  ],
+  "firstMonth": "2023-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5acb75f0c751df341652c886",
+  "title": "GTFS du réseau des transports Bus et Tramway SETRAM circulant sur le territoire Le Mans Métropole",
+  "slug": "gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole",
+  "organization": "SETRAM",
+  "organizationId": "5acb71b4c751df234a194bdb",
+  "url": "https://www.data.gouv.fr/datasets/gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole/",
+  "totalVisits": 9137,
+  "totalDownloads": 143163,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 58,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 70,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 98,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 147,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 144,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 178,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 155,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 172,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 151,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 155,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 186,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 175,
+      "downloads": 252
+    },
+    {
+      "month": "2023-07",
+      "visits": 155,
+      "downloads": 2370
+    },
+    {
+      "month": "2023-08",
+      "visits": 254,
+      "downloads": 2401
+    },
+    {
+      "month": "2023-09",
+      "visits": 247,
+      "downloads": 5286
+    },
+    {
+      "month": "2023-10",
+      "visits": 223,
+      "downloads": 7226
+    },
+    {
+      "month": "2023-11",
+      "visits": 191,
+      "downloads": 3124
+    },
+    {
+      "month": "2023-12",
+      "visits": 222,
+      "downloads": 2343
+    },
+    {
+      "month": "2024-01",
+      "visits": 227,
+      "downloads": 2521
+    },
+    {
+      "month": "2024-02",
+      "visits": 210,
+      "downloads": 2250
+    },
+    {
+      "month": "2024-03",
+      "visits": 193,
+      "downloads": 2190
+    },
+    {
+      "month": "2024-04",
+      "visits": 190,
+      "downloads": 5677
+    },
+    {
+      "month": "2024-05",
+      "visits": 202,
+      "downloads": 3704
+    },
+    {
+      "month": "2024-06",
+      "visits": 222,
+      "downloads": 5234
+    },
+    {
+      "month": "2024-07",
+      "visits": 449,
+      "downloads": 4093
+    },
+    {
+      "month": "2024-08",
+      "visits": 241,
+      "downloads": 3598
+    },
+    {
+      "month": "2024-09",
+      "visits": 251,
+      "downloads": 3682
+    },
+    {
+      "month": "2024-10",
+      "visits": 270,
+      "downloads": 4147
+    },
+    {
+      "month": "2024-11",
+      "visits": 337,
+      "downloads": 7241
+    },
+    {
+      "month": "2024-12",
+      "visits": 221,
+      "downloads": 3980
+    },
+    {
+      "month": "2025-01",
+      "visits": 119,
+      "downloads": 7151
+    },
+    {
+      "month": "2025-02",
+      "visits": 244,
+      "downloads": 7441
+    },
+    {
+      "month": "2025-03",
+      "visits": 299,
+      "downloads": 4378
+    },
+    {
+      "month": "2025-04",
+      "visits": 297,
+      "downloads": 13354
+    },
+    {
+      "month": "2025-05",
+      "visits": 305,
+      "downloads": 13538
+    },
+    {
+      "month": "2025-06",
+      "visits": 404,
+      "downloads": 11302
+    },
+    {
+      "month": "2025-07",
+      "visits": 400,
+      "downloads": 210
+    },
+    {
+      "month": "2025-08",
+      "visits": 340,
+      "downloads": 140
+    },
+    {
+      "month": "2025-09",
+      "visits": 302,
+      "downloads": 1037
+    },
+    {
+      "month": "2025-10",
+      "visits": 218,
+      "downloads": 2087
+    },
+    {
+      "month": "2025-11",
+      "visits": 205,
+      "downloads": 11013
+    },
+    {
+      "month": "2025-12",
+      "visits": 10,
+      "downloads": 193
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

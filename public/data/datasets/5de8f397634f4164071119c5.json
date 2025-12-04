@@ -5,8 +5,8 @@
   "organization": "Institut national de la statistique et des études économiques (Insee)",
   "organizationId": "534fff81a3a7292c64a77e5c",
   "url": "https://www.data.gouv.fr/datasets/fichier-des-personnes-decedees/",
-  "totalVisits": 3077816,
-  "totalDownloads": 1158101,
+  "totalVisits": 3080689,
+  "totalDownloads": 1154646,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 52032,
-      "downloads": 21809
+      "downloads": 20553
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 87907,
-      "downloads": 38887
+      "downloads": 35577
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 2701,
-      "downloads": 891
+      "visits": 5574,
+      "downloads": 2002
     }
   ],
   "firstMonth": "2022-07",

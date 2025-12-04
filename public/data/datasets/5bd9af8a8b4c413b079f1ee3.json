@@ -1,0 +1,224 @@
+{
+  "id": "5bd9af8a8b4c413b079f1ee3",
+  "title": "Réseau urbain Le Vib",
+  "slug": "reseau-urbain-le-vib",
+  "organization": "Transdev Vierzon Mobilités • Le Vib",
+  "organizationId": "5bcf27078b4c4127749e259d",
+  "url": "https://www.data.gouv.fr/datasets/reseau-urbain-le-vib/",
+  "totalVisits": 118595,
+  "totalDownloads": 2872390,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 27,
+      "downloads": 4
+    },
+    {
+      "month": "2022-08",
+      "visits": 33,
+      "downloads": 9
+    },
+    {
+      "month": "2022-09",
+      "visits": 62,
+      "downloads": 4
+    },
+    {
+      "month": "2022-10",
+      "visits": 97,
+      "downloads": 12
+    },
+    {
+      "month": "2022-11",
+      "visits": 109,
+      "downloads": 10
+    },
+    {
+      "month": "2022-12",
+      "visits": 129,
+      "downloads": 16
+    },
+    {
+      "month": "2023-01",
+      "visits": 71,
+      "downloads": 4
+    },
+    {
+      "month": "2023-02",
+      "visits": 66,
+      "downloads": 3
+    },
+    {
+      "month": "2023-03",
+      "visits": 71,
+      "downloads": 6
+    },
+    {
+      "month": "2023-04",
+      "visits": 48,
+      "downloads": 3
+    },
+    {
+      "month": "2023-05",
+      "visits": 51,
+      "downloads": 55
+    },
+    {
+      "month": "2023-06",
+      "visits": 58,
+      "downloads": 13
+    },
+    {
+      "month": "2023-07",
+      "visits": 51,
+      "downloads": 39
+    },
+    {
+      "month": "2023-08",
+      "visits": 105,
+      "downloads": 83
+    },
+    {
+      "month": "2023-09",
+      "visits": 98,
+      "downloads": 87
+    },
+    {
+      "month": "2023-10",
+      "visits": 62,
+      "downloads": 109
+    },
+    {
+      "month": "2023-11",
+      "visits": 70,
+      "downloads": 75
+    },
+    {
+      "month": "2023-12",
+      "visits": 124,
+      "downloads": 48
+    },
+    {
+      "month": "2024-01",
+      "visits": 135,
+      "downloads": 42
+    },
+    {
+      "month": "2024-02",
+      "visits": 112,
+      "downloads": 42
+    },
+    {
+      "month": "2024-03",
+      "visits": 102,
+      "downloads": 95
+    },
+    {
+      "month": "2024-04",
+      "visits": 71,
+      "downloads": 47
+    },
+    {
+      "month": "2024-05",
+      "visits": 100,
+      "downloads": 57
+    },
+    {
+      "month": "2024-06",
+      "visits": 103,
+      "downloads": 47
+    },
+    {
+      "month": "2024-07",
+      "visits": 104,
+      "downloads": 106
+    },
+    {
+      "month": "2024-08",
+      "visits": 69,
+      "downloads": 50
+    },
+    {
+      "month": "2024-09",
+      "visits": 119,
+      "downloads": 347
+    },
+    {
+      "month": "2024-10",
+      "visits": 78,
+      "downloads": 217
+    },
+    {
+      "month": "2024-11",
+      "visits": 93,
+      "downloads": 567
+    },
+    {
+      "month": "2024-12",
+      "visits": 79,
+      "downloads": 1053
+    },
+    {
+      "month": "2025-01",
+      "visits": 32474,
+      "downloads": 10191
+    },
+    {
+      "month": "2025-02",
+      "visits": 13724,
+      "downloads": 4446
+    },
+    {
+      "month": "2025-03",
+      "visits": 93,
+      "downloads": 1979
+    },
+    {
+      "month": "2025-04",
+      "visits": 138,
+      "downloads": 15736
+    },
+    {
+      "month": "2025-05",
+      "visits": 84,
+      "downloads": 16153
+    },
+    {
+      "month": "2025-06",
+      "visits": 69035,
+      "downloads": 200462
+    },
+    {
+      "month": "2025-07",
+      "visits": 133,
+      "downloads": 531868
+    },
+    {
+      "month": "2025-08",
+      "visits": 73,
+      "downloads": 531332
+    },
+    {
+      "month": "2025-09",
+      "visits": 92,
+      "downloads": 514365
+    },
+    {
+      "month": "2025-10",
+      "visits": 125,
+      "downloads": 521328
+    },
+    {
+      "month": "2025-11",
+      "visits": 124,
+      "downloads": 487437
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 33843
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

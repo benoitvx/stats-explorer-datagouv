@@ -1,0 +1,214 @@
+{
+  "id": "632974ffdd082af417b65a89",
+  "title": "Location de vélos Vélo'Baie",
+  "slug": "location-de-velos-velobaie",
+  "organization": "Saint-Brieuc Armor Agglomération",
+  "organizationId": "5acb2f2088ee3813a476714d",
+  "url": "https://www.data.gouv.fr/datasets/location-de-velos-velobaie/",
+  "totalVisits": 3141,
+  "totalDownloads": 724057,
+  "monthlyStats": [
+    {
+      "month": "2022-09",
+      "visits": 127,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 86,
+      "downloads": 3
+    },
+    {
+      "month": "2022-11",
+      "visits": 70,
+      "downloads": 31
+    },
+    {
+      "month": "2022-12",
+      "visits": 88,
+      "downloads": 67
+    },
+    {
+      "month": "2023-01",
+      "visits": 49,
+      "downloads": 13976
+    },
+    {
+      "month": "2023-02",
+      "visits": 35,
+      "downloads": 15830
+    },
+    {
+      "month": "2023-03",
+      "visits": 48,
+      "downloads": 17807
+    },
+    {
+      "month": "2023-04",
+      "visits": 42,
+      "downloads": 17205
+    },
+    {
+      "month": "2023-05",
+      "visits": 43,
+      "downloads": 17360
+    },
+    {
+      "month": "2023-06",
+      "visits": 29,
+      "downloads": 17318
+    },
+    {
+      "month": "2023-07",
+      "visits": 47,
+      "downloads": 17848
+    },
+    {
+      "month": "2023-08",
+      "visits": 63,
+      "downloads": 17988
+    },
+    {
+      "month": "2023-09",
+      "visits": 104,
+      "downloads": 17351
+    },
+    {
+      "month": "2023-10",
+      "visits": 82,
+      "downloads": 19106
+    },
+    {
+      "month": "2023-11",
+      "visits": 88,
+      "downloads": 16441
+    },
+    {
+      "month": "2023-12",
+      "visits": 129,
+      "downloads": 16661
+    },
+    {
+      "month": "2024-01",
+      "visits": 113,
+      "downloads": 9446
+    },
+    {
+      "month": "2024-02",
+      "visits": 108,
+      "downloads": 7291
+    },
+    {
+      "month": "2024-03",
+      "visits": 101,
+      "downloads": 8560
+    },
+    {
+      "month": "2024-04",
+      "visits": 64,
+      "downloads": 7640
+    },
+    {
+      "month": "2024-05",
+      "visits": 100,
+      "downloads": 7779
+    },
+    {
+      "month": "2024-06",
+      "visits": 86,
+      "downloads": 9450
+    },
+    {
+      "month": "2024-07",
+      "visits": 109,
+      "downloads": 27968
+    },
+    {
+      "month": "2024-08",
+      "visits": 63,
+      "downloads": 32991
+    },
+    {
+      "month": "2024-09",
+      "visits": 60,
+      "downloads": 28491
+    },
+    {
+      "month": "2024-10",
+      "visits": 52,
+      "downloads": 31441
+    },
+    {
+      "month": "2024-11",
+      "visits": 91,
+      "downloads": 29542
+    },
+    {
+      "month": "2024-12",
+      "visits": 77,
+      "downloads": 28932
+    },
+    {
+      "month": "2025-01",
+      "visits": 76,
+      "downloads": 29897
+    },
+    {
+      "month": "2025-02",
+      "visits": 99,
+      "downloads": 27080
+    },
+    {
+      "month": "2025-03",
+      "visits": 91,
+      "downloads": 41598
+    },
+    {
+      "month": "2025-04",
+      "visits": 114,
+      "downloads": 59566
+    },
+    {
+      "month": "2025-05",
+      "visits": 83,
+      "downloads": 59814
+    },
+    {
+      "month": "2025-06",
+      "visits": 98,
+      "downloads": 55173
+    },
+    {
+      "month": "2025-07",
+      "visits": 102,
+      "downloads": 14094
+    },
+    {
+      "month": "2025-08",
+      "visits": 80,
+      "downloads": 306
+    },
+    {
+      "month": "2025-09",
+      "visits": 82,
+      "downloads": 410
+    },
+    {
+      "month": "2025-10",
+      "visits": 83,
+      "downloads": 1238
+    },
+    {
+      "month": "2025-11",
+      "visits": 76,
+      "downloads": 329
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 29
+    }
+  ],
+  "firstMonth": "2022-09",
+  "lastMonth": "2025-12"
+}

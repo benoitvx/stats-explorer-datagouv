@@ -1,0 +1,224 @@
+{
+  "id": "5c0933e88b4c4177a394acd1",
+  "title": "Données TCAT Troyes Champagne Métropole",
+  "slug": "donnees-tcat-troyes-champagne-metropole-1",
+  "organization": "TCAT - Transports en Commun de l'Agglomération Troyenne",
+  "organizationId": "5c0932458b4c4175cacf2f77",
+  "url": "https://www.data.gouv.fr/datasets/donnees-tcat-troyes-champagne-metropole-1/",
+  "totalVisits": 5346,
+  "totalDownloads": 25096715,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 36,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 53,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 116,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 180,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 137,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 154,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 91,
+      "downloads": 2
+    },
+    {
+      "month": "2023-02",
+      "visits": 107,
+      "downloads": 3
+    },
+    {
+      "month": "2023-03",
+      "visits": 119,
+      "downloads": 2
+    },
+    {
+      "month": "2023-04",
+      "visits": 102,
+      "downloads": 741
+    },
+    {
+      "month": "2023-05",
+      "visits": 83,
+      "downloads": 3279
+    },
+    {
+      "month": "2023-06",
+      "visits": 112,
+      "downloads": 3428
+    },
+    {
+      "month": "2023-07",
+      "visits": 118,
+      "downloads": 4715
+    },
+    {
+      "month": "2023-08",
+      "visits": 124,
+      "downloads": 3523
+    },
+    {
+      "month": "2023-09",
+      "visits": 128,
+      "downloads": 4246
+    },
+    {
+      "month": "2023-10",
+      "visits": 109,
+      "downloads": 4940
+    },
+    {
+      "month": "2023-11",
+      "visits": 111,
+      "downloads": 4061
+    },
+    {
+      "month": "2023-12",
+      "visits": 182,
+      "downloads": 3983
+    },
+    {
+      "month": "2024-01",
+      "visits": 196,
+      "downloads": 435185
+    },
+    {
+      "month": "2024-02",
+      "visits": 160,
+      "downloads": 663846
+    },
+    {
+      "month": "2024-03",
+      "visits": 129,
+      "downloads": 667746
+    },
+    {
+      "month": "2024-04",
+      "visits": 127,
+      "downloads": 577731
+    },
+    {
+      "month": "2024-05",
+      "visits": 147,
+      "downloads": 574356
+    },
+    {
+      "month": "2024-06",
+      "visits": 199,
+      "downloads": 565760
+    },
+    {
+      "month": "2024-07",
+      "visits": 166,
+      "downloads": 608494
+    },
+    {
+      "month": "2024-08",
+      "visits": 110,
+      "downloads": 755758
+    },
+    {
+      "month": "2024-09",
+      "visits": 103,
+      "downloads": 522051
+    },
+    {
+      "month": "2024-10",
+      "visits": 108,
+      "downloads": 654869
+    },
+    {
+      "month": "2024-11",
+      "visits": 161,
+      "downloads": 542578
+    },
+    {
+      "month": "2024-12",
+      "visits": 117,
+      "downloads": 710037
+    },
+    {
+      "month": "2025-01",
+      "visits": 79,
+      "downloads": 826377
+    },
+    {
+      "month": "2025-02",
+      "visits": 109,
+      "downloads": 791964
+    },
+    {
+      "month": "2025-03",
+      "visits": 109,
+      "downloads": 713991
+    },
+    {
+      "month": "2025-04",
+      "visits": 151,
+      "downloads": 921666
+    },
+    {
+      "month": "2025-05",
+      "visits": 203,
+      "downloads": 936578
+    },
+    {
+      "month": "2025-06",
+      "visits": 246,
+      "downloads": 831530
+    },
+    {
+      "month": "2025-07",
+      "visits": 166,
+      "downloads": 948587
+    },
+    {
+      "month": "2025-08",
+      "visits": 220,
+      "downloads": 2498672
+    },
+    {
+      "month": "2025-09",
+      "visits": 98,
+      "downloads": 3266395
+    },
+    {
+      "month": "2025-10",
+      "visits": 83,
+      "downloads": 3149606
+    },
+    {
+      "month": "2025-11",
+      "visits": 93,
+      "downloads": 2736862
+    },
+    {
+      "month": "2025-12",
+      "visits": 4,
+      "downloads": 163153
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

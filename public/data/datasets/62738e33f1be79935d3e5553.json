@@ -1,0 +1,224 @@
+{
+  "id": "62738e33f1be79935d3e5553",
+  "title": "Historique des positions courtes nettes sur actions rendues publiques depuis le 1er Novembre 2012",
+  "slug": "historique-des-positions-courtes-nettes-sur-actions-rendues-publiques-depuis-le-1er-novembre-2012",
+  "organization": "Autorité des marchés financiers",
+  "organizationId": "56507a53c751df6679aad370",
+  "url": "https://www.data.gouv.fr/datasets/historique-des-positions-courtes-nettes-sur-actions-rendues-publiques-depuis-le-1er-novembre-2012/",
+  "totalVisits": 19244,
+  "totalDownloads": 1188617,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 55,
+      "downloads": 282
+    },
+    {
+      "month": "2022-08",
+      "visits": 146,
+      "downloads": 565
+    },
+    {
+      "month": "2022-09",
+      "visits": 317,
+      "downloads": 705
+    },
+    {
+      "month": "2022-10",
+      "visits": 486,
+      "downloads": 1391
+    },
+    {
+      "month": "2022-11",
+      "visits": 635,
+      "downloads": 1466
+    },
+    {
+      "month": "2022-12",
+      "visits": 287,
+      "downloads": 1204
+    },
+    {
+      "month": "2023-01",
+      "visits": 383,
+      "downloads": 1203
+    },
+    {
+      "month": "2023-02",
+      "visits": 399,
+      "downloads": 1209
+    },
+    {
+      "month": "2023-03",
+      "visits": 397,
+      "downloads": 1459
+    },
+    {
+      "month": "2023-04",
+      "visits": 298,
+      "downloads": 1291
+    },
+    {
+      "month": "2023-05",
+      "visits": 291,
+      "downloads": 1811
+    },
+    {
+      "month": "2023-06",
+      "visits": 287,
+      "downloads": 2476
+    },
+    {
+      "month": "2023-07",
+      "visits": 313,
+      "downloads": 2593
+    },
+    {
+      "month": "2023-08",
+      "visits": 364,
+      "downloads": 3467
+    },
+    {
+      "month": "2023-09",
+      "visits": 405,
+      "downloads": 4184
+    },
+    {
+      "month": "2023-10",
+      "visits": 444,
+      "downloads": 7145
+    },
+    {
+      "month": "2023-11",
+      "visits": 625,
+      "downloads": 9868
+    },
+    {
+      "month": "2023-12",
+      "visits": 553,
+      "downloads": 10082
+    },
+    {
+      "month": "2024-01",
+      "visits": 592,
+      "downloads": 29377
+    },
+    {
+      "month": "2024-02",
+      "visits": 593,
+      "downloads": 46980
+    },
+    {
+      "month": "2024-03",
+      "visits": 656,
+      "downloads": 49303
+    },
+    {
+      "month": "2024-04",
+      "visits": 548,
+      "downloads": 46597
+    },
+    {
+      "month": "2024-05",
+      "visits": 453,
+      "downloads": 50392
+    },
+    {
+      "month": "2024-06",
+      "visits": 509,
+      "downloads": 45030
+    },
+    {
+      "month": "2024-07",
+      "visits": 434,
+      "downloads": 51327
+    },
+    {
+      "month": "2024-08",
+      "visits": 340,
+      "downloads": 48112
+    },
+    {
+      "month": "2024-09",
+      "visits": 422,
+      "downloads": 45251
+    },
+    {
+      "month": "2024-10",
+      "visits": 404,
+      "downloads": 47851
+    },
+    {
+      "month": "2024-11",
+      "visits": 475,
+      "downloads": 45388
+    },
+    {
+      "month": "2024-12",
+      "visits": 350,
+      "downloads": 45417
+    },
+    {
+      "month": "2025-01",
+      "visits": 114,
+      "downloads": 49362
+    },
+    {
+      "month": "2025-02",
+      "visits": 497,
+      "downloads": 46204
+    },
+    {
+      "month": "2025-03",
+      "visits": 746,
+      "downloads": 50211
+    },
+    {
+      "month": "2025-04",
+      "visits": 584,
+      "downloads": 53294
+    },
+    {
+      "month": "2025-05",
+      "visits": 535,
+      "downloads": 56175
+    },
+    {
+      "month": "2025-06",
+      "visits": 604,
+      "downloads": 52989
+    },
+    {
+      "month": "2025-07",
+      "visits": 526,
+      "downloads": 59428
+    },
+    {
+      "month": "2025-08",
+      "visits": 687,
+      "downloads": 57874
+    },
+    {
+      "month": "2025-09",
+      "visits": 619,
+      "downloads": 64171
+    },
+    {
+      "month": "2025-10",
+      "visits": 737,
+      "downloads": 41040
+    },
+    {
+      "month": "2025-11",
+      "visits": 1058,
+      "downloads": 51721
+    },
+    {
+      "month": "2025-12",
+      "visits": 76,
+      "downloads": 2722
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "662ba9a3f7d9ff84a3060d0a",
+  "title": "Offre de transport TAM en temps réel - GTFS-RT (urbain)",
+  "slug": "offre-de-transport-tam-en-temps-reel-gtfs-rt-urbain",
+  "organization": "Montpellier Méditerranée Métropole",
+  "organizationId": "5847cb5cc751df5d58c0bb7e",
+  "url": "https://www.data.gouv.fr/datasets/offre-de-transport-tam-en-temps-reel-gtfs-rt-urbain/",
+  "totalVisits": 2650,
+  "totalDownloads": 412092,
+  "monthlyStats": [
+    {
+      "month": "2024-04",
+      "visits": 373,
+      "downloads": 64
+    },
+    {
+      "month": "2024-05",
+      "visits": 148,
+      "downloads": 71
+    },
+    {
+      "month": "2024-06",
+      "visits": 101,
+      "downloads": 118
+    },
+    {
+      "month": "2024-07",
+      "visits": 92,
+      "downloads": 231
+    },
+    {
+      "month": "2024-08",
+      "visits": 74,
+      "downloads": 14037
+    },
+    {
+      "month": "2024-09",
+      "visits": 54,
+      "downloads": 78439
+    },
+    {
+      "month": "2024-10",
+      "visits": 74,
+      "downloads": 247
+    },
+    {
+      "month": "2024-11",
+      "visits": 126,
+      "downloads": 268
+    },
+    {
+      "month": "2024-12",
+      "visits": 88,
+      "downloads": 249
+    },
+    {
+      "month": "2025-01",
+      "visits": 80,
+      "downloads": 9158
+    },
+    {
+      "month": "2025-02",
+      "visits": 113,
+      "downloads": 3405
+    },
+    {
+      "month": "2025-03",
+      "visits": 114,
+      "downloads": 17604
+    },
+    {
+      "month": "2025-04",
+      "visits": 182,
+      "downloads": 55878
+    },
+    {
+      "month": "2025-05",
+      "visits": 111,
+      "downloads": 52111
+    },
+    {
+      "month": "2025-06",
+      "visits": 167,
+      "downloads": 49669
+    },
+    {
+      "month": "2025-07",
+      "visits": 193,
+      "downloads": 51713
+    },
+    {
+      "month": "2025-08",
+      "visits": 102,
+      "downloads": 19032
+    },
+    {
+      "month": "2025-09",
+      "visits": 155,
+      "downloads": 27220
+    },
+    {
+      "month": "2025-10",
+      "visits": 166,
+      "downloads": 16276
+    },
+    {
+      "month": "2025-11",
+      "visits": 134,
+      "downloads": 15221
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 1081
+    }
+  ],
+  "firstMonth": "2024-04",
+  "lastMonth": "2025-12"
+}

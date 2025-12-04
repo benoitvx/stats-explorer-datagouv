@@ -1,0 +1,224 @@
+{
+  "id": "53699fe4a3a729239d206227",
+  "title": "Service-public.gouv.fr - Annuaire de l’administration - Base de données locales",
+  "slug": "service-public-gouv-fr-annuaire-de-ladministration-base-de-donnees-locales",
+  "organization": "Premier ministre",
+  "organizationId": "534fffa5a3a7292c64a7809e",
+  "url": "https://www.data.gouv.fr/datasets/service-public-gouv-fr-annuaire-de-ladministration-base-de-donnees-locales/",
+  "totalVisits": 119520,
+  "totalDownloads": 55167,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1234,
+      "downloads": 879
+    },
+    {
+      "month": "2022-08",
+      "visits": 2041,
+      "downloads": 1559
+    },
+    {
+      "month": "2022-09",
+      "visits": 2661,
+      "downloads": 1950
+    },
+    {
+      "month": "2022-10",
+      "visits": 2936,
+      "downloads": 1696
+    },
+    {
+      "month": "2022-11",
+      "visits": 3065,
+      "downloads": 2031
+    },
+    {
+      "month": "2022-12",
+      "visits": 2143,
+      "downloads": 1390
+    },
+    {
+      "month": "2023-01",
+      "visits": 2870,
+      "downloads": 1235
+    },
+    {
+      "month": "2023-02",
+      "visits": 2567,
+      "downloads": 1004
+    },
+    {
+      "month": "2023-03",
+      "visits": 3404,
+      "downloads": 1517
+    },
+    {
+      "month": "2023-04",
+      "visits": 2685,
+      "downloads": 1268
+    },
+    {
+      "month": "2023-05",
+      "visits": 2756,
+      "downloads": 1181
+    },
+    {
+      "month": "2023-06",
+      "visits": 2798,
+      "downloads": 1210
+    },
+    {
+      "month": "2023-07",
+      "visits": 2642,
+      "downloads": 1225
+    },
+    {
+      "month": "2023-08",
+      "visits": 2134,
+      "downloads": 971
+    },
+    {
+      "month": "2023-09",
+      "visits": 3141,
+      "downloads": 1250
+    },
+    {
+      "month": "2023-10",
+      "visits": 2878,
+      "downloads": 1433
+    },
+    {
+      "month": "2023-11",
+      "visits": 2912,
+      "downloads": 2427
+    },
+    {
+      "month": "2023-12",
+      "visits": 2559,
+      "downloads": 1151
+    },
+    {
+      "month": "2024-01",
+      "visits": 4063,
+      "downloads": 1039
+    },
+    {
+      "month": "2024-02",
+      "visits": 3000,
+      "downloads": 1015
+    },
+    {
+      "month": "2024-03",
+      "visits": 2848,
+      "downloads": 1168
+    },
+    {
+      "month": "2024-04",
+      "visits": 2387,
+      "downloads": 890
+    },
+    {
+      "month": "2024-05",
+      "visits": 2545,
+      "downloads": 1026
+    },
+    {
+      "month": "2024-06",
+      "visits": 2856,
+      "downloads": 1179
+    },
+    {
+      "month": "2024-07",
+      "visits": 3209,
+      "downloads": 1169
+    },
+    {
+      "month": "2024-08",
+      "visits": 2535,
+      "downloads": 881
+    },
+    {
+      "month": "2024-09",
+      "visits": 3888,
+      "downloads": 1186
+    },
+    {
+      "month": "2024-10",
+      "visits": 4298,
+      "downloads": 1138
+    },
+    {
+      "month": "2024-11",
+      "visits": 4344,
+      "downloads": 986
+    },
+    {
+      "month": "2024-12",
+      "visits": 2759,
+      "downloads": 830
+    },
+    {
+      "month": "2025-01",
+      "visits": 1036,
+      "downloads": 475
+    },
+    {
+      "month": "2025-02",
+      "visits": 3937,
+      "downloads": 1144
+    },
+    {
+      "month": "2025-03",
+      "visits": 4172,
+      "downloads": 1147
+    },
+    {
+      "month": "2025-04",
+      "visits": 5549,
+      "downloads": 3474
+    },
+    {
+      "month": "2025-05",
+      "visits": 4586,
+      "downloads": 2155
+    },
+    {
+      "month": "2025-06",
+      "visits": 4376,
+      "downloads": 1233
+    },
+    {
+      "month": "2025-07",
+      "visits": 339,
+      "downloads": 1599
+    },
+    {
+      "month": "2025-08",
+      "visits": 232,
+      "downloads": 1139
+    },
+    {
+      "month": "2025-09",
+      "visits": 3089,
+      "downloads": 1578
+    },
+    {
+      "month": "2025-10",
+      "visits": 3038,
+      "downloads": 1781
+    },
+    {
+      "month": "2025-11",
+      "visits": 2905,
+      "downloads": 1504
+    },
+    {
+      "month": "2025-12",
+      "visits": 103,
+      "downloads": 54
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

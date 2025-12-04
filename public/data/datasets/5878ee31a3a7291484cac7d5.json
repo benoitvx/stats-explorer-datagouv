@@ -1,0 +1,224 @@
+{
+  "id": "5878ee31a3a7291484cac7d5",
+  "title": "Comptes, agenda et bilans de l'association LiberTIC",
+  "slug": "comptes-agenda-et-bilans-de-lassociation-libertic",
+  "organization": "NosDonnées.fr",
+  "organizationId": "534fff99a3a7292c64a78016",
+  "url": "https://www.data.gouv.fr/datasets/comptes-agenda-et-bilans-de-lassociation-libertic/",
+  "totalVisits": 454725,
+  "totalDownloads": 299,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 107,
+      "downloads": 2
+    },
+    {
+      "month": "2022-08",
+      "visits": 103,
+      "downloads": 3
+    },
+    {
+      "month": "2022-09",
+      "visits": 107,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 121,
+      "downloads": 2
+    },
+    {
+      "month": "2022-11",
+      "visits": 145,
+      "downloads": 2
+    },
+    {
+      "month": "2022-12",
+      "visits": 123,
+      "downloads": 7
+    },
+    {
+      "month": "2023-01",
+      "visits": 102,
+      "downloads": 1
+    },
+    {
+      "month": "2023-02",
+      "visits": 110,
+      "downloads": 3
+    },
+    {
+      "month": "2023-03",
+      "visits": 278,
+      "downloads": 2
+    },
+    {
+      "month": "2023-04",
+      "visits": 1627,
+      "downloads": 1
+    },
+    {
+      "month": "2023-05",
+      "visits": 492,
+      "downloads": 5
+    },
+    {
+      "month": "2023-06",
+      "visits": 384,
+      "downloads": 2
+    },
+    {
+      "month": "2023-07",
+      "visits": 987,
+      "downloads": 2
+    },
+    {
+      "month": "2023-08",
+      "visits": 642,
+      "downloads": 14
+    },
+    {
+      "month": "2023-09",
+      "visits": 557,
+      "downloads": 9
+    },
+    {
+      "month": "2023-10",
+      "visits": 1188,
+      "downloads": 11
+    },
+    {
+      "month": "2023-11",
+      "visits": 1628,
+      "downloads": 7
+    },
+    {
+      "month": "2023-12",
+      "visits": 406,
+      "downloads": 7
+    },
+    {
+      "month": "2024-01",
+      "visits": 543,
+      "downloads": 2
+    },
+    {
+      "month": "2024-02",
+      "visits": 1076,
+      "downloads": 8
+    },
+    {
+      "month": "2024-03",
+      "visits": 884,
+      "downloads": 3
+    },
+    {
+      "month": "2024-04",
+      "visits": 4809,
+      "downloads": 8
+    },
+    {
+      "month": "2024-05",
+      "visits": 8914,
+      "downloads": 4
+    },
+    {
+      "month": "2024-06",
+      "visits": 21953,
+      "downloads": 4
+    },
+    {
+      "month": "2024-07",
+      "visits": 57826,
+      "downloads": 13
+    },
+    {
+      "month": "2024-08",
+      "visits": 54612,
+      "downloads": 20
+    },
+    {
+      "month": "2024-09",
+      "visits": 22289,
+      "downloads": 27
+    },
+    {
+      "month": "2024-10",
+      "visits": 18700,
+      "downloads": 8
+    },
+    {
+      "month": "2024-11",
+      "visits": 23011,
+      "downloads": 9
+    },
+    {
+      "month": "2024-12",
+      "visits": 9314,
+      "downloads": 5
+    },
+    {
+      "month": "2025-01",
+      "visits": 91,
+      "downloads": 9
+    },
+    {
+      "month": "2025-02",
+      "visits": 11440,
+      "downloads": 17
+    },
+    {
+      "month": "2025-03",
+      "visits": 18245,
+      "downloads": 16
+    },
+    {
+      "month": "2025-04",
+      "visits": 65696,
+      "downloads": 14
+    },
+    {
+      "month": "2025-05",
+      "visits": 81398,
+      "downloads": 20
+    },
+    {
+      "month": "2025-06",
+      "visits": 28961,
+      "downloads": 3
+    },
+    {
+      "month": "2025-07",
+      "visits": 5982,
+      "downloads": 5
+    },
+    {
+      "month": "2025-08",
+      "visits": 490,
+      "downloads": 1
+    },
+    {
+      "month": "2025-09",
+      "visits": 1128,
+      "downloads": 13
+    },
+    {
+      "month": "2025-10",
+      "visits": 5465,
+      "downloads": 2
+    },
+    {
+      "month": "2025-11",
+      "visits": 2788,
+      "downloads": 8
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5fa9901d7094eadce61963ea",
+  "title": "75 ans et plus : indicateurs de vieillissement par département",
+  "slug": "75-ans-et-plus-indicateurs-de-vieillissement-par-departement",
+  "organization": "Caisse des Dépôts",
+  "organizationId": "5fa985066333fad0e735c985",
+  "url": "https://www.data.gouv.fr/datasets/75-ans-et-plus-indicateurs-de-vieillissement-par-departement/",
+  "totalVisits": 4825,
+  "totalDownloads": 2663,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 24,
+      "downloads": 41
+    },
+    {
+      "month": "2022-08",
+      "visits": 27,
+      "downloads": 62
+    },
+    {
+      "month": "2022-09",
+      "visits": 42,
+      "downloads": 50
+    },
+    {
+      "month": "2022-10",
+      "visits": 96,
+      "downloads": 68
+    },
+    {
+      "month": "2022-11",
+      "visits": 71,
+      "downloads": 106
+    },
+    {
+      "month": "2022-12",
+      "visits": 90,
+      "downloads": 133
+    },
+    {
+      "month": "2023-01",
+      "visits": 59,
+      "downloads": 99
+    },
+    {
+      "month": "2023-02",
+      "visits": 64,
+      "downloads": 58
+    },
+    {
+      "month": "2023-03",
+      "visits": 76,
+      "downloads": 130
+    },
+    {
+      "month": "2023-04",
+      "visits": 68,
+      "downloads": 91
+    },
+    {
+      "month": "2023-05",
+      "visits": 77,
+      "downloads": 91
+    },
+    {
+      "month": "2023-06",
+      "visits": 82,
+      "downloads": 77
+    },
+    {
+      "month": "2023-07",
+      "visits": 107,
+      "downloads": 43
+    },
+    {
+      "month": "2023-08",
+      "visits": 81,
+      "downloads": 62
+    },
+    {
+      "month": "2023-09",
+      "visits": 82,
+      "downloads": 106
+    },
+    {
+      "month": "2023-10",
+      "visits": 80,
+      "downloads": 113
+    },
+    {
+      "month": "2023-11",
+      "visits": 82,
+      "downloads": 80
+    },
+    {
+      "month": "2023-12",
+      "visits": 123,
+      "downloads": 77
+    },
+    {
+      "month": "2024-01",
+      "visits": 97,
+      "downloads": 43
+    },
+    {
+      "month": "2024-02",
+      "visits": 86,
+      "downloads": 38
+    },
+    {
+      "month": "2024-03",
+      "visits": 64,
+      "downloads": 50
+    },
+    {
+      "month": "2024-04",
+      "visits": 67,
+      "downloads": 45
+    },
+    {
+      "month": "2024-05",
+      "visits": 93,
+      "downloads": 31
+    },
+    {
+      "month": "2024-06",
+      "visits": 83,
+      "downloads": 39
+    },
+    {
+      "month": "2024-07",
+      "visits": 77,
+      "downloads": 51
+    },
+    {
+      "month": "2024-08",
+      "visits": 92,
+      "downloads": 92
+    },
+    {
+      "month": "2024-09",
+      "visits": 100,
+      "downloads": 64
+    },
+    {
+      "month": "2024-10",
+      "visits": 109,
+      "downloads": 52
+    },
+    {
+      "month": "2024-11",
+      "visits": 134,
+      "downloads": 62
+    },
+    {
+      "month": "2024-12",
+      "visits": 112,
+      "downloads": 27
+    },
+    {
+      "month": "2025-01",
+      "visits": 36,
+      "downloads": 36
+    },
+    {
+      "month": "2025-02",
+      "visits": 140,
+      "downloads": 97
+    },
+    {
+      "month": "2025-03",
+      "visits": 174,
+      "downloads": 24
+    },
+    {
+      "month": "2025-04",
+      "visits": 122,
+      "downloads": 59
+    },
+    {
+      "month": "2025-05",
+      "visits": 240,
+      "downloads": 106
+    },
+    {
+      "month": "2025-06",
+      "visits": 306,
+      "downloads": 63
+    },
+    {
+      "month": "2025-07",
+      "visits": 166,
+      "downloads": 53
+    },
+    {
+      "month": "2025-08",
+      "visits": 192,
+      "downloads": 26
+    },
+    {
+      "month": "2025-09",
+      "visits": 146,
+      "downloads": 31
+    },
+    {
+      "month": "2025-10",
+      "visits": 232,
+      "downloads": 18
+    },
+    {
+      "month": "2025-11",
+      "visits": 347,
+      "downloads": 65
+    },
+    {
+      "month": "2025-12",
+      "visits": 279,
+      "downloads": 4
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

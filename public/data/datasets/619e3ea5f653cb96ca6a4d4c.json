@@ -1,0 +1,224 @@
+{
+  "id": "619e3ea5f653cb96ca6a4d4c",
+  "title": "Liste des auto-écoles et taux de reussite au permis de conduire",
+  "slug": "liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire/",
+  "totalVisits": 69295,
+  "totalDownloads": 14549,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 4,
+      "downloads": 86
+    },
+    {
+      "month": "2022-08",
+      "visits": 5,
+      "downloads": 217
+    },
+    {
+      "month": "2022-09",
+      "visits": 2,
+      "downloads": 282
+    },
+    {
+      "month": "2022-10",
+      "visits": 11,
+      "downloads": 199
+    },
+    {
+      "month": "2022-11",
+      "visits": 13,
+      "downloads": 228
+    },
+    {
+      "month": "2022-12",
+      "visits": 8,
+      "downloads": 357
+    },
+    {
+      "month": "2023-01",
+      "visits": 11,
+      "downloads": 264
+    },
+    {
+      "month": "2023-02",
+      "visits": 812,
+      "downloads": 262
+    },
+    {
+      "month": "2023-03",
+      "visits": 1188,
+      "downloads": 339
+    },
+    {
+      "month": "2023-04",
+      "visits": 1191,
+      "downloads": 327
+    },
+    {
+      "month": "2023-05",
+      "visits": 1033,
+      "downloads": 262
+    },
+    {
+      "month": "2023-06",
+      "visits": 1346,
+      "downloads": 255
+    },
+    {
+      "month": "2023-07",
+      "visits": 1164,
+      "downloads": 190
+    },
+    {
+      "month": "2023-08",
+      "visits": 1212,
+      "downloads": 225
+    },
+    {
+      "month": "2023-09",
+      "visits": 1440,
+      "downloads": 228
+    },
+    {
+      "month": "2023-10",
+      "visits": 1431,
+      "downloads": 277
+    },
+    {
+      "month": "2023-11",
+      "visits": 1457,
+      "downloads": 281
+    },
+    {
+      "month": "2023-12",
+      "visits": 1486,
+      "downloads": 256
+    },
+    {
+      "month": "2024-01",
+      "visits": 2108,
+      "downloads": 419
+    },
+    {
+      "month": "2024-02",
+      "visits": 2077,
+      "downloads": 354
+    },
+    {
+      "month": "2024-03",
+      "visits": 1906,
+      "downloads": 358
+    },
+    {
+      "month": "2024-04",
+      "visits": 1840,
+      "downloads": 300
+    },
+    {
+      "month": "2024-05",
+      "visits": 1717,
+      "downloads": 258
+    },
+    {
+      "month": "2024-06",
+      "visits": 1649,
+      "downloads": 219
+    },
+    {
+      "month": "2024-07",
+      "visits": 1998,
+      "downloads": 264
+    },
+    {
+      "month": "2024-08",
+      "visits": 1825,
+      "downloads": 306
+    },
+    {
+      "month": "2024-09",
+      "visits": 1989,
+      "downloads": 330
+    },
+    {
+      "month": "2024-10",
+      "visits": 2040,
+      "downloads": 282
+    },
+    {
+      "month": "2024-11",
+      "visits": 2169,
+      "downloads": 228
+    },
+    {
+      "month": "2024-12",
+      "visits": 1334,
+      "downloads": 102
+    },
+    {
+      "month": "2025-01",
+      "visits": 233,
+      "downloads": 9
+    },
+    {
+      "month": "2025-02",
+      "visits": 2110,
+      "downloads": 263
+    },
+    {
+      "month": "2025-03",
+      "visits": 2881,
+      "downloads": 304
+    },
+    {
+      "month": "2025-04",
+      "visits": 3514,
+      "downloads": 290
+    },
+    {
+      "month": "2025-05",
+      "visits": 3293,
+      "downloads": 288
+    },
+    {
+      "month": "2025-06",
+      "visits": 2368,
+      "downloads": 252
+    },
+    {
+      "month": "2025-07",
+      "visits": 2410,
+      "downloads": 576
+    },
+    {
+      "month": "2025-08",
+      "visits": 2807,
+      "downloads": 819
+    },
+    {
+      "month": "2025-09",
+      "visits": 3531,
+      "downloads": 1081
+    },
+    {
+      "month": "2025-10",
+      "visits": 5333,
+      "downloads": 1437
+    },
+    {
+      "month": "2025-11",
+      "visits": 4080,
+      "downloads": 1166
+    },
+    {
+      "month": "2025-12",
+      "visits": 269,
+      "downloads": 109
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5bc0d6e5634f4142b4581861",
+  "title": "Inventaire des codes sources de logiciels publiés par des organismes publics ",
+  "slug": "inventaire-des-codes-sources-de-logiciels-publies-par-des-organismes-publics",
+  "organization": "Direction interministérielle du numérique",
+  "organizationId": "57fe2a35c751df21e179df72",
+  "url": "https://www.data.gouv.fr/datasets/inventaire-des-codes-sources-de-logiciels-publies-par-des-organismes-publics/",
+  "totalVisits": 45296,
+  "totalDownloads": 4348,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 78,
+      "downloads": 34
+    },
+    {
+      "month": "2022-08",
+      "visits": 74,
+      "downloads": 47
+    },
+    {
+      "month": "2022-09",
+      "visits": 104,
+      "downloads": 33
+    },
+    {
+      "month": "2022-10",
+      "visits": 169,
+      "downloads": 23
+    },
+    {
+      "month": "2022-11",
+      "visits": 151,
+      "downloads": 21
+    },
+    {
+      "month": "2022-12",
+      "visits": 188,
+      "downloads": 43
+    },
+    {
+      "month": "2023-01",
+      "visits": 117,
+      "downloads": 12
+    },
+    {
+      "month": "2023-02",
+      "visits": 110,
+      "downloads": 24
+    },
+    {
+      "month": "2023-03",
+      "visits": 128,
+      "downloads": 42
+    },
+    {
+      "month": "2023-04",
+      "visits": 117,
+      "downloads": 32
+    },
+    {
+      "month": "2023-05",
+      "visits": 168,
+      "downloads": 57
+    },
+    {
+      "month": "2023-06",
+      "visits": 155,
+      "downloads": 39
+    },
+    {
+      "month": "2023-07",
+      "visits": 189,
+      "downloads": 39
+    },
+    {
+      "month": "2023-08",
+      "visits": 181,
+      "downloads": 49
+    },
+    {
+      "month": "2023-09",
+      "visits": 220,
+      "downloads": 96
+    },
+    {
+      "month": "2023-10",
+      "visits": 231,
+      "downloads": 127
+    },
+    {
+      "month": "2023-11",
+      "visits": 238,
+      "downloads": 104
+    },
+    {
+      "month": "2023-12",
+      "visits": 242,
+      "downloads": 105
+    },
+    {
+      "month": "2024-01",
+      "visits": 221,
+      "downloads": 58
+    },
+    {
+      "month": "2024-02",
+      "visits": 235,
+      "downloads": 784
+    },
+    {
+      "month": "2024-03",
+      "visits": 262,
+      "downloads": 114
+    },
+    {
+      "month": "2024-04",
+      "visits": 201,
+      "downloads": 92
+    },
+    {
+      "month": "2024-05",
+      "visits": 190,
+      "downloads": 56
+    },
+    {
+      "month": "2024-06",
+      "visits": 261,
+      "downloads": 95
+    },
+    {
+      "month": "2024-07",
+      "visits": 202,
+      "downloads": 65
+    },
+    {
+      "month": "2024-08",
+      "visits": 162,
+      "downloads": 75
+    },
+    {
+      "month": "2024-09",
+      "visits": 124,
+      "downloads": 86
+    },
+    {
+      "month": "2024-10",
+      "visits": 172,
+      "downloads": 94
+    },
+    {
+      "month": "2024-11",
+      "visits": 233,
+      "downloads": 62
+    },
+    {
+      "month": "2024-12",
+      "visits": 186,
+      "downloads": 68
+    },
+    {
+      "month": "2025-01",
+      "visits": 151,
+      "downloads": 55
+    },
+    {
+      "month": "2025-02",
+      "visits": 242,
+      "downloads": 106
+    },
+    {
+      "month": "2025-03",
+      "visits": 258,
+      "downloads": 81
+    },
+    {
+      "month": "2025-04",
+      "visits": 396,
+      "downloads": 150
+    },
+    {
+      "month": "2025-05",
+      "visits": 9595,
+      "downloads": 252
+    },
+    {
+      "month": "2025-06",
+      "visits": 9514,
+      "downloads": 283
+    },
+    {
+      "month": "2025-07",
+      "visits": 5527,
+      "downloads": 295
+    },
+    {
+      "month": "2025-08",
+      "visits": 4195,
+      "downloads": 194
+    },
+    {
+      "month": "2025-09",
+      "visits": 6261,
+      "downloads": 112
+    },
+    {
+      "month": "2025-10",
+      "visits": 2279,
+      "downloads": 91
+    },
+    {
+      "month": "2025-11",
+      "visits": 1474,
+      "downloads": 148
+    },
+    {
+      "month": "2025-12",
+      "visits": 95,
+      "downloads": 5
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

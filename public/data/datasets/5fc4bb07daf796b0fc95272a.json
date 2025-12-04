@@ -1,0 +1,224 @@
+{
+  "id": "5fc4bb07daf796b0fc95272a",
+  "title": "Référentiel Topologique réseau CARSUD",
+  "slug": "referentiel-topologique-reseau-carsud",
+  "organization": "Réseau CARSUD",
+  "organizationId": "5fc4b99f56cc49c529e12338",
+  "url": "https://www.data.gouv.fr/datasets/referentiel-topologique-reseau-carsud/",
+  "totalVisits": 3631,
+  "totalDownloads": 4123923,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 24,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 46,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 57,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 71,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 74,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 86,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 47,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 60,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 72,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 60,
+      "downloads": 678
+    },
+    {
+      "month": "2023-05",
+      "visits": 44,
+      "downloads": 1220
+    },
+    {
+      "month": "2023-06",
+      "visits": 166,
+      "downloads": 1123
+    },
+    {
+      "month": "2023-07",
+      "visits": 67,
+      "downloads": 1206
+    },
+    {
+      "month": "2023-08",
+      "visits": 70,
+      "downloads": 1214
+    },
+    {
+      "month": "2023-09",
+      "visits": 81,
+      "downloads": 1125
+    },
+    {
+      "month": "2023-10",
+      "visits": 67,
+      "downloads": 1206
+    },
+    {
+      "month": "2023-11",
+      "visits": 76,
+      "downloads": 1233
+    },
+    {
+      "month": "2023-12",
+      "visits": 122,
+      "downloads": 1214
+    },
+    {
+      "month": "2024-01",
+      "visits": 152,
+      "downloads": 1363
+    },
+    {
+      "month": "2024-02",
+      "visits": 87,
+      "downloads": 1199
+    },
+    {
+      "month": "2024-03",
+      "visits": 94,
+      "downloads": 1297
+    },
+    {
+      "month": "2024-04",
+      "visits": 74,
+      "downloads": 1350
+    },
+    {
+      "month": "2024-05",
+      "visits": 94,
+      "downloads": 1818
+    },
+    {
+      "month": "2024-06",
+      "visits": 80,
+      "downloads": 1429
+    },
+    {
+      "month": "2024-07",
+      "visits": 119,
+      "downloads": 43934
+    },
+    {
+      "month": "2024-08",
+      "visits": 89,
+      "downloads": 156132
+    },
+    {
+      "month": "2024-09",
+      "visits": 87,
+      "downloads": 165570
+    },
+    {
+      "month": "2024-10",
+      "visits": 60,
+      "downloads": 56635
+    },
+    {
+      "month": "2024-11",
+      "visits": 105,
+      "downloads": 166281
+    },
+    {
+      "month": "2024-12",
+      "visits": 102,
+      "downloads": 94020
+    },
+    {
+      "month": "2025-01",
+      "visits": 116,
+      "downloads": 4251
+    },
+    {
+      "month": "2025-02",
+      "visits": 99,
+      "downloads": 106078
+    },
+    {
+      "month": "2025-03",
+      "visits": 113,
+      "downloads": 139105
+    },
+    {
+      "month": "2025-04",
+      "visits": 127,
+      "downloads": 363617
+    },
+    {
+      "month": "2025-05",
+      "visits": 206,
+      "downloads": 472625
+    },
+    {
+      "month": "2025-06",
+      "visits": 157,
+      "downloads": 442948
+    },
+    {
+      "month": "2025-07",
+      "visits": 108,
+      "downloads": 476938
+    },
+    {
+      "month": "2025-08",
+      "visits": 51,
+      "downloads": 408474
+    },
+    {
+      "month": "2025-09",
+      "visits": 68,
+      "downloads": 337543
+    },
+    {
+      "month": "2025-10",
+      "visits": 77,
+      "downloads": 338025
+    },
+    {
+      "month": "2025-11",
+      "visits": 74,
+      "downloads": 311591
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 21481
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

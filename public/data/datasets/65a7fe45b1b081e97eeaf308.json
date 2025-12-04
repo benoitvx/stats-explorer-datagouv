@@ -1,0 +1,134 @@
+{
+  "id": "65a7fe45b1b081e97eeaf308",
+  "title": "Données théoriques du réseau urbain de Flers Agglo au format GTFS",
+  "slug": "donnees-theoriques-du-reseau-urbain-de-flers-agglo-au-format-gtfs",
+  "organization": "NEMUS (Réseau de transports de Flers Agglo)",
+  "organizationId": "65a7f6424bded6611f14287d",
+  "url": "https://www.data.gouv.fr/datasets/donnees-theoriques-du-reseau-urbain-de-flers-agglo-au-format-gtfs/",
+  "totalVisits": 2031,
+  "totalDownloads": 2034558,
+  "monthlyStats": [
+    {
+      "month": "2024-01",
+      "visits": 361,
+      "downloads": 434
+    },
+    {
+      "month": "2024-02",
+      "visits": 68,
+      "downloads": 880
+    },
+    {
+      "month": "2024-03",
+      "visits": 49,
+      "downloads": 975
+    },
+    {
+      "month": "2024-04",
+      "visits": 43,
+      "downloads": 2193
+    },
+    {
+      "month": "2024-05",
+      "visits": 38,
+      "downloads": 3137
+    },
+    {
+      "month": "2024-06",
+      "visits": 94,
+      "downloads": 2379
+    },
+    {
+      "month": "2024-07",
+      "visits": 56,
+      "downloads": 1847
+    },
+    {
+      "month": "2024-08",
+      "visits": 58,
+      "downloads": 1774
+    },
+    {
+      "month": "2024-09",
+      "visits": 52,
+      "downloads": 1408
+    },
+    {
+      "month": "2024-10",
+      "visits": 41,
+      "downloads": 924
+    },
+    {
+      "month": "2024-11",
+      "visits": 65,
+      "downloads": 1042
+    },
+    {
+      "month": "2024-12",
+      "visits": 39,
+      "downloads": 1035
+    },
+    {
+      "month": "2025-01",
+      "visits": 64,
+      "downloads": 8455
+    },
+    {
+      "month": "2025-02",
+      "visits": 87,
+      "downloads": 8305
+    },
+    {
+      "month": "2025-03",
+      "visits": 62,
+      "downloads": 2524
+    },
+    {
+      "month": "2025-04",
+      "visits": 206,
+      "downloads": 276438
+    },
+    {
+      "month": "2025-05",
+      "visits": 72,
+      "downloads": 322885
+    },
+    {
+      "month": "2025-06",
+      "visits": 154,
+      "downloads": 293062
+    },
+    {
+      "month": "2025-07",
+      "visits": 93,
+      "downloads": 283614
+    },
+    {
+      "month": "2025-08",
+      "visits": 136,
+      "downloads": 308544
+    },
+    {
+      "month": "2025-09",
+      "visits": 70,
+      "downloads": 241888
+    },
+    {
+      "month": "2025-10",
+      "visits": 53,
+      "downloads": 116428
+    },
+    {
+      "month": "2025-11",
+      "visits": 67,
+      "downloads": 141714
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 12673
+    }
+  ],
+  "firstMonth": "2024-01",
+  "lastMonth": "2025-12"
+}

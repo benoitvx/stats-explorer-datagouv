@@ -5,8 +5,8 @@
   "organization": "Inconnu",
   "organizationId": "",
   "url": "https://www.data.gouv.fr/datasets/carte-des-departements-2-1/",
-  "totalVisits": 210122,
-  "totalDownloads": 261901,
+  "totalVisits": 210137,
+  "totalDownloads": 259221,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3346,
-      "downloads": 4266
+      "downloads": 3740
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 6561,
-      "downloads": 14330
+      "downloads": 12123
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 11,
-      "downloads": 9
+      "visits": 26,
+      "downloads": 62
     }
   ],
   "firstMonth": "2022-07",

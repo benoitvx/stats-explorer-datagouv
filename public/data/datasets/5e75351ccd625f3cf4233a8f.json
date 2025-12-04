@@ -1,0 +1,224 @@
+{
+  "id": "5e75351ccd625f3cf4233a8f",
+  "title": "#COVID19 Nouvelle-Calédonie",
+  "slug": "covid19-nouvelle-caledonie",
+  "organization": "cagougeeks",
+  "organizationId": "5d8559448b4c413ce562f11c",
+  "url": "https://www.data.gouv.fr/datasets/covid19-nouvelle-caledonie/",
+  "totalVisits": 4797,
+  "totalDownloads": 12923619,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 114,
+      "downloads": 34
+    },
+    {
+      "month": "2022-08",
+      "visits": 133,
+      "downloads": 23
+    },
+    {
+      "month": "2022-09",
+      "visits": 158,
+      "downloads": 23
+    },
+    {
+      "month": "2022-10",
+      "visits": 155,
+      "downloads": 10
+    },
+    {
+      "month": "2022-11",
+      "visits": 181,
+      "downloads": 20
+    },
+    {
+      "month": "2022-12",
+      "visits": 173,
+      "downloads": 1639
+    },
+    {
+      "month": "2023-01",
+      "visits": 106,
+      "downloads": 10
+    },
+    {
+      "month": "2023-02",
+      "visits": 130,
+      "downloads": 23
+    },
+    {
+      "month": "2023-03",
+      "visits": 99,
+      "downloads": 340
+    },
+    {
+      "month": "2023-04",
+      "visits": 108,
+      "downloads": 342
+    },
+    {
+      "month": "2023-05",
+      "visits": 81,
+      "downloads": 22
+    },
+    {
+      "month": "2023-06",
+      "visits": 105,
+      "downloads": 320
+    },
+    {
+      "month": "2023-07",
+      "visits": 110,
+      "downloads": 3
+    },
+    {
+      "month": "2023-08",
+      "visits": 92,
+      "downloads": 276
+    },
+    {
+      "month": "2023-09",
+      "visits": 123,
+      "downloads": 351
+    },
+    {
+      "month": "2023-10",
+      "visits": 74,
+      "downloads": 61
+    },
+    {
+      "month": "2023-11",
+      "visits": 124,
+      "downloads": 220
+    },
+    {
+      "month": "2023-12",
+      "visits": 128,
+      "downloads": 6
+    },
+    {
+      "month": "2024-01",
+      "visits": 130,
+      "downloads": 3
+    },
+    {
+      "month": "2024-02",
+      "visits": 109,
+      "downloads": 8
+    },
+    {
+      "month": "2024-03",
+      "visits": 129,
+      "downloads": 17145
+    },
+    {
+      "month": "2024-04",
+      "visits": 100,
+      "downloads": 679083
+    },
+    {
+      "month": "2024-05",
+      "visits": 136,
+      "downloads": 634543
+    },
+    {
+      "month": "2024-06",
+      "visits": 136,
+      "downloads": 246599
+    },
+    {
+      "month": "2024-07",
+      "visits": 101,
+      "downloads": 738068
+    },
+    {
+      "month": "2024-08",
+      "visits": 100,
+      "downloads": 719526
+    },
+    {
+      "month": "2024-09",
+      "visits": 81,
+      "downloads": 697881
+    },
+    {
+      "month": "2024-10",
+      "visits": 103,
+      "downloads": 691793
+    },
+    {
+      "month": "2024-11",
+      "visits": 110,
+      "downloads": 684236
+    },
+    {
+      "month": "2024-12",
+      "visits": 114,
+      "downloads": 681954
+    },
+    {
+      "month": "2025-01",
+      "visits": 90,
+      "downloads": 705591
+    },
+    {
+      "month": "2025-02",
+      "visits": 148,
+      "downloads": 636843
+    },
+    {
+      "month": "2025-03",
+      "visits": 170,
+      "downloads": 687755
+    },
+    {
+      "month": "2025-04",
+      "visits": 148,
+      "downloads": 664529
+    },
+    {
+      "month": "2025-05",
+      "visits": 130,
+      "downloads": 609691
+    },
+    {
+      "month": "2025-06",
+      "visits": 159,
+      "downloads": 427298
+    },
+    {
+      "month": "2025-07",
+      "visits": 93,
+      "downloads": 589931
+    },
+    {
+      "month": "2025-08",
+      "visits": 88,
+      "downloads": 673356
+    },
+    {
+      "month": "2025-09",
+      "visits": 78,
+      "downloads": 693773
+    },
+    {
+      "month": "2025-10",
+      "visits": 74,
+      "downloads": 709060
+    },
+    {
+      "month": "2025-11",
+      "visits": 73,
+      "downloads": 685195
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 46035
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

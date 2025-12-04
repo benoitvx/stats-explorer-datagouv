@@ -1,0 +1,209 @@
+{
+  "id": "63451c30ca900b76c684eabe",
+  "title": "Horaires théoriques et en temps réel des bus et autocars circulant sur le réseau Cap Cotentin",
+  "slug": "horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin",
+  "organization": "Communauté d'agglomération Le Cotentin",
+  "organizationId": "613f4fec09785810493392f5",
+  "url": "https://www.data.gouv.fr/datasets/horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin/",
+  "totalVisits": 5219,
+  "totalDownloads": 3160825,
+  "monthlyStats": [
+    {
+      "month": "2022-10",
+      "visits": 495,
+      "downloads": 20
+    },
+    {
+      "month": "2022-11",
+      "visits": 103,
+      "downloads": 7
+    },
+    {
+      "month": "2022-12",
+      "visits": 109,
+      "downloads": 15
+    },
+    {
+      "month": "2023-01",
+      "visits": 77,
+      "downloads": 7
+    },
+    {
+      "month": "2023-02",
+      "visits": 69,
+      "downloads": 5
+    },
+    {
+      "month": "2023-03",
+      "visits": 62,
+      "downloads": 6
+    },
+    {
+      "month": "2023-04",
+      "visits": 60,
+      "downloads": 3
+    },
+    {
+      "month": "2023-05",
+      "visits": 72,
+      "downloads": 6
+    },
+    {
+      "month": "2023-06",
+      "visits": 70,
+      "downloads": 91
+    },
+    {
+      "month": "2023-07",
+      "visits": 70,
+      "downloads": 1915
+    },
+    {
+      "month": "2023-08",
+      "visits": 121,
+      "downloads": 17091
+    },
+    {
+      "month": "2023-09",
+      "visits": 116,
+      "downloads": 317087
+    },
+    {
+      "month": "2023-10",
+      "visits": 104,
+      "downloads": 301047
+    },
+    {
+      "month": "2023-11",
+      "visits": 81,
+      "downloads": 208810
+    },
+    {
+      "month": "2023-12",
+      "visits": 164,
+      "downloads": 170848
+    },
+    {
+      "month": "2024-01",
+      "visits": 115,
+      "downloads": 144391
+    },
+    {
+      "month": "2024-02",
+      "visits": 108,
+      "downloads": 165250
+    },
+    {
+      "month": "2024-03",
+      "visits": 149,
+      "downloads": 182025
+    },
+    {
+      "month": "2024-04",
+      "visits": 111,
+      "downloads": 217099
+    },
+    {
+      "month": "2024-05",
+      "visits": 121,
+      "downloads": 251604
+    },
+    {
+      "month": "2024-06",
+      "visits": 174,
+      "downloads": 225031
+    },
+    {
+      "month": "2024-07",
+      "visits": 172,
+      "downloads": 208748
+    },
+    {
+      "month": "2024-08",
+      "visits": 119,
+      "downloads": 210823
+    },
+    {
+      "month": "2024-09",
+      "visits": 95,
+      "downloads": 202531
+    },
+    {
+      "month": "2024-10",
+      "visits": 100,
+      "downloads": 187201
+    },
+    {
+      "month": "2024-11",
+      "visits": 117,
+      "downloads": 5067
+    },
+    {
+      "month": "2024-12",
+      "visits": 94,
+      "downloads": 4863
+    },
+    {
+      "month": "2025-01",
+      "visits": 64,
+      "downloads": 12088
+    },
+    {
+      "month": "2025-02",
+      "visits": 95,
+      "downloads": 12785
+    },
+    {
+      "month": "2025-03",
+      "visits": 94,
+      "downloads": 9509
+    },
+    {
+      "month": "2025-04",
+      "visits": 111,
+      "downloads": 47318
+    },
+    {
+      "month": "2025-05",
+      "visits": 213,
+      "downloads": 14620
+    },
+    {
+      "month": "2025-06",
+      "visits": 267,
+      "downloads": 12360
+    },
+    {
+      "month": "2025-07",
+      "visits": 366,
+      "downloads": 5580
+    },
+    {
+      "month": "2025-08",
+      "visits": 161,
+      "downloads": 5405
+    },
+    {
+      "month": "2025-09",
+      "visits": 153,
+      "downloads": 8400
+    },
+    {
+      "month": "2025-10",
+      "visits": 218,
+      "downloads": 3984
+    },
+    {
+      "month": "2025-11",
+      "visits": 218,
+      "downloads": 6752
+    },
+    {
+      "month": "2025-12",
+      "visits": 11,
+      "downloads": 433
+    }
+  ],
+  "firstMonth": "2022-10",
+  "lastMonth": "2025-12"
+}

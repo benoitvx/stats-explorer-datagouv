@@ -1,0 +1,214 @@
+{
+  "id": "63286f52fb90bb3ab126a47a",
+  "title": "images epi-revel",
+  "slug": "images-epi-revel",
+  "organization": "Université Côte d'Azur",
+  "organizationId": "61baf898c2c68ca541e81311",
+  "url": "https://www.data.gouv.fr/datasets/images-epi-revel/",
+  "totalVisits": 3725,
+  "totalDownloads": 396401,
+  "monthlyStats": [
+    {
+      "month": "2022-09",
+      "visits": 244,
+      "downloads": 1885
+    },
+    {
+      "month": "2022-10",
+      "visits": 59,
+      "downloads": 4867
+    },
+    {
+      "month": "2022-11",
+      "visits": 44,
+      "downloads": 2181
+    },
+    {
+      "month": "2022-12",
+      "visits": 54,
+      "downloads": 1822
+    },
+    {
+      "month": "2023-01",
+      "visits": 40,
+      "downloads": 2551
+    },
+    {
+      "month": "2023-02",
+      "visits": 39,
+      "downloads": 2190
+    },
+    {
+      "month": "2023-03",
+      "visits": 34,
+      "downloads": 2916
+    },
+    {
+      "month": "2023-04",
+      "visits": 33,
+      "downloads": 3716
+    },
+    {
+      "month": "2023-05",
+      "visits": 45,
+      "downloads": 3259
+    },
+    {
+      "month": "2023-06",
+      "visits": 35,
+      "downloads": 4339
+    },
+    {
+      "month": "2023-07",
+      "visits": 34,
+      "downloads": 3572
+    },
+    {
+      "month": "2023-08",
+      "visits": 56,
+      "downloads": 2429
+    },
+    {
+      "month": "2023-09",
+      "visits": 63,
+      "downloads": 4111
+    },
+    {
+      "month": "2023-10",
+      "visits": 44,
+      "downloads": 7227
+    },
+    {
+      "month": "2023-11",
+      "visits": 55,
+      "downloads": 9361
+    },
+    {
+      "month": "2023-12",
+      "visits": 113,
+      "downloads": 7202
+    },
+    {
+      "month": "2024-01",
+      "visits": 92,
+      "downloads": 7700
+    },
+    {
+      "month": "2024-02",
+      "visits": 93,
+      "downloads": 13233
+    },
+    {
+      "month": "2024-03",
+      "visits": 85,
+      "downloads": 11471
+    },
+    {
+      "month": "2024-04",
+      "visits": 65,
+      "downloads": 7490
+    },
+    {
+      "month": "2024-05",
+      "visits": 76,
+      "downloads": 9967
+    },
+    {
+      "month": "2024-06",
+      "visits": 105,
+      "downloads": 8286
+    },
+    {
+      "month": "2024-07",
+      "visits": 99,
+      "downloads": 6746
+    },
+    {
+      "month": "2024-08",
+      "visits": 50,
+      "downloads": 4394
+    },
+    {
+      "month": "2024-09",
+      "visits": 32,
+      "downloads": 10405
+    },
+    {
+      "month": "2024-10",
+      "visits": 40,
+      "downloads": 9641
+    },
+    {
+      "month": "2024-11",
+      "visits": 49,
+      "downloads": 12496
+    },
+    {
+      "month": "2024-12",
+      "visits": 40,
+      "downloads": 12308
+    },
+    {
+      "month": "2025-01",
+      "visits": 65,
+      "downloads": 908
+    },
+    {
+      "month": "2025-02",
+      "visits": 86,
+      "downloads": 16129
+    },
+    {
+      "month": "2025-03",
+      "visits": 76,
+      "downloads": 25314
+    },
+    {
+      "month": "2025-04",
+      "visits": 99,
+      "downloads": 24297
+    },
+    {
+      "month": "2025-05",
+      "visits": 70,
+      "downloads": 20100
+    },
+    {
+      "month": "2025-06",
+      "visits": 93,
+      "downloads": 21939
+    },
+    {
+      "month": "2025-07",
+      "visits": 737,
+      "downloads": 19333
+    },
+    {
+      "month": "2025-08",
+      "visits": 91,
+      "downloads": 8943
+    },
+    {
+      "month": "2025-09",
+      "visits": 60,
+      "downloads": 31395
+    },
+    {
+      "month": "2025-10",
+      "visits": 385,
+      "downloads": 23001
+    },
+    {
+      "month": "2025-11",
+      "visits": 140,
+      "downloads": 25650
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 1627
+    }
+  ],
+  "firstMonth": "2022-09",
+  "lastMonth": "2025-12"
+}

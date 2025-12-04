@@ -5,18 +5,28 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024/",
-  "totalVisits": 199357,
-  "totalDownloads": 548037,
+  "totalVisits": 199600,
+  "totalDownloads": 564852,
   "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 0,
+      "downloads": 4777
+    },
     {
       "month": "2022-08",
       "visits": 205,
-      "downloads": 990
+      "downloads": 3378
+    },
+    {
+      "month": "2022-09",
+      "visits": 0,
+      "downloads": 5918
     },
     {
       "month": "2022-10",
       "visits": 2241,
-      "downloads": 3082
+      "downloads": 9041
     },
     {
       "month": "2022-11",
@@ -61,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3483,
-      "downloads": 2751
+      "downloads": 2645
     },
     {
       "month": "2023-08",
@@ -101,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 7325,
-      "downloads": 20236
+      "downloads": 17819
     },
     {
       "month": "2024-04",
@@ -205,10 +215,10 @@
     },
     {
       "month": "2025-12",
-      "visits": 167,
-      "downloads": 248
+      "visits": 410,
+      "downloads": 544
     }
   ],
-  "firstMonth": "2022-08",
+  "firstMonth": "2022-07",
   "lastMonth": "2025-12"
 }

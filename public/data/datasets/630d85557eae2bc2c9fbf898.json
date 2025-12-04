@@ -1,0 +1,219 @@
+{
+  "id": "630d85557eae2bc2c9fbf898",
+  "title": "Villes de France",
+  "slug": "villes-de-france",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/villes-de-france/",
+  "totalVisits": 68419,
+  "totalDownloads": 97244,
+  "monthlyStats": [
+    {
+      "month": "2022-08",
+      "visits": 278,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 418,
+      "downloads": 9
+    },
+    {
+      "month": "2022-10",
+      "visits": 217,
+      "downloads": 144
+    },
+    {
+      "month": "2022-11",
+      "visits": 232,
+      "downloads": 86
+    },
+    {
+      "month": "2022-12",
+      "visits": 216,
+      "downloads": 164
+    },
+    {
+      "month": "2023-01",
+      "visits": 349,
+      "downloads": 761
+    },
+    {
+      "month": "2023-02",
+      "visits": 392,
+      "downloads": 436
+    },
+    {
+      "month": "2023-03",
+      "visits": 620,
+      "downloads": 719
+    },
+    {
+      "month": "2023-04",
+      "visits": 783,
+      "downloads": 688
+    },
+    {
+      "month": "2023-05",
+      "visits": 928,
+      "downloads": 1052
+    },
+    {
+      "month": "2023-06",
+      "visits": 1166,
+      "downloads": 3819
+    },
+    {
+      "month": "2023-07",
+      "visits": 1214,
+      "downloads": 1092
+    },
+    {
+      "month": "2023-08",
+      "visits": 1780,
+      "downloads": 1053
+    },
+    {
+      "month": "2023-09",
+      "visits": 2535,
+      "downloads": 1506
+    },
+    {
+      "month": "2023-10",
+      "visits": 2125,
+      "downloads": 1492
+    },
+    {
+      "month": "2023-11",
+      "visits": 2305,
+      "downloads": 6556
+    },
+    {
+      "month": "2023-12",
+      "visits": 2176,
+      "downloads": 1980
+    },
+    {
+      "month": "2024-01",
+      "visits": 2570,
+      "downloads": 1732
+    },
+    {
+      "month": "2024-02",
+      "visits": 2252,
+      "downloads": 1984
+    },
+    {
+      "month": "2024-03",
+      "visits": 2433,
+      "downloads": 2497
+    },
+    {
+      "month": "2024-04",
+      "visits": 2192,
+      "downloads": 1828
+    },
+    {
+      "month": "2024-05",
+      "visits": 2285,
+      "downloads": 2052
+    },
+    {
+      "month": "2024-06",
+      "visits": 2343,
+      "downloads": 3274
+    },
+    {
+      "month": "2024-07",
+      "visits": 2392,
+      "downloads": 1825
+    },
+    {
+      "month": "2024-08",
+      "visits": 2056,
+      "downloads": 1607
+    },
+    {
+      "month": "2024-09",
+      "visits": 2641,
+      "downloads": 2770
+    },
+    {
+      "month": "2024-10",
+      "visits": 3311,
+      "downloads": 3191
+    },
+    {
+      "month": "2024-11",
+      "visits": 3792,
+      "downloads": 2087
+    },
+    {
+      "month": "2024-12",
+      "visits": 2748,
+      "downloads": 2297
+    },
+    {
+      "month": "2025-01",
+      "visits": 407,
+      "downloads": 928
+    },
+    {
+      "month": "2025-02",
+      "visits": 3301,
+      "downloads": 2315
+    },
+    {
+      "month": "2025-03",
+      "visits": 4088,
+      "downloads": 6744
+    },
+    {
+      "month": "2025-04",
+      "visits": 1026,
+      "downloads": 3697
+    },
+    {
+      "month": "2025-05",
+      "visits": 357,
+      "downloads": 3587
+    },
+    {
+      "month": "2025-06",
+      "visits": 1012,
+      "downloads": 3667
+    },
+    {
+      "month": "2025-07",
+      "visits": 2000,
+      "downloads": 4942
+    },
+    {
+      "month": "2025-08",
+      "visits": 3081,
+      "downloads": 4492
+    },
+    {
+      "month": "2025-09",
+      "visits": 2060,
+      "downloads": 4790
+    },
+    {
+      "month": "2025-10",
+      "visits": 1834,
+      "downloads": 6205
+    },
+    {
+      "month": "2025-11",
+      "visits": 446,
+      "downloads": 6218
+    },
+    {
+      "month": "2025-12",
+      "visits": 58,
+      "downloads": 958
+    }
+  ],
+  "firstMonth": "2022-08",
+  "lastMonth": "2025-12"
+}

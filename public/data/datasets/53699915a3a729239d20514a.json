@@ -1,0 +1,224 @@
+{
+  "id": "53699915a3a729239d20514a",
+  "title": "Liste des Etablissements Publics",
+  "slug": "liste-des-etablissements-publics",
+  "organization": "Ministère de la Culture",
+  "organizationId": "534fff91a3a7292c64a77f73",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-etablissements-publics/",
+  "totalVisits": 11484,
+  "totalDownloads": 193,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 161,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 221,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 303,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 426,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 392,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 282,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 281,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 286,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 315,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 187,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 210,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 227,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 279,
+      "downloads": 0
+    },
+    {
+      "month": "2023-08",
+      "visits": 705,
+      "downloads": 0
+    },
+    {
+      "month": "2023-09",
+      "visits": 1259,
+      "downloads": 0
+    },
+    {
+      "month": "2023-10",
+      "visits": 396,
+      "downloads": 0
+    },
+    {
+      "month": "2023-11",
+      "visits": 251,
+      "downloads": 0
+    },
+    {
+      "month": "2023-12",
+      "visits": 228,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 232,
+      "downloads": 0
+    },
+    {
+      "month": "2024-02",
+      "visits": 194,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 162,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 144,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 161,
+      "downloads": 0
+    },
+    {
+      "month": "2024-06",
+      "visits": 197,
+      "downloads": 0
+    },
+    {
+      "month": "2024-07",
+      "visits": 217,
+      "downloads": 0
+    },
+    {
+      "month": "2024-08",
+      "visits": 148,
+      "downloads": 0
+    },
+    {
+      "month": "2024-09",
+      "visits": 118,
+      "downloads": 0
+    },
+    {
+      "month": "2024-10",
+      "visits": 116,
+      "downloads": 0
+    },
+    {
+      "month": "2024-11",
+      "visits": 162,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 151,
+      "downloads": 0
+    },
+    {
+      "month": "2025-01",
+      "visits": 103,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 181,
+      "downloads": 26
+    },
+    {
+      "month": "2025-03",
+      "visits": 162,
+      "downloads": 20
+    },
+    {
+      "month": "2025-04",
+      "visits": 170,
+      "downloads": 25
+    },
+    {
+      "month": "2025-05",
+      "visits": 130,
+      "downloads": 29
+    },
+    {
+      "month": "2025-06",
+      "visits": 188,
+      "downloads": 8
+    },
+    {
+      "month": "2025-07",
+      "visits": 213,
+      "downloads": 15
+    },
+    {
+      "month": "2025-08",
+      "visits": 141,
+      "downloads": 6
+    },
+    {
+      "month": "2025-09",
+      "visits": 241,
+      "downloads": 22
+    },
+    {
+      "month": "2025-10",
+      "visits": 846,
+      "downloads": 26
+    },
+    {
+      "month": "2025-11",
+      "visits": 437,
+      "downloads": 15
+    },
+    {
+      "month": "2025-12",
+      "visits": 261,
+      "downloads": 1
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

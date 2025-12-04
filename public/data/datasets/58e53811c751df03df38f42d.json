@@ -5,8 +5,8 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-associations/",
-  "totalVisits": 1151857,
-  "totalDownloads": 221121,
+  "totalVisits": 1153519,
+  "totalDownloads": 220077,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 19624,
-      "downloads": 4824
+      "downloads": 4450
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 33262,
-      "downloads": 6121
+      "downloads": 5323
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 844,
-      "downloads": 74
+      "visits": 2506,
+      "downloads": 202
     }
   ],
   "firstMonth": "2022-07",

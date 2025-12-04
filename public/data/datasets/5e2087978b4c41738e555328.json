@@ -1,0 +1,224 @@
+{
+  "id": "5e2087978b4c41738e555328",
+  "title": "Réseau de transport du Grand Dole ",
+  "slug": "reseau-de-transport-du-grand-dole",
+  "organization": "Communauté d'Agglomération du Grand Dole",
+  "organizationId": "5e2086a38b4c41778e8f75bc",
+  "url": "https://www.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/",
+  "totalVisits": 3634,
+  "totalDownloads": 6747290,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 24,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 26,
+      "downloads": 17
+    },
+    {
+      "month": "2022-09",
+      "visits": 57,
+      "downloads": 840
+    },
+    {
+      "month": "2022-10",
+      "visits": 74,
+      "downloads": 1269
+    },
+    {
+      "month": "2022-11",
+      "visits": 75,
+      "downloads": 1275
+    },
+    {
+      "month": "2022-12",
+      "visits": 79,
+      "downloads": 1337
+    },
+    {
+      "month": "2023-01",
+      "visits": 41,
+      "downloads": 1336
+    },
+    {
+      "month": "2023-02",
+      "visits": 37,
+      "downloads": 1176
+    },
+    {
+      "month": "2023-03",
+      "visits": 55,
+      "downloads": 1336
+    },
+    {
+      "month": "2023-04",
+      "visits": 48,
+      "downloads": 1310
+    },
+    {
+      "month": "2023-05",
+      "visits": 39,
+      "downloads": 1367
+    },
+    {
+      "month": "2023-06",
+      "visits": 49,
+      "downloads": 1306
+    },
+    {
+      "month": "2023-07",
+      "visits": 50,
+      "downloads": 1376
+    },
+    {
+      "month": "2023-08",
+      "visits": 78,
+      "downloads": 1301
+    },
+    {
+      "month": "2023-09",
+      "visits": 109,
+      "downloads": 1062
+    },
+    {
+      "month": "2023-10",
+      "visits": 91,
+      "downloads": 1153
+    },
+    {
+      "month": "2023-11",
+      "visits": 71,
+      "downloads": 26882
+    },
+    {
+      "month": "2023-12",
+      "visits": 118,
+      "downloads": 45874
+    },
+    {
+      "month": "2024-01",
+      "visits": 118,
+      "downloads": 58004
+    },
+    {
+      "month": "2024-02",
+      "visits": 94,
+      "downloads": 77754
+    },
+    {
+      "month": "2024-03",
+      "visits": 106,
+      "downloads": 78506
+    },
+    {
+      "month": "2024-04",
+      "visits": 107,
+      "downloads": 9900
+    },
+    {
+      "month": "2024-05",
+      "visits": 78,
+      "downloads": 3809
+    },
+    {
+      "month": "2024-06",
+      "visits": 86,
+      "downloads": 5956
+    },
+    {
+      "month": "2024-07",
+      "visits": 69,
+      "downloads": 12634
+    },
+    {
+      "month": "2024-08",
+      "visits": 64,
+      "downloads": 14918
+    },
+    {
+      "month": "2024-09",
+      "visits": 68,
+      "downloads": 8096
+    },
+    {
+      "month": "2024-10",
+      "visits": 69,
+      "downloads": 5634
+    },
+    {
+      "month": "2024-11",
+      "visits": 109,
+      "downloads": 6779
+    },
+    {
+      "month": "2024-12",
+      "visits": 89,
+      "downloads": 38397
+    },
+    {
+      "month": "2025-01",
+      "visits": 81,
+      "downloads": 249696
+    },
+    {
+      "month": "2025-02",
+      "visits": 118,
+      "downloads": 423458
+    },
+    {
+      "month": "2025-03",
+      "visits": 124,
+      "downloads": 527486
+    },
+    {
+      "month": "2025-04",
+      "visits": 130,
+      "downloads": 750166
+    },
+    {
+      "month": "2025-05",
+      "visits": 124,
+      "downloads": 828901
+    },
+    {
+      "month": "2025-06",
+      "visits": 184,
+      "downloads": 759681
+    },
+    {
+      "month": "2025-07",
+      "visits": 128,
+      "downloads": 770841
+    },
+    {
+      "month": "2025-08",
+      "visits": 126,
+      "downloads": 530773
+    },
+    {
+      "month": "2025-09",
+      "visits": 134,
+      "downloads": 495178
+    },
+    {
+      "month": "2025-10",
+      "visits": 172,
+      "downloads": 468893
+    },
+    {
+      "month": "2025-11",
+      "visits": 129,
+      "downloads": 497003
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 34610
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

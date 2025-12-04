@@ -1,0 +1,224 @@
+{
+  "id": "59b0020ec751df07d5f13bcf",
+  "title": "Cadastre",
+  "slug": "cadastre",
+  "organization": "data.gouv.fr",
+  "organizationId": "646b7187b50b2a93b1ae3d45",
+  "url": "https://www.data.gouv.fr/datasets/cadastre/",
+  "totalVisits": 156273,
+  "totalDownloads": 25551,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2392,
+      "downloads": 254
+    },
+    {
+      "month": "2022-08",
+      "visits": 4401,
+      "downloads": 407
+    },
+    {
+      "month": "2022-09",
+      "visits": 4522,
+      "downloads": 502
+    },
+    {
+      "month": "2022-10",
+      "visits": 5498,
+      "downloads": 675
+    },
+    {
+      "month": "2022-11",
+      "visits": 5546,
+      "downloads": 643
+    },
+    {
+      "month": "2022-12",
+      "visits": 4518,
+      "downloads": 499
+    },
+    {
+      "month": "2023-01",
+      "visits": 7133,
+      "downloads": 722
+    },
+    {
+      "month": "2023-02",
+      "visits": 5437,
+      "downloads": 659
+    },
+    {
+      "month": "2023-03",
+      "visits": 4918,
+      "downloads": 822
+    },
+    {
+      "month": "2023-04",
+      "visits": 4006,
+      "downloads": 606
+    },
+    {
+      "month": "2023-05",
+      "visits": 3866,
+      "downloads": 525
+    },
+    {
+      "month": "2023-06",
+      "visits": 3645,
+      "downloads": 523
+    },
+    {
+      "month": "2023-07",
+      "visits": 3059,
+      "downloads": 688
+    },
+    {
+      "month": "2023-08",
+      "visits": 2769,
+      "downloads": 539
+    },
+    {
+      "month": "2023-09",
+      "visits": 3956,
+      "downloads": 682
+    },
+    {
+      "month": "2023-10",
+      "visits": 3473,
+      "downloads": 866
+    },
+    {
+      "month": "2023-11",
+      "visits": 3343,
+      "downloads": 785
+    },
+    {
+      "month": "2023-12",
+      "visits": 3150,
+      "downloads": 631
+    },
+    {
+      "month": "2024-01",
+      "visits": 4031,
+      "downloads": 758
+    },
+    {
+      "month": "2024-02",
+      "visits": 3762,
+      "downloads": 794
+    },
+    {
+      "month": "2024-03",
+      "visits": 4240,
+      "downloads": 755
+    },
+    {
+      "month": "2024-04",
+      "visits": 3754,
+      "downloads": 637
+    },
+    {
+      "month": "2024-05",
+      "visits": 3595,
+      "downloads": 625
+    },
+    {
+      "month": "2024-06",
+      "visits": 3093,
+      "downloads": 606
+    },
+    {
+      "month": "2024-07",
+      "visits": 3183,
+      "downloads": 606
+    },
+    {
+      "month": "2024-08",
+      "visits": 2522,
+      "downloads": 422
+    },
+    {
+      "month": "2024-09",
+      "visits": 3061,
+      "downloads": 580
+    },
+    {
+      "month": "2024-10",
+      "visits": 3996,
+      "downloads": 786
+    },
+    {
+      "month": "2024-11",
+      "visits": 3791,
+      "downloads": 723
+    },
+    {
+      "month": "2024-12",
+      "visits": 2377,
+      "downloads": 486
+    },
+    {
+      "month": "2025-01",
+      "visits": 501,
+      "downloads": 149
+    },
+    {
+      "month": "2025-02",
+      "visits": 3208,
+      "downloads": 711
+    },
+    {
+      "month": "2025-03",
+      "visits": 3905,
+      "downloads": 861
+    },
+    {
+      "month": "2025-04",
+      "visits": 4184,
+      "downloads": 840
+    },
+    {
+      "month": "2025-05",
+      "visits": 4034,
+      "downloads": 693
+    },
+    {
+      "month": "2025-06",
+      "visits": 3531,
+      "downloads": 603
+    },
+    {
+      "month": "2025-07",
+      "visits": 3318,
+      "downloads": 582
+    },
+    {
+      "month": "2025-08",
+      "visits": 3280,
+      "downloads": 429
+    },
+    {
+      "month": "2025-09",
+      "visits": 5352,
+      "downloads": 593
+    },
+    {
+      "month": "2025-10",
+      "visits": 4290,
+      "downloads": 701
+    },
+    {
+      "month": "2025-11",
+      "visits": 3426,
+      "downloads": 550
+    },
+    {
+      "month": "2025-12",
+      "visits": 207,
+      "downloads": 33
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

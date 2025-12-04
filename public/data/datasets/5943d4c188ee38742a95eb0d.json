@@ -1,0 +1,224 @@
+{
+  "id": "5943d4c188ee38742a95eb0d",
+  "title": "Zones d'Aide à finalité régionale (AFR)",
+  "slug": "zones-daide-a-finalite-regionale-afr",
+  "organization": "Agence nationale de la cohésion des territoires",
+  "organizationId": "5901f4dfc751df412e7bb92d",
+  "url": "https://www.data.gouv.fr/datasets/zones-daide-a-finalite-regionale-afr/",
+  "totalVisits": 95990,
+  "totalDownloads": 16557,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 773,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 1087,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 1396,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 1644,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 2292,
+      "downloads": 340
+    },
+    {
+      "month": "2022-12",
+      "visits": 3420,
+      "downloads": 1078
+    },
+    {
+      "month": "2023-01",
+      "visits": 2715,
+      "downloads": 882
+    },
+    {
+      "month": "2023-02",
+      "visits": 1787,
+      "downloads": 414
+    },
+    {
+      "month": "2023-03",
+      "visits": 2328,
+      "downloads": 826
+    },
+    {
+      "month": "2023-04",
+      "visits": 2539,
+      "downloads": 892
+    },
+    {
+      "month": "2023-05",
+      "visits": 2239,
+      "downloads": 712
+    },
+    {
+      "month": "2023-06",
+      "visits": 1848,
+      "downloads": 571
+    },
+    {
+      "month": "2023-07",
+      "visits": 1889,
+      "downloads": 517
+    },
+    {
+      "month": "2023-08",
+      "visits": 1534,
+      "downloads": 324
+    },
+    {
+      "month": "2023-09",
+      "visits": 3053,
+      "downloads": 548
+    },
+    {
+      "month": "2023-10",
+      "visits": 3544,
+      "downloads": 671
+    },
+    {
+      "month": "2023-11",
+      "visits": 2787,
+      "downloads": 535
+    },
+    {
+      "month": "2023-12",
+      "visits": 4565,
+      "downloads": 922
+    },
+    {
+      "month": "2024-01",
+      "visits": 4185,
+      "downloads": 539
+    },
+    {
+      "month": "2024-02",
+      "visits": 3495,
+      "downloads": 599
+    },
+    {
+      "month": "2024-03",
+      "visits": 3171,
+      "downloads": 489
+    },
+    {
+      "month": "2024-04",
+      "visits": 2559,
+      "downloads": 419
+    },
+    {
+      "month": "2024-05",
+      "visits": 2122,
+      "downloads": 385
+    },
+    {
+      "month": "2024-06",
+      "visits": 1682,
+      "downloads": 273
+    },
+    {
+      "month": "2024-07",
+      "visits": 1852,
+      "downloads": 296
+    },
+    {
+      "month": "2024-08",
+      "visits": 1244,
+      "downloads": 145
+    },
+    {
+      "month": "2024-09",
+      "visits": 2101,
+      "downloads": 259
+    },
+    {
+      "month": "2024-10",
+      "visits": 2853,
+      "downloads": 397
+    },
+    {
+      "month": "2024-11",
+      "visits": 4523,
+      "downloads": 473
+    },
+    {
+      "month": "2024-12",
+      "visits": 4924,
+      "downloads": 614
+    },
+    {
+      "month": "2025-01",
+      "visits": 329,
+      "downloads": 10
+    },
+    {
+      "month": "2025-02",
+      "visits": 2461,
+      "downloads": 330
+    },
+    {
+      "month": "2025-03",
+      "visits": 2707,
+      "downloads": 288
+    },
+    {
+      "month": "2025-04",
+      "visits": 2497,
+      "downloads": 251
+    },
+    {
+      "month": "2025-05",
+      "visits": 2218,
+      "downloads": 259
+    },
+    {
+      "month": "2025-06",
+      "visits": 1927,
+      "downloads": 184
+    },
+    {
+      "month": "2025-07",
+      "visits": 1490,
+      "downloads": 167
+    },
+    {
+      "month": "2025-08",
+      "visits": 947,
+      "downloads": 118
+    },
+    {
+      "month": "2025-09",
+      "visits": 1463,
+      "downloads": 247
+    },
+    {
+      "month": "2025-10",
+      "visits": 1608,
+      "downloads": 255
+    },
+    {
+      "month": "2025-11",
+      "visits": 2030,
+      "downloads": 311
+    },
+    {
+      "month": "2025-12",
+      "visits": 162,
+      "downloads": 17
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

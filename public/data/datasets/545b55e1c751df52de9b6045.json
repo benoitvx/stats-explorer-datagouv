@@ -5,8 +5,8 @@
   "organization": "La Poste",
   "organizationId": "534fff85a3a7292c64a77e9c",
   "url": "https://www.data.gouv.fr/datasets/base-officielle-des-codes-postaux/",
-  "totalVisits": 449653,
-  "totalDownloads": 127053,
+  "totalVisits": 450098,
+  "totalDownloads": 126287,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 10642,
-      "downloads": 3801
+      "downloads": 3221
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 12405,
-      "downloads": 4642
+      "downloads": 4198
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 189,
-      "downloads": 74
+      "visits": 634,
+      "downloads": 332
     }
   ],
   "firstMonth": "2022-07",

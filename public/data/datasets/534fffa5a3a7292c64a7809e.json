@@ -1,0 +1,174 @@
+{
+  "id": "534fffa5a3a7292c64a7809e",
+  "title": "Dataset 534fffa5a3a7292c64a7809e",
+  "slug": "534fffa5a3a7292c64a7809e",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/fr/datasets/534fffa5a3a7292c64a7809e/",
+  "totalVisits": 34929,
+  "totalDownloads": 0,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-08",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-09",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-10",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-11",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2023-12",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-02",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-06",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-07",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-08",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-09",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-10",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-11",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2025-01",
+      "visits": 0,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 189,
+      "downloads": 0
+    },
+    {
+      "month": "2025-03",
+      "visits": 435,
+      "downloads": 0
+    },
+    {
+      "month": "2025-04",
+      "visits": 313,
+      "downloads": 0
+    },
+    {
+      "month": "2025-05",
+      "visits": 4166,
+      "downloads": 0
+    },
+    {
+      "month": "2025-06",
+      "visits": 4568,
+      "downloads": 0
+    },
+    {
+      "month": "2025-07",
+      "visits": 3904,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 3877,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 5129,
+      "downloads": 0
+    },
+    {
+      "month": "2025-10",
+      "visits": 5270,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 6745,
+      "downloads": 0
+    },
+    {
+      "month": "2025-12",
+      "visits": 333,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "5a561801c751df42d7fca9b6",
+  "title": "Quartiers prioritaires de la politique de la ville (QPV)",
+  "slug": "quartiers-prioritaires-de-la-politique-de-la-ville-qpv",
+  "organization": "Agence nationale de la cohésion des territoires",
+  "organizationId": "5901f4dfc751df412e7bb92d",
+  "url": "https://www.data.gouv.fr/datasets/quartiers-prioritaires-de-la-politique-de-la-ville-qpv/",
+  "totalVisits": 194968,
+  "totalDownloads": 41686,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1644,
+      "downloads": 387
+    },
+    {
+      "month": "2022-08",
+      "visits": 2295,
+      "downloads": 516
+    },
+    {
+      "month": "2022-09",
+      "visits": 3133,
+      "downloads": 730
+    },
+    {
+      "month": "2022-10",
+      "visits": 3607,
+      "downloads": 1084
+    },
+    {
+      "month": "2022-11",
+      "visits": 3266,
+      "downloads": 829
+    },
+    {
+      "month": "2022-12",
+      "visits": 2766,
+      "downloads": 638
+    },
+    {
+      "month": "2023-01",
+      "visits": 3539,
+      "downloads": 880
+    },
+    {
+      "month": "2023-02",
+      "visits": 2765,
+      "downloads": 475
+    },
+    {
+      "month": "2023-03",
+      "visits": 3457,
+      "downloads": 822
+    },
+    {
+      "month": "2023-04",
+      "visits": 2452,
+      "downloads": 609
+    },
+    {
+      "month": "2023-05",
+      "visits": 2093,
+      "downloads": 465
+    },
+    {
+      "month": "2023-06",
+      "visits": 2375,
+      "downloads": 634
+    },
+    {
+      "month": "2023-07",
+      "visits": 2561,
+      "downloads": 566
+    },
+    {
+      "month": "2023-08",
+      "visits": 2395,
+      "downloads": 438
+    },
+    {
+      "month": "2023-09",
+      "visits": 3417,
+      "downloads": 471
+    },
+    {
+      "month": "2023-10",
+      "visits": 3112,
+      "downloads": 544
+    },
+    {
+      "month": "2023-11",
+      "visits": 3402,
+      "downloads": 441
+    },
+    {
+      "month": "2023-12",
+      "visits": 3758,
+      "downloads": 483
+    },
+    {
+      "month": "2024-01",
+      "visits": 9596,
+      "downloads": 1111
+    },
+    {
+      "month": "2024-02",
+      "visits": 10877,
+      "downloads": 2636
+    },
+    {
+      "month": "2024-03",
+      "visits": 8748,
+      "downloads": 1934
+    },
+    {
+      "month": "2024-04",
+      "visits": 6651,
+      "downloads": 1381
+    },
+    {
+      "month": "2024-05",
+      "visits": 6758,
+      "downloads": 1680
+    },
+    {
+      "month": "2024-06",
+      "visits": 5872,
+      "downloads": 1567
+    },
+    {
+      "month": "2024-07",
+      "visits": 5224,
+      "downloads": 1399
+    },
+    {
+      "month": "2024-08",
+      "visits": 3767,
+      "downloads": 936
+    },
+    {
+      "month": "2024-09",
+      "visits": 6810,
+      "downloads": 1558
+    },
+    {
+      "month": "2024-10",
+      "visits": 6217,
+      "downloads": 1420
+    },
+    {
+      "month": "2024-11",
+      "visits": 5579,
+      "downloads": 1259
+    },
+    {
+      "month": "2024-12",
+      "visits": 3473,
+      "downloads": 733
+    },
+    {
+      "month": "2025-01",
+      "visits": 750,
+      "downloads": 376
+    },
+    {
+      "month": "2025-02",
+      "visits": 4475,
+      "downloads": 1357
+    },
+    {
+      "month": "2025-03",
+      "visits": 7505,
+      "downloads": 1551
+    },
+    {
+      "month": "2025-04",
+      "visits": 6952,
+      "downloads": 1267
+    },
+    {
+      "month": "2025-05",
+      "visits": 6958,
+      "downloads": 1016
+    },
+    {
+      "month": "2025-06",
+      "visits": 7232,
+      "downloads": 1027
+    },
+    {
+      "month": "2025-07",
+      "visits": 5916,
+      "downloads": 980
+    },
+    {
+      "month": "2025-08",
+      "visits": 4432,
+      "downloads": 1016
+    },
+    {
+      "month": "2025-09",
+      "visits": 5844,
+      "downloads": 1646
+    },
+    {
+      "month": "2025-10",
+      "visits": 6939,
+      "downloads": 1227
+    },
+    {
+      "month": "2025-11",
+      "visits": 5995,
+      "downloads": 1501
+    },
+    {
+      "month": "2025-12",
+      "visits": 361,
+      "downloads": 96
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

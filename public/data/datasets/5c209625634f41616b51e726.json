@@ -1,0 +1,224 @@
+{
+  "id": "5c209625634f41616b51e726",
+  "title": "Optymo - Vélo en libre service",
+  "slug": "optymo-velo-en-libre-service",
+  "organization": "Optymo - Belfort",
+  "organizationId": "5b11425c88ee387510d9dcfb",
+  "url": "https://www.data.gouv.fr/datasets/optymo-velo-en-libre-service/",
+  "totalVisits": 4067,
+  "totalDownloads": 2326134,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 23,
+      "downloads": 9
+    },
+    {
+      "month": "2022-08",
+      "visits": 37,
+      "downloads": 6
+    },
+    {
+      "month": "2022-09",
+      "visits": 56,
+      "downloads": 13
+    },
+    {
+      "month": "2022-10",
+      "visits": 89,
+      "downloads": 17
+    },
+    {
+      "month": "2022-11",
+      "visits": 95,
+      "downloads": 18
+    },
+    {
+      "month": "2022-12",
+      "visits": 80,
+      "downloads": 20
+    },
+    {
+      "month": "2023-01",
+      "visits": 65,
+      "downloads": 2
+    },
+    {
+      "month": "2023-02",
+      "visits": 54,
+      "downloads": 16
+    },
+    {
+      "month": "2023-03",
+      "visits": 58,
+      "downloads": 37
+    },
+    {
+      "month": "2023-04",
+      "visits": 45,
+      "downloads": 30
+    },
+    {
+      "month": "2023-05",
+      "visits": 56,
+      "downloads": 29
+    },
+    {
+      "month": "2023-06",
+      "visits": 78,
+      "downloads": 45
+    },
+    {
+      "month": "2023-07",
+      "visits": 59,
+      "downloads": 45
+    },
+    {
+      "month": "2023-08",
+      "visits": 55,
+      "downloads": 48
+    },
+    {
+      "month": "2023-09",
+      "visits": 94,
+      "downloads": 74
+    },
+    {
+      "month": "2023-10",
+      "visits": 70,
+      "downloads": 56
+    },
+    {
+      "month": "2023-11",
+      "visits": 75,
+      "downloads": 13503
+    },
+    {
+      "month": "2023-12",
+      "visits": 102,
+      "downloads": 178648
+    },
+    {
+      "month": "2024-01",
+      "visits": 114,
+      "downloads": 139897
+    },
+    {
+      "month": "2024-02",
+      "visits": 85,
+      "downloads": 167066
+    },
+    {
+      "month": "2024-03",
+      "visits": 78,
+      "downloads": 183986
+    },
+    {
+      "month": "2024-04",
+      "visits": 100,
+      "downloads": 173164
+    },
+    {
+      "month": "2024-05",
+      "visits": 93,
+      "downloads": 184805
+    },
+    {
+      "month": "2024-06",
+      "visits": 142,
+      "downloads": 215990
+    },
+    {
+      "month": "2024-07",
+      "visits": 101,
+      "downloads": 250584
+    },
+    {
+      "month": "2024-08",
+      "visits": 97,
+      "downloads": 312464
+    },
+    {
+      "month": "2024-09",
+      "visits": 62,
+      "downloads": 302607
+    },
+    {
+      "month": "2024-10",
+      "visits": 76,
+      "downloads": 201685
+    },
+    {
+      "month": "2024-11",
+      "visits": 99,
+      "downloads": 100
+    },
+    {
+      "month": "2024-12",
+      "visits": 58,
+      "downloads": 72
+    },
+    {
+      "month": "2025-01",
+      "visits": 81,
+      "downloads": 94
+    },
+    {
+      "month": "2025-02",
+      "visits": 127,
+      "downloads": 96
+    },
+    {
+      "month": "2025-03",
+      "visits": 200,
+      "downloads": 80
+    },
+    {
+      "month": "2025-04",
+      "visits": 146,
+      "downloads": 51
+    },
+    {
+      "month": "2025-05",
+      "visits": 255,
+      "downloads": 115
+    },
+    {
+      "month": "2025-06",
+      "visits": 164,
+      "downloads": 92
+    },
+    {
+      "month": "2025-07",
+      "visits": 138,
+      "downloads": 97
+    },
+    {
+      "month": "2025-08",
+      "visits": 255,
+      "downloads": 68
+    },
+    {
+      "month": "2025-09",
+      "visits": 97,
+      "downloads": 97
+    },
+    {
+      "month": "2025-10",
+      "visits": 157,
+      "downloads": 294
+    },
+    {
+      "month": "2025-11",
+      "visits": 148,
+      "downloads": 13
+    },
+    {
+      "month": "2025-12",
+      "visits": 3,
+      "downloads": 1
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

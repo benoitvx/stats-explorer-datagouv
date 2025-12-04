@@ -1,0 +1,24 @@
+{
+  "id": "69052840015591aa63df45bc",
+  "title": "Société en Polynésie française",
+  "slug": "societe-en-polynesie-francaise",
+  "organization": "Institut de la statistique de la Polynésie française",
+  "organizationId": "56a29970c751df2a1cade714",
+  "url": "https://www.data.gouv.fr/datasets/societe-en-polynesie-francaise/",
+  "totalVisits": 397,
+  "totalDownloads": 15251,
+  "monthlyStats": [
+    {
+      "month": "2025-11",
+      "visits": 392,
+      "downloads": 14532
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 719
+    }
+  ],
+  "firstMonth": "2025-11",
+  "lastMonth": "2025-12"
+}

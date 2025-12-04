@@ -1,0 +1,224 @@
+{
+  "id": "5b3cc551c751df4822526c1c",
+  "title": "Jours fériés en France",
+  "slug": "jours-feries-en-france",
+  "organization": "data.gouv.fr",
+  "organizationId": "646b7187b50b2a93b1ae3d45",
+  "url": "https://www.data.gouv.fr/datasets/jours-feries-en-france/",
+  "totalVisits": 476162,
+  "totalDownloads": 37633816,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1475,
+      "downloads": 343617
+    },
+    {
+      "month": "2022-08",
+      "visits": 2633,
+      "downloads": 557626
+    },
+    {
+      "month": "2022-09",
+      "visits": 4581,
+      "downloads": 604709
+    },
+    {
+      "month": "2022-10",
+      "visits": 5022,
+      "downloads": 634300
+    },
+    {
+      "month": "2022-11",
+      "visits": 3524,
+      "downloads": 643379
+    },
+    {
+      "month": "2022-12",
+      "visits": 3052,
+      "downloads": 610527
+    },
+    {
+      "month": "2023-01",
+      "visits": 3918,
+      "downloads": 666049
+    },
+    {
+      "month": "2023-02",
+      "visits": 3199,
+      "downloads": 593150
+    },
+    {
+      "month": "2023-03",
+      "visits": 4087,
+      "downloads": 744141
+    },
+    {
+      "month": "2023-04",
+      "visits": 4293,
+      "downloads": 728192
+    },
+    {
+      "month": "2023-05",
+      "visits": 3751,
+      "downloads": 741278
+    },
+    {
+      "month": "2023-06",
+      "visits": 2793,
+      "downloads": 835770
+    },
+    {
+      "month": "2023-07",
+      "visits": 2811,
+      "downloads": 827787
+    },
+    {
+      "month": "2023-08",
+      "visits": 2681,
+      "downloads": 777316
+    },
+    {
+      "month": "2023-09",
+      "visits": 3099,
+      "downloads": 1252324
+    },
+    {
+      "month": "2023-10",
+      "visits": 3598,
+      "downloads": 1409786
+    },
+    {
+      "month": "2023-11",
+      "visits": 3575,
+      "downloads": 1010456
+    },
+    {
+      "month": "2023-12",
+      "visits": 3665,
+      "downloads": 950849
+    },
+    {
+      "month": "2024-01",
+      "visits": 4484,
+      "downloads": 1045976
+    },
+    {
+      "month": "2024-02",
+      "visits": 3821,
+      "downloads": 1055262
+    },
+    {
+      "month": "2024-03",
+      "visits": 4904,
+      "downloads": 1109803
+    },
+    {
+      "month": "2024-04",
+      "visits": 5734,
+      "downloads": 975484
+    },
+    {
+      "month": "2024-05",
+      "visits": 4189,
+      "downloads": 1036243
+    },
+    {
+      "month": "2024-06",
+      "visits": 3082,
+      "downloads": 1024409
+    },
+    {
+      "month": "2024-07",
+      "visits": 3153,
+      "downloads": 992126
+    },
+    {
+      "month": "2024-08",
+      "visits": 3286,
+      "downloads": 969669
+    },
+    {
+      "month": "2024-09",
+      "visits": 3826,
+      "downloads": 1091136
+    },
+    {
+      "month": "2024-10",
+      "visits": 7203,
+      "downloads": 1048060
+    },
+    {
+      "month": "2024-11",
+      "visits": 9445,
+      "downloads": 1120573
+    },
+    {
+      "month": "2024-12",
+      "visits": 12666,
+      "downloads": 920659
+    },
+    {
+      "month": "2025-01",
+      "visits": 16609,
+      "downloads": 817035
+    },
+    {
+      "month": "2025-02",
+      "visits": 28549,
+      "downloads": 1027203
+    },
+    {
+      "month": "2025-03",
+      "visits": 32398,
+      "downloads": 1109259
+    },
+    {
+      "month": "2025-04",
+      "visits": 41782,
+      "downloads": 1099770
+    },
+    {
+      "month": "2025-05",
+      "visits": 47618,
+      "downloads": 1107565
+    },
+    {
+      "month": "2025-06",
+      "visits": 38823,
+      "downloads": 1041105
+    },
+    {
+      "month": "2025-07",
+      "visits": 39412,
+      "downloads": 1071274
+    },
+    {
+      "month": "2025-08",
+      "visits": 35367,
+      "downloads": 975131
+    },
+    {
+      "month": "2025-09",
+      "visits": 22165,
+      "downloads": 1052065
+    },
+    {
+      "month": "2025-10",
+      "visits": 22309,
+      "downloads": 943849
+    },
+    {
+      "month": "2025-11",
+      "visits": 21559,
+      "downloads": 998615
+    },
+    {
+      "month": "2025-12",
+      "visits": 2021,
+      "downloads": 70289
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "55f27f8988ee383ebda46ec1",
+  "title": "Menus des restaurants, brasseries et cafétérias",
+  "slug": "menus-des-restaurants-brasseries-et-cafeterias",
+  "organization": "Centre National des Œuvres Universitaires et Scolaires",
+  "organizationId": "552e97f3c751df636537dddb",
+  "url": "https://www.data.gouv.fr/datasets/menus-des-restaurants-brasseries-et-cafeterias/",
+  "totalVisits": 6626,
+  "totalDownloads": 2368679,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 57,
+      "downloads": 5619
+    },
+    {
+      "month": "2022-08",
+      "visits": 79,
+      "downloads": 20336
+    },
+    {
+      "month": "2022-09",
+      "visits": 88,
+      "downloads": 85481
+    },
+    {
+      "month": "2022-10",
+      "visits": 96,
+      "downloads": 72716
+    },
+    {
+      "month": "2022-11",
+      "visits": 124,
+      "downloads": 46450
+    },
+    {
+      "month": "2022-12",
+      "visits": 130,
+      "downloads": 19463
+    },
+    {
+      "month": "2023-01",
+      "visits": 106,
+      "downloads": 42298
+    },
+    {
+      "month": "2023-02",
+      "visits": 78,
+      "downloads": 36145
+    },
+    {
+      "month": "2023-03",
+      "visits": 94,
+      "downloads": 45847
+    },
+    {
+      "month": "2023-04",
+      "visits": 79,
+      "downloads": 19697
+    },
+    {
+      "month": "2023-05",
+      "visits": 93,
+      "downloads": 16928
+    },
+    {
+      "month": "2023-06",
+      "visits": 124,
+      "downloads": 9366
+    },
+    {
+      "month": "2023-07",
+      "visits": 98,
+      "downloads": 6330
+    },
+    {
+      "month": "2023-08",
+      "visits": 94,
+      "downloads": 14356
+    },
+    {
+      "month": "2023-09",
+      "visits": 158,
+      "downloads": 150954
+    },
+    {
+      "month": "2023-10",
+      "visits": 149,
+      "downloads": 108968
+    },
+    {
+      "month": "2023-11",
+      "visits": 167,
+      "downloads": 92306
+    },
+    {
+      "month": "2023-12",
+      "visits": 195,
+      "downloads": 54209
+    },
+    {
+      "month": "2024-01",
+      "visits": 183,
+      "downloads": 78388
+    },
+    {
+      "month": "2024-02",
+      "visits": 155,
+      "downloads": 93114
+    },
+    {
+      "month": "2024-03",
+      "visits": 155,
+      "downloads": 77433
+    },
+    {
+      "month": "2024-04",
+      "visits": 155,
+      "downloads": 48642
+    },
+    {
+      "month": "2024-05",
+      "visits": 158,
+      "downloads": 31775
+    },
+    {
+      "month": "2024-06",
+      "visits": 163,
+      "downloads": 19121
+    },
+    {
+      "month": "2024-07",
+      "visits": 162,
+      "downloads": 11771
+    },
+    {
+      "month": "2024-08",
+      "visits": 150,
+      "downloads": 21311
+    },
+    {
+      "month": "2024-09",
+      "visits": 166,
+      "downloads": 151715
+    },
+    {
+      "month": "2024-10",
+      "visits": 168,
+      "downloads": 110544
+    },
+    {
+      "month": "2024-11",
+      "visits": 273,
+      "downloads": 96510
+    },
+    {
+      "month": "2024-12",
+      "visits": 165,
+      "downloads": 54317
+    },
+    {
+      "month": "2025-01",
+      "visits": 99,
+      "downloads": 84328
+    },
+    {
+      "month": "2025-02",
+      "visits": 234,
+      "downloads": 76572
+    },
+    {
+      "month": "2025-03",
+      "visits": 196,
+      "downloads": 78862
+    },
+    {
+      "month": "2025-04",
+      "visits": 224,
+      "downloads": 58841
+    },
+    {
+      "month": "2025-05",
+      "visits": 259,
+      "downloads": 34890
+    },
+    {
+      "month": "2025-06",
+      "visits": 281,
+      "downloads": 19791
+    },
+    {
+      "month": "2025-07",
+      "visits": 203,
+      "downloads": 13629
+    },
+    {
+      "month": "2025-08",
+      "visits": 213,
+      "downloads": 20572
+    },
+    {
+      "month": "2025-09",
+      "visits": 227,
+      "downloads": 135804
+    },
+    {
+      "month": "2025-10",
+      "visits": 197,
+      "downloads": 99347
+    },
+    {
+      "month": "2025-11",
+      "visits": 425,
+      "downloads": 97609
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 6324
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

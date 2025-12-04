@@ -1,0 +1,134 @@
+{
+  "id": "6597f7ac95a150478363d723",
+  "title": "2024 : Espérance de vie par régions, départements et villes",
+  "slug": "2024-esperance-de-vie-par-regions-departements-et-villes",
+  "organization": "INTERPRESSE",
+  "organizationId": "6597f5f35fafe9260a0cd0b2",
+  "url": "https://www.data.gouv.fr/datasets/2024-esperance-de-vie-par-regions-departements-et-villes/",
+  "totalVisits": 94294,
+  "totalDownloads": 8002,
+  "monthlyStats": [
+    {
+      "month": "2024-01",
+      "visits": 706,
+      "downloads": 97
+    },
+    {
+      "month": "2024-02",
+      "visits": 971,
+      "downloads": 151
+    },
+    {
+      "month": "2024-03",
+      "visits": 1697,
+      "downloads": 269
+    },
+    {
+      "month": "2024-04",
+      "visits": 2549,
+      "downloads": 444
+    },
+    {
+      "month": "2024-05",
+      "visits": 2935,
+      "downloads": 425
+    },
+    {
+      "month": "2024-06",
+      "visits": 2864,
+      "downloads": 375
+    },
+    {
+      "month": "2024-07",
+      "visits": 3513,
+      "downloads": 483
+    },
+    {
+      "month": "2024-08",
+      "visits": 4293,
+      "downloads": 682
+    },
+    {
+      "month": "2024-09",
+      "visits": 4187,
+      "downloads": 511
+    },
+    {
+      "month": "2024-10",
+      "visits": 5287,
+      "downloads": 547
+    },
+    {
+      "month": "2024-11",
+      "visits": 6463,
+      "downloads": 599
+    },
+    {
+      "month": "2024-12",
+      "visits": 3986,
+      "downloads": 314
+    },
+    {
+      "month": "2025-01",
+      "visits": 442,
+      "downloads": 64
+    },
+    {
+      "month": "2025-02",
+      "visits": 6077,
+      "downloads": 483
+    },
+    {
+      "month": "2025-03",
+      "visits": 6580,
+      "downloads": 357
+    },
+    {
+      "month": "2025-04",
+      "visits": 5565,
+      "downloads": 341
+    },
+    {
+      "month": "2025-05",
+      "visits": 5266,
+      "downloads": 275
+    },
+    {
+      "month": "2025-06",
+      "visits": 4212,
+      "downloads": 242
+    },
+    {
+      "month": "2025-07",
+      "visits": 4126,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 4667,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 5032,
+      "downloads": 316
+    },
+    {
+      "month": "2025-10",
+      "visits": 6073,
+      "downloads": 368
+    },
+    {
+      "month": "2025-11",
+      "visits": 6288,
+      "downloads": 647
+    },
+    {
+      "month": "2025-12",
+      "visits": 515,
+      "downloads": 12
+    }
+  ],
+  "firstMonth": "2024-01",
+  "lastMonth": "2025-12"
+}

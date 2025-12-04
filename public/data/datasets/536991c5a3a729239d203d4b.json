@@ -1,0 +1,224 @@
+{
+  "id": "536991c5a3a729239d203d4b",
+  "title": "Correspondance entre les codes postaux et codes INSEE des communes Françaises.",
+  "slug": "correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises",
+  "organization": "Huwise",
+  "organizationId": "534fffa0a3a7292c64a78061",
+  "url": "https://www.data.gouv.fr/datasets/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises/",
+  "totalVisits": 88824,
+  "totalDownloads": 29658,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 650,
+      "downloads": 198
+    },
+    {
+      "month": "2022-08",
+      "visits": 967,
+      "downloads": 280
+    },
+    {
+      "month": "2022-09",
+      "visits": 1187,
+      "downloads": 396
+    },
+    {
+      "month": "2022-10",
+      "visits": 1347,
+      "downloads": 407
+    },
+    {
+      "month": "2022-11",
+      "visits": 1406,
+      "downloads": 411
+    },
+    {
+      "month": "2022-12",
+      "visits": 1259,
+      "downloads": 352
+    },
+    {
+      "month": "2023-01",
+      "visits": 1461,
+      "downloads": 372
+    },
+    {
+      "month": "2023-02",
+      "visits": 1223,
+      "downloads": 283
+    },
+    {
+      "month": "2023-03",
+      "visits": 1287,
+      "downloads": 420
+    },
+    {
+      "month": "2023-04",
+      "visits": 1076,
+      "downloads": 306
+    },
+    {
+      "month": "2023-05",
+      "visits": 961,
+      "downloads": 295
+    },
+    {
+      "month": "2023-06",
+      "visits": 1098,
+      "downloads": 305
+    },
+    {
+      "month": "2023-07",
+      "visits": 1250,
+      "downloads": 383
+    },
+    {
+      "month": "2023-08",
+      "visits": 1491,
+      "downloads": 421
+    },
+    {
+      "month": "2023-09",
+      "visits": 2335,
+      "downloads": 604
+    },
+    {
+      "month": "2023-10",
+      "visits": 1681,
+      "downloads": 636
+    },
+    {
+      "month": "2023-11",
+      "visits": 1605,
+      "downloads": 621
+    },
+    {
+      "month": "2023-12",
+      "visits": 1452,
+      "downloads": 597
+    },
+    {
+      "month": "2024-01",
+      "visits": 2124,
+      "downloads": 909
+    },
+    {
+      "month": "2024-02",
+      "visits": 2004,
+      "downloads": 884
+    },
+    {
+      "month": "2024-03",
+      "visits": 2148,
+      "downloads": 1096
+    },
+    {
+      "month": "2024-04",
+      "visits": 2043,
+      "downloads": 886
+    },
+    {
+      "month": "2024-05",
+      "visits": 1707,
+      "downloads": 732
+    },
+    {
+      "month": "2024-06",
+      "visits": 2124,
+      "downloads": 848
+    },
+    {
+      "month": "2024-07",
+      "visits": 2434,
+      "downloads": 976
+    },
+    {
+      "month": "2024-08",
+      "visits": 1746,
+      "downloads": 601
+    },
+    {
+      "month": "2024-09",
+      "visits": 2368,
+      "downloads": 933
+    },
+    {
+      "month": "2024-10",
+      "visits": 2719,
+      "downloads": 1240
+    },
+    {
+      "month": "2024-11",
+      "visits": 2541,
+      "downloads": 988
+    },
+    {
+      "month": "2024-12",
+      "visits": 2019,
+      "downloads": 667
+    },
+    {
+      "month": "2025-01",
+      "visits": 325,
+      "downloads": 94
+    },
+    {
+      "month": "2025-02",
+      "visits": 3567,
+      "downloads": 965
+    },
+    {
+      "month": "2025-03",
+      "visits": 4039,
+      "downloads": 1343
+    },
+    {
+      "month": "2025-04",
+      "visits": 4246,
+      "downloads": 1444
+    },
+    {
+      "month": "2025-05",
+      "visits": 4536,
+      "downloads": 1298
+    },
+    {
+      "month": "2025-06",
+      "visits": 3230,
+      "downloads": 966
+    },
+    {
+      "month": "2025-07",
+      "visits": 2893,
+      "downloads": 984
+    },
+    {
+      "month": "2025-08",
+      "visits": 3184,
+      "downloads": 859
+    },
+    {
+      "month": "2025-09",
+      "visits": 4238,
+      "downloads": 1209
+    },
+    {
+      "month": "2025-10",
+      "visits": 4668,
+      "downloads": 1206
+    },
+    {
+      "month": "2025-11",
+      "visits": 3947,
+      "downloads": 1179
+    },
+    {
+      "month": "2025-12",
+      "visits": 238,
+      "downloads": 64
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

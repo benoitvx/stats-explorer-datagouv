@@ -1,0 +1,74 @@
+{
+  "id": "677e761a87ae534a367fa7aa",
+  "title": "Taureaux utilisables en monte publique par insémination",
+  "slug": "taureaux-utilisables-en-monte-publique-par-insemination",
+  "organization": "France Génétique Elevage",
+  "organizationId": "677e6df11def201420da3cf4",
+  "url": "https://www.data.gouv.fr/datasets/taureaux-utilisables-en-monte-publique-par-insemination/",
+  "totalVisits": 34624,
+  "totalDownloads": 13335,
+  "monthlyStats": [
+    {
+      "month": "2025-01",
+      "visits": 102,
+      "downloads": 1458
+    },
+    {
+      "month": "2025-02",
+      "visits": 138,
+      "downloads": 15
+    },
+    {
+      "month": "2025-03",
+      "visits": 2940,
+      "downloads": 2808
+    },
+    {
+      "month": "2025-04",
+      "visits": 3176,
+      "downloads": 2449
+    },
+    {
+      "month": "2025-05",
+      "visits": 4340,
+      "downloads": 4218
+    },
+    {
+      "month": "2025-06",
+      "visits": 3208,
+      "downloads": 2134
+    },
+    {
+      "month": "2025-07",
+      "visits": 4374,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 4484,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 3103,
+      "downloads": 101
+    },
+    {
+      "month": "2025-10",
+      "visits": 4306,
+      "downloads": 78
+    },
+    {
+      "month": "2025-11",
+      "visits": 3045,
+      "downloads": 72
+    },
+    {
+      "month": "2025-12",
+      "visits": 1408,
+      "downloads": 2
+    }
+  ],
+  "firstMonth": "2025-01",
+  "lastMonth": "2025-12"
+}

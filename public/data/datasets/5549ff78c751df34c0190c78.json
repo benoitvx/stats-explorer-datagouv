@@ -1,0 +1,224 @@
+{
+  "id": "5549ff78c751df34c0190c78",
+  "title": "Base de données publique des médicaments vétérinaires autorisés en France",
+  "slug": "base-de-donnees-publique-des-medicaments-veterinaires-autorises-en-france-1",
+  "organization": "Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (Anses)",
+  "organizationId": "534fff50a3a7292c64a77cc0",
+  "url": "https://www.data.gouv.fr/datasets/base-de-donnees-publique-des-medicaments-veterinaires-autorises-en-france-1/",
+  "totalVisits": 106471,
+  "totalDownloads": 318589,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 177,
+      "downloads": 18910
+    },
+    {
+      "month": "2022-08",
+      "visits": 270,
+      "downloads": 31137
+    },
+    {
+      "month": "2022-09",
+      "visits": 361,
+      "downloads": 30425
+    },
+    {
+      "month": "2022-10",
+      "visits": 371,
+      "downloads": 31310
+    },
+    {
+      "month": "2022-11",
+      "visits": 368,
+      "downloads": 30295
+    },
+    {
+      "month": "2022-12",
+      "visits": 415,
+      "downloads": 30096
+    },
+    {
+      "month": "2023-01",
+      "visits": 535,
+      "downloads": 29969
+    },
+    {
+      "month": "2023-02",
+      "visits": 478,
+      "downloads": 27279
+    },
+    {
+      "month": "2023-03",
+      "visits": 548,
+      "downloads": 31298
+    },
+    {
+      "month": "2023-04",
+      "visits": 476,
+      "downloads": 29941
+    },
+    {
+      "month": "2023-05",
+      "visits": 419,
+      "downloads": 13952
+    },
+    {
+      "month": "2023-06",
+      "visits": 531,
+      "downloads": 488
+    },
+    {
+      "month": "2023-07",
+      "visits": 561,
+      "downloads": 388
+    },
+    {
+      "month": "2023-08",
+      "visits": 628,
+      "downloads": 494
+    },
+    {
+      "month": "2023-09",
+      "visits": 589,
+      "downloads": 858
+    },
+    {
+      "month": "2023-10",
+      "visits": 682,
+      "downloads": 956
+    },
+    {
+      "month": "2023-11",
+      "visits": 666,
+      "downloads": 582
+    },
+    {
+      "month": "2023-12",
+      "visits": 713,
+      "downloads": 488
+    },
+    {
+      "month": "2024-01",
+      "visits": 729,
+      "downloads": 463
+    },
+    {
+      "month": "2024-02",
+      "visits": 701,
+      "downloads": 379
+    },
+    {
+      "month": "2024-03",
+      "visits": 710,
+      "downloads": 468
+    },
+    {
+      "month": "2024-04",
+      "visits": 645,
+      "downloads": 402
+    },
+    {
+      "month": "2024-05",
+      "visits": 668,
+      "downloads": 381
+    },
+    {
+      "month": "2024-06",
+      "visits": 690,
+      "downloads": 441
+    },
+    {
+      "month": "2024-07",
+      "visits": 707,
+      "downloads": 321
+    },
+    {
+      "month": "2024-08",
+      "visits": 529,
+      "downloads": 363
+    },
+    {
+      "month": "2024-09",
+      "visits": 728,
+      "downloads": 496
+    },
+    {
+      "month": "2024-10",
+      "visits": 799,
+      "downloads": 424
+    },
+    {
+      "month": "2024-11",
+      "visits": 987,
+      "downloads": 639
+    },
+    {
+      "month": "2024-12",
+      "visits": 720,
+      "downloads": 261
+    },
+    {
+      "month": "2025-01",
+      "visits": 349,
+      "downloads": 96
+    },
+    {
+      "month": "2025-02",
+      "visits": 928,
+      "downloads": 466
+    },
+    {
+      "month": "2025-03",
+      "visits": 9417,
+      "downloads": 376
+    },
+    {
+      "month": "2025-04",
+      "visits": 9737,
+      "downloads": 494
+    },
+    {
+      "month": "2025-05",
+      "visits": 9973,
+      "downloads": 464
+    },
+    {
+      "month": "2025-06",
+      "visits": 9387,
+      "downloads": 347
+    },
+    {
+      "month": "2025-07",
+      "visits": 10207,
+      "downloads": 653
+    },
+    {
+      "month": "2025-08",
+      "visits": 9817,
+      "downloads": 360
+    },
+    {
+      "month": "2025-09",
+      "visits": 9610,
+      "downloads": 465
+    },
+    {
+      "month": "2025-10",
+      "visits": 9854,
+      "downloads": 454
+    },
+    {
+      "month": "2025-11",
+      "visits": 9174,
+      "downloads": 484
+    },
+    {
+      "month": "2025-12",
+      "visits": 617,
+      "downloads": 26
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

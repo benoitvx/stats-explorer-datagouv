@@ -1,0 +1,184 @@
+{
+  "id": "643671587b87c77bffaae082",
+  "title": "Ruche Connectée Lycee Condorcet Saint-Quentin",
+  "slug": "ruche-connectee-lycee-condorcet-saint-quentin",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/ruche-connectee-lycee-condorcet-saint-quentin/",
+  "totalVisits": 12066,
+  "totalDownloads": 99977,
+  "monthlyStats": [
+    {
+      "month": "2023-03",
+      "visits": 4,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 351,
+      "downloads": 5
+    },
+    {
+      "month": "2023-05",
+      "visits": 48,
+      "downloads": 7
+    },
+    {
+      "month": "2023-06",
+      "visits": 62,
+      "downloads": 20665
+    },
+    {
+      "month": "2023-07",
+      "visits": 38,
+      "downloads": 5358
+    },
+    {
+      "month": "2023-08",
+      "visits": 33,
+      "downloads": 11
+    },
+    {
+      "month": "2023-09",
+      "visits": 18,
+      "downloads": 6171
+    },
+    {
+      "month": "2023-10",
+      "visits": 25,
+      "downloads": 3
+    },
+    {
+      "month": "2023-11",
+      "visits": 63,
+      "downloads": 236
+    },
+    {
+      "month": "2023-12",
+      "visits": 28,
+      "downloads": 3603
+    },
+    {
+      "month": "2024-01",
+      "visits": 18,
+      "downloads": 3
+    },
+    {
+      "month": "2024-02",
+      "visits": 34,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 22,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 24,
+      "downloads": 28
+    },
+    {
+      "month": "2024-05",
+      "visits": 20,
+      "downloads": 168
+    },
+    {
+      "month": "2024-06",
+      "visits": 27,
+      "downloads": 69
+    },
+    {
+      "month": "2024-07",
+      "visits": 14,
+      "downloads": 393
+    },
+    {
+      "month": "2024-08",
+      "visits": 16,
+      "downloads": 102
+    },
+    {
+      "month": "2024-09",
+      "visits": 25,
+      "downloads": 10
+    },
+    {
+      "month": "2024-10",
+      "visits": 7,
+      "downloads": 140
+    },
+    {
+      "month": "2024-11",
+      "visits": 31,
+      "downloads": 10
+    },
+    {
+      "month": "2024-12",
+      "visits": 7,
+      "downloads": 226
+    },
+    {
+      "month": "2025-01",
+      "visits": 11,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 21,
+      "downloads": 416
+    },
+    {
+      "month": "2025-03",
+      "visits": 32,
+      "downloads": 128
+    },
+    {
+      "month": "2025-04",
+      "visits": 18,
+      "downloads": 5514
+    },
+    {
+      "month": "2025-05",
+      "visits": 25,
+      "downloads": 0
+    },
+    {
+      "month": "2025-06",
+      "visits": 40,
+      "downloads": 10350
+    },
+    {
+      "month": "2025-07",
+      "visits": 49,
+      "downloads": 33805
+    },
+    {
+      "month": "2025-08",
+      "visits": 38,
+      "downloads": 10928
+    },
+    {
+      "month": "2025-09",
+      "visits": 33,
+      "downloads": 45
+    },
+    {
+      "month": "2025-10",
+      "visits": 5147,
+      "downloads": 1554
+    },
+    {
+      "month": "2025-11",
+      "visits": 5513,
+      "downloads": 25
+    },
+    {
+      "month": "2025-12",
+      "visits": 224,
+      "downloads": 4
+    }
+  ],
+  "firstMonth": "2023-03",
+  "lastMonth": "2025-12"
+}

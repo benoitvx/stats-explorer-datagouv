@@ -5,8 +5,8 @@
   "organization": "OpenStreetMap",
   "organizationId": "534fffa0a3a7292c64a7806b",
   "url": "https://www.data.gouv.fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/",
-  "totalVisits": 263771,
-  "totalDownloads": 115468,
+  "totalVisits": 264129,
+  "totalDownloads": 115245,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 5919,
-      "downloads": 2262
+      "downloads": 2092
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 8086,
-      "downloads": 3664
+      "downloads": 3362
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 124,
-      "downloads": 37
+      "visits": 482,
+      "downloads": 286
     }
   ],
   "firstMonth": "2022-07",

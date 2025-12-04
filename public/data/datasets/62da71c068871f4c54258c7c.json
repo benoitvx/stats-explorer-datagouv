@@ -1,0 +1,224 @@
+{
+  "id": "62da71c068871f4c54258c7c",
+  "title": "Registre national d'Immatriculation des Copropriétés",
+  "slug": "registre-national-dimmatriculation-des-coproprietes",
+  "organization": "Agence Nationale de l'Habitat",
+  "organizationId": "62da6837cde1491f3727cdb2",
+  "url": "https://www.data.gouv.fr/datasets/registre-national-dimmatriculation-des-coproprietes/",
+  "totalVisits": 330169,
+  "totalDownloads": 30176,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2146,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 2987,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 2742,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 2983,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 2857,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 2769,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 4257,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 2898,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 4088,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 3873,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 9167,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 3116,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 2923,
+      "downloads": 781
+    },
+    {
+      "month": "2023-08",
+      "visits": 2521,
+      "downloads": 974
+    },
+    {
+      "month": "2023-09",
+      "visits": 2672,
+      "downloads": 517
+    },
+    {
+      "month": "2023-10",
+      "visits": 3196,
+      "downloads": 966
+    },
+    {
+      "month": "2023-11",
+      "visits": 3894,
+      "downloads": 1249
+    },
+    {
+      "month": "2023-12",
+      "visits": 5495,
+      "downloads": 1106
+    },
+    {
+      "month": "2024-01",
+      "visits": 13289,
+      "downloads": 1429
+    },
+    {
+      "month": "2024-02",
+      "visits": 5581,
+      "downloads": 793
+    },
+    {
+      "month": "2024-03",
+      "visits": 5511,
+      "downloads": 1025
+    },
+    {
+      "month": "2024-04",
+      "visits": 4548,
+      "downloads": 1092
+    },
+    {
+      "month": "2024-05",
+      "visits": 4153,
+      "downloads": 1174
+    },
+    {
+      "month": "2024-06",
+      "visits": 5692,
+      "downloads": 995
+    },
+    {
+      "month": "2024-07",
+      "visits": 13679,
+      "downloads": 1249
+    },
+    {
+      "month": "2024-08",
+      "visits": 9229,
+      "downloads": 1141
+    },
+    {
+      "month": "2024-09",
+      "visits": 14589,
+      "downloads": 1502
+    },
+    {
+      "month": "2024-10",
+      "visits": 20697,
+      "downloads": 1944
+    },
+    {
+      "month": "2024-11",
+      "visits": 18012,
+      "downloads": 944
+    },
+    {
+      "month": "2024-12",
+      "visits": 10529,
+      "downloads": 596
+    },
+    {
+      "month": "2025-01",
+      "visits": 1518,
+      "downloads": 238
+    },
+    {
+      "month": "2025-02",
+      "visits": 15773,
+      "downloads": 968
+    },
+    {
+      "month": "2025-03",
+      "visits": 21633,
+      "downloads": 1055
+    },
+    {
+      "month": "2025-04",
+      "visits": 22398,
+      "downloads": 924
+    },
+    {
+      "month": "2025-05",
+      "visits": 18019,
+      "downloads": 801
+    },
+    {
+      "month": "2025-06",
+      "visits": 19438,
+      "downloads": 798
+    },
+    {
+      "month": "2025-07",
+      "visits": 15371,
+      "downloads": 435
+    },
+    {
+      "month": "2025-08",
+      "visits": 5883,
+      "downloads": 409
+    },
+    {
+      "month": "2025-09",
+      "visits": 6487,
+      "downloads": 1373
+    },
+    {
+      "month": "2025-10",
+      "visits": 7313,
+      "downloads": 2206
+    },
+    {
+      "month": "2025-11",
+      "visits": 5869,
+      "downloads": 1389
+    },
+    {
+      "month": "2025-12",
+      "visits": 374,
+      "downloads": 103
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

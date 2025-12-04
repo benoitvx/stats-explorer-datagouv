@@ -1,0 +1,224 @@
+{
+  "id": "5369a15fa3a729239d2065b7",
+  "title": "Table de composition nutritionnelle des aliments Ciqual 2020",
+  "slug": "table-de-composition-nutritionnelle-des-aliments-ciqual-2020",
+  "organization": "Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (Anses)",
+  "organizationId": "534fff50a3a7292c64a77cc0",
+  "url": "https://www.data.gouv.fr/datasets/table-de-composition-nutritionnelle-des-aliments-ciqual-2020/",
+  "totalVisits": 288609,
+  "totalDownloads": 59847,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2064,
+      "downloads": 614
+    },
+    {
+      "month": "2022-08",
+      "visits": 3627,
+      "downloads": 1261
+    },
+    {
+      "month": "2022-09",
+      "visits": 4134,
+      "downloads": 1396
+    },
+    {
+      "month": "2022-10",
+      "visits": 4531,
+      "downloads": 1563
+    },
+    {
+      "month": "2022-11",
+      "visits": 4617,
+      "downloads": 1431
+    },
+    {
+      "month": "2022-12",
+      "visits": 3258,
+      "downloads": 1302
+    },
+    {
+      "month": "2023-01",
+      "visits": 5158,
+      "downloads": 1717
+    },
+    {
+      "month": "2023-02",
+      "visits": 3885,
+      "downloads": 1106
+    },
+    {
+      "month": "2023-03",
+      "visits": 4439,
+      "downloads": 1353
+    },
+    {
+      "month": "2023-04",
+      "visits": 3899,
+      "downloads": 1140
+    },
+    {
+      "month": "2023-05",
+      "visits": 3944,
+      "downloads": 1183
+    },
+    {
+      "month": "2023-06",
+      "visits": 3901,
+      "downloads": 1297
+    },
+    {
+      "month": "2023-07",
+      "visits": 3639,
+      "downloads": 1039
+    },
+    {
+      "month": "2023-08",
+      "visits": 3962,
+      "downloads": 1266
+    },
+    {
+      "month": "2023-09",
+      "visits": 4157,
+      "downloads": 1330
+    },
+    {
+      "month": "2023-10",
+      "visits": 5298,
+      "downloads": 1534
+    },
+    {
+      "month": "2023-11",
+      "visits": 5541,
+      "downloads": 1697
+    },
+    {
+      "month": "2023-12",
+      "visits": 5071,
+      "downloads": 1416
+    },
+    {
+      "month": "2024-01",
+      "visits": 9657,
+      "downloads": 1800
+    },
+    {
+      "month": "2024-02",
+      "visits": 6863,
+      "downloads": 1743
+    },
+    {
+      "month": "2024-03",
+      "visits": 7384,
+      "downloads": 2060
+    },
+    {
+      "month": "2024-04",
+      "visits": 6351,
+      "downloads": 1660
+    },
+    {
+      "month": "2024-05",
+      "visits": 6591,
+      "downloads": 2004
+    },
+    {
+      "month": "2024-06",
+      "visits": 5440,
+      "downloads": 1393
+    },
+    {
+      "month": "2024-07",
+      "visits": 6466,
+      "downloads": 1237
+    },
+    {
+      "month": "2024-08",
+      "visits": 6821,
+      "downloads": 1549
+    },
+    {
+      "month": "2024-09",
+      "visits": 9064,
+      "downloads": 1471
+    },
+    {
+      "month": "2024-10",
+      "visits": 11478,
+      "downloads": 1770
+    },
+    {
+      "month": "2024-11",
+      "visits": 12133,
+      "downloads": 1557
+    },
+    {
+      "month": "2024-12",
+      "visits": 6747,
+      "downloads": 836
+    },
+    {
+      "month": "2025-01",
+      "visits": 667,
+      "downloads": 165
+    },
+    {
+      "month": "2025-02",
+      "visits": 10395,
+      "downloads": 1471
+    },
+    {
+      "month": "2025-03",
+      "visits": 14518,
+      "downloads": 1759
+    },
+    {
+      "month": "2025-04",
+      "visits": 15817,
+      "downloads": 1851
+    },
+    {
+      "month": "2025-05",
+      "visits": 14411,
+      "downloads": 1981
+    },
+    {
+      "month": "2025-06",
+      "visits": 10586,
+      "downloads": 1419
+    },
+    {
+      "month": "2025-07",
+      "visits": 10353,
+      "downloads": 1530
+    },
+    {
+      "month": "2025-08",
+      "visits": 9386,
+      "downloads": 1721
+    },
+    {
+      "month": "2025-09",
+      "visits": 11444,
+      "downloads": 1926
+    },
+    {
+      "month": "2025-10",
+      "visits": 12918,
+      "downloads": 1912
+    },
+    {
+      "month": "2025-11",
+      "visits": 7646,
+      "downloads": 1323
+    },
+    {
+      "month": "2025-12",
+      "visits": 348,
+      "downloads": 64
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

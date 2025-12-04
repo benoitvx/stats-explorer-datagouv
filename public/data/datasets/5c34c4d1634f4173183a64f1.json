@@ -5,8 +5,8 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-elus-1/",
-  "totalVisits": 227667,
-  "totalDownloads": 3303021,
+  "totalVisits": 228036,
+  "totalDownloads": 3288354,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 5452,
-      "downloads": 93521
+      "downloads": 88477
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 5267,
-      "downloads": 128836
+      "downloads": 115312
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 209,
-      "downloads": 3009
+      "visits": 578,
+      "downloads": 6910
     }
   ],
   "firstMonth": "2022-07",

@@ -1,0 +1,44 @@
+{
+  "id": "68873b0f9c270d4de53f9402",
+  "title": "Réseau urbain Glazgo",
+  "slug": "reseau-urbain-glazgo",
+  "organization": "Auray Quiberon Terre Atlantique",
+  "organizationId": "6363e75adf1a970bf06b1f2b",
+  "url": "https://www.data.gouv.fr/datasets/reseau-urbain-glazgo/",
+  "totalVisits": 586,
+  "totalDownloads": 193144,
+  "monthlyStats": [
+    {
+      "month": "2025-07",
+      "visits": 194,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 74,
+      "downloads": 12
+    },
+    {
+      "month": "2025-09",
+      "visits": 72,
+      "downloads": 16044
+    },
+    {
+      "month": "2025-10",
+      "visits": 105,
+      "downloads": 88917
+    },
+    {
+      "month": "2025-11",
+      "visits": 140,
+      "downloads": 82391
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 5780
+    }
+  ],
+  "firstMonth": "2025-07",
+  "lastMonth": "2025-12"
+}

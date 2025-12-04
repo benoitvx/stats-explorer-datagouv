@@ -5,8 +5,8 @@
   "organization": "Inconnu",
   "organizationId": "",
   "url": "https://www.data.gouv.fr/datasets/liste-noire-durls/",
-  "totalVisits": 284765,
-  "totalDownloads": 108585,
+  "totalVisits": 284783,
+  "totalDownloads": 108563,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 9965,
-      "downloads": 146
+      "downloads": 140
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 9877,
-      "downloads": 184
+      "downloads": 161
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 8,
-      "downloads": 3
+      "visits": 26,
+      "downloads": 10
     }
   ],
   "firstMonth": "2022-07",

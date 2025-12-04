@@ -1,0 +1,224 @@
+{
+  "id": "5f733777722fc12a413290eb",
+  "title": "OLD Indicateurs de l’activité épidémique: taux d'incidence de l'épidémie de COVID-19 par métropole",
+  "slug": "old-indicateurs-de-lactivite-epidemique-taux-dincidence-de-lepidemie-de-covid-19-par-metropole",
+  "organization": "Santé publique France",
+  "organizationId": "5e721a395d57f93d0bed451f",
+  "url": "https://www.data.gouv.fr/datasets/old-indicateurs-de-lactivite-epidemique-taux-dincidence-de-lepidemie-de-covid-19-par-metropole/",
+  "totalVisits": 65139,
+  "totalDownloads": 29676190,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 0,
+      "downloads": 604662
+    },
+    {
+      "month": "2022-08",
+      "visits": 0,
+      "downloads": 984923
+    },
+    {
+      "month": "2022-09",
+      "visits": 0,
+      "downloads": 948742
+    },
+    {
+      "month": "2022-10",
+      "visits": 0,
+      "downloads": 975483
+    },
+    {
+      "month": "2022-11",
+      "visits": 1255,
+      "downloads": 954687
+    },
+    {
+      "month": "2022-12",
+      "visits": 2312,
+      "downloads": 998821
+    },
+    {
+      "month": "2023-01",
+      "visits": 2173,
+      "downloads": 955931
+    },
+    {
+      "month": "2023-02",
+      "visits": 1862,
+      "downloads": 818499
+    },
+    {
+      "month": "2023-03",
+      "visits": 2211,
+      "downloads": 984849
+    },
+    {
+      "month": "2023-04",
+      "visits": 1852,
+      "downloads": 824674
+    },
+    {
+      "month": "2023-05",
+      "visits": 1264,
+      "downloads": 487610
+    },
+    {
+      "month": "2023-06",
+      "visits": 1960,
+      "downloads": 799092
+    },
+    {
+      "month": "2023-07",
+      "visits": 2304,
+      "downloads": 951264
+    },
+    {
+      "month": "2023-08",
+      "visits": 2188,
+      "downloads": 952029
+    },
+    {
+      "month": "2023-09",
+      "visits": 2177,
+      "downloads": 950543
+    },
+    {
+      "month": "2023-10",
+      "visits": 2197,
+      "downloads": 966197
+    },
+    {
+      "month": "2023-11",
+      "visits": 2125,
+      "downloads": 934679
+    },
+    {
+      "month": "2023-12",
+      "visits": 2184,
+      "downloads": 932069
+    },
+    {
+      "month": "2024-01",
+      "visits": 1911,
+      "downloads": 818760
+    },
+    {
+      "month": "2024-02",
+      "visits": 2049,
+      "downloads": 918759
+    },
+    {
+      "month": "2024-03",
+      "visits": 2142,
+      "downloads": 950282
+    },
+    {
+      "month": "2024-04",
+      "visits": 1917,
+      "downloads": 852977
+    },
+    {
+      "month": "2024-05",
+      "visits": 1550,
+      "downloads": 675750
+    },
+    {
+      "month": "2024-06",
+      "visits": 2131,
+      "downloads": 945631
+    },
+    {
+      "month": "2024-07",
+      "visits": 2152,
+      "downloads": 975149
+    },
+    {
+      "month": "2024-08",
+      "visits": 2039,
+      "downloads": 950247
+    },
+    {
+      "month": "2024-09",
+      "visits": 2018,
+      "downloads": 932974
+    },
+    {
+      "month": "2024-10",
+      "visits": 2103,
+      "downloads": 929593
+    },
+    {
+      "month": "2024-11",
+      "visits": 2089,
+      "downloads": 887073
+    },
+    {
+      "month": "2024-12",
+      "visits": 2116,
+      "downloads": 954960
+    },
+    {
+      "month": "2025-01",
+      "visits": 2154,
+      "downloads": 983296
+    },
+    {
+      "month": "2025-02",
+      "visits": 2018,
+      "downloads": 1016191
+    },
+    {
+      "month": "2025-03",
+      "visits": 2060,
+      "downloads": 745720
+    },
+    {
+      "month": "2025-04",
+      "visits": 2412,
+      "downloads": 44294
+    },
+    {
+      "month": "2025-05",
+      "visits": 2458,
+      "downloads": 45299
+    },
+    {
+      "month": "2025-06",
+      "visits": 1013,
+      "downloads": 16591
+    },
+    {
+      "month": "2025-07",
+      "visits": 133,
+      "downloads": 3791
+    },
+    {
+      "month": "2025-08",
+      "visits": 142,
+      "downloads": 767
+    },
+    {
+      "month": "2025-09",
+      "visits": 127,
+      "downloads": 243
+    },
+    {
+      "month": "2025-10",
+      "visits": 180,
+      "downloads": 2099
+    },
+    {
+      "month": "2025-11",
+      "visits": 156,
+      "downloads": 984
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 6
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

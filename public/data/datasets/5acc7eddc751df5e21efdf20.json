@@ -1,0 +1,224 @@
+{
+  "id": "5acc7eddc751df5e21efdf20",
+  "title": "Programme Action cœur de ville",
+  "slug": "programme-action-coeur-de-ville",
+  "organization": "Agence nationale de la cohésion des territoires",
+  "organizationId": "5901f4dfc751df412e7bb92d",
+  "url": "https://www.data.gouv.fr/datasets/programme-action-coeur-de-ville/",
+  "totalVisits": 101240,
+  "totalDownloads": 23232,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 698,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 1050,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 1458,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 1712,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 1852,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 1344,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 1775,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 1539,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 1664,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 1271,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 1425,
+      "downloads": 490
+    },
+    {
+      "month": "2023-06",
+      "visits": 2505,
+      "downloads": 917
+    },
+    {
+      "month": "2023-07",
+      "visits": 1451,
+      "downloads": 566
+    },
+    {
+      "month": "2023-08",
+      "visits": 2357,
+      "downloads": 750
+    },
+    {
+      "month": "2023-09",
+      "visits": 3438,
+      "downloads": 722
+    },
+    {
+      "month": "2023-10",
+      "visits": 2823,
+      "downloads": 696
+    },
+    {
+      "month": "2023-11",
+      "visits": 3389,
+      "downloads": 829
+    },
+    {
+      "month": "2023-12",
+      "visits": 2317,
+      "downloads": 536
+    },
+    {
+      "month": "2024-01",
+      "visits": 3293,
+      "downloads": 794
+    },
+    {
+      "month": "2024-02",
+      "visits": 2637,
+      "downloads": 621
+    },
+    {
+      "month": "2024-03",
+      "visits": 2741,
+      "downloads": 678
+    },
+    {
+      "month": "2024-04",
+      "visits": 2510,
+      "downloads": 662
+    },
+    {
+      "month": "2024-05",
+      "visits": 3340,
+      "downloads": 929
+    },
+    {
+      "month": "2024-06",
+      "visits": 2332,
+      "downloads": 717
+    },
+    {
+      "month": "2024-07",
+      "visits": 2148,
+      "downloads": 602
+    },
+    {
+      "month": "2024-08",
+      "visits": 1993,
+      "downloads": 632
+    },
+    {
+      "month": "2024-09",
+      "visits": 2642,
+      "downloads": 856
+    },
+    {
+      "month": "2024-10",
+      "visits": 3093,
+      "downloads": 1216
+    },
+    {
+      "month": "2024-11",
+      "visits": 3130,
+      "downloads": 1001
+    },
+    {
+      "month": "2024-12",
+      "visits": 1870,
+      "downloads": 745
+    },
+    {
+      "month": "2025-01",
+      "visits": 361,
+      "downloads": 357
+    },
+    {
+      "month": "2025-02",
+      "visits": 2726,
+      "downloads": 1155
+    },
+    {
+      "month": "2025-03",
+      "visits": 4070,
+      "downloads": 1317
+    },
+    {
+      "month": "2025-04",
+      "visits": 3805,
+      "downloads": 1253
+    },
+    {
+      "month": "2025-05",
+      "visits": 4523,
+      "downloads": 1297
+    },
+    {
+      "month": "2025-06",
+      "visits": 3412,
+      "downloads": 905
+    },
+    {
+      "month": "2025-07",
+      "visits": 2977,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 2655,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 3376,
+      "downloads": 172
+    },
+    {
+      "month": "2025-10",
+      "visits": 4094,
+      "downloads": 978
+    },
+    {
+      "month": "2025-11",
+      "visits": 3255,
+      "downloads": 791
+    },
+    {
+      "month": "2025-12",
+      "visits": 189,
+      "downloads": 48
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

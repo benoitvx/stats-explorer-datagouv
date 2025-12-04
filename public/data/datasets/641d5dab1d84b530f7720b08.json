@@ -1,0 +1,174 @@
+{
+  "id": "641d5dab1d84b530f7720b08",
+  "title": "Listes noires des entités non autorisées à proposer des produits ou services financiers en France ",
+  "slug": "listes-noires-des-entites-non-autorisees-a-proposer-des-produits-ou-services-financiers-en-france",
+  "organization": "Autorité des marchés financiers",
+  "organizationId": "56507a53c751df6679aad370",
+  "url": "https://www.data.gouv.fr/datasets/listes-noires-des-entites-non-autorisees-a-proposer-des-produits-ou-services-financiers-en-france/",
+  "totalVisits": 93209,
+  "totalDownloads": 292352,
+  "monthlyStats": [
+    {
+      "month": "2023-03",
+      "visits": 0,
+      "downloads": 5
+    },
+    {
+      "month": "2023-04",
+      "visits": 0,
+      "downloads": 3
+    },
+    {
+      "month": "2023-07",
+      "visits": 1660,
+      "downloads": 415
+    },
+    {
+      "month": "2023-08",
+      "visits": 1842,
+      "downloads": 616
+    },
+    {
+      "month": "2023-09",
+      "visits": 1859,
+      "downloads": 575
+    },
+    {
+      "month": "2023-10",
+      "visits": 1936,
+      "downloads": 626
+    },
+    {
+      "month": "2023-11",
+      "visits": 2190,
+      "downloads": 754
+    },
+    {
+      "month": "2023-12",
+      "visits": 2223,
+      "downloads": 806
+    },
+    {
+      "month": "2024-01",
+      "visits": 2818,
+      "downloads": 891
+    },
+    {
+      "month": "2024-02",
+      "visits": 2656,
+      "downloads": 884
+    },
+    {
+      "month": "2024-03",
+      "visits": 3643,
+      "downloads": 1230
+    },
+    {
+      "month": "2024-04",
+      "visits": 3128,
+      "downloads": 1144
+    },
+    {
+      "month": "2024-05",
+      "visits": 3168,
+      "downloads": 1147
+    },
+    {
+      "month": "2024-06",
+      "visits": 2866,
+      "downloads": 1538
+    },
+    {
+      "month": "2024-07",
+      "visits": 3118,
+      "downloads": 1677
+    },
+    {
+      "month": "2024-08",
+      "visits": 3313,
+      "downloads": 2053
+    },
+    {
+      "month": "2024-09",
+      "visits": 3191,
+      "downloads": 1666
+    },
+    {
+      "month": "2024-10",
+      "visits": 3794,
+      "downloads": 10613
+    },
+    {
+      "month": "2024-11",
+      "visits": 4166,
+      "downloads": 19811
+    },
+    {
+      "month": "2024-12",
+      "visits": 2518,
+      "downloads": 19119
+    },
+    {
+      "month": "2025-01",
+      "visits": 400,
+      "downloads": 18512
+    },
+    {
+      "month": "2025-02",
+      "visits": 4367,
+      "downloads": 18900
+    },
+    {
+      "month": "2025-03",
+      "visits": 4861,
+      "downloads": 20971
+    },
+    {
+      "month": "2025-04",
+      "visits": 4654,
+      "downloads": 22645
+    },
+    {
+      "month": "2025-05",
+      "visits": 4566,
+      "downloads": 21528
+    },
+    {
+      "month": "2025-06",
+      "visits": 3306,
+      "downloads": 19436
+    },
+    {
+      "month": "2025-07",
+      "visits": 3053,
+      "downloads": 20574
+    },
+    {
+      "month": "2025-08",
+      "visits": 3799,
+      "downloads": 21545
+    },
+    {
+      "month": "2025-09",
+      "visits": 4665,
+      "downloads": 20987
+    },
+    {
+      "month": "2025-10",
+      "visits": 4945,
+      "downloads": 21220
+    },
+    {
+      "month": "2025-11",
+      "visits": 4223,
+      "downloads": 19068
+    },
+    {
+      "month": "2025-12",
+      "visits": 281,
+      "downloads": 1393
+    }
+  ],
+  "firstMonth": "2023-03",
+  "lastMonth": "2025-12"
+}

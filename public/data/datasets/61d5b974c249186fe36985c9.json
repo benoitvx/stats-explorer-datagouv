@@ -1,0 +1,224 @@
+{
+  "id": "61d5b974c249186fe36985c9",
+  "title": "Bornes de recharge supervisée par ZE-WATT pour véhicule électrique ",
+  "slug": "bornes-de-recharge-supervisee-par-ze-watt-pour-vehicule-electrique",
+  "organization": "ZE-WATT",
+  "organizationId": "61b084d0e4c4466a3b4be294",
+  "url": "https://www.data.gouv.fr/datasets/bornes-de-recharge-supervisee-par-ze-watt-pour-vehicule-electrique/",
+  "totalVisits": 2400,
+  "totalDownloads": 21794,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 19,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 30,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 37,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 63,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 66,
+      "downloads": 3
+    },
+    {
+      "month": "2022-12",
+      "visits": 51,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 38,
+      "downloads": 1
+    },
+    {
+      "month": "2023-02",
+      "visits": 42,
+      "downloads": 1
+    },
+    {
+      "month": "2023-03",
+      "visits": 39,
+      "downloads": 2
+    },
+    {
+      "month": "2023-04",
+      "visits": 34,
+      "downloads": 7
+    },
+    {
+      "month": "2023-05",
+      "visits": 42,
+      "downloads": 8
+    },
+    {
+      "month": "2023-06",
+      "visits": 34,
+      "downloads": 4
+    },
+    {
+      "month": "2023-07",
+      "visits": 44,
+      "downloads": 2
+    },
+    {
+      "month": "2023-08",
+      "visits": 62,
+      "downloads": 15
+    },
+    {
+      "month": "2023-09",
+      "visits": 75,
+      "downloads": 3
+    },
+    {
+      "month": "2023-10",
+      "visits": 50,
+      "downloads": 5
+    },
+    {
+      "month": "2023-11",
+      "visits": 46,
+      "downloads": 0
+    },
+    {
+      "month": "2023-12",
+      "visits": 77,
+      "downloads": 11
+    },
+    {
+      "month": "2024-01",
+      "visits": 66,
+      "downloads": 1
+    },
+    {
+      "month": "2024-02",
+      "visits": 64,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 71,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 56,
+      "downloads": 1
+    },
+    {
+      "month": "2024-05",
+      "visits": 76,
+      "downloads": 3
+    },
+    {
+      "month": "2024-06",
+      "visits": 84,
+      "downloads": 2
+    },
+    {
+      "month": "2024-07",
+      "visits": 60,
+      "downloads": 0
+    },
+    {
+      "month": "2024-08",
+      "visits": 45,
+      "downloads": 0
+    },
+    {
+      "month": "2024-09",
+      "visits": 29,
+      "downloads": 0
+    },
+    {
+      "month": "2024-10",
+      "visits": 40,
+      "downloads": 20
+    },
+    {
+      "month": "2024-11",
+      "visits": 81,
+      "downloads": 21
+    },
+    {
+      "month": "2024-12",
+      "visits": 80,
+      "downloads": 69
+    },
+    {
+      "month": "2025-01",
+      "visits": 84,
+      "downloads": 62
+    },
+    {
+      "month": "2025-02",
+      "visits": 77,
+      "downloads": 86
+    },
+    {
+      "month": "2025-03",
+      "visits": 98,
+      "downloads": 85
+    },
+    {
+      "month": "2025-04",
+      "visits": 171,
+      "downloads": 82
+    },
+    {
+      "month": "2025-05",
+      "visits": 84,
+      "downloads": 92
+    },
+    {
+      "month": "2025-06",
+      "visits": 82,
+      "downloads": 53
+    },
+    {
+      "month": "2025-07",
+      "visits": 13,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 2,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 32,
+      "downloads": 3617
+    },
+    {
+      "month": "2025-10",
+      "visits": 85,
+      "downloads": 8790
+    },
+    {
+      "month": "2025-11",
+      "visits": 70,
+      "downloads": 8179
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 569
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

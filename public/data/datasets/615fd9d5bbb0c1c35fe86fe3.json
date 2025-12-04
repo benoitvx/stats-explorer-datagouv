@@ -1,0 +1,224 @@
+{
+  "id": "615fd9d5bbb0c1c35fe86fe3",
+  "title": "gtfs-sankeo",
+  "slug": "gtfs-sankeo",
+  "organization": "Sankéo",
+  "organizationId": "5c18fad8634f4130048f1ea1",
+  "url": "https://www.data.gouv.fr/datasets/gtfs-sankeo/",
+  "totalVisits": 3395,
+  "totalDownloads": 387223,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 3,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 3,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 13,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 15,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 10,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 174,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 73,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 61,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 85,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 54,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 51,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 373,
+      "downloads": 2440
+    },
+    {
+      "month": "2023-07",
+      "visits": 69,
+      "downloads": 6600
+    },
+    {
+      "month": "2023-08",
+      "visits": 97,
+      "downloads": 7201
+    },
+    {
+      "month": "2023-09",
+      "visits": 120,
+      "downloads": 7741
+    },
+    {
+      "month": "2023-10",
+      "visits": 70,
+      "downloads": 8243
+    },
+    {
+      "month": "2023-11",
+      "visits": 63,
+      "downloads": 7546
+    },
+    {
+      "month": "2023-12",
+      "visits": 110,
+      "downloads": 7525
+    },
+    {
+      "month": "2024-01",
+      "visits": 115,
+      "downloads": 7560
+    },
+    {
+      "month": "2024-02",
+      "visits": 77,
+      "downloads": 2981
+    },
+    {
+      "month": "2024-03",
+      "visits": 76,
+      "downloads": 3041
+    },
+    {
+      "month": "2024-04",
+      "visits": 87,
+      "downloads": 3129
+    },
+    {
+      "month": "2024-05",
+      "visits": 83,
+      "downloads": 4608
+    },
+    {
+      "month": "2024-06",
+      "visits": 104,
+      "downloads": 6448
+    },
+    {
+      "month": "2024-07",
+      "visits": 65,
+      "downloads": 7795
+    },
+    {
+      "month": "2024-08",
+      "visits": 66,
+      "downloads": 12870
+    },
+    {
+      "month": "2024-09",
+      "visits": 55,
+      "downloads": 12023
+    },
+    {
+      "month": "2024-10",
+      "visits": 40,
+      "downloads": 12207
+    },
+    {
+      "month": "2024-11",
+      "visits": 54,
+      "downloads": 12559
+    },
+    {
+      "month": "2024-12",
+      "visits": 51,
+      "downloads": 11857
+    },
+    {
+      "month": "2025-01",
+      "visits": 55,
+      "downloads": 20208
+    },
+    {
+      "month": "2025-02",
+      "visits": 63,
+      "downloads": 21225
+    },
+    {
+      "month": "2025-03",
+      "visits": 73,
+      "downloads": 14901
+    },
+    {
+      "month": "2025-04",
+      "visits": 81,
+      "downloads": 37906
+    },
+    {
+      "month": "2025-05",
+      "visits": 104,
+      "downloads": 36065
+    },
+    {
+      "month": "2025-06",
+      "visits": 80,
+      "downloads": 31194
+    },
+    {
+      "month": "2025-07",
+      "visits": 99,
+      "downloads": 16907
+    },
+    {
+      "month": "2025-08",
+      "visits": 62,
+      "downloads": 21495
+    },
+    {
+      "month": "2025-09",
+      "visits": 66,
+      "downloads": 25242
+    },
+    {
+      "month": "2025-10",
+      "visits": 188,
+      "downloads": 6898
+    },
+    {
+      "month": "2025-11",
+      "visits": 203,
+      "downloads": 10234
+    },
+    {
+      "month": "2025-12",
+      "visits": 4,
+      "downloads": 574
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

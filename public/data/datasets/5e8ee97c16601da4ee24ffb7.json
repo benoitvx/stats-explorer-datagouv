@@ -5,8 +5,8 @@
   "organization": "Registre de Preuve de Covoiturage",
   "organizationId": "61937d50e54eade2bbf8e8df",
   "url": "https://www.data.gouv.fr/datasets/trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage/",
-  "totalVisits": 18392585,
-  "totalDownloads": 49877,
+  "totalVisits": 18392616,
+  "totalDownloads": 49863,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 555487,
-      "downloads": 771
+      "downloads": 745
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 582083,
-      "downloads": 518
+      "downloads": 494
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 15,
-      "downloads": 65
+      "visits": 46,
+      "downloads": 101
     }
   ],
   "firstMonth": "2022-07",

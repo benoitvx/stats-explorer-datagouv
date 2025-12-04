@@ -1,0 +1,224 @@
+{
+  "id": "5d31d8b69ce2e703da90b699",
+  "title": "GTFS DiviaMobilités",
+  "slug": "gtfs-diviamobilites",
+  "organization": "DiviaMobilités",
+  "organizationId": "5d2f1e41634f417a1d33f173",
+  "url": "https://www.data.gouv.fr/datasets/gtfs-diviamobilites/",
+  "totalVisits": 13530,
+  "totalDownloads": 7943340,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 78,
+      "downloads": 11
+    },
+    {
+      "month": "2022-08",
+      "visits": 78,
+      "downloads": 14
+    },
+    {
+      "month": "2022-09",
+      "visits": 103,
+      "downloads": 21
+    },
+    {
+      "month": "2022-10",
+      "visits": 203,
+      "downloads": 28
+    },
+    {
+      "month": "2022-11",
+      "visits": 158,
+      "downloads": 37
+    },
+    {
+      "month": "2022-12",
+      "visits": 170,
+      "downloads": 46
+    },
+    {
+      "month": "2023-01",
+      "visits": 118,
+      "downloads": 18
+    },
+    {
+      "month": "2023-02",
+      "visits": 109,
+      "downloads": 8
+    },
+    {
+      "month": "2023-03",
+      "visits": 158,
+      "downloads": 10030
+    },
+    {
+      "month": "2023-04",
+      "visits": 147,
+      "downloads": 2665
+    },
+    {
+      "month": "2023-05",
+      "visits": 118,
+      "downloads": 11765
+    },
+    {
+      "month": "2023-06",
+      "visits": 145,
+      "downloads": 147915
+    },
+    {
+      "month": "2023-07",
+      "visits": 152,
+      "downloads": 185605
+    },
+    {
+      "month": "2023-08",
+      "visits": 175,
+      "downloads": 140176
+    },
+    {
+      "month": "2023-09",
+      "visits": 213,
+      "downloads": 121797
+    },
+    {
+      "month": "2023-10",
+      "visits": 123,
+      "downloads": 103299
+    },
+    {
+      "month": "2023-11",
+      "visits": 215,
+      "downloads": 172163
+    },
+    {
+      "month": "2023-12",
+      "visits": 251,
+      "downloads": 182286
+    },
+    {
+      "month": "2024-01",
+      "visits": 233,
+      "downloads": 219881
+    },
+    {
+      "month": "2024-02",
+      "visits": 209,
+      "downloads": 167229
+    },
+    {
+      "month": "2024-03",
+      "visits": 248,
+      "downloads": 188684
+    },
+    {
+      "month": "2024-04",
+      "visits": 230,
+      "downloads": 99683
+    },
+    {
+      "month": "2024-05",
+      "visits": 210,
+      "downloads": 100199
+    },
+    {
+      "month": "2024-06",
+      "visits": 274,
+      "downloads": 146508
+    },
+    {
+      "month": "2024-07",
+      "visits": 282,
+      "downloads": 173749
+    },
+    {
+      "month": "2024-08",
+      "visits": 316,
+      "downloads": 164052
+    },
+    {
+      "month": "2024-09",
+      "visits": 263,
+      "downloads": 164350
+    },
+    {
+      "month": "2024-10",
+      "visits": 281,
+      "downloads": 214043
+    },
+    {
+      "month": "2024-11",
+      "visits": 3297,
+      "downloads": 174483
+    },
+    {
+      "month": "2024-12",
+      "visits": 1361,
+      "downloads": 238822
+    },
+    {
+      "month": "2025-01",
+      "visits": 101,
+      "downloads": 140158
+    },
+    {
+      "month": "2025-02",
+      "visits": 260,
+      "downloads": 305380
+    },
+    {
+      "month": "2025-03",
+      "visits": 340,
+      "downloads": 577792
+    },
+    {
+      "month": "2025-04",
+      "visits": 361,
+      "downloads": 478719
+    },
+    {
+      "month": "2025-05",
+      "visits": 353,
+      "downloads": 363084
+    },
+    {
+      "month": "2025-06",
+      "visits": 449,
+      "downloads": 314962
+    },
+    {
+      "month": "2025-07",
+      "visits": 480,
+      "downloads": 249245
+    },
+    {
+      "month": "2025-08",
+      "visits": 256,
+      "downloads": 250736
+    },
+    {
+      "month": "2025-09",
+      "visits": 285,
+      "downloads": 593870
+    },
+    {
+      "month": "2025-10",
+      "visits": 396,
+      "downloads": 799135
+    },
+    {
+      "month": "2025-11",
+      "visits": 321,
+      "downloads": 700264
+    },
+    {
+      "month": "2025-12",
+      "visits": 10,
+      "downloads": 40428
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

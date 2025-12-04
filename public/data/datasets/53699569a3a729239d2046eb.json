@@ -5,8 +5,8 @@
   "organization": "Ministère des Solidarités et de la Santé",
   "organizationId": "534fff94a3a7292c64a77fc1",
   "url": "https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/",
-  "totalVisits": 440580,
-  "totalDownloads": 442204,
+  "totalVisits": 440914,
+  "totalDownloads": 440277,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 23163,
-      "downloads": 14373
+      "downloads": 13905
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 5053,
-      "downloads": 18300
+      "downloads": 16255
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 123,
-      "downloads": 381
+      "visits": 457,
+      "downloads": 967
     }
   ],
   "firstMonth": "2022-07",

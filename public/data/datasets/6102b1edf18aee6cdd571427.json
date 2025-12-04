@@ -1,0 +1,224 @@
+{
+  "id": "6102b1edf18aee6cdd571427",
+  "title": "Référentiel Général des Armes",
+  "slug": "referentiel-general-des-armes",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/referentiel-general-des-armes/",
+  "totalVisits": 202508,
+  "totalDownloads": 57497,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 2366,
+      "downloads": 1030
+    },
+    {
+      "month": "2022-08",
+      "visits": 5274,
+      "downloads": 1961
+    },
+    {
+      "month": "2022-09",
+      "visits": 5574,
+      "downloads": 2013
+    },
+    {
+      "month": "2022-10",
+      "visits": 4271,
+      "downloads": 1326
+    },
+    {
+      "month": "2022-11",
+      "visits": 10884,
+      "downloads": 3432
+    },
+    {
+      "month": "2022-12",
+      "visits": 7972,
+      "downloads": 2740
+    },
+    {
+      "month": "2023-01",
+      "visits": 5818,
+      "downloads": 1501
+    },
+    {
+      "month": "2023-02",
+      "visits": 5244,
+      "downloads": 997
+    },
+    {
+      "month": "2023-03",
+      "visits": 5876,
+      "downloads": 1547
+    },
+    {
+      "month": "2023-04",
+      "visits": 4382,
+      "downloads": 1202
+    },
+    {
+      "month": "2023-05",
+      "visits": 4263,
+      "downloads": 1013
+    },
+    {
+      "month": "2023-06",
+      "visits": 3999,
+      "downloads": 785
+    },
+    {
+      "month": "2023-07",
+      "visits": 3112,
+      "downloads": 698
+    },
+    {
+      "month": "2023-08",
+      "visits": 4050,
+      "downloads": 1064
+    },
+    {
+      "month": "2023-09",
+      "visits": 3989,
+      "downloads": 1052
+    },
+    {
+      "month": "2023-10",
+      "visits": 4292,
+      "downloads": 1106
+    },
+    {
+      "month": "2023-11",
+      "visits": 5602,
+      "downloads": 1428
+    },
+    {
+      "month": "2023-12",
+      "visits": 10068,
+      "downloads": 2219
+    },
+    {
+      "month": "2024-01",
+      "visits": 4690,
+      "downloads": 1066
+    },
+    {
+      "month": "2024-02",
+      "visits": 8594,
+      "downloads": 3013
+    },
+    {
+      "month": "2024-03",
+      "visits": 11400,
+      "downloads": 3551
+    },
+    {
+      "month": "2024-04",
+      "visits": 5149,
+      "downloads": 1459
+    },
+    {
+      "month": "2024-05",
+      "visits": 5312,
+      "downloads": 1300
+    },
+    {
+      "month": "2024-06",
+      "visits": 4418,
+      "downloads": 1324
+    },
+    {
+      "month": "2024-07",
+      "visits": 4248,
+      "downloads": 1212
+    },
+    {
+      "month": "2024-08",
+      "visits": 4150,
+      "downloads": 1080
+    },
+    {
+      "month": "2024-09",
+      "visits": 5353,
+      "downloads": 1467
+    },
+    {
+      "month": "2024-10",
+      "visits": 5833,
+      "downloads": 1564
+    },
+    {
+      "month": "2024-11",
+      "visits": 7651,
+      "downloads": 2025
+    },
+    {
+      "month": "2024-12",
+      "visits": 8389,
+      "downloads": 1719
+    },
+    {
+      "month": "2025-01",
+      "visits": 578,
+      "downloads": 466
+    },
+    {
+      "month": "2025-02",
+      "visits": 3356,
+      "downloads": 1091
+    },
+    {
+      "month": "2025-03",
+      "visits": 4025,
+      "downloads": 1314
+    },
+    {
+      "month": "2025-04",
+      "visits": 3511,
+      "downloads": 1183
+    },
+    {
+      "month": "2025-05",
+      "visits": 3039,
+      "downloads": 1581
+    },
+    {
+      "month": "2025-06",
+      "visits": 3015,
+      "downloads": 669
+    },
+    {
+      "month": "2025-07",
+      "visits": 2802,
+      "downloads": 756
+    },
+    {
+      "month": "2025-08",
+      "visits": 2017,
+      "downloads": 689
+    },
+    {
+      "month": "2025-09",
+      "visits": 2584,
+      "downloads": 533
+    },
+    {
+      "month": "2025-10",
+      "visits": 2958,
+      "downloads": 585
+    },
+    {
+      "month": "2025-11",
+      "visits": 2276,
+      "downloads": 688
+    },
+    {
+      "month": "2025-12",
+      "visits": 124,
+      "downloads": 48
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

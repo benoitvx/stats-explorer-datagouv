@@ -1,0 +1,139 @@
+{
+  "id": "658626a8a582bbf574c71b48",
+  "title": "Breizhgo Car",
+  "slug": "breizhgo-car",
+  "organization": "Région Bretagne",
+  "organizationId": "559a4970c751df46a9a453ba",
+  "url": "https://www.data.gouv.fr/datasets/breizhgo-car/",
+  "totalVisits": 4675,
+  "totalDownloads": 606708,
+  "monthlyStats": [
+    {
+      "month": "2023-12",
+      "visits": 355,
+      "downloads": 38
+    },
+    {
+      "month": "2024-01",
+      "visits": 113,
+      "downloads": 6411
+    },
+    {
+      "month": "2024-02",
+      "visits": 110,
+      "downloads": 137
+    },
+    {
+      "month": "2024-03",
+      "visits": 94,
+      "downloads": 250
+    },
+    {
+      "month": "2024-04",
+      "visits": 163,
+      "downloads": 155
+    },
+    {
+      "month": "2024-05",
+      "visits": 176,
+      "downloads": 211
+    },
+    {
+      "month": "2024-06",
+      "visits": 174,
+      "downloads": 344
+    },
+    {
+      "month": "2024-07",
+      "visits": 179,
+      "downloads": 634
+    },
+    {
+      "month": "2024-08",
+      "visits": 187,
+      "downloads": 641
+    },
+    {
+      "month": "2024-09",
+      "visits": 250,
+      "downloads": 521
+    },
+    {
+      "month": "2024-10",
+      "visits": 214,
+      "downloads": 768
+    },
+    {
+      "month": "2024-11",
+      "visits": 283,
+      "downloads": 793
+    },
+    {
+      "month": "2024-12",
+      "visits": 155,
+      "downloads": 779
+    },
+    {
+      "month": "2025-01",
+      "visits": 113,
+      "downloads": 63553
+    },
+    {
+      "month": "2025-02",
+      "visits": 150,
+      "downloads": 63850
+    },
+    {
+      "month": "2025-03",
+      "visits": 139,
+      "downloads": 2863
+    },
+    {
+      "month": "2025-04",
+      "visits": 172,
+      "downloads": 79285
+    },
+    {
+      "month": "2025-05",
+      "visits": 177,
+      "downloads": 80036
+    },
+    {
+      "month": "2025-06",
+      "visits": 348,
+      "downloads": 67704
+    },
+    {
+      "month": "2025-07",
+      "visits": 269,
+      "downloads": 68614
+    },
+    {
+      "month": "2025-08",
+      "visits": 189,
+      "downloads": 67476
+    },
+    {
+      "month": "2025-09",
+      "visits": 193,
+      "downloads": 98508
+    },
+    {
+      "month": "2025-10",
+      "visits": 241,
+      "downloads": 1890
+    },
+    {
+      "month": "2025-11",
+      "visits": 223,
+      "downloads": 1151
+    },
+    {
+      "month": "2025-12",
+      "visits": 8,
+      "downloads": 96
+    }
+  ],
+  "firstMonth": "2023-12",
+  "lastMonth": "2025-12"
+}

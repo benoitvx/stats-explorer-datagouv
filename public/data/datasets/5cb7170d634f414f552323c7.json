@@ -1,0 +1,224 @@
+{
+  "id": "5cb7170d634f414f552323c7",
+  "title": "Données du réseau Alternéo",
+  "slug": "donnees-du-reseau-alterneo",
+  "organization": "ALTERNEO",
+  "organizationId": "5cb714df634f414b8650afa3",
+  "url": "https://www.data.gouv.fr/datasets/donnees-du-reseau-alterneo/",
+  "totalVisits": 4876,
+  "totalDownloads": 11170741,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 30,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 38,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 58,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 120,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 99,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 109,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 54,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 77,
+      "downloads": 18
+    },
+    {
+      "month": "2023-03",
+      "visits": 78,
+      "downloads": 13
+    },
+    {
+      "month": "2023-04",
+      "visits": 62,
+      "downloads": 13
+    },
+    {
+      "month": "2023-05",
+      "visits": 66,
+      "downloads": 10
+    },
+    {
+      "month": "2023-06",
+      "visits": 80,
+      "downloads": 845
+    },
+    {
+      "month": "2023-07",
+      "visits": 76,
+      "downloads": 1352
+    },
+    {
+      "month": "2023-08",
+      "visits": 85,
+      "downloads": 1292
+    },
+    {
+      "month": "2023-09",
+      "visits": 105,
+      "downloads": 1361
+    },
+    {
+      "month": "2023-10",
+      "visits": 114,
+      "downloads": 1563
+    },
+    {
+      "month": "2023-11",
+      "visits": 97,
+      "downloads": 1548
+    },
+    {
+      "month": "2023-12",
+      "visits": 164,
+      "downloads": 1530
+    },
+    {
+      "month": "2024-01",
+      "visits": 193,
+      "downloads": 1663
+    },
+    {
+      "month": "2024-02",
+      "visits": 134,
+      "downloads": 29358
+    },
+    {
+      "month": "2024-03",
+      "visits": 160,
+      "downloads": 376317
+    },
+    {
+      "month": "2024-04",
+      "visits": 99,
+      "downloads": 360348
+    },
+    {
+      "month": "2024-05",
+      "visits": 121,
+      "downloads": 335995
+    },
+    {
+      "month": "2024-06",
+      "visits": 140,
+      "downloads": 368312
+    },
+    {
+      "month": "2024-07",
+      "visits": 144,
+      "downloads": 332522
+    },
+    {
+      "month": "2024-08",
+      "visits": 96,
+      "downloads": 310768
+    },
+    {
+      "month": "2024-09",
+      "visits": 78,
+      "downloads": 329253
+    },
+    {
+      "month": "2024-10",
+      "visits": 72,
+      "downloads": 332468
+    },
+    {
+      "month": "2024-11",
+      "visits": 134,
+      "downloads": 331478
+    },
+    {
+      "month": "2024-12",
+      "visits": 123,
+      "downloads": 187039
+    },
+    {
+      "month": "2025-01",
+      "visits": 93,
+      "downloads": 12732
+    },
+    {
+      "month": "2025-02",
+      "visits": 150,
+      "downloads": 215675
+    },
+    {
+      "month": "2025-03",
+      "visits": 168,
+      "downloads": 230532
+    },
+    {
+      "month": "2025-04",
+      "visits": 215,
+      "downloads": 695507
+    },
+    {
+      "month": "2025-05",
+      "visits": 196,
+      "downloads": 888678
+    },
+    {
+      "month": "2025-06",
+      "visits": 227,
+      "downloads": 886246
+    },
+    {
+      "month": "2025-07",
+      "visits": 188,
+      "downloads": 937389
+    },
+    {
+      "month": "2025-08",
+      "visits": 124,
+      "downloads": 891909
+    },
+    {
+      "month": "2025-09",
+      "visits": 113,
+      "downloads": 983488
+    },
+    {
+      "month": "2025-10",
+      "visits": 166,
+      "downloads": 1082693
+    },
+    {
+      "month": "2025-11",
+      "visits": 224,
+      "downloads": 972007
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 68819
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

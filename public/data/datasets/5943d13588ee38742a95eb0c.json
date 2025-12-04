@@ -5,8 +5,8 @@
   "organization": "Agence nationale de la cohésion des territoires",
   "organizationId": "5901f4dfc751df412e7bb92d",
   "url": "https://www.data.gouv.fr/datasets/zones-de-revitalisation-rurale-zrr/",
-  "totalVisits": 230063,
-  "totalDownloads": 35218,
+  "totalVisits": 230372,
+  "totalDownloads": 35087,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3985,
-      "downloads": 927
+      "downloads": 847
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 8276,
-      "downloads": 1050
+      "downloads": 973
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 121,
-      "downloads": 11
+      "visits": 430,
+      "downloads": 37
     }
   ],
   "firstMonth": "2022-07",

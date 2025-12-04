@@ -1,0 +1,129 @@
+{
+  "id": "65bd1a2957e1cc7c9625e7b5",
+  "title": "Paquets de modèle de vagues - MFWAM - Résolution 0.1°",
+  "slug": "paquets-de-modele-de-vagues-mfwam-resolution-0-1deg",
+  "organization": "Météo-France",
+  "organizationId": "534fff8ba3a7292c64a77ed4",
+  "url": "https://www.data.gouv.fr/datasets/paquets-de-modele-de-vagues-mfwam-resolution-0-1deg/",
+  "totalVisits": 2054,
+  "totalDownloads": 78232,
+  "monthlyStats": [
+    {
+      "month": "2024-02",
+      "visits": 2,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 64,
+      "downloads": 214
+    },
+    {
+      "month": "2024-04",
+      "visits": 63,
+      "downloads": 338
+    },
+    {
+      "month": "2024-05",
+      "visits": 50,
+      "downloads": 161
+    },
+    {
+      "month": "2024-06",
+      "visits": 38,
+      "downloads": 297
+    },
+    {
+      "month": "2024-07",
+      "visits": 41,
+      "downloads": 83
+    },
+    {
+      "month": "2024-08",
+      "visits": 26,
+      "downloads": 141
+    },
+    {
+      "month": "2024-09",
+      "visits": 13,
+      "downloads": 435
+    },
+    {
+      "month": "2024-10",
+      "visits": 33,
+      "downloads": 307
+    },
+    {
+      "month": "2024-11",
+      "visits": 48,
+      "downloads": 47
+    },
+    {
+      "month": "2024-12",
+      "visits": 61,
+      "downloads": 100
+    },
+    {
+      "month": "2025-01",
+      "visits": 61,
+      "downloads": 70
+    },
+    {
+      "month": "2025-02",
+      "visits": 88,
+      "downloads": 439
+    },
+    {
+      "month": "2025-03",
+      "visits": 83,
+      "downloads": 276
+    },
+    {
+      "month": "2025-04",
+      "visits": 191,
+      "downloads": 3487
+    },
+    {
+      "month": "2025-05",
+      "visits": 125,
+      "downloads": 10614
+    },
+    {
+      "month": "2025-06",
+      "visits": 166,
+      "downloads": 9724
+    },
+    {
+      "month": "2025-07",
+      "visits": 127,
+      "downloads": 10434
+    },
+    {
+      "month": "2025-08",
+      "visits": 129,
+      "downloads": 10474
+    },
+    {
+      "month": "2025-09",
+      "visits": 188,
+      "downloads": 9980
+    },
+    {
+      "month": "2025-10",
+      "visits": 299,
+      "downloads": 10234
+    },
+    {
+      "month": "2025-11",
+      "visits": 143,
+      "downloads": 9758
+    },
+    {
+      "month": "2025-12",
+      "visits": 15,
+      "downloads": 619
+    }
+  ],
+  "firstMonth": "2024-02",
+  "lastMonth": "2025-12"
+}

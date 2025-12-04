@@ -1,0 +1,224 @@
+{
+  "id": "60007bfb10632c47538583d8",
+  "title": "Lieux de vaccination contre la Covid-19",
+  "slug": "lieux-de-vaccination-contre-la-covid-19",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "organizationId": "534fff94a3a7292c64a77fc1",
+  "url": "https://www.data.gouv.fr/datasets/lieux-de-vaccination-contre-la-covid-19/",
+  "totalVisits": 56324,
+  "totalDownloads": 2486319,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 3980,
+      "downloads": 93
+    },
+    {
+      "month": "2022-08",
+      "visits": 2569,
+      "downloads": 69
+    },
+    {
+      "month": "2022-09",
+      "visits": 2949,
+      "downloads": 97
+    },
+    {
+      "month": "2022-10",
+      "visits": 3167,
+      "downloads": 45
+    },
+    {
+      "month": "2022-11",
+      "visits": 2598,
+      "downloads": 43
+    },
+    {
+      "month": "2022-12",
+      "visits": 2936,
+      "downloads": 39
+    },
+    {
+      "month": "2023-01",
+      "visits": 1619,
+      "downloads": 25
+    },
+    {
+      "month": "2023-02",
+      "visits": 1252,
+      "downloads": 34
+    },
+    {
+      "month": "2023-03",
+      "visits": 1366,
+      "downloads": 34
+    },
+    {
+      "month": "2023-04",
+      "visits": 1237,
+      "downloads": 38
+    },
+    {
+      "month": "2023-05",
+      "visits": 1063,
+      "downloads": 40
+    },
+    {
+      "month": "2023-06",
+      "visits": 1138,
+      "downloads": 42
+    },
+    {
+      "month": "2023-07",
+      "visits": 1542,
+      "downloads": 6854
+    },
+    {
+      "month": "2023-08",
+      "visits": 798,
+      "downloads": 8988
+    },
+    {
+      "month": "2023-09",
+      "visits": 1265,
+      "downloads": 12795
+    },
+    {
+      "month": "2023-10",
+      "visits": 1669,
+      "downloads": 13326
+    },
+    {
+      "month": "2023-11",
+      "visits": 1195,
+      "downloads": 9885
+    },
+    {
+      "month": "2023-12",
+      "visits": 1160,
+      "downloads": 87
+    },
+    {
+      "month": "2024-01",
+      "visits": 1397,
+      "downloads": 50078
+    },
+    {
+      "month": "2024-02",
+      "visits": 947,
+      "downloads": 72
+    },
+    {
+      "month": "2024-03",
+      "visits": 832,
+      "downloads": 52
+    },
+    {
+      "month": "2024-04",
+      "visits": 946,
+      "downloads": 77
+    },
+    {
+      "month": "2024-05",
+      "visits": 767,
+      "downloads": 47
+    },
+    {
+      "month": "2024-06",
+      "visits": 882,
+      "downloads": 72
+    },
+    {
+      "month": "2024-07",
+      "visits": 805,
+      "downloads": 77
+    },
+    {
+      "month": "2024-08",
+      "visits": 776,
+      "downloads": 182393
+    },
+    {
+      "month": "2024-09",
+      "visits": 783,
+      "downloads": 288698
+    },
+    {
+      "month": "2024-10",
+      "visits": 555,
+      "downloads": 293091
+    },
+    {
+      "month": "2024-11",
+      "visits": 701,
+      "downloads": 289217
+    },
+    {
+      "month": "2024-12",
+      "visits": 485,
+      "downloads": 286550
+    },
+    {
+      "month": "2025-01",
+      "visits": 383,
+      "downloads": 301912
+    },
+    {
+      "month": "2025-02",
+      "visits": 502,
+      "downloads": 311605
+    },
+    {
+      "month": "2025-03",
+      "visits": 697,
+      "downloads": 285337
+    },
+    {
+      "month": "2025-04",
+      "visits": 1154,
+      "downloads": 133681
+    },
+    {
+      "month": "2025-05",
+      "visits": 731,
+      "downloads": 2227
+    },
+    {
+      "month": "2025-06",
+      "visits": 747,
+      "downloads": 1710
+    },
+    {
+      "month": "2025-07",
+      "visits": 2198,
+      "downloads": 1125
+    },
+    {
+      "month": "2025-08",
+      "visits": 2926,
+      "downloads": 1156
+    },
+    {
+      "month": "2025-09",
+      "visits": 1999,
+      "downloads": 1258
+    },
+    {
+      "month": "2025-10",
+      "visits": 941,
+      "downloads": 1343
+    },
+    {
+      "month": "2025-11",
+      "visits": 630,
+      "downloads": 1934
+    },
+    {
+      "month": "2025-12",
+      "visits": 37,
+      "downloads": 73
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

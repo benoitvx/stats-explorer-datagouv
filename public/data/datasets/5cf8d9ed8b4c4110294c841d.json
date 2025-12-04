@@ -1,0 +1,224 @@
+{
+  "id": "5cf8d9ed8b4c4110294c841d",
+  "title": "Résultats du contrôle sanitaire de l'eau distribuée commune par commune",
+  "slug": "resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "organizationId": "534fff94a3a7292c64a77fc1",
+  "url": "https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune/",
+  "totalVisits": 135444,
+  "totalDownloads": 35104,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 739,
+      "downloads": 417
+    },
+    {
+      "month": "2022-08",
+      "visits": 1095,
+      "downloads": 183
+    },
+    {
+      "month": "2022-09",
+      "visits": 9836,
+      "downloads": 864
+    },
+    {
+      "month": "2022-10",
+      "visits": 2691,
+      "downloads": 249
+    },
+    {
+      "month": "2022-11",
+      "visits": 1820,
+      "downloads": 231
+    },
+    {
+      "month": "2022-12",
+      "visits": 1453,
+      "downloads": 331
+    },
+    {
+      "month": "2023-01",
+      "visits": 1681,
+      "downloads": 237
+    },
+    {
+      "month": "2023-02",
+      "visits": 3431,
+      "downloads": 141
+    },
+    {
+      "month": "2023-03",
+      "visits": 1717,
+      "downloads": 166
+    },
+    {
+      "month": "2023-04",
+      "visits": 1792,
+      "downloads": 151
+    },
+    {
+      "month": "2023-05",
+      "visits": 1517,
+      "downloads": 190
+    },
+    {
+      "month": "2023-06",
+      "visits": 3282,
+      "downloads": 266
+    },
+    {
+      "month": "2023-07",
+      "visits": 2084,
+      "downloads": 744
+    },
+    {
+      "month": "2023-08",
+      "visits": 2401,
+      "downloads": 543
+    },
+    {
+      "month": "2023-09",
+      "visits": 2947,
+      "downloads": 608
+    },
+    {
+      "month": "2023-10",
+      "visits": 3135,
+      "downloads": 851
+    },
+    {
+      "month": "2023-11",
+      "visits": 2102,
+      "downloads": 679
+    },
+    {
+      "month": "2023-12",
+      "visits": 1867,
+      "downloads": 631
+    },
+    {
+      "month": "2024-01",
+      "visits": 2013,
+      "downloads": 628
+    },
+    {
+      "month": "2024-02",
+      "visits": 1991,
+      "downloads": 540
+    },
+    {
+      "month": "2024-03",
+      "visits": 2353,
+      "downloads": 726
+    },
+    {
+      "month": "2024-04",
+      "visits": 2735,
+      "downloads": 814
+    },
+    {
+      "month": "2024-05",
+      "visits": 2225,
+      "downloads": 753
+    },
+    {
+      "month": "2024-06",
+      "visits": 1656,
+      "downloads": 523
+    },
+    {
+      "month": "2024-07",
+      "visits": 1796,
+      "downloads": 576
+    },
+    {
+      "month": "2024-08",
+      "visits": 1900,
+      "downloads": 580
+    },
+    {
+      "month": "2024-09",
+      "visits": 2689,
+      "downloads": 803
+    },
+    {
+      "month": "2024-10",
+      "visits": 2861,
+      "downloads": 935
+    },
+    {
+      "month": "2024-11",
+      "visits": 3858,
+      "downloads": 922
+    },
+    {
+      "month": "2024-12",
+      "visits": 14318,
+      "downloads": 3042
+    },
+    {
+      "month": "2025-01",
+      "visits": 510,
+      "downloads": 259
+    },
+    {
+      "month": "2025-02",
+      "visits": 3615,
+      "downloads": 2897
+    },
+    {
+      "month": "2025-03",
+      "visits": 5932,
+      "downloads": 1389
+    },
+    {
+      "month": "2025-04",
+      "visits": 4407,
+      "downloads": 1257
+    },
+    {
+      "month": "2025-05",
+      "visits": 4369,
+      "downloads": 1095
+    },
+    {
+      "month": "2025-06",
+      "visits": 3615,
+      "downloads": 1163
+    },
+    {
+      "month": "2025-07",
+      "visits": 4897,
+      "downloads": 841
+    },
+    {
+      "month": "2025-08",
+      "visits": 6518,
+      "downloads": 787
+    },
+    {
+      "month": "2025-09",
+      "visits": 4011,
+      "downloads": 1745
+    },
+    {
+      "month": "2025-10",
+      "visits": 6093,
+      "downloads": 2760
+    },
+    {
+      "month": "2025-11",
+      "visits": 5213,
+      "downloads": 2399
+    },
+    {
+      "month": "2025-12",
+      "visits": 279,
+      "downloads": 188
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "66465e814b688376bdfb481f",
+  "title": "Modèle Numérique de Terrain (MNT) France métropolitaine et DROM",
+  "slug": "modele-numerique-de-terrain-mnt-france-metropolitaine-et-drom",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/modele-numerique-de-terrain-mnt-france-metropolitaine-et-drom/",
+  "totalVisits": 80064,
+  "totalDownloads": 3852,
+  "monthlyStats": [
+    {
+      "month": "2024-05",
+      "visits": 439,
+      "downloads": 23
+    },
+    {
+      "month": "2024-06",
+      "visits": 244,
+      "downloads": 44
+    },
+    {
+      "month": "2024-07",
+      "visits": 359,
+      "downloads": 38
+    },
+    {
+      "month": "2024-08",
+      "visits": 2430,
+      "downloads": 44
+    },
+    {
+      "month": "2024-09",
+      "visits": 11184,
+      "downloads": 99
+    },
+    {
+      "month": "2024-10",
+      "visits": 14262,
+      "downloads": 183
+    },
+    {
+      "month": "2024-11",
+      "visits": 21061,
+      "downloads": 242
+    },
+    {
+      "month": "2024-12",
+      "visits": 3332,
+      "downloads": 141
+    },
+    {
+      "month": "2025-01",
+      "visits": 288,
+      "downloads": 7
+    },
+    {
+      "month": "2025-02",
+      "visits": 1666,
+      "downloads": 261
+    },
+    {
+      "month": "2025-03",
+      "visits": 2268,
+      "downloads": 309
+    },
+    {
+      "month": "2025-04",
+      "visits": 2911,
+      "downloads": 334
+    },
+    {
+      "month": "2025-05",
+      "visits": 3263,
+      "downloads": 324
+    },
+    {
+      "month": "2025-06",
+      "visits": 2605,
+      "downloads": 261
+    },
+    {
+      "month": "2025-07",
+      "visits": 1935,
+      "downloads": 215
+    },
+    {
+      "month": "2025-08",
+      "visits": 1774,
+      "downloads": 181
+    },
+    {
+      "month": "2025-09",
+      "visits": 2458,
+      "downloads": 307
+    },
+    {
+      "month": "2025-10",
+      "visits": 3100,
+      "downloads": 371
+    },
+    {
+      "month": "2025-11",
+      "visits": 4201,
+      "downloads": 446
+    },
+    {
+      "month": "2025-12",
+      "visits": 284,
+      "downloads": 22
+    }
+  ],
+  "firstMonth": "2024-05",
+  "lastMonth": "2025-12"
+}

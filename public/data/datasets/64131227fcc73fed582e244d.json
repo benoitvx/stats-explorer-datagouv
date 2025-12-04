@@ -1,0 +1,184 @@
+{
+  "id": "64131227fcc73fed582e244d",
+  "title": "Réseau des Transports Urbain de Bourges",
+  "slug": "reseau-des-transports-urbain-de-bourges",
+  "organization": "STU Bourges",
+  "organizationId": "64131045e3b835604271d9d8",
+  "url": "https://www.data.gouv.fr/datasets/reseau-des-transports-urbain-de-bourges/",
+  "totalVisits": 2576,
+  "totalDownloads": 2079492,
+  "monthlyStats": [
+    {
+      "month": "2023-03",
+      "visits": 310,
+      "downloads": 8
+    },
+    {
+      "month": "2023-04",
+      "visits": 30,
+      "downloads": 1
+    },
+    {
+      "month": "2023-05",
+      "visits": 28,
+      "downloads": 1
+    },
+    {
+      "month": "2023-06",
+      "visits": 36,
+      "downloads": 6
+    },
+    {
+      "month": "2023-07",
+      "visits": 47,
+      "downloads": 0
+    },
+    {
+      "month": "2023-08",
+      "visits": 65,
+      "downloads": 11
+    },
+    {
+      "month": "2023-09",
+      "visits": 62,
+      "downloads": 18
+    },
+    {
+      "month": "2023-10",
+      "visits": 43,
+      "downloads": 9
+    },
+    {
+      "month": "2023-11",
+      "visits": 64,
+      "downloads": 17
+    },
+    {
+      "month": "2023-12",
+      "visits": 113,
+      "downloads": 2
+    },
+    {
+      "month": "2024-01",
+      "visits": 107,
+      "downloads": 4
+    },
+    {
+      "month": "2024-02",
+      "visits": 108,
+      "downloads": 5
+    },
+    {
+      "month": "2024-03",
+      "visits": 45,
+      "downloads": 3
+    },
+    {
+      "month": "2024-04",
+      "visits": 47,
+      "downloads": 7
+    },
+    {
+      "month": "2024-05",
+      "visits": 47,
+      "downloads": 3
+    },
+    {
+      "month": "2024-06",
+      "visits": 54,
+      "downloads": 7
+    },
+    {
+      "month": "2024-07",
+      "visits": 60,
+      "downloads": 22
+    },
+    {
+      "month": "2024-08",
+      "visits": 43,
+      "downloads": 14
+    },
+    {
+      "month": "2024-09",
+      "visits": 51,
+      "downloads": 12
+    },
+    {
+      "month": "2024-10",
+      "visits": 36,
+      "downloads": 31
+    },
+    {
+      "month": "2024-11",
+      "visits": 59,
+      "downloads": 13
+    },
+    {
+      "month": "2024-12",
+      "visits": 55,
+      "downloads": 9
+    },
+    {
+      "month": "2025-01",
+      "visits": 59,
+      "downloads": 8
+    },
+    {
+      "month": "2025-02",
+      "visits": 72,
+      "downloads": 19
+    },
+    {
+      "month": "2025-03",
+      "visits": 229,
+      "downloads": 30
+    },
+    {
+      "month": "2025-04",
+      "visits": 104,
+      "downloads": 35
+    },
+    {
+      "month": "2025-05",
+      "visits": 91,
+      "downloads": 252792
+    },
+    {
+      "month": "2025-06",
+      "visits": 119,
+      "downloads": 288545
+    },
+    {
+      "month": "2025-07",
+      "visits": 115,
+      "downloads": 311453
+    },
+    {
+      "month": "2025-08",
+      "visits": 82,
+      "downloads": 311462
+    },
+    {
+      "month": "2025-09",
+      "visits": 64,
+      "downloads": 302161
+    },
+    {
+      "month": "2025-10",
+      "visits": 52,
+      "downloads": 307105
+    },
+    {
+      "month": "2025-11",
+      "visits": 78,
+      "downloads": 285801
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 19878
+    }
+  ],
+  "firstMonth": "2023-03",
+  "lastMonth": "2025-12"
+}

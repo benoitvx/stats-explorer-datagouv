@@ -1,0 +1,224 @@
+{
+  "id": "551d4ff3c751df55da0cd89f",
+  "title": "Données sur les installations radioélectriques de plus de 5 watts ",
+  "slug": "donnees-sur-les-installations-radioelectriques-de-plus-de-5-watts-1",
+  "organization": "Agence nationale des fréquences",
+  "organizationId": "551d00efc751df60500cd89f",
+  "url": "https://www.data.gouv.fr/datasets/donnees-sur-les-installations-radioelectriques-de-plus-de-5-watts-1/",
+  "totalVisits": 103294,
+  "totalDownloads": 69000,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1300,
+      "downloads": 1950
+    },
+    {
+      "month": "2022-08",
+      "visits": 2270,
+      "downloads": 1374
+    },
+    {
+      "month": "2022-09",
+      "visits": 2210,
+      "downloads": 1353
+    },
+    {
+      "month": "2022-10",
+      "visits": 2234,
+      "downloads": 4283
+    },
+    {
+      "month": "2022-11",
+      "visits": 2204,
+      "downloads": 1830
+    },
+    {
+      "month": "2022-12",
+      "visits": 2214,
+      "downloads": 4902
+    },
+    {
+      "month": "2023-01",
+      "visits": 2278,
+      "downloads": 748
+    },
+    {
+      "month": "2023-02",
+      "visits": 2086,
+      "downloads": 1574
+    },
+    {
+      "month": "2023-03",
+      "visits": 2499,
+      "downloads": 549
+    },
+    {
+      "month": "2023-04",
+      "visits": 2109,
+      "downloads": 742
+    },
+    {
+      "month": "2023-05",
+      "visits": 2111,
+      "downloads": 850
+    },
+    {
+      "month": "2023-06",
+      "visits": 2154,
+      "downloads": 636
+    },
+    {
+      "month": "2023-07",
+      "visits": 2344,
+      "downloads": 473
+    },
+    {
+      "month": "2023-08",
+      "visits": 2112,
+      "downloads": 392
+    },
+    {
+      "month": "2023-09",
+      "visits": 2232,
+      "downloads": 492
+    },
+    {
+      "month": "2023-10",
+      "visits": 2380,
+      "downloads": 673
+    },
+    {
+      "month": "2023-11",
+      "visits": 2419,
+      "downloads": 518
+    },
+    {
+      "month": "2023-12",
+      "visits": 2381,
+      "downloads": 1567
+    },
+    {
+      "month": "2024-01",
+      "visits": 2435,
+      "downloads": 422
+    },
+    {
+      "month": "2024-02",
+      "visits": 2242,
+      "downloads": 2507
+    },
+    {
+      "month": "2024-03",
+      "visits": 2395,
+      "downloads": 1451
+    },
+    {
+      "month": "2024-04",
+      "visits": 1871,
+      "downloads": 2045
+    },
+    {
+      "month": "2024-05",
+      "visits": 3787,
+      "downloads": 1701
+    },
+    {
+      "month": "2024-06",
+      "visits": 3690,
+      "downloads": 1263
+    },
+    {
+      "month": "2024-07",
+      "visits": 4141,
+      "downloads": 2922
+    },
+    {
+      "month": "2024-08",
+      "visits": 3636,
+      "downloads": 1946
+    },
+    {
+      "month": "2024-09",
+      "visits": 3627,
+      "downloads": 2044
+    },
+    {
+      "month": "2024-10",
+      "visits": 3757,
+      "downloads": 581
+    },
+    {
+      "month": "2024-11",
+      "visits": 3950,
+      "downloads": 617
+    },
+    {
+      "month": "2024-12",
+      "visits": 2591,
+      "downloads": 1156
+    },
+    {
+      "month": "2025-01",
+      "visits": 599,
+      "downloads": 567
+    },
+    {
+      "month": "2025-02",
+      "visits": 3179,
+      "downloads": 753
+    },
+    {
+      "month": "2025-03",
+      "visits": 4029,
+      "downloads": 1812
+    },
+    {
+      "month": "2025-04",
+      "visits": 3768,
+      "downloads": 1128
+    },
+    {
+      "month": "2025-05",
+      "visits": 3890,
+      "downloads": 799
+    },
+    {
+      "month": "2025-06",
+      "visits": 4093,
+      "downloads": 1331
+    },
+    {
+      "month": "2025-07",
+      "visits": 1707,
+      "downloads": 1298
+    },
+    {
+      "month": "2025-08",
+      "visits": 1584,
+      "downloads": 7750
+    },
+    {
+      "month": "2025-09",
+      "visits": 1015,
+      "downloads": 3700
+    },
+    {
+      "month": "2025-10",
+      "visits": 996,
+      "downloads": 5677
+    },
+    {
+      "month": "2025-11",
+      "visits": 726,
+      "downloads": 584
+    },
+    {
+      "month": "2025-12",
+      "visits": 49,
+      "downloads": 40
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

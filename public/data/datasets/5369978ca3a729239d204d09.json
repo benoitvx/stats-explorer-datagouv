@@ -1,0 +1,224 @@
+{
+  "id": "5369978ca3a729239d204d09",
+  "title": "Jeux de données - Ville de Montpellier",
+  "slug": "jeux-de-donnees-ville-de-montpellier-mtn",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/jeux-de-donnees-ville-de-montpellier-mtn/",
+  "totalVisits": 42294,
+  "totalDownloads": 25245,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 99,
+      "downloads": 70
+    },
+    {
+      "month": "2022-08",
+      "visits": 212,
+      "downloads": 200
+    },
+    {
+      "month": "2022-09",
+      "visits": 696,
+      "downloads": 661
+    },
+    {
+      "month": "2022-10",
+      "visits": 798,
+      "downloads": 921
+    },
+    {
+      "month": "2022-11",
+      "visits": 729,
+      "downloads": 684
+    },
+    {
+      "month": "2022-12",
+      "visits": 642,
+      "downloads": 478
+    },
+    {
+      "month": "2023-01",
+      "visits": 906,
+      "downloads": 809
+    },
+    {
+      "month": "2023-02",
+      "visits": 915,
+      "downloads": 757
+    },
+    {
+      "month": "2023-03",
+      "visits": 1027,
+      "downloads": 854
+    },
+    {
+      "month": "2023-04",
+      "visits": 732,
+      "downloads": 660
+    },
+    {
+      "month": "2023-05",
+      "visits": 687,
+      "downloads": 701
+    },
+    {
+      "month": "2023-06",
+      "visits": 461,
+      "downloads": 280
+    },
+    {
+      "month": "2023-07",
+      "visits": 223,
+      "downloads": 88
+    },
+    {
+      "month": "2023-08",
+      "visits": 191,
+      "downloads": 67
+    },
+    {
+      "month": "2023-09",
+      "visits": 440,
+      "downloads": 287
+    },
+    {
+      "month": "2023-10",
+      "visits": 539,
+      "downloads": 444
+    },
+    {
+      "month": "2023-11",
+      "visits": 668,
+      "downloads": 709
+    },
+    {
+      "month": "2023-12",
+      "visits": 618,
+      "downloads": 454
+    },
+    {
+      "month": "2024-01",
+      "visits": 859,
+      "downloads": 707
+    },
+    {
+      "month": "2024-02",
+      "visits": 709,
+      "downloads": 601
+    },
+    {
+      "month": "2024-03",
+      "visits": 1208,
+      "downloads": 1102
+    },
+    {
+      "month": "2024-04",
+      "visits": 518,
+      "downloads": 434
+    },
+    {
+      "month": "2024-05",
+      "visits": 1056,
+      "downloads": 768
+    },
+    {
+      "month": "2024-06",
+      "visits": 729,
+      "downloads": 416
+    },
+    {
+      "month": "2024-07",
+      "visits": 272,
+      "downloads": 120
+    },
+    {
+      "month": "2024-08",
+      "visits": 228,
+      "downloads": 57
+    },
+    {
+      "month": "2024-09",
+      "visits": 996,
+      "downloads": 599
+    },
+    {
+      "month": "2024-10",
+      "visits": 1949,
+      "downloads": 1023
+    },
+    {
+      "month": "2024-11",
+      "visits": 2804,
+      "downloads": 1588
+    },
+    {
+      "month": "2024-12",
+      "visits": 1547,
+      "downloads": 650
+    },
+    {
+      "month": "2025-01",
+      "visits": 150,
+      "downloads": 96
+    },
+    {
+      "month": "2025-02",
+      "visits": 2192,
+      "downloads": 749
+    },
+    {
+      "month": "2025-03",
+      "visits": 2894,
+      "downloads": 677
+    },
+    {
+      "month": "2025-04",
+      "visits": 1851,
+      "downloads": 641
+    },
+    {
+      "month": "2025-05",
+      "visits": 1994,
+      "downloads": 690
+    },
+    {
+      "month": "2025-06",
+      "visits": 960,
+      "downloads": 294
+    },
+    {
+      "month": "2025-07",
+      "visits": 429,
+      "downloads": 148
+    },
+    {
+      "month": "2025-08",
+      "visits": 340,
+      "downloads": 115
+    },
+    {
+      "month": "2025-09",
+      "visits": 1324,
+      "downloads": 627
+    },
+    {
+      "month": "2025-10",
+      "visits": 2694,
+      "downloads": 920
+    },
+    {
+      "month": "2025-11",
+      "visits": 3653,
+      "downloads": 2726
+    },
+    {
+      "month": "2025-12",
+      "visits": 355,
+      "downloads": 373
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

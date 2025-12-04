@@ -1,0 +1,79 @@
+{
+  "id": "675871bd6e60265b46ab356e",
+  "title": "MNT LiDAR HD",
+  "slug": "mnt-lidar-hd",
+  "organization": "Institut national de l'information géographique et forestière",
+  "organizationId": "534fff80a3a7292c64a77e41",
+  "url": "https://www.data.gouv.fr/datasets/mnt-lidar-hd/",
+  "totalVisits": 9733,
+  "totalDownloads": 9819,
+  "monthlyStats": [
+    {
+      "month": "2024-12",
+      "visits": 141,
+      "downloads": 0
+    },
+    {
+      "month": "2025-01",
+      "visits": 98,
+      "downloads": 4
+    },
+    {
+      "month": "2025-02",
+      "visits": 371,
+      "downloads": 80
+    },
+    {
+      "month": "2025-03",
+      "visits": 629,
+      "downloads": 253
+    },
+    {
+      "month": "2025-04",
+      "visits": 910,
+      "downloads": 453
+    },
+    {
+      "month": "2025-05",
+      "visits": 988,
+      "downloads": 606
+    },
+    {
+      "month": "2025-06",
+      "visits": 910,
+      "downloads": 916
+    },
+    {
+      "month": "2025-07",
+      "visits": 616,
+      "downloads": 1467
+    },
+    {
+      "month": "2025-08",
+      "visits": 741,
+      "downloads": 945
+    },
+    {
+      "month": "2025-09",
+      "visits": 1080,
+      "downloads": 2621
+    },
+    {
+      "month": "2025-10",
+      "visits": 1430,
+      "downloads": 1568
+    },
+    {
+      "month": "2025-11",
+      "visits": 1618,
+      "downloads": 802
+    },
+    {
+      "month": "2025-12",
+      "visits": 201,
+      "downloads": 104
+    }
+  ],
+  "firstMonth": "2024-12",
+  "lastMonth": "2025-12"
+}

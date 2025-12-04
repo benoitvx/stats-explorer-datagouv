@@ -1,0 +1,224 @@
+{
+  "id": "5beab66106e3e719bf77c6f6",
+  "title": "Liste monuments historiques de Roubaix",
+  "slug": "liste-monuments-historiques-de-roubaix",
+  "organization": "Ville de Roubaix",
+  "organizationId": "5be53f55634f4119ca26ec72",
+  "url": "https://www.data.gouv.fr/datasets/liste-monuments-historiques-de-roubaix/",
+  "totalVisits": 254449,
+  "totalDownloads": 7160,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 435,
+      "downloads": 26
+    },
+    {
+      "month": "2022-08",
+      "visits": 746,
+      "downloads": 51
+    },
+    {
+      "month": "2022-09",
+      "visits": 5380,
+      "downloads": 137
+    },
+    {
+      "month": "2022-10",
+      "visits": 10794,
+      "downloads": 259
+    },
+    {
+      "month": "2022-11",
+      "visits": 12864,
+      "downloads": 284
+    },
+    {
+      "month": "2022-12",
+      "visits": 8965,
+      "downloads": 249
+    },
+    {
+      "month": "2023-01",
+      "visits": 15086,
+      "downloads": 314
+    },
+    {
+      "month": "2023-02",
+      "visits": 12664,
+      "downloads": 268
+    },
+    {
+      "month": "2023-03",
+      "visits": 15966,
+      "downloads": 464
+    },
+    {
+      "month": "2023-04",
+      "visits": 8651,
+      "downloads": 285
+    },
+    {
+      "month": "2023-05",
+      "visits": 11816,
+      "downloads": 373
+    },
+    {
+      "month": "2023-06",
+      "visits": 6361,
+      "downloads": 250
+    },
+    {
+      "month": "2023-07",
+      "visits": 836,
+      "downloads": 48
+    },
+    {
+      "month": "2023-08",
+      "visits": 568,
+      "downloads": 70
+    },
+    {
+      "month": "2023-09",
+      "visits": 5201,
+      "downloads": 190
+    },
+    {
+      "month": "2023-10",
+      "visits": 9603,
+      "downloads": 253
+    },
+    {
+      "month": "2023-11",
+      "visits": 12433,
+      "downloads": 200
+    },
+    {
+      "month": "2023-12",
+      "visits": 11817,
+      "downloads": 201
+    },
+    {
+      "month": "2024-01",
+      "visits": 19059,
+      "downloads": 340
+    },
+    {
+      "month": "2024-02",
+      "visits": 18580,
+      "downloads": 387
+    },
+    {
+      "month": "2024-03",
+      "visits": 24506,
+      "downloads": 676
+    },
+    {
+      "month": "2024-04",
+      "visits": 12424,
+      "downloads": 302
+    },
+    {
+      "month": "2024-05",
+      "visits": 18141,
+      "downloads": 400
+    },
+    {
+      "month": "2024-06",
+      "visits": 9947,
+      "downloads": 205
+    },
+    {
+      "month": "2024-07",
+      "visits": 157,
+      "downloads": 34
+    },
+    {
+      "month": "2024-08",
+      "visits": 107,
+      "downloads": 37
+    },
+    {
+      "month": "2024-09",
+      "visits": 106,
+      "downloads": 49
+    },
+    {
+      "month": "2024-10",
+      "visits": 89,
+      "downloads": 35
+    },
+    {
+      "month": "2024-11",
+      "visits": 134,
+      "downloads": 141
+    },
+    {
+      "month": "2024-12",
+      "visits": 88,
+      "downloads": 176
+    },
+    {
+      "month": "2025-01",
+      "visits": 49,
+      "downloads": 34
+    },
+    {
+      "month": "2025-02",
+      "visits": 120,
+      "downloads": 91
+    },
+    {
+      "month": "2025-03",
+      "visits": 73,
+      "downloads": 51
+    },
+    {
+      "month": "2025-04",
+      "visits": 105,
+      "downloads": 100
+    },
+    {
+      "month": "2025-05",
+      "visits": 143,
+      "downloads": 60
+    },
+    {
+      "month": "2025-06",
+      "visits": 108,
+      "downloads": 38
+    },
+    {
+      "month": "2025-07",
+      "visits": 128,
+      "downloads": 19
+    },
+    {
+      "month": "2025-08",
+      "visits": 62,
+      "downloads": 14
+    },
+    {
+      "month": "2025-09",
+      "visits": 60,
+      "downloads": 28
+    },
+    {
+      "month": "2025-10",
+      "visits": 52,
+      "downloads": 10
+    },
+    {
+      "month": "2025-11",
+      "visits": 23,
+      "downloads": 11
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "609218f4e076262de7296bc5",
+  "title": "Belib' - Points de recharge pour véhicules électriques - Disponibilité temps réel",
+  "slug": "belib-points-de-recharge-pour-vehicules-electriques-disponibilite-temps-reel",
+  "organization": "Ville de Paris",
+  "organizationId": "534fff89a3a7292c64a77eb7",
+  "url": "https://www.data.gouv.fr/datasets/belib-points-de-recharge-pour-vehicules-electriques-disponibilite-temps-reel/",
+  "totalVisits": 6431,
+  "totalDownloads": 415852,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 29,
+      "downloads": 547
+    },
+    {
+      "month": "2022-08",
+      "visits": 34,
+      "downloads": 36
+    },
+    {
+      "month": "2022-09",
+      "visits": 78,
+      "downloads": 30
+    },
+    {
+      "month": "2022-10",
+      "visits": 89,
+      "downloads": 409
+    },
+    {
+      "month": "2022-11",
+      "visits": 113,
+      "downloads": 830
+    },
+    {
+      "month": "2022-12",
+      "visits": 125,
+      "downloads": 49
+    },
+    {
+      "month": "2023-01",
+      "visits": 95,
+      "downloads": 6422
+    },
+    {
+      "month": "2023-02",
+      "visits": 101,
+      "downloads": 7715
+    },
+    {
+      "month": "2023-03",
+      "visits": 80,
+      "downloads": 5036
+    },
+    {
+      "month": "2023-04",
+      "visits": 142,
+      "downloads": 8512
+    },
+    {
+      "month": "2023-05",
+      "visits": 105,
+      "downloads": 8486
+    },
+    {
+      "month": "2023-06",
+      "visits": 118,
+      "downloads": 8701
+    },
+    {
+      "month": "2023-07",
+      "visits": 162,
+      "downloads": 8673
+    },
+    {
+      "month": "2023-08",
+      "visits": 118,
+      "downloads": 8728
+    },
+    {
+      "month": "2023-09",
+      "visits": 149,
+      "downloads": 8715
+    },
+    {
+      "month": "2023-10",
+      "visits": 167,
+      "downloads": 9099
+    },
+    {
+      "month": "2023-11",
+      "visits": 165,
+      "downloads": 8617
+    },
+    {
+      "month": "2023-12",
+      "visits": 201,
+      "downloads": 7631
+    },
+    {
+      "month": "2024-01",
+      "visits": 208,
+      "downloads": 8976
+    },
+    {
+      "month": "2024-02",
+      "visits": 202,
+      "downloads": 8401
+    },
+    {
+      "month": "2024-03",
+      "visits": 142,
+      "downloads": 8788
+    },
+    {
+      "month": "2024-04",
+      "visits": 121,
+      "downloads": 8403
+    },
+    {
+      "month": "2024-05",
+      "visits": 158,
+      "downloads": 8946
+    },
+    {
+      "month": "2024-06",
+      "visits": 171,
+      "downloads": 8700
+    },
+    {
+      "month": "2024-07",
+      "visits": 161,
+      "downloads": 8974
+    },
+    {
+      "month": "2024-08",
+      "visits": 113,
+      "downloads": 3270
+    },
+    {
+      "month": "2024-09",
+      "visits": 130,
+      "downloads": 8691
+    },
+    {
+      "month": "2024-10",
+      "visits": 109,
+      "downloads": 8740
+    },
+    {
+      "month": "2024-11",
+      "visits": 173,
+      "downloads": 8144
+    },
+    {
+      "month": "2024-12",
+      "visits": 134,
+      "downloads": 8663
+    },
+    {
+      "month": "2025-01",
+      "visits": 73,
+      "downloads": 8952
+    },
+    {
+      "month": "2025-02",
+      "visits": 148,
+      "downloads": 8129
+    },
+    {
+      "month": "2025-03",
+      "visits": 143,
+      "downloads": 8661
+    },
+    {
+      "month": "2025-04",
+      "visits": 179,
+      "downloads": 8684
+    },
+    {
+      "month": "2025-05",
+      "visits": 233,
+      "downloads": 9011
+    },
+    {
+      "month": "2025-06",
+      "visits": 323,
+      "downloads": 8080
+    },
+    {
+      "month": "2025-07",
+      "visits": 274,
+      "downloads": 8976
+    },
+    {
+      "month": "2025-08",
+      "visits": 225,
+      "downloads": 8932
+    },
+    {
+      "month": "2025-09",
+      "visits": 283,
+      "downloads": 43825
+    },
+    {
+      "month": "2025-10",
+      "visits": 392,
+      "downloads": 67703
+    },
+    {
+      "month": "2025-11",
+      "visits": 249,
+      "downloads": 36091
+    },
+    {
+      "month": "2025-12",
+      "visits": 16,
+      "downloads": 1876
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

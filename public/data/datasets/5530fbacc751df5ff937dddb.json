@@ -5,8 +5,8 @@
   "organization": "Base Adresse Nationale",
   "organizationId": "58e555f5c751df205d54e76b",
   "url": "https://www.data.gouv.fr/datasets/base-adresse-nationale/",
-  "totalVisits": 366815,
-  "totalDownloads": 21772,
+  "totalVisits": 367426,
+  "totalDownloads": 21757,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 6055,
-      "downloads": 385
+      "downloads": 351
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 7604,
-      "downloads": 458
+      "downloads": 418
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 237,
-      "downloads": 18
+      "visits": 848,
+      "downloads": 77
     }
   ],
   "firstMonth": "2022-07",

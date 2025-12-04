@@ -1,0 +1,224 @@
+{
+  "id": "6088a698ad74ab9b6d296bcc",
+  "title": "Stationnement – Place en zone bleue",
+  "slug": "stationnement-place-en-zone-bleue-1",
+  "organization": "La Rochelle",
+  "organizationId": "5821930b88ee386862c65bb3",
+  "url": "https://www.data.gouv.fr/datasets/stationnement-place-en-zone-bleue-1/",
+  "totalVisits": 210952,
+  "totalDownloads": 981,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 591,
+      "downloads": 12
+    },
+    {
+      "month": "2022-08",
+      "visits": 761,
+      "downloads": 29
+    },
+    {
+      "month": "2022-09",
+      "visits": 936,
+      "downloads": 22
+    },
+    {
+      "month": "2022-10",
+      "visits": 975,
+      "downloads": 29
+    },
+    {
+      "month": "2022-11",
+      "visits": 974,
+      "downloads": 25
+    },
+    {
+      "month": "2022-12",
+      "visits": 728,
+      "downloads": 28
+    },
+    {
+      "month": "2023-01",
+      "visits": 869,
+      "downloads": 28
+    },
+    {
+      "month": "2023-02",
+      "visits": 944,
+      "downloads": 23
+    },
+    {
+      "month": "2023-03",
+      "visits": 1379,
+      "downloads": 24
+    },
+    {
+      "month": "2023-04",
+      "visits": 1785,
+      "downloads": 24
+    },
+    {
+      "month": "2023-05",
+      "visits": 3398,
+      "downloads": 41
+    },
+    {
+      "month": "2023-06",
+      "visits": 3024,
+      "downloads": 28
+    },
+    {
+      "month": "2023-07",
+      "visits": 3995,
+      "downloads": 29
+    },
+    {
+      "month": "2023-08",
+      "visits": 4741,
+      "downloads": 45
+    },
+    {
+      "month": "2023-09",
+      "visits": 4443,
+      "downloads": 48
+    },
+    {
+      "month": "2023-10",
+      "visits": 4446,
+      "downloads": 34
+    },
+    {
+      "month": "2023-11",
+      "visits": 3905,
+      "downloads": 27
+    },
+    {
+      "month": "2023-12",
+      "visits": 4183,
+      "downloads": 31
+    },
+    {
+      "month": "2024-01",
+      "visits": 4058,
+      "downloads": 14
+    },
+    {
+      "month": "2024-02",
+      "visits": 4384,
+      "downloads": 18
+    },
+    {
+      "month": "2024-03",
+      "visits": 5603,
+      "downloads": 29
+    },
+    {
+      "month": "2024-04",
+      "visits": 5799,
+      "downloads": 34
+    },
+    {
+      "month": "2024-05",
+      "visits": 7006,
+      "downloads": 22
+    },
+    {
+      "month": "2024-06",
+      "visits": 6623,
+      "downloads": 23
+    },
+    {
+      "month": "2024-07",
+      "visits": 7834,
+      "downloads": 26
+    },
+    {
+      "month": "2024-08",
+      "visits": 9032,
+      "downloads": 21
+    },
+    {
+      "month": "2024-09",
+      "visits": 8030,
+      "downloads": 18
+    },
+    {
+      "month": "2024-10",
+      "visits": 7240,
+      "downloads": 24
+    },
+    {
+      "month": "2024-11",
+      "visits": 7307,
+      "downloads": 11
+    },
+    {
+      "month": "2024-12",
+      "visits": 3603,
+      "downloads": 11
+    },
+    {
+      "month": "2025-01",
+      "visits": 274,
+      "downloads": 10
+    },
+    {
+      "month": "2025-02",
+      "visits": 5410,
+      "downloads": 24
+    },
+    {
+      "month": "2025-03",
+      "visits": 7230,
+      "downloads": 42
+    },
+    {
+      "month": "2025-04",
+      "visits": 9590,
+      "downloads": 30
+    },
+    {
+      "month": "2025-05",
+      "visits": 11080,
+      "downloads": 24
+    },
+    {
+      "month": "2025-06",
+      "visits": 9890,
+      "downloads": 9
+    },
+    {
+      "month": "2025-07",
+      "visits": 10926,
+      "downloads": 11
+    },
+    {
+      "month": "2025-08",
+      "visits": 9837,
+      "downloads": 7
+    },
+    {
+      "month": "2025-09",
+      "visits": 10246,
+      "downloads": 12
+    },
+    {
+      "month": "2025-10",
+      "visits": 9501,
+      "downloads": 10
+    },
+    {
+      "month": "2025-11",
+      "visits": 7900,
+      "downloads": 21
+    },
+    {
+      "month": "2025-12",
+      "visits": 472,
+      "downloads": 3
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

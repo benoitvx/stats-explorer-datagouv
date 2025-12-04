@@ -1,0 +1,224 @@
+{
+  "id": "60a37b7f303fdf4f2654b73d",
+  "title": "Aménagements cyclables France Métropolitaine",
+  "slug": "amenagements-cyclables-france-metropolitaine",
+  "organization": "Geovelo",
+  "organizationId": "6012f3c7ef6c11a0a6dea601",
+  "url": "https://www.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/",
+  "totalVisits": 20836,
+  "totalDownloads": 4822051,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 133,
+      "downloads": 2590
+    },
+    {
+      "month": "2022-08",
+      "visits": 231,
+      "downloads": 5752
+    },
+    {
+      "month": "2022-09",
+      "visits": 290,
+      "downloads": 15842
+    },
+    {
+      "month": "2022-10",
+      "visits": 347,
+      "downloads": 22440
+    },
+    {
+      "month": "2022-11",
+      "visits": 362,
+      "downloads": 20535
+    },
+    {
+      "month": "2022-12",
+      "visits": 318,
+      "downloads": 27303
+    },
+    {
+      "month": "2023-01",
+      "visits": 309,
+      "downloads": 107595
+    },
+    {
+      "month": "2023-02",
+      "visits": 273,
+      "downloads": 102728
+    },
+    {
+      "month": "2023-03",
+      "visits": 418,
+      "downloads": 118216
+    },
+    {
+      "month": "2023-04",
+      "visits": 381,
+      "downloads": 113269
+    },
+    {
+      "month": "2023-05",
+      "visits": 319,
+      "downloads": 113523
+    },
+    {
+      "month": "2023-06",
+      "visits": 329,
+      "downloads": 112124
+    },
+    {
+      "month": "2023-07",
+      "visits": 395,
+      "downloads": 115313
+    },
+    {
+      "month": "2023-08",
+      "visits": 331,
+      "downloads": 116867
+    },
+    {
+      "month": "2023-09",
+      "visits": 549,
+      "downloads": 114982
+    },
+    {
+      "month": "2023-10",
+      "visits": 517,
+      "downloads": 111403
+    },
+    {
+      "month": "2023-11",
+      "visits": 548,
+      "downloads": 105192
+    },
+    {
+      "month": "2023-12",
+      "visits": 655,
+      "downloads": 107526
+    },
+    {
+      "month": "2024-01",
+      "visits": 535,
+      "downloads": 107593
+    },
+    {
+      "month": "2024-02",
+      "visits": 517,
+      "downloads": 101125
+    },
+    {
+      "month": "2024-03",
+      "visits": 498,
+      "downloads": 112334
+    },
+    {
+      "month": "2024-04",
+      "visits": 478,
+      "downloads": 103148
+    },
+    {
+      "month": "2024-05",
+      "visits": 411,
+      "downloads": 111136
+    },
+    {
+      "month": "2024-06",
+      "visits": 488,
+      "downloads": 108248
+    },
+    {
+      "month": "2024-07",
+      "visits": 512,
+      "downloads": 116792
+    },
+    {
+      "month": "2024-08",
+      "visits": 397,
+      "downloads": 113637
+    },
+    {
+      "month": "2024-09",
+      "visits": 438,
+      "downloads": 111339
+    },
+    {
+      "month": "2024-10",
+      "visits": 513,
+      "downloads": 112006
+    },
+    {
+      "month": "2024-11",
+      "visits": 641,
+      "downloads": 112733
+    },
+    {
+      "month": "2024-12",
+      "visits": 445,
+      "downloads": 102552
+    },
+    {
+      "month": "2025-01",
+      "visits": 174,
+      "downloads": 117091
+    },
+    {
+      "month": "2025-02",
+      "visits": 495,
+      "downloads": 122463
+    },
+    {
+      "month": "2025-03",
+      "visits": 664,
+      "downloads": 189900
+    },
+    {
+      "month": "2025-04",
+      "visits": 581,
+      "downloads": 117962
+    },
+    {
+      "month": "2025-05",
+      "visits": 829,
+      "downloads": 114658
+    },
+    {
+      "month": "2025-06",
+      "visits": 836,
+      "downloads": 213537
+    },
+    {
+      "month": "2025-07",
+      "visits": 705,
+      "downloads": 232118
+    },
+    {
+      "month": "2025-08",
+      "visits": 913,
+      "downloads": 234882
+    },
+    {
+      "month": "2025-09",
+      "visits": 906,
+      "downloads": 240645
+    },
+    {
+      "month": "2025-10",
+      "visits": 1039,
+      "downloads": 249502
+    },
+    {
+      "month": "2025-11",
+      "visits": 1070,
+      "downloads": 227410
+    },
+    {
+      "month": "2025-12",
+      "visits": 46,
+      "downloads": 16040
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "53808811a3a7297e4d35d72e",
+  "title": "Structures Labellisées SPO 2013",
+  "slug": "structures-labellisees-spo-2013-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/structures-labellisees-spo-2013-cors/",
+  "totalVisits": 1487,
+  "totalDownloads": 268426,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 12,
+      "downloads": 19
+    },
+    {
+      "month": "2022-08",
+      "visits": 8,
+      "downloads": 32
+    },
+    {
+      "month": "2022-09",
+      "visits": 25,
+      "downloads": 22
+    },
+    {
+      "month": "2022-10",
+      "visits": 53,
+      "downloads": 20
+    },
+    {
+      "month": "2022-11",
+      "visits": 32,
+      "downloads": 25
+    },
+    {
+      "month": "2022-12",
+      "visits": 43,
+      "downloads": 24
+    },
+    {
+      "month": "2023-01",
+      "visits": 24,
+      "downloads": 26
+    },
+    {
+      "month": "2023-02",
+      "visits": 25,
+      "downloads": 23
+    },
+    {
+      "month": "2023-03",
+      "visits": 21,
+      "downloads": 32
+    },
+    {
+      "month": "2023-04",
+      "visits": 23,
+      "downloads": 28
+    },
+    {
+      "month": "2023-05",
+      "visits": 22,
+      "downloads": 25
+    },
+    {
+      "month": "2023-06",
+      "visits": 20,
+      "downloads": 37
+    },
+    {
+      "month": "2023-07",
+      "visits": 31,
+      "downloads": 45
+    },
+    {
+      "month": "2023-08",
+      "visits": 40,
+      "downloads": 57
+    },
+    {
+      "month": "2023-09",
+      "visits": 30,
+      "downloads": 40
+    },
+    {
+      "month": "2023-10",
+      "visits": 26,
+      "downloads": 57
+    },
+    {
+      "month": "2023-11",
+      "visits": 22,
+      "downloads": 37
+    },
+    {
+      "month": "2023-12",
+      "visits": 64,
+      "downloads": 37
+    },
+    {
+      "month": "2024-01",
+      "visits": 48,
+      "downloads": 22
+    },
+    {
+      "month": "2024-02",
+      "visits": 31,
+      "downloads": 26
+    },
+    {
+      "month": "2024-03",
+      "visits": 33,
+      "downloads": 20
+    },
+    {
+      "month": "2024-04",
+      "visits": 39,
+      "downloads": 29
+    },
+    {
+      "month": "2024-05",
+      "visits": 38,
+      "downloads": 21
+    },
+    {
+      "month": "2024-06",
+      "visits": 45,
+      "downloads": 19
+    },
+    {
+      "month": "2024-07",
+      "visits": 34,
+      "downloads": 23
+    },
+    {
+      "month": "2024-08",
+      "visits": 29,
+      "downloads": 40
+    },
+    {
+      "month": "2024-09",
+      "visits": 19,
+      "downloads": 29
+    },
+    {
+      "month": "2024-10",
+      "visits": 14,
+      "downloads": 30
+    },
+    {
+      "month": "2024-11",
+      "visits": 127,
+      "downloads": 19
+    },
+    {
+      "month": "2024-12",
+      "visits": 41,
+      "downloads": 16
+    },
+    {
+      "month": "2025-01",
+      "visits": 46,
+      "downloads": 267256
+    },
+    {
+      "month": "2025-02",
+      "visits": 42,
+      "downloads": 27
+    },
+    {
+      "month": "2025-03",
+      "visits": 40,
+      "downloads": 58
+    },
+    {
+      "month": "2025-04",
+      "visits": 61,
+      "downloads": 58
+    },
+    {
+      "month": "2025-05",
+      "visits": 47,
+      "downloads": 87
+    },
+    {
+      "month": "2025-06",
+      "visits": 61,
+      "downloads": 16
+    },
+    {
+      "month": "2025-07",
+      "visits": 71,
+      "downloads": 23
+    },
+    {
+      "month": "2025-08",
+      "visits": 32,
+      "downloads": 9
+    },
+    {
+      "month": "2025-09",
+      "visits": 25,
+      "downloads": 10
+    },
+    {
+      "month": "2025-10",
+      "visits": 21,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 22,
+      "downloads": 2
+    },
+    {
+      "month": "2025-12",
+      "visits": 0,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

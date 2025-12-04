@@ -5,8 +5,8 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/archive-crimes-et-delits-enregistres-par-les-services-de-gendarmerie-et-de-police-depuis-2012/",
-  "totalVisits": 180236,
-  "totalDownloads": 9639,
+  "totalVisits": 180302,
+  "totalDownloads": 9623,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 5265,
-      "downloads": 163
+      "downloads": 153
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 5287,
-      "downloads": 144
+      "downloads": 134
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 52,
-      "downloads": 5
+      "visits": 118,
+      "downloads": 9
     }
   ],
   "firstMonth": "2022-07",

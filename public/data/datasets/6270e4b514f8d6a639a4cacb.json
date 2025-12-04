@@ -1,0 +1,224 @@
+{
+  "id": "6270e4b514f8d6a639a4cacb",
+  "title": "Référencement bornes ubitricity",
+  "slug": "referencement-bornes-ubitricity",
+  "organization": "ubitricity",
+  "organizationId": "62700829a2dad847a5ea8561",
+  "url": "https://www.data.gouv.fr/datasets/referencement-bornes-ubitricity/",
+  "totalVisits": 2201,
+  "totalDownloads": 78305,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 23,
+      "downloads": 174
+    },
+    {
+      "month": "2022-08",
+      "visits": 23,
+      "downloads": 220
+    },
+    {
+      "month": "2022-09",
+      "visits": 34,
+      "downloads": 208
+    },
+    {
+      "month": "2022-10",
+      "visits": 49,
+      "downloads": 186
+    },
+    {
+      "month": "2022-11",
+      "visits": 42,
+      "downloads": 189
+    },
+    {
+      "month": "2022-12",
+      "visits": 47,
+      "downloads": 186
+    },
+    {
+      "month": "2023-01",
+      "visits": 35,
+      "downloads": 162
+    },
+    {
+      "month": "2023-02",
+      "visits": 27,
+      "downloads": 175
+    },
+    {
+      "month": "2023-03",
+      "visits": 53,
+      "downloads": 424
+    },
+    {
+      "month": "2023-04",
+      "visits": 29,
+      "downloads": 595
+    },
+    {
+      "month": "2023-05",
+      "visits": 28,
+      "downloads": 458
+    },
+    {
+      "month": "2023-06",
+      "visits": 25,
+      "downloads": 542
+    },
+    {
+      "month": "2023-07",
+      "visits": 49,
+      "downloads": 1084
+    },
+    {
+      "month": "2023-08",
+      "visits": 30,
+      "downloads": 1105
+    },
+    {
+      "month": "2023-09",
+      "visits": 63,
+      "downloads": 276
+    },
+    {
+      "month": "2023-10",
+      "visits": 48,
+      "downloads": 396
+    },
+    {
+      "month": "2023-11",
+      "visits": 49,
+      "downloads": 403
+    },
+    {
+      "month": "2023-12",
+      "visits": 80,
+      "downloads": 541
+    },
+    {
+      "month": "2024-01",
+      "visits": 68,
+      "downloads": 630
+    },
+    {
+      "month": "2024-02",
+      "visits": 66,
+      "downloads": 956
+    },
+    {
+      "month": "2024-03",
+      "visits": 59,
+      "downloads": 1029
+    },
+    {
+      "month": "2024-04",
+      "visits": 64,
+      "downloads": 870
+    },
+    {
+      "month": "2024-05",
+      "visits": 55,
+      "downloads": 788
+    },
+    {
+      "month": "2024-06",
+      "visits": 72,
+      "downloads": 2279
+    },
+    {
+      "month": "2024-07",
+      "visits": 71,
+      "downloads": 2032
+    },
+    {
+      "month": "2024-08",
+      "visits": 48,
+      "downloads": 1926
+    },
+    {
+      "month": "2024-09",
+      "visits": 47,
+      "downloads": 2006
+    },
+    {
+      "month": "2024-10",
+      "visits": 46,
+      "downloads": 2161
+    },
+    {
+      "month": "2024-11",
+      "visits": 41,
+      "downloads": 1565
+    },
+    {
+      "month": "2024-12",
+      "visits": 24,
+      "downloads": 2157
+    },
+    {
+      "month": "2025-01",
+      "visits": 47,
+      "downloads": 1841
+    },
+    {
+      "month": "2025-02",
+      "visits": 49,
+      "downloads": 2091
+    },
+    {
+      "month": "2025-03",
+      "visits": 57,
+      "downloads": 2186
+    },
+    {
+      "month": "2025-04",
+      "visits": 75,
+      "downloads": 2031
+    },
+    {
+      "month": "2025-05",
+      "visits": 81,
+      "downloads": 2157
+    },
+    {
+      "month": "2025-06",
+      "visits": 93,
+      "downloads": 3059
+    },
+    {
+      "month": "2025-07",
+      "visits": 112,
+      "downloads": 6766
+    },
+    {
+      "month": "2025-08",
+      "visits": 39,
+      "downloads": 9130
+    },
+    {
+      "month": "2025-09",
+      "visits": 47,
+      "downloads": 8010
+    },
+    {
+      "month": "2025-10",
+      "visits": 172,
+      "downloads": 7400
+    },
+    {
+      "month": "2025-11",
+      "visits": 33,
+      "downloads": 7287
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 624
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

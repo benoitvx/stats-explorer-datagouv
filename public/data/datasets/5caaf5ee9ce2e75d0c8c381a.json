@@ -1,0 +1,224 @@
+{
+  "id": "5caaf5ee9ce2e75d0c8c381a",
+  "title": "Etat du trafic en temps réel",
+  "slug": "etat-du-trafic-en-temps-reel",
+  "organization": "Rennes Métropole en accès libre",
+  "organizationId": "580735be88ee3814295ff490",
+  "url": "https://www.data.gouv.fr/datasets/etat-du-trafic-en-temps-reel/",
+  "totalVisits": 10140,
+  "totalDownloads": 576112,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 42,
+      "downloads": 25
+    },
+    {
+      "month": "2022-08",
+      "visits": 62,
+      "downloads": 50
+    },
+    {
+      "month": "2022-09",
+      "visits": 67,
+      "downloads": 46
+    },
+    {
+      "month": "2022-10",
+      "visits": 122,
+      "downloads": 50
+    },
+    {
+      "month": "2022-11",
+      "visits": 131,
+      "downloads": 80
+    },
+    {
+      "month": "2022-12",
+      "visits": 158,
+      "downloads": 90
+    },
+    {
+      "month": "2023-01",
+      "visits": 143,
+      "downloads": 35
+    },
+    {
+      "month": "2023-02",
+      "visits": 97,
+      "downloads": 38
+    },
+    {
+      "month": "2023-03",
+      "visits": 121,
+      "downloads": 61
+    },
+    {
+      "month": "2023-04",
+      "visits": 106,
+      "downloads": 47
+    },
+    {
+      "month": "2023-05",
+      "visits": 127,
+      "downloads": 50
+    },
+    {
+      "month": "2023-06",
+      "visits": 120,
+      "downloads": 60
+    },
+    {
+      "month": "2023-07",
+      "visits": 155,
+      "downloads": 54
+    },
+    {
+      "month": "2023-08",
+      "visits": 180,
+      "downloads": 83
+    },
+    {
+      "month": "2023-09",
+      "visits": 193,
+      "downloads": 117
+    },
+    {
+      "month": "2023-10",
+      "visits": 188,
+      "downloads": 122
+    },
+    {
+      "month": "2023-11",
+      "visits": 222,
+      "downloads": 62
+    },
+    {
+      "month": "2023-12",
+      "visits": 280,
+      "downloads": 116
+    },
+    {
+      "month": "2024-01",
+      "visits": 489,
+      "downloads": 96
+    },
+    {
+      "month": "2024-02",
+      "visits": 346,
+      "downloads": 60
+    },
+    {
+      "month": "2024-03",
+      "visits": 334,
+      "downloads": 67
+    },
+    {
+      "month": "2024-04",
+      "visits": 258,
+      "downloads": 59
+    },
+    {
+      "month": "2024-05",
+      "visits": 277,
+      "downloads": 45
+    },
+    {
+      "month": "2024-06",
+      "visits": 290,
+      "downloads": 65
+    },
+    {
+      "month": "2024-07",
+      "visits": 270,
+      "downloads": 80
+    },
+    {
+      "month": "2024-08",
+      "visits": 193,
+      "downloads": 100
+    },
+    {
+      "month": "2024-09",
+      "visits": 226,
+      "downloads": 160
+    },
+    {
+      "month": "2024-10",
+      "visits": 229,
+      "downloads": 131
+    },
+    {
+      "month": "2024-11",
+      "visits": 300,
+      "downloads": 1585
+    },
+    {
+      "month": "2024-12",
+      "visits": 212,
+      "downloads": 17949
+    },
+    {
+      "month": "2025-01",
+      "visits": 101,
+      "downloads": 36
+    },
+    {
+      "month": "2025-02",
+      "visits": 346,
+      "downloads": 109
+    },
+    {
+      "month": "2025-03",
+      "visits": 395,
+      "downloads": 95
+    },
+    {
+      "month": "2025-04",
+      "visits": 410,
+      "downloads": 114076
+    },
+    {
+      "month": "2025-05",
+      "visits": 467,
+      "downloads": 195123
+    },
+    {
+      "month": "2025-06",
+      "visits": 522,
+      "downloads": 179930
+    },
+    {
+      "month": "2025-07",
+      "visits": 366,
+      "downloads": 65045
+    },
+    {
+      "month": "2025-08",
+      "visits": 353,
+      "downloads": 24
+    },
+    {
+      "month": "2025-09",
+      "visits": 428,
+      "downloads": 34
+    },
+    {
+      "month": "2025-10",
+      "visits": 385,
+      "downloads": 19
+    },
+    {
+      "month": "2025-11",
+      "visits": 407,
+      "downloads": 36
+    },
+    {
+      "month": "2025-12",
+      "visits": 22,
+      "downloads": 2
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

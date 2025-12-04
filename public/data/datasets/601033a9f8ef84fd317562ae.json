@@ -1,0 +1,224 @@
+{
+  "id": "601033a9f8ef84fd317562ae",
+  "title": "Réseau urbain MAT",
+  "slug": "reseau-urbain-mat",
+  "organization": "Transdev SMA Mobilités • MAT",
+  "organizationId": "5ef0721566bea174e2d08b2c",
+  "url": "https://www.data.gouv.fr/datasets/reseau-urbain-mat/",
+  "totalVisits": 6525,
+  "totalDownloads": 3943245,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 30,
+      "downloads": 94
+    },
+    {
+      "month": "2022-08",
+      "visits": 50,
+      "downloads": 151
+    },
+    {
+      "month": "2022-09",
+      "visits": 76,
+      "downloads": 157
+    },
+    {
+      "month": "2022-10",
+      "visits": 101,
+      "downloads": 141
+    },
+    {
+      "month": "2022-11",
+      "visits": 97,
+      "downloads": 143
+    },
+    {
+      "month": "2022-12",
+      "visits": 118,
+      "downloads": 156
+    },
+    {
+      "month": "2023-01",
+      "visits": 70,
+      "downloads": 164
+    },
+    {
+      "month": "2023-02",
+      "visits": 67,
+      "downloads": 134
+    },
+    {
+      "month": "2023-03",
+      "visits": 77,
+      "downloads": 145
+    },
+    {
+      "month": "2023-04",
+      "visits": 60,
+      "downloads": 117
+    },
+    {
+      "month": "2023-05",
+      "visits": 128,
+      "downloads": 194
+    },
+    {
+      "month": "2023-06",
+      "visits": 138,
+      "downloads": 289
+    },
+    {
+      "month": "2023-07",
+      "visits": 136,
+      "downloads": 230
+    },
+    {
+      "month": "2023-08",
+      "visits": 165,
+      "downloads": 299
+    },
+    {
+      "month": "2023-09",
+      "visits": 188,
+      "downloads": 248
+    },
+    {
+      "month": "2023-10",
+      "visits": 175,
+      "downloads": 281
+    },
+    {
+      "month": "2023-11",
+      "visits": 165,
+      "downloads": 271
+    },
+    {
+      "month": "2023-12",
+      "visits": 210,
+      "downloads": 202
+    },
+    {
+      "month": "2024-01",
+      "visits": 202,
+      "downloads": 200
+    },
+    {
+      "month": "2024-02",
+      "visits": 181,
+      "downloads": 199
+    },
+    {
+      "month": "2024-03",
+      "visits": 177,
+      "downloads": 228
+    },
+    {
+      "month": "2024-04",
+      "visits": 162,
+      "downloads": 224
+    },
+    {
+      "month": "2024-05",
+      "visits": 187,
+      "downloads": 245
+    },
+    {
+      "month": "2024-06",
+      "visits": 171,
+      "downloads": 74067
+    },
+    {
+      "month": "2024-07",
+      "visits": 179,
+      "downloads": 102806
+    },
+    {
+      "month": "2024-08",
+      "visits": 165,
+      "downloads": 101659
+    },
+    {
+      "month": "2024-09",
+      "visits": 282,
+      "downloads": 197645
+    },
+    {
+      "month": "2024-10",
+      "visits": 281,
+      "downloads": 268839
+    },
+    {
+      "month": "2024-11",
+      "visits": 334,
+      "downloads": 266854
+    },
+    {
+      "month": "2024-12",
+      "visits": 211,
+      "downloads": 270204
+    },
+    {
+      "month": "2025-01",
+      "visits": 125,
+      "downloads": 284025
+    },
+    {
+      "month": "2025-02",
+      "visits": 168,
+      "downloads": 264135
+    },
+    {
+      "month": "2025-03",
+      "visits": 185,
+      "downloads": 278302
+    },
+    {
+      "month": "2025-04",
+      "visits": 278,
+      "downloads": 279302
+    },
+    {
+      "month": "2025-05",
+      "visits": 235,
+      "downloads": 287320
+    },
+    {
+      "month": "2025-06",
+      "visits": 268,
+      "downloads": 266082
+    },
+    {
+      "month": "2025-07",
+      "visits": 165,
+      "downloads": 279927
+    },
+    {
+      "month": "2025-08",
+      "visits": 86,
+      "downloads": 187564
+    },
+    {
+      "month": "2025-09",
+      "visits": 69,
+      "downloads": 175193
+    },
+    {
+      "month": "2025-10",
+      "visits": 186,
+      "downloads": 180065
+    },
+    {
+      "month": "2025-11",
+      "visits": 170,
+      "downloads": 163035
+    },
+    {
+      "month": "2025-12",
+      "visits": 7,
+      "downloads": 11709
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

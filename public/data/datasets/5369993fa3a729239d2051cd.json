@@ -1,0 +1,224 @@
+{
+  "id": "5369993fa3a729239d2051cd",
+  "title": "Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d'ouverture",
+  "slug": "liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/",
+  "totalVisits": 32163,
+  "totalDownloads": 300031,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 316,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 497,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 510,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 731,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 651,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 636,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 745,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 657,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 736,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 656,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 742,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 708,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 639,
+      "downloads": 28567
+    },
+    {
+      "month": "2023-08",
+      "visits": 634,
+      "downloads": 29402
+    },
+    {
+      "month": "2023-09",
+      "visits": 745,
+      "downloads": 44067
+    },
+    {
+      "month": "2023-10",
+      "visits": 858,
+      "downloads": 45812
+    },
+    {
+      "month": "2023-11",
+      "visits": 790,
+      "downloads": 36276
+    },
+    {
+      "month": "2023-12",
+      "visits": 745,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 825,
+      "downloads": 0
+    },
+    {
+      "month": "2024-02",
+      "visits": 765,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 837,
+      "downloads": 1370
+    },
+    {
+      "month": "2024-04",
+      "visits": 672,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 778,
+      "downloads": 11650
+    },
+    {
+      "month": "2024-06",
+      "visits": 835,
+      "downloads": 2597
+    },
+    {
+      "month": "2024-07",
+      "visits": 692,
+      "downloads": 500
+    },
+    {
+      "month": "2024-08",
+      "visits": 602,
+      "downloads": 1134
+    },
+    {
+      "month": "2024-09",
+      "visits": 659,
+      "downloads": 829
+    },
+    {
+      "month": "2024-10",
+      "visits": 712,
+      "downloads": 365
+    },
+    {
+      "month": "2024-11",
+      "visits": 770,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 658,
+      "downloads": 9502
+    },
+    {
+      "month": "2025-01",
+      "visits": 426,
+      "downloads": 12958
+    },
+    {
+      "month": "2025-02",
+      "visits": 947,
+      "downloads": 12536
+    },
+    {
+      "month": "2025-03",
+      "visits": 1123,
+      "downloads": 11642
+    },
+    {
+      "month": "2025-04",
+      "visits": 1249,
+      "downloads": 10853
+    },
+    {
+      "month": "2025-05",
+      "visits": 1201,
+      "downloads": 10701
+    },
+    {
+      "month": "2025-06",
+      "visits": 1291,
+      "downloads": 9023
+    },
+    {
+      "month": "2025-07",
+      "visits": 899,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 918,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 951,
+      "downloads": 437
+    },
+    {
+      "month": "2025-10",
+      "visits": 1098,
+      "downloads": 9840
+    },
+    {
+      "month": "2025-11",
+      "visits": 1162,
+      "downloads": 9592
+    },
+    {
+      "month": "2025-12",
+      "visits": 97,
+      "downloads": 378
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

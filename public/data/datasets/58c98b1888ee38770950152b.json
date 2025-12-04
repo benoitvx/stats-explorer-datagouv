@@ -5,8 +5,8 @@
   "organization": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
   "organizationId": "534fff58a3a7292c64a77cf6",
   "url": "https://www.data.gouv.fr/datasets/mon-reseau-mobile/",
-  "totalVisits": 192377,
-  "totalDownloads": 14814,
+  "totalVisits": 192550,
+  "totalDownloads": 14772,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 3694,
-      "downloads": 396
+      "downloads": 372
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 2960,
-      "downloads": 469
+      "downloads": 436
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 119,
-      "downloads": 5
+      "visits": 292,
+      "downloads": 20
     }
   ],
   "firstMonth": "2022-07",

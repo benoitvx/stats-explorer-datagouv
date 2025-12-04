@@ -1,0 +1,224 @@
+{
+  "id": "5cd4321f8b4c4137d1244318",
+  "title": "Données statiques et temps réel du réseau Astuce Métropole Rouen Normandie",
+  "slug": "donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie",
+  "organization": "Métropole Rouen Normandie",
+  "organizationId": "5a0467d188ee38711f65672c",
+  "url": "https://www.data.gouv.fr/datasets/donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie/",
+  "totalVisits": 14127,
+  "totalDownloads": 1101812,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 4,
+      "downloads": 135
+    },
+    {
+      "month": "2022-08",
+      "visits": 6,
+      "downloads": 285
+    },
+    {
+      "month": "2022-09",
+      "visits": 12,
+      "downloads": 392
+    },
+    {
+      "month": "2022-10",
+      "visits": 25,
+      "downloads": 289
+    },
+    {
+      "month": "2022-11",
+      "visits": 21,
+      "downloads": 339
+    },
+    {
+      "month": "2022-12",
+      "visits": 16,
+      "downloads": 270
+    },
+    {
+      "month": "2023-01",
+      "visits": 11,
+      "downloads": 376
+    },
+    {
+      "month": "2023-02",
+      "visits": 10,
+      "downloads": 708
+    },
+    {
+      "month": "2023-03",
+      "visits": 7,
+      "downloads": 195
+    },
+    {
+      "month": "2023-04",
+      "visits": 224,
+      "downloads": 247
+    },
+    {
+      "month": "2023-05",
+      "visits": 271,
+      "downloads": 300
+    },
+    {
+      "month": "2023-06",
+      "visits": 227,
+      "downloads": 383
+    },
+    {
+      "month": "2023-07",
+      "visits": 289,
+      "downloads": 248
+    },
+    {
+      "month": "2023-08",
+      "visits": 283,
+      "downloads": 278
+    },
+    {
+      "month": "2023-09",
+      "visits": 363,
+      "downloads": 408
+    },
+    {
+      "month": "2023-10",
+      "visits": 391,
+      "downloads": 395
+    },
+    {
+      "month": "2023-11",
+      "visits": 338,
+      "downloads": 390
+    },
+    {
+      "month": "2023-12",
+      "visits": 445,
+      "downloads": 260
+    },
+    {
+      "month": "2024-01",
+      "visits": 433,
+      "downloads": 276
+    },
+    {
+      "month": "2024-02",
+      "visits": 372,
+      "downloads": 258
+    },
+    {
+      "month": "2024-03",
+      "visits": 332,
+      "downloads": 276
+    },
+    {
+      "month": "2024-04",
+      "visits": 320,
+      "downloads": 355
+    },
+    {
+      "month": "2024-05",
+      "visits": 304,
+      "downloads": 254
+    },
+    {
+      "month": "2024-06",
+      "visits": 396,
+      "downloads": 244
+    },
+    {
+      "month": "2024-07",
+      "visits": 385,
+      "downloads": 45710
+    },
+    {
+      "month": "2024-08",
+      "visits": 319,
+      "downloads": 166162
+    },
+    {
+      "month": "2024-09",
+      "visits": 593,
+      "downloads": 6033
+    },
+    {
+      "month": "2024-10",
+      "visits": 740,
+      "downloads": 2580
+    },
+    {
+      "month": "2024-11",
+      "visits": 625,
+      "downloads": 2309
+    },
+    {
+      "month": "2024-12",
+      "visits": 389,
+      "downloads": 2155
+    },
+    {
+      "month": "2025-01",
+      "visits": 285,
+      "downloads": 9559
+    },
+    {
+      "month": "2025-02",
+      "visits": 448,
+      "downloads": 8976
+    },
+    {
+      "month": "2025-03",
+      "visits": 482,
+      "downloads": 2311
+    },
+    {
+      "month": "2025-04",
+      "visits": 471,
+      "downloads": 11477
+    },
+    {
+      "month": "2025-05",
+      "visits": 645,
+      "downloads": 12053
+    },
+    {
+      "month": "2025-06",
+      "visits": 1062,
+      "downloads": 8218
+    },
+    {
+      "month": "2025-07",
+      "visits": 750,
+      "downloads": 2409
+    },
+    {
+      "month": "2025-08",
+      "visits": 385,
+      "downloads": 326772
+    },
+    {
+      "month": "2025-09",
+      "visits": 562,
+      "downloads": 474534
+    },
+    {
+      "month": "2025-10",
+      "visits": 505,
+      "downloads": 12141
+    },
+    {
+      "month": "2025-11",
+      "visits": 364,
+      "downloads": 793
+    },
+    {
+      "month": "2025-12",
+      "visits": 17,
+      "downloads": 59
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

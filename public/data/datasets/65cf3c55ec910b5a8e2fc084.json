@@ -1,0 +1,124 @@
+{
+  "id": "65cf3c55ec910b5a8e2fc084",
+  "title": "donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche-depuis-2024",
+  "slug": "donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche-depuis-2024",
+  "organization": "Ministère de l'Économie, des Finances et de l'Industrie",
+  "organizationId": "534fff8ea3a7292c64a77f02",
+  "url": "https://www.data.gouv.fr/datasets/donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche-depuis-2024/",
+  "totalVisits": 9951,
+  "totalDownloads": 192194,
+  "monthlyStats": [
+    {
+      "month": "2024-02",
+      "visits": 42,
+      "downloads": 0
+    },
+    {
+      "month": "2024-04",
+      "visits": 90,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 61,
+      "downloads": 0
+    },
+    {
+      "month": "2024-06",
+      "visits": 90,
+      "downloads": 0
+    },
+    {
+      "month": "2024-07",
+      "visits": 69,
+      "downloads": 0
+    },
+    {
+      "month": "2024-08",
+      "visits": 63,
+      "downloads": 0
+    },
+    {
+      "month": "2024-09",
+      "visits": 157,
+      "downloads": 301
+    },
+    {
+      "month": "2024-10",
+      "visits": 233,
+      "downloads": 23912
+    },
+    {
+      "month": "2024-11",
+      "visits": 248,
+      "downloads": 17771
+    },
+    {
+      "month": "2024-12",
+      "visits": 134,
+      "downloads": 11733
+    },
+    {
+      "month": "2025-01",
+      "visits": 122,
+      "downloads": 7862
+    },
+    {
+      "month": "2025-02",
+      "visits": 215,
+      "downloads": 25616
+    },
+    {
+      "month": "2025-03",
+      "visits": 252,
+      "downloads": 6053
+    },
+    {
+      "month": "2025-04",
+      "visits": 345,
+      "downloads": 6278
+    },
+    {
+      "month": "2025-05",
+      "visits": 287,
+      "downloads": 6482
+    },
+    {
+      "month": "2025-06",
+      "visits": 355,
+      "downloads": 13292
+    },
+    {
+      "month": "2025-07",
+      "visits": 2715,
+      "downloads": 17849
+    },
+    {
+      "month": "2025-08",
+      "visits": 265,
+      "downloads": 1238
+    },
+    {
+      "month": "2025-09",
+      "visits": 313,
+      "downloads": 16856
+    },
+    {
+      "month": "2025-10",
+      "visits": 2818,
+      "downloads": 20753
+    },
+    {
+      "month": "2025-11",
+      "visits": 1061,
+      "downloads": 16135
+    },
+    {
+      "month": "2025-12",
+      "visits": 16,
+      "downloads": 63
+    }
+  ],
+  "firstMonth": "2024-02",
+  "lastMonth": "2025-12"
+}

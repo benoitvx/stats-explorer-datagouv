@@ -1,0 +1,224 @@
+{
+  "id": "55f6a4d7c751df136147eab3",
+  "title": "Tronçons de cours d'eau Vigicrues, simplifiés avec niveau de vigilance crues",
+  "slug": "troncons-de-cours-deau-vigicrues-simplifies-avec-niveau-de-vigilance-crues-2",
+  "organization": "Service central d’hydrométéorologie et d’appui à la prévision des inondations",
+  "organizationId": "55eeb55fc751df24d31f92b3",
+  "url": "https://www.data.gouv.fr/datasets/troncons-de-cours-deau-vigicrues-simplifies-avec-niveau-de-vigilance-crues-2/",
+  "totalVisits": 12788,
+  "totalDownloads": 249711,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 92,
+      "downloads": 248
+    },
+    {
+      "month": "2022-08",
+      "visits": 154,
+      "downloads": 420
+    },
+    {
+      "month": "2022-09",
+      "visits": 237,
+      "downloads": 314
+    },
+    {
+      "month": "2022-10",
+      "visits": 295,
+      "downloads": 434
+    },
+    {
+      "month": "2022-11",
+      "visits": 297,
+      "downloads": 348
+    },
+    {
+      "month": "2022-12",
+      "visits": 251,
+      "downloads": 249
+    },
+    {
+      "month": "2023-01",
+      "visits": 257,
+      "downloads": 365
+    },
+    {
+      "month": "2023-02",
+      "visits": 228,
+      "downloads": 268
+    },
+    {
+      "month": "2023-03",
+      "visits": 294,
+      "downloads": 370
+    },
+    {
+      "month": "2023-04",
+      "visits": 219,
+      "downloads": 333
+    },
+    {
+      "month": "2023-05",
+      "visits": 194,
+      "downloads": 277
+    },
+    {
+      "month": "2023-06",
+      "visits": 227,
+      "downloads": 391
+    },
+    {
+      "month": "2023-07",
+      "visits": 223,
+      "downloads": 353
+    },
+    {
+      "month": "2023-08",
+      "visits": 216,
+      "downloads": 265
+    },
+    {
+      "month": "2023-09",
+      "visits": 231,
+      "downloads": 459
+    },
+    {
+      "month": "2023-10",
+      "visits": 287,
+      "downloads": 512
+    },
+    {
+      "month": "2023-11",
+      "visits": 645,
+      "downloads": 281
+    },
+    {
+      "month": "2023-12",
+      "visits": 401,
+      "downloads": 427
+    },
+    {
+      "month": "2024-01",
+      "visits": 393,
+      "downloads": 304
+    },
+    {
+      "month": "2024-02",
+      "visits": 305,
+      "downloads": 163
+    },
+    {
+      "month": "2024-03",
+      "visits": 273,
+      "downloads": 445
+    },
+    {
+      "month": "2024-04",
+      "visits": 207,
+      "downloads": 158
+    },
+    {
+      "month": "2024-05",
+      "visits": 188,
+      "downloads": 145
+    },
+    {
+      "month": "2024-06",
+      "visits": 394,
+      "downloads": 1522
+    },
+    {
+      "month": "2024-07",
+      "visits": 350,
+      "downloads": 4861
+    },
+    {
+      "month": "2024-08",
+      "visits": 243,
+      "downloads": 3355
+    },
+    {
+      "month": "2024-09",
+      "visits": 207,
+      "downloads": 3003
+    },
+    {
+      "month": "2024-10",
+      "visits": 390,
+      "downloads": 3088
+    },
+    {
+      "month": "2024-11",
+      "visits": 395,
+      "downloads": 3095
+    },
+    {
+      "month": "2024-12",
+      "visits": 272,
+      "downloads": 3159
+    },
+    {
+      "month": "2025-01",
+      "visits": 139,
+      "downloads": 3103
+    },
+    {
+      "month": "2025-02",
+      "visits": 882,
+      "downloads": 2836
+    },
+    {
+      "month": "2025-03",
+      "visits": 293,
+      "downloads": 17964
+    },
+    {
+      "month": "2025-04",
+      "visits": 364,
+      "downloads": 20251
+    },
+    {
+      "month": "2025-05",
+      "visits": 299,
+      "downloads": 20936
+    },
+    {
+      "month": "2025-06",
+      "visits": 431,
+      "downloads": 20696
+    },
+    {
+      "month": "2025-07",
+      "visits": 302,
+      "downloads": 29583
+    },
+    {
+      "month": "2025-08",
+      "visits": 456,
+      "downloads": 24824
+    },
+    {
+      "month": "2025-09",
+      "visits": 564,
+      "downloads": 24681
+    },
+    {
+      "month": "2025-10",
+      "visits": 307,
+      "downloads": 25930
+    },
+    {
+      "month": "2025-11",
+      "visits": 362,
+      "downloads": 27406
+    },
+    {
+      "month": "2025-12",
+      "visits": 24,
+      "downloads": 1889
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

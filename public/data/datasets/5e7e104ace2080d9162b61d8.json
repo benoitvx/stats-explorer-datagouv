@@ -5,8 +5,8 @@
   "organization": "Santé publique France",
   "organizationId": "5e721a395d57f93d0bed451f",
   "url": "https://www.data.gouv.fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
-  "totalVisits": 363588,
-  "totalDownloads": 1551451,
+  "totalVisits": 363771,
+  "totalDownloads": 1542064,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 8276,
-      "downloads": 64099
+      "downloads": 59905
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 6617,
-      "downloads": 61806
+      "downloads": 55282
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 129,
-      "downloads": 990
+      "visits": 312,
+      "downloads": 2321
     }
   ],
   "firstMonth": "2022-07",

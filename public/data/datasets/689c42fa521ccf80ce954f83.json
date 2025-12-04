@@ -1,0 +1,39 @@
+{
+  "id": "689c42fa521ccf80ce954f83",
+  "title": "Liste des permis de construire et autres autorisations d’urbanisme",
+  "slug": "liste-des-permis-de-construire-et-autres-autorisations-durbanisme",
+  "organization": "Service des données et études statistiques (SDES)",
+  "organizationId": "681a1272bfa84b075f9531e1",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-permis-de-construire-et-autres-autorisations-durbanisme/",
+  "totalVisits": 12275,
+  "totalDownloads": 4363,
+  "monthlyStats": [
+    {
+      "month": "2025-08",
+      "visits": 1409,
+      "downloads": 342
+    },
+    {
+      "month": "2025-09",
+      "visits": 3686,
+      "downloads": 1378
+    },
+    {
+      "month": "2025-10",
+      "visits": 3462,
+      "downloads": 1351
+    },
+    {
+      "month": "2025-11",
+      "visits": 3522,
+      "downloads": 1208
+    },
+    {
+      "month": "2025-12",
+      "visits": 196,
+      "downloads": 84
+    }
+  ],
+  "firstMonth": "2025-08",
+  "lastMonth": "2025-12"
+}

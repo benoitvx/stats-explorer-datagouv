@@ -1,0 +1,224 @@
+{
+  "id": "5bec4c588b4c4165a5e3d43d",
+  "title": "Réseau de transports en commun de la Communauté d'Agglomération de l'Auxerrois",
+  "slug": "reseau-de-transports-en-commun-de-la-communaute-dagglomeration-de-lauxerrois",
+  "organization": "Communauté d'Agglomération de l'Auxerrois",
+  "organizationId": "5bec4aea8b4c416395a5e99e",
+  "url": "https://www.data.gouv.fr/datasets/reseau-de-transports-en-commun-de-la-communaute-dagglomeration-de-lauxerrois/",
+  "totalVisits": 4033,
+  "totalDownloads": 32702966,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 34,
+      "downloads": 216263
+    },
+    {
+      "month": "2022-08",
+      "visits": 47,
+      "downloads": 353641
+    },
+    {
+      "month": "2022-09",
+      "visits": 73,
+      "downloads": 341857
+    },
+    {
+      "month": "2022-10",
+      "visits": 137,
+      "downloads": 355308
+    },
+    {
+      "month": "2022-11",
+      "visits": 99,
+      "downloads": 341016
+    },
+    {
+      "month": "2022-12",
+      "visits": 119,
+      "downloads": 354496
+    },
+    {
+      "month": "2023-01",
+      "visits": 79,
+      "downloads": 353955
+    },
+    {
+      "month": "2023-02",
+      "visits": 63,
+      "downloads": 308382
+    },
+    {
+      "month": "2023-03",
+      "visits": 73,
+      "downloads": 352921
+    },
+    {
+      "month": "2023-04",
+      "visits": 72,
+      "downloads": 361353
+    },
+    {
+      "month": "2023-05",
+      "visits": 57,
+      "downloads": 390230
+    },
+    {
+      "month": "2023-06",
+      "visits": 62,
+      "downloads": 388221
+    },
+    {
+      "month": "2023-07",
+      "visits": 85,
+      "downloads": 368182
+    },
+    {
+      "month": "2023-08",
+      "visits": 86,
+      "downloads": 346159
+    },
+    {
+      "month": "2023-09",
+      "visits": 120,
+      "downloads": 454176
+    },
+    {
+      "month": "2023-10",
+      "visits": 112,
+      "downloads": 538466
+    },
+    {
+      "month": "2023-11",
+      "visits": 118,
+      "downloads": 1436632
+    },
+    {
+      "month": "2023-12",
+      "visits": 156,
+      "downloads": 1437437
+    },
+    {
+      "month": "2024-01",
+      "visits": 146,
+      "downloads": 1338355
+    },
+    {
+      "month": "2024-02",
+      "visits": 136,
+      "downloads": 997420
+    },
+    {
+      "month": "2024-03",
+      "visits": 111,
+      "downloads": 1010468
+    },
+    {
+      "month": "2024-04",
+      "visits": 131,
+      "downloads": 873669
+    },
+    {
+      "month": "2024-05",
+      "visits": 106,
+      "downloads": 946399
+    },
+    {
+      "month": "2024-06",
+      "visits": 115,
+      "downloads": 1030633
+    },
+    {
+      "month": "2024-07",
+      "visits": 122,
+      "downloads": 1065557
+    },
+    {
+      "month": "2024-08",
+      "visits": 93,
+      "downloads": 1065042
+    },
+    {
+      "month": "2024-09",
+      "visits": 98,
+      "downloads": 1008879
+    },
+    {
+      "month": "2024-10",
+      "visits": 85,
+      "downloads": 820989
+    },
+    {
+      "month": "2024-11",
+      "visits": 127,
+      "downloads": 821349
+    },
+    {
+      "month": "2024-12",
+      "visits": 88,
+      "downloads": 815852
+    },
+    {
+      "month": "2025-01",
+      "visits": 68,
+      "downloads": 875474
+    },
+    {
+      "month": "2025-02",
+      "visits": 104,
+      "downloads": 764488
+    },
+    {
+      "month": "2025-03",
+      "visits": 79,
+      "downloads": 770537
+    },
+    {
+      "month": "2025-04",
+      "visits": 103,
+      "downloads": 792797
+    },
+    {
+      "month": "2025-05",
+      "visits": 93,
+      "downloads": 922844
+    },
+    {
+      "month": "2025-06",
+      "visits": 132,
+      "downloads": 893289
+    },
+    {
+      "month": "2025-07",
+      "visits": 92,
+      "downloads": 1054698
+    },
+    {
+      "month": "2025-08",
+      "visits": 83,
+      "downloads": 1563952
+    },
+    {
+      "month": "2025-09",
+      "visits": 123,
+      "downloads": 1542200
+    },
+    {
+      "month": "2025-10",
+      "visits": 120,
+      "downloads": 1513454
+    },
+    {
+      "month": "2025-11",
+      "visits": 81,
+      "downloads": 1418892
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 97034
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

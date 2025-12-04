@@ -1,0 +1,224 @@
+{
+  "id": "58c984b088ee386cdb1261f3",
+  "title": "Code Officiel Géographique (COG)",
+  "slug": "code-officiel-geographique-cog",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "organizationId": "534fff81a3a7292c64a77e5c",
+  "url": "https://www.data.gouv.fr/datasets/code-officiel-geographique-cog/",
+  "totalVisits": 176912,
+  "totalDownloads": 95171,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1472,
+      "downloads": 1679
+    },
+    {
+      "month": "2022-08",
+      "visits": 2230,
+      "downloads": 2151
+    },
+    {
+      "month": "2022-09",
+      "visits": 2771,
+      "downloads": 3751
+    },
+    {
+      "month": "2022-10",
+      "visits": 2928,
+      "downloads": 3790
+    },
+    {
+      "month": "2022-11",
+      "visits": 4771,
+      "downloads": 2016
+    },
+    {
+      "month": "2022-12",
+      "visits": 2803,
+      "downloads": 2135
+    },
+    {
+      "month": "2023-01",
+      "visits": 4445,
+      "downloads": 2379
+    },
+    {
+      "month": "2023-02",
+      "visits": 3507,
+      "downloads": 2332
+    },
+    {
+      "month": "2023-03",
+      "visits": 5106,
+      "downloads": 2966
+    },
+    {
+      "month": "2023-04",
+      "visits": 5687,
+      "downloads": 5175
+    },
+    {
+      "month": "2023-05",
+      "visits": 3436,
+      "downloads": 2616
+    },
+    {
+      "month": "2023-06",
+      "visits": 4180,
+      "downloads": 3020
+    },
+    {
+      "month": "2023-07",
+      "visits": 3651,
+      "downloads": 2666
+    },
+    {
+      "month": "2023-08",
+      "visits": 2917,
+      "downloads": 2613
+    },
+    {
+      "month": "2023-09",
+      "visits": 3003,
+      "downloads": 3189
+    },
+    {
+      "month": "2023-10",
+      "visits": 3592,
+      "downloads": 3726
+    },
+    {
+      "month": "2023-11",
+      "visits": 3562,
+      "downloads": 2476
+    },
+    {
+      "month": "2023-12",
+      "visits": 3923,
+      "downloads": 2630
+    },
+    {
+      "month": "2024-01",
+      "visits": 5620,
+      "downloads": 1949
+    },
+    {
+      "month": "2024-02",
+      "visits": 3433,
+      "downloads": 1992
+    },
+    {
+      "month": "2024-03",
+      "visits": 4020,
+      "downloads": 1734
+    },
+    {
+      "month": "2024-04",
+      "visits": 3878,
+      "downloads": 2012
+    },
+    {
+      "month": "2024-05",
+      "visits": 4289,
+      "downloads": 1463
+    },
+    {
+      "month": "2024-06",
+      "visits": 4719,
+      "downloads": 2045
+    },
+    {
+      "month": "2024-07",
+      "visits": 4692,
+      "downloads": 1935
+    },
+    {
+      "month": "2024-08",
+      "visits": 3373,
+      "downloads": 1389
+    },
+    {
+      "month": "2024-09",
+      "visits": 4000,
+      "downloads": 1778
+    },
+    {
+      "month": "2024-10",
+      "visits": 3813,
+      "downloads": 1941
+    },
+    {
+      "month": "2024-11",
+      "visits": 4446,
+      "downloads": 1697
+    },
+    {
+      "month": "2024-12",
+      "visits": 3652,
+      "downloads": 1183
+    },
+    {
+      "month": "2025-01",
+      "visits": 1019,
+      "downloads": 1119
+    },
+    {
+      "month": "2025-02",
+      "visits": 4337,
+      "downloads": 2225
+    },
+    {
+      "month": "2025-03",
+      "visits": 5184,
+      "downloads": 3214
+    },
+    {
+      "month": "2025-04",
+      "visits": 5967,
+      "downloads": 2614
+    },
+    {
+      "month": "2025-05",
+      "visits": 6737,
+      "downloads": 2114
+    },
+    {
+      "month": "2025-06",
+      "visits": 4886,
+      "downloads": 1905
+    },
+    {
+      "month": "2025-07",
+      "visits": 4154,
+      "downloads": 2297
+    },
+    {
+      "month": "2025-08",
+      "visits": 5146,
+      "downloads": 1821
+    },
+    {
+      "month": "2025-09",
+      "visits": 8069,
+      "downloads": 1585
+    },
+    {
+      "month": "2025-10",
+      "visits": 9010,
+      "downloads": 1818
+    },
+    {
+      "month": "2025-11",
+      "visits": 7944,
+      "downloads": 1904
+    },
+    {
+      "month": "2025-12",
+      "visits": 540,
+      "downloads": 127
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

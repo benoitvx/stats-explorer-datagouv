@@ -1,0 +1,224 @@
+{
+  "id": "5bf52498634f410a498457b6",
+  "title": "Offre de transport de la C.A. Beaune Côte & Sud (GTFS)",
+  "slug": "offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs",
+  "organization": "Communauté d'Agglomération Beaune Côte et Sud",
+  "organizationId": "5bec28758b4c412a07c7ee5e",
+  "url": "https://www.data.gouv.fr/datasets/offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs/",
+  "totalVisits": 4109,
+  "totalDownloads": 2721919,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 49,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 57,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 87,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 126,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 94,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 114,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 95,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 73,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 114,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 64,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 52,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 73,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 100,
+      "downloads": 2475
+    },
+    {
+      "month": "2023-08",
+      "visits": 91,
+      "downloads": 2773
+    },
+    {
+      "month": "2023-09",
+      "visits": 99,
+      "downloads": 2681
+    },
+    {
+      "month": "2023-10",
+      "visits": 88,
+      "downloads": 2714
+    },
+    {
+      "month": "2023-11",
+      "visits": 90,
+      "downloads": 7000
+    },
+    {
+      "month": "2023-12",
+      "visits": 109,
+      "downloads": 226412
+    },
+    {
+      "month": "2024-01",
+      "visits": 98,
+      "downloads": 270608
+    },
+    {
+      "month": "2024-02",
+      "visits": 105,
+      "downloads": 252914
+    },
+    {
+      "month": "2024-03",
+      "visits": 85,
+      "downloads": 158922
+    },
+    {
+      "month": "2024-04",
+      "visits": 101,
+      "downloads": 124051
+    },
+    {
+      "month": "2024-05",
+      "visits": 78,
+      "downloads": 119895
+    },
+    {
+      "month": "2024-06",
+      "visits": 118,
+      "downloads": 114329
+    },
+    {
+      "month": "2024-07",
+      "visits": 155,
+      "downloads": 118161
+    },
+    {
+      "month": "2024-08",
+      "visits": 117,
+      "downloads": 25739
+    },
+    {
+      "month": "2024-09",
+      "visits": 72,
+      "downloads": 2395
+    },
+    {
+      "month": "2024-10",
+      "visits": 62,
+      "downloads": 2295
+    },
+    {
+      "month": "2024-11",
+      "visits": 105,
+      "downloads": 2300
+    },
+    {
+      "month": "2024-12",
+      "visits": 97,
+      "downloads": 2006
+    },
+    {
+      "month": "2025-01",
+      "visits": 70,
+      "downloads": 2088
+    },
+    {
+      "month": "2025-02",
+      "visits": 103,
+      "downloads": 2273
+    },
+    {
+      "month": "2025-03",
+      "visits": 183,
+      "downloads": 2223
+    },
+    {
+      "month": "2025-04",
+      "visits": 148,
+      "downloads": 1077
+    },
+    {
+      "month": "2025-05",
+      "visits": 105,
+      "downloads": 1150
+    },
+    {
+      "month": "2025-06",
+      "visits": 158,
+      "downloads": 20879
+    },
+    {
+      "month": "2025-07",
+      "visits": 108,
+      "downloads": 60198
+    },
+    {
+      "month": "2025-08",
+      "visits": 158,
+      "downloads": 141285
+    },
+    {
+      "month": "2025-09",
+      "visits": 123,
+      "downloads": 344923
+    },
+    {
+      "month": "2025-10",
+      "visits": 115,
+      "downloads": 359922
+    },
+    {
+      "month": "2025-11",
+      "visits": 68,
+      "downloads": 325487
+    },
+    {
+      "month": "2025-12",
+      "visits": 2,
+      "downloads": 22744
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

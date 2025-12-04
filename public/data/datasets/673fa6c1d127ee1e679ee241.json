@@ -1,0 +1,84 @@
+{
+  "id": "673fa6c1d127ee1e679ee241",
+  "title": "Energie en Polynésie française",
+  "slug": "energie-en-polynesie-francaise",
+  "organization": "Institut de la statistique de la Polynésie française",
+  "organizationId": "56a29970c751df2a1cade714",
+  "url": "https://www.data.gouv.fr/datasets/energie-en-polynesie-francaise/",
+  "totalVisits": 1319,
+  "totalDownloads": 10055,
+  "monthlyStats": [
+    {
+      "month": "2024-11",
+      "visits": 198,
+      "downloads": 10
+    },
+    {
+      "month": "2024-12",
+      "visits": 67,
+      "downloads": 5
+    },
+    {
+      "month": "2025-01",
+      "visits": 50,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 82,
+      "downloads": 2
+    },
+    {
+      "month": "2025-03",
+      "visits": 113,
+      "downloads": 14
+    },
+    {
+      "month": "2025-04",
+      "visits": 158,
+      "downloads": 17
+    },
+    {
+      "month": "2025-05",
+      "visits": 94,
+      "downloads": 44
+    },
+    {
+      "month": "2025-06",
+      "visits": 81,
+      "downloads": 7
+    },
+    {
+      "month": "2025-07",
+      "visits": 122,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 94,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 85,
+      "downloads": 26
+    },
+    {
+      "month": "2025-10",
+      "visits": 96,
+      "downloads": 605
+    },
+    {
+      "month": "2025-11",
+      "visits": 75,
+      "downloads": 8797
+    },
+    {
+      "month": "2025-12",
+      "visits": 4,
+      "downloads": 528
+    }
+  ],
+  "firstMonth": "2024-11",
+  "lastMonth": "2025-12"
+}

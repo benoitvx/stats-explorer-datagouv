@@ -5,8 +5,8 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/associations-reconnues-d-utilite-publique/",
-  "totalVisits": 336751,
-  "totalDownloads": 195766,
+  "totalVisits": 337089,
+  "totalDownloads": 195084,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 6212,
-      "downloads": 3573
+      "downloads": 3391
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 10337,
-      "downloads": 6929
+      "downloads": 6252
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 184,
-      "downloads": 90
+      "visits": 522,
+      "downloads": 267
     }
   ],
   "firstMonth": "2022-07",

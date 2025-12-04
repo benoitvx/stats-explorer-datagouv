@@ -1,0 +1,224 @@
+{
+  "id": "5d307087634f4152aca84a8b",
+  "title": "FILIBUS Urbain",
+  "slug": "filibus-urbain",
+  "organization": "Filibus - Chartres Métropole Transports",
+  "organizationId": "5c35c8518b4c416fe6cb42c9",
+  "url": "https://www.data.gouv.fr/datasets/filibus-urbain/",
+  "totalVisits": 7688,
+  "totalDownloads": 784729,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 22,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 22,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 64,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 98,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 97,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 76,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 71,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 61,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 56,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 58,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 65,
+      "downloads": 843
+    },
+    {
+      "month": "2023-06",
+      "visits": 218,
+      "downloads": 954
+    },
+    {
+      "month": "2023-07",
+      "visits": 156,
+      "downloads": 5618
+    },
+    {
+      "month": "2023-08",
+      "visits": 117,
+      "downloads": 1188
+    },
+    {
+      "month": "2023-09",
+      "visits": 155,
+      "downloads": 1250
+    },
+    {
+      "month": "2023-10",
+      "visits": 211,
+      "downloads": 1299
+    },
+    {
+      "month": "2023-11",
+      "visits": 166,
+      "downloads": 1333
+    },
+    {
+      "month": "2023-12",
+      "visits": 260,
+      "downloads": 1368
+    },
+    {
+      "month": "2024-01",
+      "visits": 283,
+      "downloads": 1391
+    },
+    {
+      "month": "2024-02",
+      "visits": 206,
+      "downloads": 1237
+    },
+    {
+      "month": "2024-03",
+      "visits": 175,
+      "downloads": 4504
+    },
+    {
+      "month": "2024-04",
+      "visits": 183,
+      "downloads": 9409
+    },
+    {
+      "month": "2024-05",
+      "visits": 225,
+      "downloads": 10097
+    },
+    {
+      "month": "2024-06",
+      "visits": 265,
+      "downloads": 10271
+    },
+    {
+      "month": "2024-07",
+      "visits": 323,
+      "downloads": 10634
+    },
+    {
+      "month": "2024-08",
+      "visits": 289,
+      "downloads": 10696
+    },
+    {
+      "month": "2024-09",
+      "visits": 173,
+      "downloads": 10050
+    },
+    {
+      "month": "2024-10",
+      "visits": 127,
+      "downloads": 9221
+    },
+    {
+      "month": "2024-11",
+      "visits": 167,
+      "downloads": 9314
+    },
+    {
+      "month": "2024-12",
+      "visits": 148,
+      "downloads": 9251
+    },
+    {
+      "month": "2025-01",
+      "visits": 111,
+      "downloads": 20858
+    },
+    {
+      "month": "2025-02",
+      "visits": 194,
+      "downloads": 34890
+    },
+    {
+      "month": "2025-03",
+      "visits": 262,
+      "downloads": 82841
+    },
+    {
+      "month": "2025-04",
+      "visits": 291,
+      "downloads": 81446
+    },
+    {
+      "month": "2025-05",
+      "visits": 317,
+      "downloads": 85807
+    },
+    {
+      "month": "2025-06",
+      "visits": 462,
+      "downloads": 72640
+    },
+    {
+      "month": "2025-07",
+      "visits": 416,
+      "downloads": 6
+    },
+    {
+      "month": "2025-08",
+      "visits": 315,
+      "downloads": 3264
+    },
+    {
+      "month": "2025-09",
+      "visits": 267,
+      "downloads": 81168
+    },
+    {
+      "month": "2025-10",
+      "visits": 265,
+      "downloads": 123268
+    },
+    {
+      "month": "2025-11",
+      "visits": 242,
+      "downloads": 83156
+    },
+    {
+      "month": "2025-12",
+      "visits": 9,
+      "downloads": 5457
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

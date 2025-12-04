@@ -1,0 +1,224 @@
+{
+  "id": "5d31900f8b4c41338237ac8f",
+  "title": "Historique des tarifs réglementés de vente d'électricité pour les consommateurs résidentiels",
+  "slug": "historique-des-tarifs-reglementes-de-vente-delectricite-pour-les-consommateurs-residentiels",
+  "organization": "Commission de régulation de l'énergie (CRE)",
+  "organizationId": "5b85546b634f41167d62ce37",
+  "url": "https://www.data.gouv.fr/datasets/historique-des-tarifs-reglementes-de-vente-delectricite-pour-les-consommateurs-residentiels/",
+  "totalVisits": 106954,
+  "totalDownloads": 17659959,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 808,
+      "downloads": 2308
+    },
+    {
+      "month": "2022-08",
+      "visits": 1957,
+      "downloads": 4005
+    },
+    {
+      "month": "2022-09",
+      "visits": 3416,
+      "downloads": 4421
+    },
+    {
+      "month": "2022-10",
+      "visits": 3261,
+      "downloads": 42009
+    },
+    {
+      "month": "2022-11",
+      "visits": 3144,
+      "downloads": 150618
+    },
+    {
+      "month": "2022-12",
+      "visits": 2406,
+      "downloads": 184596
+    },
+    {
+      "month": "2023-01",
+      "visits": 3303,
+      "downloads": 186492
+    },
+    {
+      "month": "2023-02",
+      "visits": 3427,
+      "downloads": 169454
+    },
+    {
+      "month": "2023-03",
+      "visits": 2359,
+      "downloads": 184955
+    },
+    {
+      "month": "2023-04",
+      "visits": 1826,
+      "downloads": 204787
+    },
+    {
+      "month": "2023-05",
+      "visits": 1542,
+      "downloads": 190488
+    },
+    {
+      "month": "2023-06",
+      "visits": 1433,
+      "downloads": 23632
+    },
+    {
+      "month": "2023-07",
+      "visits": 2993,
+      "downloads": 28459
+    },
+    {
+      "month": "2023-08",
+      "visits": 3538,
+      "downloads": 144263
+    },
+    {
+      "month": "2023-09",
+      "visits": 2967,
+      "downloads": 146889
+    },
+    {
+      "month": "2023-10",
+      "visits": 2241,
+      "downloads": 212851
+    },
+    {
+      "month": "2023-11",
+      "visits": 2475,
+      "downloads": 200517
+    },
+    {
+      "month": "2023-12",
+      "visits": 2366,
+      "downloads": 150955
+    },
+    {
+      "month": "2024-01",
+      "visits": 4012,
+      "downloads": 181170
+    },
+    {
+      "month": "2024-02",
+      "visits": 4544,
+      "downloads": 185332
+    },
+    {
+      "month": "2024-03",
+      "visits": 3017,
+      "downloads": 333850
+    },
+    {
+      "month": "2024-04",
+      "visits": 2733,
+      "downloads": 382858
+    },
+    {
+      "month": "2024-05",
+      "visits": 2155,
+      "downloads": 426931
+    },
+    {
+      "month": "2024-06",
+      "visits": 1858,
+      "downloads": 456988
+    },
+    {
+      "month": "2024-07",
+      "visits": 1905,
+      "downloads": 371540
+    },
+    {
+      "month": "2024-08",
+      "visits": 1743,
+      "downloads": 402659
+    },
+    {
+      "month": "2024-09",
+      "visits": 2160,
+      "downloads": 375109
+    },
+    {
+      "month": "2024-10",
+      "visits": 2870,
+      "downloads": 382982
+    },
+    {
+      "month": "2024-11",
+      "visits": 2956,
+      "downloads": 403547
+    },
+    {
+      "month": "2024-12",
+      "visits": 1799,
+      "downloads": 392167
+    },
+    {
+      "month": "2025-01",
+      "visits": 739,
+      "downloads": 723619
+    },
+    {
+      "month": "2025-02",
+      "visits": 3505,
+      "downloads": 775134
+    },
+    {
+      "month": "2025-03",
+      "visits": 3028,
+      "downloads": 1045200
+    },
+    {
+      "month": "2025-04",
+      "visits": 2902,
+      "downloads": 982205
+    },
+    {
+      "month": "2025-05",
+      "visits": 2508,
+      "downloads": 1016344
+    },
+    {
+      "month": "2025-06",
+      "visits": 2674,
+      "downloads": 1011332
+    },
+    {
+      "month": "2025-07",
+      "visits": 2369,
+      "downloads": 1138308
+    },
+    {
+      "month": "2025-08",
+      "visits": 2359,
+      "downloads": 1214842
+    },
+    {
+      "month": "2025-09",
+      "visits": 2982,
+      "downloads": 983853
+    },
+    {
+      "month": "2025-10",
+      "visits": 3353,
+      "downloads": 1017870
+    },
+    {
+      "month": "2025-11",
+      "visits": 3152,
+      "downloads": 1160089
+    },
+    {
+      "month": "2025-12",
+      "visits": 169,
+      "downloads": 64331
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "6725f29312b6e9b25d4fc426",
+  "title": "Années bissextiles",
+  "slug": "annees-bissextiles",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/annees-bissextiles/",
+  "totalVisits": 15566,
+  "totalDownloads": 1227,
+  "monthlyStats": [
+    {
+      "month": "2024-11",
+      "visits": 316,
+      "downloads": 31
+    },
+    {
+      "month": "2024-12",
+      "visits": 183,
+      "downloads": 20
+    },
+    {
+      "month": "2025-01",
+      "visits": 123,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 1143,
+      "downloads": 122
+    },
+    {
+      "month": "2025-03",
+      "visits": 1270,
+      "downloads": 124
+    },
+    {
+      "month": "2025-04",
+      "visits": 1100,
+      "downloads": 148
+    },
+    {
+      "month": "2025-05",
+      "visits": 1278,
+      "downloads": 133
+    },
+    {
+      "month": "2025-06",
+      "visits": 1052,
+      "downloads": 91
+    },
+    {
+      "month": "2025-07",
+      "visits": 807,
+      "downloads": 52
+    },
+    {
+      "month": "2025-08",
+      "visits": 988,
+      "downloads": 73
+    },
+    {
+      "month": "2025-09",
+      "visits": 1880,
+      "downloads": 89
+    },
+    {
+      "month": "2025-10",
+      "visits": 1924,
+      "downloads": 121
+    },
+    {
+      "month": "2025-11",
+      "visits": 3146,
+      "downloads": 203
+    },
+    {
+      "month": "2025-12",
+      "visits": 356,
+      "downloads": 20
+    }
+  ],
+  "firstMonth": "2024-11",
+  "lastMonth": "2025-12"
+}

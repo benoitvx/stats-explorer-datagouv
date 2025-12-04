@@ -1,0 +1,224 @@
+{
+  "id": "53ba5222a3a729219b7beade",
+  "title": "Liste des services de police accueillant du public avec géolocalisation",
+  "slug": "liste-des-services-de-police-accueillant-du-public-avec-geolocalisation",
+  "organization": "Ministère de l'intérieur",
+  "organizationId": "534fff91a3a7292c64a77f53",
+  "url": "https://www.data.gouv.fr/datasets/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation/",
+  "totalVisits": 20953,
+  "totalDownloads": 294335,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 196,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 297,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 347,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 410,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 403,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 414,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 410,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 381,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 395,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 411,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 702,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 393,
+      "downloads": 0
+    },
+    {
+      "month": "2023-07",
+      "visits": 385,
+      "downloads": 28233
+    },
+    {
+      "month": "2023-08",
+      "visits": 378,
+      "downloads": 28861
+    },
+    {
+      "month": "2023-09",
+      "visits": 425,
+      "downloads": 43089
+    },
+    {
+      "month": "2023-10",
+      "visits": 441,
+      "downloads": 44788
+    },
+    {
+      "month": "2023-11",
+      "visits": 461,
+      "downloads": 35654
+    },
+    {
+      "month": "2023-12",
+      "visits": 496,
+      "downloads": 0
+    },
+    {
+      "month": "2024-01",
+      "visits": 468,
+      "downloads": 0
+    },
+    {
+      "month": "2024-02",
+      "visits": 455,
+      "downloads": 0
+    },
+    {
+      "month": "2024-03",
+      "visits": 488,
+      "downloads": 1328
+    },
+    {
+      "month": "2024-04",
+      "visits": 503,
+      "downloads": 0
+    },
+    {
+      "month": "2024-05",
+      "visits": 456,
+      "downloads": 11535
+    },
+    {
+      "month": "2024-06",
+      "visits": 475,
+      "downloads": 2578
+    },
+    {
+      "month": "2024-07",
+      "visits": 430,
+      "downloads": 491
+    },
+    {
+      "month": "2024-08",
+      "visits": 428,
+      "downloads": 1110
+    },
+    {
+      "month": "2024-09",
+      "visits": 454,
+      "downloads": 807
+    },
+    {
+      "month": "2024-10",
+      "visits": 419,
+      "downloads": 352
+    },
+    {
+      "month": "2024-11",
+      "visits": 478,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 361,
+      "downloads": 9252
+    },
+    {
+      "month": "2025-01",
+      "visits": 398,
+      "downloads": 12810
+    },
+    {
+      "month": "2025-02",
+      "visits": 782,
+      "downloads": 12264
+    },
+    {
+      "month": "2025-03",
+      "visits": 785,
+      "downloads": 11354
+    },
+    {
+      "month": "2025-04",
+      "visits": 874,
+      "downloads": 10603
+    },
+    {
+      "month": "2025-05",
+      "visits": 849,
+      "downloads": 10464
+    },
+    {
+      "month": "2025-06",
+      "visits": 912,
+      "downloads": 8894
+    },
+    {
+      "month": "2025-07",
+      "visits": 724,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 661,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 670,
+      "downloads": 427
+    },
+    {
+      "month": "2025-10",
+      "visits": 757,
+      "downloads": 9710
+    },
+    {
+      "month": "2025-11",
+      "visits": 735,
+      "downloads": 9414
+    },
+    {
+      "month": "2025-12",
+      "visits": 46,
+      "downloads": 317
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

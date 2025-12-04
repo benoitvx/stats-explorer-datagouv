@@ -1,0 +1,224 @@
+{
+  "id": "5a0130fcb595082e629385ac",
+  "title": "Monuments historiques de Lille-Hellemmes-Lomme",
+  "slug": "monuments-historiques-de-lille-hellemmes-lomme",
+  "organization": "Mairie de Lille",
+  "organizationId": "601ab7b9d3aff74e6fc4ea68",
+  "url": "https://www.data.gouv.fr/datasets/monuments-historiques-de-lille-hellemmes-lomme/",
+  "totalVisits": 450794,
+  "totalDownloads": 14134,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 411,
+      "downloads": 53
+    },
+    {
+      "month": "2022-08",
+      "visits": 777,
+      "downloads": 85
+    },
+    {
+      "month": "2022-09",
+      "visits": 5380,
+      "downloads": 174
+    },
+    {
+      "month": "2022-10",
+      "visits": 11434,
+      "downloads": 297
+    },
+    {
+      "month": "2022-11",
+      "visits": 13355,
+      "downloads": 336
+    },
+    {
+      "month": "2022-12",
+      "visits": 9225,
+      "downloads": 298
+    },
+    {
+      "month": "2023-01",
+      "visits": 15332,
+      "downloads": 318
+    },
+    {
+      "month": "2023-02",
+      "visits": 12899,
+      "downloads": 293
+    },
+    {
+      "month": "2023-03",
+      "visits": 16080,
+      "downloads": 550
+    },
+    {
+      "month": "2023-04",
+      "visits": 8535,
+      "downloads": 296
+    },
+    {
+      "month": "2023-05",
+      "visits": 11996,
+      "downloads": 442
+    },
+    {
+      "month": "2023-06",
+      "visits": 6414,
+      "downloads": 258
+    },
+    {
+      "month": "2023-07",
+      "visits": 736,
+      "downloads": 97
+    },
+    {
+      "month": "2023-08",
+      "visits": 586,
+      "downloads": 148
+    },
+    {
+      "month": "2023-09",
+      "visits": 5446,
+      "downloads": 317
+    },
+    {
+      "month": "2023-10",
+      "visits": 9713,
+      "downloads": 417
+    },
+    {
+      "month": "2023-11",
+      "visits": 12774,
+      "downloads": 424
+    },
+    {
+      "month": "2023-12",
+      "visits": 11944,
+      "downloads": 373
+    },
+    {
+      "month": "2024-01",
+      "visits": 19404,
+      "downloads": 552
+    },
+    {
+      "month": "2024-02",
+      "visits": 19246,
+      "downloads": 548
+    },
+    {
+      "month": "2024-03",
+      "visits": 24809,
+      "downloads": 900
+    },
+    {
+      "month": "2024-04",
+      "visits": 12321,
+      "downloads": 377
+    },
+    {
+      "month": "2024-05",
+      "visits": 18404,
+      "downloads": 609
+    },
+    {
+      "month": "2024-06",
+      "visits": 10203,
+      "downloads": 323
+    },
+    {
+      "month": "2024-07",
+      "visits": 1173,
+      "downloads": 136
+    },
+    {
+      "month": "2024-08",
+      "visits": 835,
+      "downloads": 161
+    },
+    {
+      "month": "2024-09",
+      "visits": 10199,
+      "downloads": 334
+    },
+    {
+      "month": "2024-10",
+      "visits": 17330,
+      "downloads": 594
+    },
+    {
+      "month": "2024-11",
+      "visits": 22380,
+      "downloads": 585
+    },
+    {
+      "month": "2024-12",
+      "visits": 12073,
+      "downloads": 296
+    },
+    {
+      "month": "2025-01",
+      "visits": 946,
+      "downloads": 110
+    },
+    {
+      "month": "2025-02",
+      "visits": 14528,
+      "downloads": 460
+    },
+    {
+      "month": "2025-03",
+      "visits": 21777,
+      "downloads": 518
+    },
+    {
+      "month": "2025-04",
+      "visits": 14547,
+      "downloads": 462
+    },
+    {
+      "month": "2025-05",
+      "visits": 18952,
+      "downloads": 464
+    },
+    {
+      "month": "2025-06",
+      "visits": 9094,
+      "downloads": 243
+    },
+    {
+      "month": "2025-07",
+      "visits": 1244,
+      "downloads": 111
+    },
+    {
+      "month": "2025-08",
+      "visits": 912,
+      "downloads": 61
+    },
+    {
+      "month": "2025-09",
+      "visits": 10635,
+      "downloads": 217
+    },
+    {
+      "month": "2025-10",
+      "visits": 15861,
+      "downloads": 347
+    },
+    {
+      "month": "2025-11",
+      "visits": 19597,
+      "downloads": 520
+    },
+    {
+      "month": "2025-12",
+      "visits": 1287,
+      "downloads": 30
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

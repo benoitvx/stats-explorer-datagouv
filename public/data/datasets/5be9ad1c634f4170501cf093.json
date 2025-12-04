@@ -1,0 +1,224 @@
+{
+  "id": "5be9ad1c634f4170501cf093",
+  "title": "Réseau Bus Sète agglopôle Mobilité",
+  "slug": "reseau-bus-sete-agglopole-mobilite",
+  "organization": "Sète Agglopole Méditerranée",
+  "organizationId": "5d1cacb18b4c416d9490f4a2",
+  "url": "https://www.data.gouv.fr/datasets/reseau-bus-sete-agglopole-mobilite/",
+  "totalVisits": 8329,
+  "totalDownloads": 628459,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 51,
+      "downloads": 3433
+    },
+    {
+      "month": "2022-08",
+      "visits": 93,
+      "downloads": 12028
+    },
+    {
+      "month": "2022-09",
+      "visits": 125,
+      "downloads": 12309
+    },
+    {
+      "month": "2022-10",
+      "visits": 167,
+      "downloads": 8106
+    },
+    {
+      "month": "2022-11",
+      "visits": 167,
+      "downloads": 19653
+    },
+    {
+      "month": "2022-12",
+      "visits": 192,
+      "downloads": 5411
+    },
+    {
+      "month": "2023-01",
+      "visits": 102,
+      "downloads": 9585
+    },
+    {
+      "month": "2023-02",
+      "visits": 84,
+      "downloads": 18026
+    },
+    {
+      "month": "2023-03",
+      "visits": 106,
+      "downloads": 22482
+    },
+    {
+      "month": "2023-04",
+      "visits": 98,
+      "downloads": 20376
+    },
+    {
+      "month": "2023-05",
+      "visits": 154,
+      "downloads": 6618
+    },
+    {
+      "month": "2023-06",
+      "visits": 161,
+      "downloads": 8169
+    },
+    {
+      "month": "2023-07",
+      "visits": 228,
+      "downloads": 27056
+    },
+    {
+      "month": "2023-08",
+      "visits": 198,
+      "downloads": 21973
+    },
+    {
+      "month": "2023-09",
+      "visits": 264,
+      "downloads": 17620
+    },
+    {
+      "month": "2023-10",
+      "visits": 203,
+      "downloads": 8592
+    },
+    {
+      "month": "2023-11",
+      "visits": 196,
+      "downloads": 1150
+    },
+    {
+      "month": "2023-12",
+      "visits": 243,
+      "downloads": 1239
+    },
+    {
+      "month": "2024-01",
+      "visits": 271,
+      "downloads": 1280
+    },
+    {
+      "month": "2024-02",
+      "visits": 218,
+      "downloads": 142
+    },
+    {
+      "month": "2024-03",
+      "visits": 246,
+      "downloads": 305
+    },
+    {
+      "month": "2024-04",
+      "visits": 197,
+      "downloads": 144
+    },
+    {
+      "month": "2024-05",
+      "visits": 193,
+      "downloads": 156
+    },
+    {
+      "month": "2024-06",
+      "visits": 250,
+      "downloads": 169
+    },
+    {
+      "month": "2024-07",
+      "visits": 194,
+      "downloads": 460
+    },
+    {
+      "month": "2024-08",
+      "visits": 198,
+      "downloads": 578
+    },
+    {
+      "month": "2024-09",
+      "visits": 182,
+      "downloads": 558
+    },
+    {
+      "month": "2024-10",
+      "visits": 169,
+      "downloads": 517
+    },
+    {
+      "month": "2024-11",
+      "visits": 217,
+      "downloads": 521
+    },
+    {
+      "month": "2024-12",
+      "visits": 137,
+      "downloads": 570
+    },
+    {
+      "month": "2025-01",
+      "visits": 92,
+      "downloads": 9534
+    },
+    {
+      "month": "2025-02",
+      "visits": 171,
+      "downloads": 3601
+    },
+    {
+      "month": "2025-03",
+      "visits": 169,
+      "downloads": 21796
+    },
+    {
+      "month": "2025-04",
+      "visits": 198,
+      "downloads": 61604
+    },
+    {
+      "month": "2025-05",
+      "visits": 179,
+      "downloads": 53644
+    },
+    {
+      "month": "2025-06",
+      "visits": 366,
+      "downloads": 50127
+    },
+    {
+      "month": "2025-07",
+      "visits": 392,
+      "downloads": 50806
+    },
+    {
+      "month": "2025-08",
+      "visits": 372,
+      "downloads": 50574
+    },
+    {
+      "month": "2025-09",
+      "visits": 348,
+      "downloads": 52785
+    },
+    {
+      "month": "2025-10",
+      "visits": 423,
+      "downloads": 24999
+    },
+    {
+      "month": "2025-11",
+      "visits": 302,
+      "downloads": 18382
+    },
+    {
+      "month": "2025-12",
+      "visits": 13,
+      "downloads": 1381
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

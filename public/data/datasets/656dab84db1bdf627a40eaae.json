@@ -1,0 +1,139 @@
+{
+  "id": "656dab84db1bdf627a40eaae",
+  "title": "Informations sur les stations (métadonnées)",
+  "slug": "informations-sur-les-stations-metadonnees",
+  "organization": "Météo-France",
+  "organizationId": "534fff8ba3a7292c64a77ed4",
+  "url": "https://www.data.gouv.fr/datasets/informations-sur-les-stations-metadonnees/",
+  "totalVisits": 31128,
+  "totalDownloads": 1157372,
+  "monthlyStats": [
+    {
+      "month": "2023-12",
+      "visits": 1098,
+      "downloads": 1484
+    },
+    {
+      "month": "2024-01",
+      "visits": 1245,
+      "downloads": 2644
+    },
+    {
+      "month": "2024-02",
+      "visits": 5765,
+      "downloads": 53421
+    },
+    {
+      "month": "2024-03",
+      "visits": 14293,
+      "downloads": 66741
+    },
+    {
+      "month": "2024-04",
+      "visits": 1519,
+      "downloads": 52562
+    },
+    {
+      "month": "2024-05",
+      "visits": 1850,
+      "downloads": 60209
+    },
+    {
+      "month": "2024-06",
+      "visits": 690,
+      "downloads": 68815
+    },
+    {
+      "month": "2024-07",
+      "visits": 276,
+      "downloads": 75999
+    },
+    {
+      "month": "2024-08",
+      "visits": 197,
+      "downloads": 65079
+    },
+    {
+      "month": "2024-09",
+      "visits": 225,
+      "downloads": 74929
+    },
+    {
+      "month": "2024-10",
+      "visits": 258,
+      "downloads": 74427
+    },
+    {
+      "month": "2024-11",
+      "visits": 363,
+      "downloads": 75532
+    },
+    {
+      "month": "2024-12",
+      "visits": 277,
+      "downloads": 42761
+    },
+    {
+      "month": "2025-01",
+      "visits": 117,
+      "downloads": 588
+    },
+    {
+      "month": "2025-02",
+      "visits": 317,
+      "downloads": 53286
+    },
+    {
+      "month": "2025-03",
+      "visits": 328,
+      "downloads": 79072
+    },
+    {
+      "month": "2025-04",
+      "visits": 316,
+      "downloads": 73370
+    },
+    {
+      "month": "2025-05",
+      "visits": 263,
+      "downloads": 63689
+    },
+    {
+      "month": "2025-06",
+      "visits": 289,
+      "downloads": 37122
+    },
+    {
+      "month": "2025-07",
+      "visits": 277,
+      "downloads": 39404
+    },
+    {
+      "month": "2025-08",
+      "visits": 210,
+      "downloads": 39345
+    },
+    {
+      "month": "2025-09",
+      "visits": 246,
+      "downloads": 39387
+    },
+    {
+      "month": "2025-10",
+      "visits": 280,
+      "downloads": 16559
+    },
+    {
+      "month": "2025-11",
+      "visits": 412,
+      "downloads": 910
+    },
+    {
+      "month": "2025-12",
+      "visits": 17,
+      "downloads": 37
+    }
+  ],
+  "firstMonth": "2023-12",
+  "lastMonth": "2025-12"
+}

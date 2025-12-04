@@ -1,0 +1,199 @@
+{
+  "id": "6397c0fb7612df845fc8cd1f",
+  "title": "Syndicat Mixte des Transports en commun de l'agglomération Clermontoise (SMTC-AC) - Réseau T2C - GTFS & GTFS-RT",
+  "slug": "syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac-reseau-t2c-gtfs-gtfs-rt",
+  "organization": "Clermont Auvergne Métropole",
+  "organizationId": "5f60b2cb86bb3584d0f09f08",
+  "url": "https://www.data.gouv.fr/datasets/syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac-reseau-t2c-gtfs-gtfs-rt/",
+  "totalVisits": 6798,
+  "totalDownloads": 247872,
+  "monthlyStats": [
+    {
+      "month": "2022-12",
+      "visits": 88,
+      "downloads": 54
+    },
+    {
+      "month": "2023-01",
+      "visits": 59,
+      "downloads": 47
+    },
+    {
+      "month": "2023-02",
+      "visits": 31,
+      "downloads": 53
+    },
+    {
+      "month": "2023-03",
+      "visits": 67,
+      "downloads": 87
+    },
+    {
+      "month": "2023-04",
+      "visits": 55,
+      "downloads": 74
+    },
+    {
+      "month": "2023-05",
+      "visits": 103,
+      "downloads": 65
+    },
+    {
+      "month": "2023-06",
+      "visits": 203,
+      "downloads": 96
+    },
+    {
+      "month": "2023-07",
+      "visits": 197,
+      "downloads": 4250
+    },
+    {
+      "month": "2023-08",
+      "visits": 132,
+      "downloads": 4755
+    },
+    {
+      "month": "2023-09",
+      "visits": 135,
+      "downloads": 4811
+    },
+    {
+      "month": "2023-10",
+      "visits": 120,
+      "downloads": 4909
+    },
+    {
+      "month": "2023-11",
+      "visits": 135,
+      "downloads": 3445
+    },
+    {
+      "month": "2023-12",
+      "visits": 156,
+      "downloads": 2993
+    },
+    {
+      "month": "2024-01",
+      "visits": 175,
+      "downloads": 1910
+    },
+    {
+      "month": "2024-02",
+      "visits": 140,
+      "downloads": 109
+    },
+    {
+      "month": "2024-03",
+      "visits": 146,
+      "downloads": 146
+    },
+    {
+      "month": "2024-04",
+      "visits": 152,
+      "downloads": 158
+    },
+    {
+      "month": "2024-05",
+      "visits": 205,
+      "downloads": 240
+    },
+    {
+      "month": "2024-06",
+      "visits": 170,
+      "downloads": 234
+    },
+    {
+      "month": "2024-07",
+      "visits": 195,
+      "downloads": 332
+    },
+    {
+      "month": "2024-08",
+      "visits": 273,
+      "downloads": 1026
+    },
+    {
+      "month": "2024-09",
+      "visits": 179,
+      "downloads": 460
+    },
+    {
+      "month": "2024-10",
+      "visits": 202,
+      "downloads": 667
+    },
+    {
+      "month": "2024-11",
+      "visits": 325,
+      "downloads": 490
+    },
+    {
+      "month": "2024-12",
+      "visits": 270,
+      "downloads": 417
+    },
+    {
+      "month": "2025-01",
+      "visits": 127,
+      "downloads": 36382
+    },
+    {
+      "month": "2025-02",
+      "visits": 218,
+      "downloads": 2387
+    },
+    {
+      "month": "2025-03",
+      "visits": 268,
+      "downloads": 620
+    },
+    {
+      "month": "2025-04",
+      "visits": 252,
+      "downloads": 29124
+    },
+    {
+      "month": "2025-05",
+      "visits": 247,
+      "downloads": 26521
+    },
+    {
+      "month": "2025-06",
+      "visits": 321,
+      "downloads": 24392
+    },
+    {
+      "month": "2025-07",
+      "visits": 295,
+      "downloads": 19618
+    },
+    {
+      "month": "2025-08",
+      "visits": 185,
+      "downloads": 12508
+    },
+    {
+      "month": "2025-09",
+      "visits": 275,
+      "downloads": 14746
+    },
+    {
+      "month": "2025-10",
+      "visits": 360,
+      "downloads": 9337
+    },
+    {
+      "month": "2025-11",
+      "visits": 316,
+      "downloads": 37643
+    },
+    {
+      "month": "2025-12",
+      "visits": 21,
+      "downloads": 2766
+    }
+  ],
+  "firstMonth": "2022-12",
+  "lastMonth": "2025-12"
+}

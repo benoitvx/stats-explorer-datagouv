@@ -1,0 +1,189 @@
+{
+  "id": "63fdc0169f43bbfe92318dd5",
+  "title": "DeepMob (Dieppe-Maritime)",
+  "slug": "deepmob-dieppe-maritime",
+  "organization": "Syndicat mixte Atoumod",
+  "organizationId": "5cc844dd634f41078d8e2c8e",
+  "url": "https://www.data.gouv.fr/datasets/deepmob-dieppe-maritime/",
+  "totalVisits": 3425,
+  "totalDownloads": 3511869,
+  "monthlyStats": [
+    {
+      "month": "2023-02",
+      "visits": 133,
+      "downloads": 2
+    },
+    {
+      "month": "2023-03",
+      "visits": 124,
+      "downloads": 1126
+    },
+    {
+      "month": "2023-04",
+      "visits": 47,
+      "downloads": 1349
+    },
+    {
+      "month": "2023-05",
+      "visits": 49,
+      "downloads": 1966
+    },
+    {
+      "month": "2023-06",
+      "visits": 83,
+      "downloads": 2146
+    },
+    {
+      "month": "2023-07",
+      "visits": 61,
+      "downloads": 2119
+    },
+    {
+      "month": "2023-08",
+      "visits": 71,
+      "downloads": 2100
+    },
+    {
+      "month": "2023-09",
+      "visits": 80,
+      "downloads": 2098
+    },
+    {
+      "month": "2023-10",
+      "visits": 89,
+      "downloads": 1872
+    },
+    {
+      "month": "2023-11",
+      "visits": 83,
+      "downloads": 2237
+    },
+    {
+      "month": "2023-12",
+      "visits": 139,
+      "downloads": 2202
+    },
+    {
+      "month": "2024-01",
+      "visits": 172,
+      "downloads": 2270
+    },
+    {
+      "month": "2024-02",
+      "visits": 121,
+      "downloads": 2677
+    },
+    {
+      "month": "2024-03",
+      "visits": 75,
+      "downloads": 3183
+    },
+    {
+      "month": "2024-04",
+      "visits": 87,
+      "downloads": 3150
+    },
+    {
+      "month": "2024-05",
+      "visits": 86,
+      "downloads": 3714
+    },
+    {
+      "month": "2024-06",
+      "visits": 125,
+      "downloads": 2666
+    },
+    {
+      "month": "2024-07",
+      "visits": 100,
+      "downloads": 158917
+    },
+    {
+      "month": "2024-08",
+      "visits": 108,
+      "downloads": 194409
+    },
+    {
+      "month": "2024-09",
+      "visits": 89,
+      "downloads": 182474
+    },
+    {
+      "month": "2024-10",
+      "visits": 69,
+      "downloads": 196022
+    },
+    {
+      "month": "2024-11",
+      "visits": 91,
+      "downloads": 199450
+    },
+    {
+      "month": "2024-12",
+      "visits": 79,
+      "downloads": 191778
+    },
+    {
+      "month": "2025-01",
+      "visits": 57,
+      "downloads": 214756
+    },
+    {
+      "month": "2025-02",
+      "visits": 69,
+      "downloads": 198917
+    },
+    {
+      "month": "2025-03",
+      "visits": 60,
+      "downloads": 212062
+    },
+    {
+      "month": "2025-04",
+      "visits": 90,
+      "downloads": 217912
+    },
+    {
+      "month": "2025-05",
+      "visits": 89,
+      "downloads": 226036
+    },
+    {
+      "month": "2025-06",
+      "visits": 162,
+      "downloads": 207645
+    },
+    {
+      "month": "2025-07",
+      "visits": 130,
+      "downloads": 218471
+    },
+    {
+      "month": "2025-08",
+      "visits": 97,
+      "downloads": 218635
+    },
+    {
+      "month": "2025-09",
+      "visits": 87,
+      "downloads": 208529
+    },
+    {
+      "month": "2025-10",
+      "visits": 219,
+      "downloads": 213525
+    },
+    {
+      "month": "2025-11",
+      "visits": 198,
+      "downloads": 203039
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 12415
+    }
+  ],
+  "firstMonth": "2023-02",
+  "lastMonth": "2025-12"
+}

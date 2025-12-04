@@ -1,0 +1,224 @@
+{
+  "id": "5d119fb99ce2e755c680ca84",
+  "title": "Monuments patrimoine Blagnac",
+  "slug": "monuments-patrimoine-blagnac",
+  "organization": "Toulouse métropole",
+  "organizationId": "534fffb3a3a7292c64a78129",
+  "url": "https://www.data.gouv.fr/datasets/monuments-patrimoine-blagnac/",
+  "totalVisits": 457462,
+  "totalDownloads": 15415,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 389,
+      "downloads": 38
+    },
+    {
+      "month": "2022-08",
+      "visits": 797,
+      "downloads": 58
+    },
+    {
+      "month": "2022-09",
+      "visits": 5401,
+      "downloads": 142
+    },
+    {
+      "month": "2022-10",
+      "visits": 11409,
+      "downloads": 307
+    },
+    {
+      "month": "2022-11",
+      "visits": 13332,
+      "downloads": 356
+    },
+    {
+      "month": "2022-12",
+      "visits": 9154,
+      "downloads": 256
+    },
+    {
+      "month": "2023-01",
+      "visits": 15448,
+      "downloads": 331
+    },
+    {
+      "month": "2023-02",
+      "visits": 13037,
+      "downloads": 268
+    },
+    {
+      "month": "2023-03",
+      "visits": 16050,
+      "downloads": 578
+    },
+    {
+      "month": "2023-04",
+      "visits": 8844,
+      "downloads": 345
+    },
+    {
+      "month": "2023-05",
+      "visits": 12047,
+      "downloads": 508
+    },
+    {
+      "month": "2023-06",
+      "visits": 6642,
+      "downloads": 251
+    },
+    {
+      "month": "2023-07",
+      "visits": 746,
+      "downloads": 66
+    },
+    {
+      "month": "2023-08",
+      "visits": 579,
+      "downloads": 123
+    },
+    {
+      "month": "2023-09",
+      "visits": 5348,
+      "downloads": 323
+    },
+    {
+      "month": "2023-10",
+      "visits": 9961,
+      "downloads": 432
+    },
+    {
+      "month": "2023-11",
+      "visits": 12980,
+      "downloads": 404
+    },
+    {
+      "month": "2023-12",
+      "visits": 12352,
+      "downloads": 458
+    },
+    {
+      "month": "2024-01",
+      "visits": 19672,
+      "downloads": 669
+    },
+    {
+      "month": "2024-02",
+      "visits": 19403,
+      "downloads": 789
+    },
+    {
+      "month": "2024-03",
+      "visits": 25231,
+      "downloads": 1161
+    },
+    {
+      "month": "2024-04",
+      "visits": 12658,
+      "downloads": 516
+    },
+    {
+      "month": "2024-05",
+      "visits": 18550,
+      "downloads": 696
+    },
+    {
+      "month": "2024-06",
+      "visits": 10280,
+      "downloads": 378
+    },
+    {
+      "month": "2024-07",
+      "visits": 1164,
+      "downloads": 93
+    },
+    {
+      "month": "2024-08",
+      "visits": 830,
+      "downloads": 114
+    },
+    {
+      "month": "2024-09",
+      "visits": 10637,
+      "downloads": 384
+    },
+    {
+      "month": "2024-10",
+      "visits": 18028,
+      "downloads": 607
+    },
+    {
+      "month": "2024-11",
+      "visits": 23159,
+      "downloads": 727
+    },
+    {
+      "month": "2024-12",
+      "visits": 12598,
+      "downloads": 383
+    },
+    {
+      "month": "2025-01",
+      "visits": 934,
+      "downloads": 77
+    },
+    {
+      "month": "2025-02",
+      "visits": 15090,
+      "downloads": 443
+    },
+    {
+      "month": "2025-03",
+      "visits": 21797,
+      "downloads": 601
+    },
+    {
+      "month": "2025-04",
+      "visits": 14452,
+      "downloads": 446
+    },
+    {
+      "month": "2025-05",
+      "visits": 18963,
+      "downloads": 448
+    },
+    {
+      "month": "2025-06",
+      "visits": 9393,
+      "downloads": 178
+    },
+    {
+      "month": "2025-07",
+      "visits": 1244,
+      "downloads": 91
+    },
+    {
+      "month": "2025-08",
+      "visits": 907,
+      "downloads": 38
+    },
+    {
+      "month": "2025-09",
+      "visits": 10509,
+      "downloads": 265
+    },
+    {
+      "month": "2025-10",
+      "visits": 16255,
+      "downloads": 479
+    },
+    {
+      "month": "2025-11",
+      "visits": 19861,
+      "downloads": 542
+    },
+    {
+      "month": "2025-12",
+      "visits": 1331,
+      "downloads": 46
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

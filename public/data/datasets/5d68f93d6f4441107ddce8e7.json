@@ -1,0 +1,224 @@
+{
+  "id": "5d68f93d6f4441107ddce8e7",
+  "title": "Flux temps réel Vélivert",
+  "slug": "flux-temps-reel-velivert",
+  "organization": "Saint-Etienne Métropole",
+  "organizationId": "5c34c63a8b4c41718c8b236f",
+  "url": "https://www.data.gouv.fr/datasets/flux-temps-reel-velivert/",
+  "totalVisits": 5711,
+  "totalDownloads": 1541828,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 1,
+      "downloads": 2
+    },
+    {
+      "month": "2022-08",
+      "visits": 2,
+      "downloads": 5
+    },
+    {
+      "month": "2022-09",
+      "visits": 4,
+      "downloads": 6
+    },
+    {
+      "month": "2022-10",
+      "visits": 15,
+      "downloads": 7
+    },
+    {
+      "month": "2022-11",
+      "visits": 17,
+      "downloads": 125
+    },
+    {
+      "month": "2022-12",
+      "visits": 23,
+      "downloads": 17
+    },
+    {
+      "month": "2023-01",
+      "visits": 18,
+      "downloads": 5
+    },
+    {
+      "month": "2023-02",
+      "visits": 14,
+      "downloads": 6
+    },
+    {
+      "month": "2023-03",
+      "visits": 15,
+      "downloads": 17
+    },
+    {
+      "month": "2023-04",
+      "visits": 19,
+      "downloads": 12
+    },
+    {
+      "month": "2023-05",
+      "visits": 79,
+      "downloads": 55
+    },
+    {
+      "month": "2023-06",
+      "visits": 117,
+      "downloads": 1640
+    },
+    {
+      "month": "2023-07",
+      "visits": 133,
+      "downloads": 39615
+    },
+    {
+      "month": "2023-08",
+      "visits": 141,
+      "downloads": 33609
+    },
+    {
+      "month": "2023-09",
+      "visits": 272,
+      "downloads": 56164
+    },
+    {
+      "month": "2023-10",
+      "visits": 208,
+      "downloads": 57949
+    },
+    {
+      "month": "2023-11",
+      "visits": 130,
+      "downloads": 56671
+    },
+    {
+      "month": "2023-12",
+      "visits": 281,
+      "downloads": 58360
+    },
+    {
+      "month": "2024-01",
+      "visits": 235,
+      "downloads": 55602
+    },
+    {
+      "month": "2024-02",
+      "visits": 164,
+      "downloads": 52170
+    },
+    {
+      "month": "2024-03",
+      "visits": 201,
+      "downloads": 97240
+    },
+    {
+      "month": "2024-04",
+      "visits": 152,
+      "downloads": 67624
+    },
+    {
+      "month": "2024-05",
+      "visits": 209,
+      "downloads": 68560
+    },
+    {
+      "month": "2024-06",
+      "visits": 200,
+      "downloads": 60309
+    },
+    {
+      "month": "2024-07",
+      "visits": 229,
+      "downloads": 54062
+    },
+    {
+      "month": "2024-08",
+      "visits": 159,
+      "downloads": 52966
+    },
+    {
+      "month": "2024-09",
+      "visits": 144,
+      "downloads": 46488
+    },
+    {
+      "month": "2024-10",
+      "visits": 110,
+      "downloads": 74367
+    },
+    {
+      "month": "2024-11",
+      "visits": 168,
+      "downloads": 66576
+    },
+    {
+      "month": "2024-12",
+      "visits": 165,
+      "downloads": 61643
+    },
+    {
+      "month": "2025-01",
+      "visits": 107,
+      "downloads": 47096
+    },
+    {
+      "month": "2025-02",
+      "visits": 151,
+      "downloads": 42981
+    },
+    {
+      "month": "2025-03",
+      "visits": 116,
+      "downloads": 56386
+    },
+    {
+      "month": "2025-04",
+      "visits": 177,
+      "downloads": 51175
+    },
+    {
+      "month": "2025-05",
+      "visits": 217,
+      "downloads": 41275
+    },
+    {
+      "month": "2025-06",
+      "visits": 292,
+      "downloads": 38027
+    },
+    {
+      "month": "2025-07",
+      "visits": 192,
+      "downloads": 40996
+    },
+    {
+      "month": "2025-08",
+      "visits": 183,
+      "downloads": 40899
+    },
+    {
+      "month": "2025-09",
+      "visits": 199,
+      "downloads": 39654
+    },
+    {
+      "month": "2025-10",
+      "visits": 243,
+      "downloads": 41361
+    },
+    {
+      "month": "2025-11",
+      "visits": 203,
+      "downloads": 37501
+    },
+    {
+      "month": "2025-12",
+      "visits": 6,
+      "downloads": 2605
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

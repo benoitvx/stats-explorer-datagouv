@@ -1,0 +1,224 @@
+{
+  "id": "5bb49085634f4115ddc9293b",
+  "title": "Horaires réseau Zest",
+  "slug": "horaires-reseau-zest",
+  "organization": "Keolis Menton Riviera",
+  "organizationId": "5ea19ef9a0a58ece59bee631",
+  "url": "https://www.data.gouv.fr/datasets/horaires-reseau-zest/",
+  "totalVisits": 6429,
+  "totalDownloads": 1905629,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 52,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 66,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 83,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 127,
+      "downloads": 0
+    },
+    {
+      "month": "2022-11",
+      "visits": 92,
+      "downloads": 0
+    },
+    {
+      "month": "2022-12",
+      "visits": 127,
+      "downloads": 0
+    },
+    {
+      "month": "2023-01",
+      "visits": 68,
+      "downloads": 0
+    },
+    {
+      "month": "2023-02",
+      "visits": 71,
+      "downloads": 0
+    },
+    {
+      "month": "2023-03",
+      "visits": 99,
+      "downloads": 0
+    },
+    {
+      "month": "2023-04",
+      "visits": 96,
+      "downloads": 0
+    },
+    {
+      "month": "2023-05",
+      "visits": 147,
+      "downloads": 0
+    },
+    {
+      "month": "2023-06",
+      "visits": 275,
+      "downloads": 124
+    },
+    {
+      "month": "2023-07",
+      "visits": 155,
+      "downloads": 1445
+    },
+    {
+      "month": "2023-08",
+      "visits": 134,
+      "downloads": 1368
+    },
+    {
+      "month": "2023-09",
+      "visits": 148,
+      "downloads": 1405
+    },
+    {
+      "month": "2023-10",
+      "visits": 150,
+      "downloads": 1515
+    },
+    {
+      "month": "2023-11",
+      "visits": 278,
+      "downloads": 1702
+    },
+    {
+      "month": "2023-12",
+      "visits": 283,
+      "downloads": 1594
+    },
+    {
+      "month": "2024-01",
+      "visits": 211,
+      "downloads": 1678
+    },
+    {
+      "month": "2024-02",
+      "visits": 181,
+      "downloads": 1494
+    },
+    {
+      "month": "2024-03",
+      "visits": 157,
+      "downloads": 1656
+    },
+    {
+      "month": "2024-04",
+      "visits": 143,
+      "downloads": 1627
+    },
+    {
+      "month": "2024-05",
+      "visits": 137,
+      "downloads": 2067
+    },
+    {
+      "month": "2024-06",
+      "visits": 156,
+      "downloads": 1627
+    },
+    {
+      "month": "2024-07",
+      "visits": 184,
+      "downloads": 1777
+    },
+    {
+      "month": "2024-08",
+      "visits": 130,
+      "downloads": 1672
+    },
+    {
+      "month": "2024-09",
+      "visits": 109,
+      "downloads": 1459
+    },
+    {
+      "month": "2024-10",
+      "visits": 107,
+      "downloads": 1656
+    },
+    {
+      "month": "2024-11",
+      "visits": 137,
+      "downloads": 1644
+    },
+    {
+      "month": "2024-12",
+      "visits": 103,
+      "downloads": 1461
+    },
+    {
+      "month": "2025-01",
+      "visits": 53,
+      "downloads": 159691
+    },
+    {
+      "month": "2025-02",
+      "visits": 148,
+      "downloads": 332593
+    },
+    {
+      "month": "2025-03",
+      "visits": 134,
+      "downloads": 342187
+    },
+    {
+      "month": "2025-04",
+      "visits": 171,
+      "downloads": 242374
+    },
+    {
+      "month": "2025-05",
+      "visits": 146,
+      "downloads": 216139
+    },
+    {
+      "month": "2025-06",
+      "visits": 219,
+      "downloads": 198533
+    },
+    {
+      "month": "2025-07",
+      "visits": 296,
+      "downloads": 43839
+    },
+    {
+      "month": "2025-08",
+      "visits": 202,
+      "downloads": 44020
+    },
+    {
+      "month": "2025-09",
+      "visits": 218,
+      "downloads": 55976
+    },
+    {
+      "month": "2025-10",
+      "visits": 337,
+      "downloads": 187532
+    },
+    {
+      "month": "2025-11",
+      "visits": 287,
+      "downloads": 50273
+    },
+    {
+      "month": "2025-12",
+      "visits": 12,
+      "downloads": 3501
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

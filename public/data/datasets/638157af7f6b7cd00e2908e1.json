@@ -1,0 +1,204 @@
+{
+  "id": "638157af7f6b7cd00e2908e1",
+  "title": "Fil Bleu - Syndicat des Mobilités - GTFS & GTFS-RT",
+  "slug": "fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt",
+  "organization": "Tours Métropole Val de Loire",
+  "organizationId": "5cb6d4f78b4c4118e18f37d1",
+  "url": "https://www.data.gouv.fr/datasets/fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt/",
+  "totalVisits": 9805,
+  "totalDownloads": 2780886,
+  "monthlyStats": [
+    {
+      "month": "2022-11",
+      "visits": 445,
+      "downloads": 15
+    },
+    {
+      "month": "2022-12",
+      "visits": 22,
+      "downloads": 39
+    },
+    {
+      "month": "2023-01",
+      "visits": 5,
+      "downloads": 19
+    },
+    {
+      "month": "2023-02",
+      "visits": 6,
+      "downloads": 21
+    },
+    {
+      "month": "2023-03",
+      "visits": 108,
+      "downloads": 642
+    },
+    {
+      "month": "2023-04",
+      "visits": 90,
+      "downloads": 5607
+    },
+    {
+      "month": "2023-05",
+      "visits": 197,
+      "downloads": 50500
+    },
+    {
+      "month": "2023-06",
+      "visits": 149,
+      "downloads": 91351
+    },
+    {
+      "month": "2023-07",
+      "visits": 200,
+      "downloads": 92386
+    },
+    {
+      "month": "2023-08",
+      "visits": 198,
+      "downloads": 92292
+    },
+    {
+      "month": "2023-09",
+      "visits": 225,
+      "downloads": 92993
+    },
+    {
+      "month": "2023-10",
+      "visits": 202,
+      "downloads": 96564
+    },
+    {
+      "month": "2023-11",
+      "visits": 179,
+      "downloads": 92041
+    },
+    {
+      "month": "2023-12",
+      "visits": 236,
+      "downloads": 95110
+    },
+    {
+      "month": "2024-01",
+      "visits": 244,
+      "downloads": 94261
+    },
+    {
+      "month": "2024-02",
+      "visits": 212,
+      "downloads": 87560
+    },
+    {
+      "month": "2024-03",
+      "visits": 255,
+      "downloads": 96298
+    },
+    {
+      "month": "2024-04",
+      "visits": 252,
+      "downloads": 87510
+    },
+    {
+      "month": "2024-05",
+      "visits": 294,
+      "downloads": 93354
+    },
+    {
+      "month": "2024-06",
+      "visits": 315,
+      "downloads": 89935
+    },
+    {
+      "month": "2024-07",
+      "visits": 327,
+      "downloads": 94166
+    },
+    {
+      "month": "2024-08",
+      "visits": 383,
+      "downloads": 94577
+    },
+    {
+      "month": "2024-09",
+      "visits": 350,
+      "downloads": 91726
+    },
+    {
+      "month": "2024-10",
+      "visits": 303,
+      "downloads": 92218
+    },
+    {
+      "month": "2024-11",
+      "visits": 459,
+      "downloads": 92126
+    },
+    {
+      "month": "2024-12",
+      "visits": 294,
+      "downloads": 52463
+    },
+    {
+      "month": "2025-01",
+      "visits": 189,
+      "downloads": 12880
+    },
+    {
+      "month": "2025-02",
+      "visits": 337,
+      "downloads": 81399
+    },
+    {
+      "month": "2025-03",
+      "visits": 415,
+      "downloads": 91535
+    },
+    {
+      "month": "2025-04",
+      "visits": 397,
+      "downloads": 105574
+    },
+    {
+      "month": "2025-05",
+      "visits": 405,
+      "downloads": 110252
+    },
+    {
+      "month": "2025-06",
+      "visits": 644,
+      "downloads": 99853
+    },
+    {
+      "month": "2025-07",
+      "visits": 304,
+      "downloads": 107017
+    },
+    {
+      "month": "2025-08",
+      "visits": 214,
+      "downloads": 107227
+    },
+    {
+      "month": "2025-09",
+      "visits": 314,
+      "downloads": 105542
+    },
+    {
+      "month": "2025-10",
+      "visits": 280,
+      "downloads": 92037
+    },
+    {
+      "month": "2025-11",
+      "visits": 344,
+      "downloads": 85804
+    },
+    {
+      "month": "2025-12",
+      "visits": 12,
+      "downloads": 5992
+    }
+  ],
+  "firstMonth": "2022-11",
+  "lastMonth": "2025-12"
+}

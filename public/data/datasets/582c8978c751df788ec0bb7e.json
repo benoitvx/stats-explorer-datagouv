@@ -5,8 +5,8 @@
   "organization": "Ministère du Travail du Plein emploi et de l'Insertion",
   "organizationId": "534fff96a3a7292c64a77ff4",
   "url": "https://www.data.gouv.fr/datasets/liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail/",
-  "totalVisits": 1002826,
-  "totalDownloads": 425933,
+  "totalVisits": 1003955,
+  "totalDownloads": 424632,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 19935,
-      "downloads": 8737
+      "downloads": 8171
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 34918,
-      "downloads": 17324
+      "downloads": 16179
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 291,
-      "downloads": 78
+      "visits": 1420,
+      "downloads": 488
     }
   ],
   "firstMonth": "2022-07",

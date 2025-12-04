@@ -1,0 +1,224 @@
+{
+  "id": "53807c88a3a7297e4d35d702",
+  "title": "Les bénéficiaires de fin de trimestre du RSA selon la composante",
+  "slug": "les-beneficiaires-de-fin-de-trimestre-du-rsa-selon-la-composante-cors",
+  "organization": "Collectivité de Corse",
+  "organizationId": "537d58eea3a72973a2dc026c",
+  "url": "https://www.data.gouv.fr/datasets/les-beneficiaires-de-fin-de-trimestre-du-rsa-selon-la-composante-cors/",
+  "totalVisits": 1469,
+  "totalDownloads": 264522,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 7,
+      "downloads": 20
+    },
+    {
+      "month": "2022-08",
+      "visits": 12,
+      "downloads": 27
+    },
+    {
+      "month": "2022-09",
+      "visits": 24,
+      "downloads": 22
+    },
+    {
+      "month": "2022-10",
+      "visits": 55,
+      "downloads": 27
+    },
+    {
+      "month": "2022-11",
+      "visits": 38,
+      "downloads": 29
+    },
+    {
+      "month": "2022-12",
+      "visits": 34,
+      "downloads": 16
+    },
+    {
+      "month": "2023-01",
+      "visits": 27,
+      "downloads": 12
+    },
+    {
+      "month": "2023-02",
+      "visits": 22,
+      "downloads": 28
+    },
+    {
+      "month": "2023-03",
+      "visits": 23,
+      "downloads": 41
+    },
+    {
+      "month": "2023-04",
+      "visits": 25,
+      "downloads": 26
+    },
+    {
+      "month": "2023-05",
+      "visits": 20,
+      "downloads": 29
+    },
+    {
+      "month": "2023-06",
+      "visits": 26,
+      "downloads": 32
+    },
+    {
+      "month": "2023-07",
+      "visits": 30,
+      "downloads": 39
+    },
+    {
+      "month": "2023-08",
+      "visits": 43,
+      "downloads": 57
+    },
+    {
+      "month": "2023-09",
+      "visits": 44,
+      "downloads": 48
+    },
+    {
+      "month": "2023-10",
+      "visits": 34,
+      "downloads": 50
+    },
+    {
+      "month": "2023-11",
+      "visits": 28,
+      "downloads": 37
+    },
+    {
+      "month": "2023-12",
+      "visits": 69,
+      "downloads": 48
+    },
+    {
+      "month": "2024-01",
+      "visits": 50,
+      "downloads": 30
+    },
+    {
+      "month": "2024-02",
+      "visits": 45,
+      "downloads": 26
+    },
+    {
+      "month": "2024-03",
+      "visits": 44,
+      "downloads": 21
+    },
+    {
+      "month": "2024-04",
+      "visits": 38,
+      "downloads": 19
+    },
+    {
+      "month": "2024-05",
+      "visits": 49,
+      "downloads": 28
+    },
+    {
+      "month": "2024-06",
+      "visits": 52,
+      "downloads": 17
+    },
+    {
+      "month": "2024-07",
+      "visits": 42,
+      "downloads": 23
+    },
+    {
+      "month": "2024-08",
+      "visits": 36,
+      "downloads": 35
+    },
+    {
+      "month": "2024-09",
+      "visits": 38,
+      "downloads": 32
+    },
+    {
+      "month": "2024-10",
+      "visits": 36,
+      "downloads": 23
+    },
+    {
+      "month": "2024-11",
+      "visits": 30,
+      "downloads": 19
+    },
+    {
+      "month": "2024-12",
+      "visits": 9,
+      "downloads": 16
+    },
+    {
+      "month": "2025-01",
+      "visits": 19,
+      "downloads": 263373
+    },
+    {
+      "month": "2025-02",
+      "visits": 17,
+      "downloads": 25
+    },
+    {
+      "month": "2025-03",
+      "visits": 38,
+      "downloads": 43
+    },
+    {
+      "month": "2025-04",
+      "visits": 94,
+      "downloads": 35
+    },
+    {
+      "month": "2025-05",
+      "visits": 50,
+      "downloads": 59
+    },
+    {
+      "month": "2025-06",
+      "visits": 42,
+      "downloads": 24
+    },
+    {
+      "month": "2025-07",
+      "visits": 47,
+      "downloads": 63
+    },
+    {
+      "month": "2025-08",
+      "visits": 33,
+      "downloads": 9
+    },
+    {
+      "month": "2025-09",
+      "visits": 29,
+      "downloads": 3
+    },
+    {
+      "month": "2025-10",
+      "visits": 28,
+      "downloads": 1
+    },
+    {
+      "month": "2025-11",
+      "visits": 42,
+      "downloads": 9
+    },
+    {
+      "month": "2025-12",
+      "visits": 0,
+      "downloads": 1
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

@@ -5,8 +5,8 @@
   "organization": "Ministère de l'intérieur",
   "organizationId": "534fff91a3a7292c64a77f53",
   "url": "https://www.data.gouv.fr/datasets/police-municipale-effectifs-par-commune/",
-  "totalVisits": 253497,
-  "totalDownloads": 30238,
+  "totalVisits": 253621,
+  "totalDownloads": 30149,
   "monthlyStats": [
     {
       "month": "2022-07",
@@ -71,7 +71,7 @@
     {
       "month": "2023-07",
       "visits": 6961,
-      "downloads": 563
+      "downloads": 525
     },
     {
       "month": "2023-08",
@@ -111,7 +111,7 @@
     {
       "month": "2024-03",
       "visits": 7020,
-      "downloads": 981
+      "downloads": 895
     },
     {
       "month": "2024-04",
@@ -215,8 +215,8 @@
     },
     {
       "month": "2025-12",
-      "visits": 71,
-      "downloads": 18
+      "visits": 195,
+      "downloads": 53
     }
   ],
   "firstMonth": "2022-07",

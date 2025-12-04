@@ -1,0 +1,59 @@
+{
+  "id": "67f79b112ceb5b1df4c25a8b",
+  "title": "Prevair - Prévisions de la qualité de l'air pour la France (air quality forecasts for France)",
+  "slug": "prevair-previsions-de-la-qualite-de-lair-pour-la-france-air-quality-forecasts-for-france",
+  "organization": "Inconnu",
+  "organizationId": "",
+  "url": "https://www.data.gouv.fr/datasets/prevair-previsions-de-la-qualite-de-lair-pour-la-france-air-quality-forecasts-for-france/",
+  "totalVisits": 2075,
+  "totalDownloads": 378069,
+  "monthlyStats": [
+    {
+      "month": "2025-04",
+      "visits": 434,
+      "downloads": 185
+    },
+    {
+      "month": "2025-05",
+      "visits": 231,
+      "downloads": 2184
+    },
+    {
+      "month": "2025-06",
+      "visits": 279,
+      "downloads": 70033
+    },
+    {
+      "month": "2025-07",
+      "visits": 295,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 268,
+      "downloads": 3
+    },
+    {
+      "month": "2025-09",
+      "visits": 172,
+      "downloads": 169012
+    },
+    {
+      "month": "2025-10",
+      "visits": 189,
+      "downloads": 71461
+    },
+    {
+      "month": "2025-11",
+      "visits": 194,
+      "downloads": 63266
+    },
+    {
+      "month": "2025-12",
+      "visits": 13,
+      "downloads": 1925
+    }
+  ],
+  "firstMonth": "2025-04",
+  "lastMonth": "2025-12"
+}

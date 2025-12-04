@@ -1,0 +1,224 @@
+{
+  "id": "5c07d931634f41746c7027d5",
+  "title": "Offre de transport du réseau Proxim iTi (GTFS)",
+  "slug": "offre-de-transport-du-reseau-proxim-iti-gtfs",
+  "organization": "Syndicat Mixte des 4 Communautés de communes",
+  "organizationId": "5be6f4838b4c415550fc0af6",
+  "url": "https://www.data.gouv.fr/datasets/offre-de-transport-du-reseau-proxim-iti-gtfs/",
+  "totalVisits": 3269,
+  "totalDownloads": 1731246,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 16,
+      "downloads": 0
+    },
+    {
+      "month": "2022-08",
+      "visits": 20,
+      "downloads": 0
+    },
+    {
+      "month": "2022-09",
+      "visits": 53,
+      "downloads": 0
+    },
+    {
+      "month": "2022-10",
+      "visits": 92,
+      "downloads": 10
+    },
+    {
+      "month": "2022-11",
+      "visits": 80,
+      "downloads": 7
+    },
+    {
+      "month": "2022-12",
+      "visits": 103,
+      "downloads": 18
+    },
+    {
+      "month": "2023-01",
+      "visits": 54,
+      "downloads": 7
+    },
+    {
+      "month": "2023-02",
+      "visits": 62,
+      "downloads": 2
+    },
+    {
+      "month": "2023-03",
+      "visits": 60,
+      "downloads": 9
+    },
+    {
+      "month": "2023-04",
+      "visits": 61,
+      "downloads": 4
+    },
+    {
+      "month": "2023-05",
+      "visits": 55,
+      "downloads": 2
+    },
+    {
+      "month": "2023-06",
+      "visits": 57,
+      "downloads": 775
+    },
+    {
+      "month": "2023-07",
+      "visits": 73,
+      "downloads": 1445
+    },
+    {
+      "month": "2023-08",
+      "visits": 122,
+      "downloads": 16748
+    },
+    {
+      "month": "2023-09",
+      "visits": 93,
+      "downloads": 321914
+    },
+    {
+      "month": "2023-10",
+      "visits": 88,
+      "downloads": 304243
+    },
+    {
+      "month": "2023-11",
+      "visits": 97,
+      "downloads": 208623
+    },
+    {
+      "month": "2023-12",
+      "visits": 121,
+      "downloads": 170211
+    },
+    {
+      "month": "2024-01",
+      "visits": 105,
+      "downloads": 29441
+    },
+    {
+      "month": "2024-02",
+      "visits": 78,
+      "downloads": 1432
+    },
+    {
+      "month": "2024-03",
+      "visits": 104,
+      "downloads": 1545
+    },
+    {
+      "month": "2024-04",
+      "visits": 72,
+      "downloads": 1581
+    },
+    {
+      "month": "2024-05",
+      "visits": 82,
+      "downloads": 2054
+    },
+    {
+      "month": "2024-06",
+      "visits": 111,
+      "downloads": 1627
+    },
+    {
+      "month": "2024-07",
+      "visits": 98,
+      "downloads": 155714
+    },
+    {
+      "month": "2024-08",
+      "visits": 99,
+      "downloads": 213491
+    },
+    {
+      "month": "2024-09",
+      "visits": 57,
+      "downloads": 200839
+    },
+    {
+      "month": "2024-10",
+      "visits": 66,
+      "downloads": 99504
+    },
+    {
+      "month": "2024-11",
+      "visits": 69,
+      "downloads": 0
+    },
+    {
+      "month": "2024-12",
+      "visits": 67,
+      "downloads": 0
+    },
+    {
+      "month": "2025-01",
+      "visits": 77,
+      "downloads": 0
+    },
+    {
+      "month": "2025-02",
+      "visits": 93,
+      "downloads": 0
+    },
+    {
+      "month": "2025-03",
+      "visits": 62,
+      "downloads": 0
+    },
+    {
+      "month": "2025-04",
+      "visits": 107,
+      "downloads": 0
+    },
+    {
+      "month": "2025-05",
+      "visits": 153,
+      "downloads": 0
+    },
+    {
+      "month": "2025-06",
+      "visits": 103,
+      "downloads": 0
+    },
+    {
+      "month": "2025-07",
+      "visits": 148,
+      "downloads": 0
+    },
+    {
+      "month": "2025-08",
+      "visits": 60,
+      "downloads": 0
+    },
+    {
+      "month": "2025-09",
+      "visits": 71,
+      "downloads": 0
+    },
+    {
+      "month": "2025-10",
+      "visits": 38,
+      "downloads": 0
+    },
+    {
+      "month": "2025-11",
+      "visits": 41,
+      "downloads": 0
+    },
+    {
+      "month": "2025-12",
+      "visits": 1,
+      "downloads": 0
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}

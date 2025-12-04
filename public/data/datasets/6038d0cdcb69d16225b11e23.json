@@ -1,0 +1,224 @@
+{
+  "id": "6038d0cdcb69d16225b11e23",
+  "title": "Horaires théoriques et temps réel réseau Möbius",
+  "slug": "horaires-theoriques-et-temps-reel-reseau-mobius",
+  "organization": "STGA - réseau Möbius",
+  "organizationId": "6038c5ced245f6015b321329",
+  "url": "https://www.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-reseau-mobius/",
+  "totalVisits": 4099,
+  "totalDownloads": 2267271,
+  "monthlyStats": [
+    {
+      "month": "2022-07",
+      "visits": 37,
+      "downloads": 45756
+    },
+    {
+      "month": "2022-08",
+      "visits": 70,
+      "downloads": 74086
+    },
+    {
+      "month": "2022-09",
+      "visits": 90,
+      "downloads": 82262
+    },
+    {
+      "month": "2022-10",
+      "visits": 107,
+      "downloads": 112344
+    },
+    {
+      "month": "2022-11",
+      "visits": 117,
+      "downloads": 83687
+    },
+    {
+      "month": "2022-12",
+      "visits": 119,
+      "downloads": 90060
+    },
+    {
+      "month": "2023-01",
+      "visits": 85,
+      "downloads": 87128
+    },
+    {
+      "month": "2023-02",
+      "visits": 78,
+      "downloads": 77025
+    },
+    {
+      "month": "2023-03",
+      "visits": 84,
+      "downloads": 87379
+    },
+    {
+      "month": "2023-04",
+      "visits": 73,
+      "downloads": 85441
+    },
+    {
+      "month": "2023-05",
+      "visits": 55,
+      "downloads": 78801
+    },
+    {
+      "month": "2023-06",
+      "visits": 86,
+      "downloads": 67747
+    },
+    {
+      "month": "2023-07",
+      "visits": 93,
+      "downloads": 87507
+    },
+    {
+      "month": "2023-08",
+      "visits": 109,
+      "downloads": 113480
+    },
+    {
+      "month": "2023-09",
+      "visits": 129,
+      "downloads": 77165
+    },
+    {
+      "month": "2023-10",
+      "visits": 101,
+      "downloads": 26452
+    },
+    {
+      "month": "2023-11",
+      "visits": 103,
+      "downloads": 62312
+    },
+    {
+      "month": "2023-12",
+      "visits": 117,
+      "downloads": 56772
+    },
+    {
+      "month": "2024-01",
+      "visits": 134,
+      "downloads": 43255
+    },
+    {
+      "month": "2024-02",
+      "visits": 98,
+      "downloads": 34770
+    },
+    {
+      "month": "2024-03",
+      "visits": 89,
+      "downloads": 76024
+    },
+    {
+      "month": "2024-04",
+      "visits": 98,
+      "downloads": 89560
+    },
+    {
+      "month": "2024-05",
+      "visits": 85,
+      "downloads": 87447
+    },
+    {
+      "month": "2024-06",
+      "visits": 102,
+      "downloads": 68743
+    },
+    {
+      "month": "2024-07",
+      "visits": 87,
+      "downloads": 90410
+    },
+    {
+      "month": "2024-08",
+      "visits": 71,
+      "downloads": 90727
+    },
+    {
+      "month": "2024-09",
+      "visits": 65,
+      "downloads": 62599
+    },
+    {
+      "month": "2024-10",
+      "visits": 62,
+      "downloads": 9511
+    },
+    {
+      "month": "2024-11",
+      "visits": 58,
+      "downloads": 9202
+    },
+    {
+      "month": "2024-12",
+      "visits": 58,
+      "downloads": 6558
+    },
+    {
+      "month": "2025-01",
+      "visits": 75,
+      "downloads": 12094
+    },
+    {
+      "month": "2025-02",
+      "visits": 95,
+      "downloads": 11855
+    },
+    {
+      "month": "2025-03",
+      "visits": 87,
+      "downloads": 10827
+    },
+    {
+      "month": "2025-04",
+      "visits": 126,
+      "downloads": 14562
+    },
+    {
+      "month": "2025-05",
+      "visits": 104,
+      "downloads": 15063
+    },
+    {
+      "month": "2025-06",
+      "visits": 154,
+      "downloads": 14788
+    },
+    {
+      "month": "2025-07",
+      "visits": 156,
+      "downloads": 8978
+    },
+    {
+      "month": "2025-08",
+      "visits": 119,
+      "downloads": 6710
+    },
+    {
+      "month": "2025-09",
+      "visits": 152,
+      "downloads": 11709
+    },
+    {
+      "month": "2025-10",
+      "visits": 221,
+      "downloads": 25151
+    },
+    {
+      "month": "2025-11",
+      "visits": 145,
+      "downloads": 68808
+    },
+    {
+      "month": "2025-12",
+      "visits": 5,
+      "downloads": 2516
+    }
+  ],
+  "firstMonth": "2022-07",
+  "lastMonth": "2025-12"
+}
