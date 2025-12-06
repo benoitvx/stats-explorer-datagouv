@@ -1,9 +1,9 @@
 name: Sync Stats data.gouv.fr
 
 on:
-  schedule:
-    # Tous les jours à 6h UTC (7h ou 8h Paris selon heure d'été)
-    - cron: '0 6 * * *'
+  # schedule:
+  #   # Tous les jours à 6h UTC (7h ou 8h Paris selon heure d'été)
+  #   - cron: '0 6 * * *'
   workflow_dispatch:
     # Permet le déclenchement manuel
     inputs:
