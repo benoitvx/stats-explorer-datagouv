@@ -1,0 +1,17 @@
+/* Styles globaux pour l'application */
+
+/* Masquer les textes "Visites" / "Téléchargements" générés automatiquement
+   par DSFR Chart EN DEHORS du shadow DOM (au-dessus et en-dessous du graphique) */
+line-chart > :not(template) {
+  display: none !important;
+}
+
+/* Alternative plus sûre : masquer seulement les enfants directs de type div/span */
+line-chart > div,
+line-chart > span,
+line-chart > p {
+  display: none !important;
+}
+
+/* Note: Le graphique lui-même est dans le shadow DOM et n'est pas affecté.
+   Seule la légende personnalisée avec traits de couleur en bas sera visible. */

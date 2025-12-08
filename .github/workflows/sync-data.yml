@@ -1,14 +1,22 @@
 name: Sync Stats data.gouv.fr
 
 on:
-  # schedule:
-  #   # Tous les jours à 6h UTC (7h ou 8h Paris selon heure d'été)
-  #   - cron: '0 6 * * *'
+  schedule:
+    # Le 2 de chaque mois à 6h UTC (7h ou 8h Paris selon heure d'été)
+    - cron: '0 6 2 * *'
   workflow_dispatch:
     # Permet le déclenchement manuel
     inputs:
+      mode:
+        description: 'Mode de synchronisation'
+        required: false
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - full
       test_mode:
-        description: 'Mode test (50 datasets max)'
+        description: 'Mode test (50 datasets max pour sync complète)'
         required: false
         default: 'false'
         type: boolean
@@ -34,10 +42,22 @@ jobs:
       
       - name: Run sync script
         run: |
-          if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
-            npm run sync-stats -- --test --verbose
+          # Déterminer le mode (par défaut: incremental pour les crons, sinon selon input)
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then
+            MODE="incremental"
+          fi
+
+          if [ "$MODE" = "incremental" ]; then
+            echo "🔄 Synchronisation incrémentale (nouveaux mois uniquement)"
+            npm run sync-incremental -- --verbose
           else
-            npm run sync-stats -- --verbose
+            echo "🔄 Synchronisation complète (tous les datasets)"
+            if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
+              npm run sync-stats -- --test --verbose
+            else
+              npm run sync-stats -- --verbose
+            fi
           fi
       
       - name: Check for changes
