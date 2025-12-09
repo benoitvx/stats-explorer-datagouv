@@ -36,43 +36,181 @@ interface DatasetDetails {
   monthlyStats: MonthlyStats[]
 }
 
+// Types pour l'API Metric
+interface MetricApiEntry {
+  dataset_id: string
+  metric_month: string
+  monthly_visit: number
+  monthly_download_resource: number | null
+}
+
+interface MetricApiResponse {
+  data: MetricApiEntry[]
+  links: { next: string | null }
+  meta: { page: number; page_size: number; total: number }
+}
+
 interface Props {
   datasetId: string
   onClose: () => void
+}
+
+// Fonction pour récupérer les stats via l'API Metric avec pagination
+async function fetchMetricStats(datasetId: string): Promise<MetricApiEntry[]> {
+  const allData: MetricApiEntry[] = []
+  let page = 1
+  const pageSize = 50
+
+  while (true) {
+    const response = await fetch(
+      `https://metric-api.data.gouv.fr/api/datasets/data/?dataset_id__exact=${datasetId}&page=${page}&page_size=${pageSize}`
+    )
+    if (!response.ok) {
+      throw new Error('Erreur API Metric')
+    }
+    const data: MetricApiResponse = await response.json()
+    allData.push(...data.data)
+
+    if (!data.links.next || data.data.length < pageSize) {
+      break
+    }
+    page++
+  }
+
+  return allData
+}
+
+// Fonction pour récupérer les métadonnées du dataset
+async function fetchDatasetMetadata(datasetId: string): Promise<{
+  title: string
+  slug: string
+  organization: string
+  organizationId: string
+  url: string
+  description: string
+} | null> {
+  const response = await fetch(`https://www.data.gouv.fr/api/1/datasets/${datasetId}/`)
+  if (!response.ok) {
+    return null
+  }
+  const data = await response.json()
+  return {
+    title: data.title || 'Dataset sans titre',
+    slug: data.slug || datasetId,
+    organization: data.organization?.name || 'Organisation inconnue',
+    organizationId: data.organization?.id || '',
+    url: data.page || `https://www.data.gouv.fr/fr/datasets/${datasetId}/`,
+    description: data.description || ''
+  }
+}
+
+// Transformer les données API en DatasetDetails
+function transformApiData(
+  datasetId: string,
+  metadata: { title: string; slug: string; organization: string; organizationId: string; url: string },
+  metricData: MetricApiEntry[]
+): DatasetDetails {
+  // Trier par mois
+  const sortedData = metricData.sort((a, b) => a.metric_month.localeCompare(b.metric_month))
+
+  const monthlyStats: MonthlyStats[] = sortedData.map(entry => ({
+    month: entry.metric_month,
+    visits: entry.monthly_visit || 0,
+    downloads: entry.monthly_download_resource || 0
+  }))
+
+  const totalVisits = monthlyStats.reduce((sum, stat) => sum + stat.visits, 0)
+  const totalDownloads = monthlyStats.reduce((sum, stat) => sum + stat.downloads, 0)
+
+  return {
+    id: datasetId,
+    title: metadata.title,
+    slug: metadata.slug,
+    organization: metadata.organization,
+    organizationId: metadata.organizationId,
+    url: metadata.url,
+    totalVisits,
+    totalDownloads,
+    monthlyStats
+  }
 }
 
 export default function DatasetDetail({ datasetId, onClose }: Props) {
   const [dataset, setDataset] = useState<DatasetDetails | null>(null)
   const [description, setDescription] = useState<string>('')
   const [loading, setLoading] = useState(true)
+  const [loadingSource, setLoadingSource] = useState<string>('')
+  const [error, setError] = useState<string | null>(null)
   const [isDescriptionExpanded, setIsDescriptionExpanded] = useState(false)
 
   useEffect(() => {
-    // Charger les détails du dataset local
-    setLoading(true)
-    fetch(`/data/datasets/${datasetId}.json`)
-      .then(res => {
-        if (!res.ok) throw new Error('Dataset non trouvé')
-        return res.json()
-      })
-      .then(data => {
-        setDataset(data)
-        setLoading(false)
-      })
-      .catch(err => {
-        console.error('Erreur chargement dataset:', err)
-        setLoading(false)
-      })
+    const loadDataset = async () => {
+      setLoading(true)
+      setError(null)
+      setLoadingSource('Chargement des données locales...')
 
-    // Charger la description depuis l'API data.gouv.fr
-    fetch(`https://www.data.gouv.fr/api/1/datasets/${datasetId}/`)
-      .then(res => res.json())
-      .then(data => {
-        setDescription(data.description || '')
-      })
-      .catch(err => {
-        console.error('Erreur chargement description:', err)
-      })
+      try {
+        // 1. Tenter de charger le fichier JSON local
+        const localResponse = await fetch(`/data/datasets/${datasetId}.json`)
+
+        if (localResponse.ok) {
+          const data = await localResponse.json()
+          setDataset(data)
+          setLoading(false)
+
+          // Charger la description depuis l'API
+          const metadata = await fetchDatasetMetadata(datasetId)
+          if (metadata) {
+            setDescription(metadata.description)
+          }
+          return
+        }
+
+        // 2. Fallback: appels API si le fichier local n'existe pas (404)
+        setLoadingSource('Récupération via l\'API data.gouv.fr...')
+
+        // Récupérer les métadonnées
+        const metadata = await fetchDatasetMetadata(datasetId)
+        if (!metadata) {
+          setError('Ce dataset n\'existe pas sur data.gouv.fr.')
+          setLoading(false)
+          return
+        }
+
+        setDescription(metadata.description)
+        setLoadingSource('Récupération des statistiques...')
+
+        // Récupérer les stats via l'API Metric
+        const metricData = await fetchMetricStats(datasetId)
+
+        if (metricData.length === 0) {
+          // Le dataset existe mais n'a pas de stats
+          setDataset({
+            id: datasetId,
+            title: metadata.title,
+            slug: metadata.slug,
+            organization: metadata.organization,
+            organizationId: metadata.organizationId,
+            url: metadata.url,
+            totalVisits: 0,
+            totalDownloads: 0,
+            monthlyStats: []
+          })
+        } else {
+          // Transformer les données API
+          const transformedData = transformApiData(datasetId, metadata, metricData)
+          setDataset(transformedData)
+        }
+
+        setLoading(false)
+      } catch (err) {
+        console.error('Erreur chargement dataset:', err)
+        setError('Une erreur est survenue lors du chargement des données.')
+        setLoading(false)
+      }
+    }
+
+    loadDataset()
   }, [datasetId])
 
   useEffect(() => {
@@ -104,7 +242,24 @@ export default function DatasetDetail({ datasetId, onClose }: Props) {
   if (loading) {
     return (
       <div className="fr-container fr-py-6w">
-        <p>Chargement des détails du dataset...</p>
+        <p>
+          <span className="fr-icon-refresh-line fr-icon--sm" aria-hidden="true"></span>
+          {' '}{loadingSource || 'Chargement des détails du dataset...'}
+        </p>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="fr-container fr-py-6w">
+        <div className="fr-alert fr-alert--error">
+          <h3 className="fr-alert__title">Erreur</h3>
+          <p>{error}</p>
+        </div>
+        <button className="fr-btn fr-btn--secondary fr-mt-4w" onClick={onClose}>
+          Retour à la recherche
+        </button>
       </div>
     )
   }
