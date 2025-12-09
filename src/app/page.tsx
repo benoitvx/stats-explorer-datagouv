@@ -239,7 +239,73 @@ export default function Home() {
         )}
       </section>
 
-      {/* Section 2 : Top datasets avec filtres */}
+      {/* Section 2 : Recherche dataset */}
+      <section className="fr-mb-6w">
+        <h2 className="fr-h2">Rechercher un dataset</h2>
+
+        <div className="fr-search-bar" role="search">
+          <label className="fr-label" htmlFor="search-dataset">
+            Recherche par nom ou organisation
+          </label>
+          <input
+            className="fr-input"
+            placeholder="Cherchez un producteur ou un jeu de données"
+            type="search"
+            id="search-dataset"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+        </div>
+
+        {isSearchingAPI && (
+          <div className="fr-mt-4w">
+            <p>
+              <span className="fr-icon-refresh-line fr-icon--sm" aria-hidden="true"></span>
+              {' '}Recherche via l&apos;API data.gouv.fr...
+            </p>
+          </div>
+        )}
+
+        {filteredDatasets.length > 0 && !isSearchingAPI && (
+          <div className="fr-mt-4w">
+            <h3 className="fr-h6">
+              {filteredDatasets.length} résultat{filteredDatasets.length > 1 ? 's' : ''}
+            </h3>
+            <ul className="fr-raw-list">
+              {filteredDatasets.map((dataset) => (
+                <li key={dataset.id} className="fr-mb-2w">
+                  <div
+                    className="fr-card fr-card--horizontal fr-enlarge-link"
+                    style={{ cursor: 'pointer' }}
+                    onClick={() => setSelectedDatasetId(dataset.id)}
+                  >
+                    <div className="fr-card__body">
+                      <div className="fr-card__content">
+                        <h4 className="fr-card__title">
+                          <span className="fr-link">
+                            {dataset.title}
+                          </span>
+                        </h4>
+                        <p className="fr-card__desc">{dataset.organization}</p>
+                        <p className="fr-card__detail">
+                          <span className="fr-icon-bar-chart-box-line fr-icon--sm" aria-hidden="true"></span>
+                          {' '}Voir les statistiques détaillées
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {searchQuery.length >= 2 && filteredDatasets.length === 0 && !isSearchingAPI && (
+          <p className="fr-mt-4w">Aucun résultat trouvé</p>
+        )}
+      </section>
+
+      {/* Section 3 : Top datasets avec filtres */}
       <section className="fr-mb-6w">
         <h2 className="fr-h2">Top Datasets</h2>
 
@@ -370,72 +436,6 @@ export default function Home() {
           </div>
         ) : (
           <p>Aucune donnée disponible pour cette période/métrique</p>
-        )}
-      </section>
-
-      {/* Section 3 : Recherche dataset */}
-      <section className="fr-mb-6w">
-        <h2 className="fr-h2">Rechercher un dataset</h2>
-
-        <div className="fr-search-bar" role="search">
-          <label className="fr-label" htmlFor="search-dataset">
-            Recherche par nom ou organisation
-          </label>
-          <input
-            className="fr-input"
-            placeholder="Cherchez un producteur ou un jeu de données"
-            type="search"
-            id="search-dataset"
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-          />
-        </div>
-
-        {isSearchingAPI && (
-          <div className="fr-mt-4w">
-            <p>
-              <span className="fr-icon-refresh-line fr-icon--sm" aria-hidden="true"></span>
-              {' '}Recherche via l'API data.gouv.fr...
-            </p>
-          </div>
-        )}
-
-        {filteredDatasets.length > 0 && !isSearchingAPI && (
-          <div className="fr-mt-4w">
-            <h3 className="fr-h6">
-              {filteredDatasets.length} résultat{filteredDatasets.length > 1 ? 's' : ''}
-            </h3>
-            <ul className="fr-raw-list">
-              {filteredDatasets.map((dataset) => (
-                <li key={dataset.id} className="fr-mb-2w">
-                  <div
-                    className="fr-card fr-card--horizontal fr-enlarge-link"
-                    style={{ cursor: 'pointer' }}
-                    onClick={() => setSelectedDatasetId(dataset.id)}
-                  >
-                    <div className="fr-card__body">
-                      <div className="fr-card__content">
-                        <h4 className="fr-card__title">
-                          <span className="fr-link">
-                            {dataset.title}
-                          </span>
-                        </h4>
-                        <p className="fr-card__desc">{dataset.organization}</p>
-                        <p className="fr-card__detail">
-                          <span className="fr-icon-bar-chart-box-line fr-icon--sm" aria-hidden="true"></span>
-                          {' '}Voir les statistiques détaillées
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-
-        {searchQuery.length >= 2 && filteredDatasets.length === 0 && !isSearchingAPI && (
-          <p className="fr-mt-4w">Aucun résultat trouvé</p>
         )}
       </section>
     </div>

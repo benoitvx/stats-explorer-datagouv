@@ -36,12 +36,14 @@ export default function RootLayout({
                       </p>
                     </div>
                     <div className="fr-header__operator">
-                      <img
-                        className="fr-responsive-img"
-                        style={{ maxWidth: '9.0625rem' }}
-                        src="https://www.data.gouv.fr/fr/static/gouvfr-logo.svg"
-                        alt="data.gouv.fr"
-                      />
+                      <a href="/" title="Accueil - Stats Explorer - data.gouv.fr - République Française">
+                        <img
+                          className="fr-responsive-img"
+                          style={{ maxWidth: '10rem' }}
+                          src="https://www.data.gouv.fr/nuxt_images/logo_text.svg"
+                          alt="data.gouv.fr"
+                        />
+                      </a>
                     </div>
                   </div>
                   <div className="fr-header__service">
@@ -49,7 +51,7 @@ export default function RootLayout({
                       <p className="fr-header__service-title">Stats Explorer</p>
                     </a>
                     <p className="fr-header__service-tagline">
-                      Statistiques d'usage de data.gouv.fr
+                      Statistiques d&apos;usage de data.gouv.fr
                     </p>
                   </div>
                 </div>
